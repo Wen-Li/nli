@@ -55,31 +55,6 @@ def load_features_and_labels(train_partition, test_partition, training_feature_f
         test_files, test_labels = zip(*[(os.path.join(essay_path_test, row['test_taker_id'] + '.txt'), row['L1'])
                                         for row in csv.DictReader(test_labels_f)])
     
-    #
-    #  Verify that either both or neither of training/test feature files are provided
-    #
-    if bool(training_feature_file) != bool(test_feature_file):
-        print("Feature files were not provided for both test and train partitions. "
-              "Generating default unigram features now.")
-    
-    #
-    #  If feature files provided, get features and labels from them
-    # 
-    elif training_feature_file and test_feature_file:
-        training_matrix, encoded_training_labels = load_svmlight_file(training_feature_file)
-        original_training_labels = tuple([CLASS_LABELS[int(i)] for i in encoded_training_labels])
-        
-        if original_training_labels != training_labels:
-            raise Exception("Training labels in feature file do not match those in the labels file.")
-
-        test_matrix, encoded_test_labels = load_svmlight_file(test_feature_file)
-        original_test_labels = tuple([CLASS_LABELS[int(i)] for i in encoded_test_labels])
-        if original_test_labels != test_labels:
-            raise Exception("Test labels in feature file do not match those in the labels file.")
-
-        return [(training_matrix, encoded_training_labels, original_training_labels),
-                (test_matrix, encoded_test_labels, original_test_labels)]
-    
     # 
     #  If no feature files provided, create feature matrix from the data files
     #
@@ -87,21 +62,21 @@ def load_features_and_labels(train_partition, test_partition, training_feature_f
           .format(len(training_files), train_partition, len(test_files), test_partition))
     print("Loading training and testing data from {} & {}".format(train_partition, test_partition))
 
-    training_matrix, encoded_training_labels, vectorizer = load_unigrams(training_files,
+    training_matrix, encoded_training_labels, vectorizer = create_feature_matrix(training_files,
                                                                          training_labels,
                                                                          vectorizer)
-    test_matrix, encoded_test_labels,  _ = load_unigrams(test_files, test_labels, vectorizer)
+    test_matrix, encoded_test_labels,  _ = create_feature_matrix(test_files, test_labels, vectorizer)
 
     return [(training_matrix, encoded_training_labels, training_labels),
             (test_matrix, encoded_test_labels, test_labels)]
 
 
-def load_unigrams(file_list, labels, vectorizer=None):
+def create_feature_matrix(file_list, labels, vectorizer=None):
     # convert label strings to integers
     labels_encoded = [CLASS_LABELS.index(label) for label in labels]
     if vectorizer is None:
         # vectorizer = CountVectorizer(input="filename")  # create a new one
-        vectorizer = TfidfVectorizer(input="filename")  # create a new one
+        vectorizer = TfidfVectorizer(input="filename", analyzer=u"word", ngram_range=(1,2), token_pattern=u"\S+")  # create a new one
         doc_term_matrix = vectorizer.fit_transform(file_list)
     else:
         doc_term_matrix = vectorizer.transform(file_list)
@@ -184,7 +159,7 @@ if __name__ == '__main__':
 
 
     # feature selection
-    ch2 = SelectKBest(chi2, k=30000)
+    ch2 = SelectKBest(chi2, k=50000)
     training_matrix = ch2.fit_transform(training_matrix, encoded_training_labels)
     test_matrix = ch2.transform(test_matrix)
 
@@ -217,26 +192,26 @@ if __name__ == '__main__':
     # Write Predictions File
     #
 
-    labels_file_path = ('{script_dir}/../data/labels/{test}/labels.{test}.csv'
-                        .format(script_dir=SCRIPT_DIR, test=test_partition_name))
-
-    predictions_file_name = (strftime("predictions-%Y-%m-%d-%H.%M.%S.csv") 
-                             if predictions_outfile_name is None 
-                             else predictions_outfile_name)
-
-    outfile = '{script_dir}/../predictions/essays/{pred_file}'.format(script_dir=SCRIPT_DIR, pred_file=predictions_file_name)
-    with open(outfile, 'w+', newline='', encoding='utf8') as output_file:
-        file_writer = csv.writer(output_file)
-        with open(labels_file_path, encoding='utf-8') as labels_file:
-            label_rows = [row for row in csv.reader(labels_file)]
-            label_rows[0].append('prediction')
-            for i, row in enumerate(label_rows[1:]):
-                encoded_prediction = int(predicted[i])
-                prediction = CLASS_LABELS[encoded_prediction]
-                row.append(prediction)
-        file_writer.writerows(label_rows)
-
-    print("Predictions written to", outfile.replace(SCRIPT_DIR, '')[1:], "(%d lines)" % len(predicted))
+    # labels_file_path = ('{script_dir}/../data/labels/{test}/labels.{test}.csv'
+    #                     .format(script_dir=SCRIPT_DIR, test=test_partition_name))
+    #
+    # predictions_file_name = (strftime("predictions-%Y-%m-%d-%H.%M.%S.csv")
+    #                          if predictions_outfile_name is None
+    #                          else predictions_outfile_name)
+    #
+    # outfile = '{script_dir}/../predictions/essays/{pred_file}'.format(script_dir=SCRIPT_DIR, pred_file=predictions_file_name)
+    # with open(outfile, 'w+', newline='', encoding='utf8') as output_file:
+    #     file_writer = csv.writer(output_file)
+    #     with open(labels_file_path, encoding='utf-8') as labels_file:
+    #         label_rows = [row for row in csv.reader(labels_file)]
+    #         label_rows[0].append('prediction')
+    #         for i, row in enumerate(label_rows[1:]):
+    #             encoded_prediction = int(predicted[i])
+    #             prediction = CLASS_LABELS[encoded_prediction]
+    #             row.append(prediction)
+    #     file_writer.writerows(label_rows)
+    #
+    # print("Predictions written to", outfile.replace(SCRIPT_DIR, '')[1:], "(%d lines)" % len(predicted))
 
     #
     # Display classification results
@@ -247,5 +222,8 @@ if __name__ == '__main__':
         pretty_print_cm(cm, CLASS_LABELS)
         print("\nClassification Results:\n")
         print(metrics.classification_report(encoded_test_labels, predicted, target_names=CLASS_LABELS, digits=3))
+
     else:
-        print("The test set labels aren't known, cannot print accuracy report.")
+        print("\nThe test set labels aren't known, cannot print accuracy report.")
+
+    print("\nOverall accuracy:", metrics.accuracy_score(encoded_test_labels, predicted))
