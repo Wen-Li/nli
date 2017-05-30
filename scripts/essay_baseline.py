@@ -29,62 +29,7 @@ CLASS_LABELS = ['FRE', 'GER', 'SPA', 'ITA', 'ARA', 'TUR','CHI', 'JPN', 'KOR',  '
 def load_features_and_labels(train_partition, test_partition, training_feature_file="../data/features/essays/train/train-2017-05-27-15.39.30.features",
                              test_feature_file="../data/features/essays/dev/dev-2017-05-27-15.39.34.features", preprocessor='tokenized', vectorizer=None,
                              feature_outfile_name=None):
-    """
-    If no feature files are provided, generates feature matrices for training and test data. By default, it assumes the
-    use of the text in the 'tokenized' directory (vs 'original'). This is also the directory pointed to in the
-    labels files. To use your own processing pipeline, write the processed essays to a new directory under
-    "../data/essays/`train_dir`/" and "../data/essays/`test_dir`/", and modify the corresponding labels files with the
-    correct "essay_path" column.
 
-    If precomputed feature files are provided, this function reads features and labels for the training and test sets
-    instead of creating new ones.
-
-    NOTE: `training_feature_file` and `test_feature_file` must be provided together. If only one is provided, all
-          features will be recomputed to avoid dimension mismatch.
-
-    Parameters
-    -----------
-    train_partition: str
-        String indicating the name of the training directory (e.g. 'train'). This directory should
-        exist in "../data/essays/" and "../data/labels/". It will also be created in "../data/features/"
-        to output the training features
-
-    test_partition: str
-        String indicating the name of the testing directory (e.g. 'dev' or 'test'). This directory should
-        exist in "../data/essays/" and "../data/labels/". It will also be created in "../data/features/" 
-        to output the test features.
-
-    training_feature_file: str
-        Path to saved training feature file (must be svm_light format).
-
-    test_feature_file: str
-        Path to saved test feature file (must be svm_light format).
-
-    preprocessor: str, 'tokenized' by default
-        Name of directory under '../data/essays/<partition_name>/ where the processed essay text is stored.
-        Options:
-            'original': raw text
-            'tokenized': segmented on sentence boundaries (one sentence per line) and word-tokenized (tokens
-                                   surrounded by white space).
-        HINT: You can use a custom preprocessing pipeline by saving the processed data in
-              "../data/essays/<partition>/<custom_preprocessor_name>/" for train and test partitions.
-
-    vectorizer: Vectorizer object or NoneType, None by default
-        Object to convert a collection of text documents to a matrix. Must implement fit, transform, and fit_transform
-        methods. If no vectorizer is provided, this function will use sklearn's CountVectorizer as default.
-    
-    feature_outfile_name: str
-        Custom name for feature files. The train and test feature files from a given run will be given the same name
-        but saved in their respective directories. If no custom name is provided, the file names will be the date and time
-        they were generated.
-
-    Returns
-    -------
-    tuple (length 2)
-        -list of [training matrix, training labels as ints, training labels as strings]
-        -list of [test matrix, test labels as ints, test labels as strings]
-
-    """
     train_labels_path = "{script_dir}/../data/labels/{train}/labels.{train}.csv".format(train=train_partition, script_dir=SCRIPT_DIR)
     train_data_path = "{script_dir}/../data/essays/{}/tokenized/".format(train_partition, script_dir=SCRIPT_DIR)
     test_labels_path = "{script_dir}/../data/labels/{test}/labels.{test}.csv".format(test=test_partition, script_dir=SCRIPT_DIR)
@@ -147,63 +92,11 @@ def load_features_and_labels(train_partition, test_partition, training_feature_f
                                                                          vectorizer)
     test_matrix, encoded_test_labels,  _ = load_unigrams(test_files, test_labels, vectorizer)
 
-    #
-    # Write features to feature files
-    # No need to have different names for train/test since they each have their own directory.
-    # outfile_name = (strftime("{}-%Y-%m-%d-%H.%M.%S.features".format(train_partition))
-    #                 if feature_outfile_name is None
-    #                 else "{}-{}".format(train_partition, feature_outfile_name))
-    #
-    # outfile = strftime("{script_dir}/../data/features/essays/{train}/{outfile_name}"
-    #                    .format(script_dir=SCRIPT_DIR, train=train_partition, outfile_name=outfile_name))
-    # dump_svmlight_file(training_matrix, encoded_training_labels, outfile)
-    # print("Wrote training features to", outfile.replace(SCRIPT_DIR, '')[1:])  # prints file path relative to script location
-    #
-    # outfile_name = (strftime("{}-%Y-%m-%d-%H.%M.%S.features".format(test_partition))
-    #                 if feature_outfile_name is None
-    #                 else "{}-{}".format(test_partition, feature_outfile_name))
-    #
-    # outfile = ("{script_dir}/../data/features/essays/{test}/{outfile_name}"
-    #             .format(script_dir=SCRIPT_DIR, test=test_partition, outfile_name=outfile_name))
-    # dump_svmlight_file(test_matrix, encoded_test_labels, outfile)
-    # print("Wrote testing features to", outfile.replace(SCRIPT_DIR, '')[1:])  # prints file path relative to script location
-
     return [(training_matrix, encoded_training_labels, training_labels),
             (test_matrix, encoded_test_labels, test_labels)]
 
 
 def load_unigrams(file_list, labels, vectorizer=None):
-    """
-    This function creates a document-term matrix, given a CSV index file listing the documents and a file dictionary of
-    available files.
-
-    If a feature vectorizer has been created, it can be passed in to be used. Otherwise one will be instantiated.
-    Different versions of this function could be created to extract other feature types, such as word bigrams, or
-    character n-grams, etc.
-
-    Parameters
-    ----------
-    file_list: list of str
-        File names to be used for creating matrix.
-    
-    labels: list of str
-        Correct class labels corresponding with the essays in `file_list`. These will be encoded as integers for saving
-        in svm_light format.
-
-    vectorizer: Vectorizer object or NoneType, None by default.
-        Object to convert a collection of text documents to a matrix. Must have fit, transform, and fit_transform
-        methods implemented. If no vectorizer is provided, this function will use sklearn's CountVectorizer. The
-        vectorizer that is fit on the training data should be re-used for the testing data.
-
-    Returns
-    -------
-    tuple (length 4)
-        -doc-term matrix (numpy array), 
-        -list of correct labels encoded as ints, 
-        -list of labels as strings,
-        -vectorizer instance
-
-    """
     # convert label strings to integers
     labels_encoded = [CLASS_LABELS.index(label) for label in labels]
     if vectorizer is None:
@@ -287,16 +180,21 @@ if __name__ == '__main__':
     # Normalize frequencies to unit length
     transformer = Normalizer()
     training_matrix = transformer.fit_transform(training_matrix)
-    # training_matrix = SelectKBest(chi2, k=20000).fit_transform(training_matrix, test_matrix)
     test_matrix = transformer.fit_transform(test_matrix)
 
+
+    # feature selection
+    ch2 = SelectKBest(chi2, k=30000)
+    training_matrix = ch2.fit_transform(training_matrix, encoded_training_labels)
+    test_matrix = ch2.transform(test_matrix)
+
+
     # Train the model
-    # Check the scikit-learn documentation for other models
     print("Training the classifier...")
-    clf = LinearSVC()
+    clf = LinearSVC(C=0.8)
     # clf = RandomForestClassifier()
     # clf = LinearRegression()
-    clf = SVC(kernel="linear")
+    # clf = SVC(kernel="linear")
 
     clf.fit(training_matrix, encoded_training_labels)
 
