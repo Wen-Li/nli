@@ -16,18 +16,21 @@ from time import strftime
 from sklearn import metrics
 from sklearn.datasets import dump_svmlight_file, load_svmlight_file
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer, TfidfVectorizer
-from sklearn.preprocessing import Normalizer
+from sklearn.preprocessing import Normalizer, StandardScaler
 from sklearn.svm import LinearSVC, SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LinearRegression
-from sklearn.feature_selection import SelectKBest, chi2
+from sklearn.feature_selection import SelectKBest, chi2, SelectFromModel, mutual_info_classif
+from time import time
+from sklearn.decomposition import NMF, LatentDirichletAllocation
+import numpy as np
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
-CLASS_LABELS = ['FRE', 'GER', 'SPA', 'ITA', 'ARA', 'TUR','CHI', 'JPN', 'KOR',  'HIN','TEL']  # valid labels
+CLASS_LABELS = ['FRE', 'GER', 'ITA', 'SPA', 'ARA', 'TUR', 'CHI', 'JPN', 'KOR', 'HIN','TEL']  # valid labels
 
 
 def load_features_and_labels(train_partition, test_partition, training_feature_file="../data/features/essays/train/train-2017-05-27-15.39.30.features",
-                             test_feature_file="../data/features/essays/dev/dev-2017-05-27-15.39.34.features", preprocessor='tokenized', vectorizer=None,
+                             test_feature_file="../data/features/essays/dev/dev-2017-05-27-15.39.34.features", preprocessor='original', vectorizer=None,
                              feature_outfile_name=None):
 
     train_labels_path = "{script_dir}/../data/labels/{train}/labels.{train}.csv".format(train=train_partition, script_dir=SCRIPT_DIR)
@@ -42,49 +45,58 @@ def load_features_and_labels(train_partition, test_partition, training_feature_f
     for path_, path_descriptor in path_and_descriptor_list:
         if not os.path.exists(path_):
             raise Exception("Could not find {desc}: {pth}".format(desc=path_descriptor, pth=path_))
-    #
+
     #  Read labels files. If feature files provided, `training_files` and `test_files` below will be ignored
-    # 
     with open(train_labels_path) as train_labels_f, open(test_labels_path) as test_labels_f:
         essay_path_train = '{script_dir}/../data/essays/{train}/{preproc}'.format(script_dir=SCRIPT_DIR, train=train_partition, preproc=preprocessor)
         essay_path_test = '{script_dir}/../data/essays/{test}/{preproc}'.format(script_dir=SCRIPT_DIR, test=test_partition, preproc=preprocessor)
-
         training_files, training_labels = zip(*[(os.path.join(essay_path_train, row['test_taker_id'] + '.txt'), row['L1'])
                                                 for row in csv.DictReader(train_labels_f)])
-
         test_files, test_labels = zip(*[(os.path.join(essay_path_test, row['test_taker_id'] + '.txt'), row['L1'])
                                         for row in csv.DictReader(test_labels_f)])
-    
-    # 
-    #  If no feature files provided, create feature matrix from the data files
-    #
+
     print("Found {} text files in {} and {} in {}"
           .format(len(training_files), train_partition, len(test_files), test_partition))
     print("Loading training and testing data from {} & {}".format(train_partition, test_partition))
 
-    training_matrix, encoded_training_labels, vectorizer = create_feature_matrix(training_files,
-                                                                         training_labels,
-                                                                         vectorizer)
-    test_matrix, encoded_test_labels,  _ = create_feature_matrix(test_files, test_labels, vectorizer)
+    # encode train and test labels: char to int
+    encoded_training_labels = [CLASS_LABELS.index(label) for label in training_labels]
+    encoded_test_labels = [CLASS_LABELS.index(label) for label in test_labels]
+
+    # combine train and test files
+    file_list = list(training_files) + (list(test_files))
+    vectorizer = TfidfVectorizer(input="filename",
+                                 # analyzer=u"word", ngram_range=(1, 1),
+                                 max_features=30000,
+                                 # token_pattern=u"\S+",
+                                 min_df=2)
+    tfidf = vectorizer.fit_transform(file_list)
+
+    # NMF transform
+    n_topics = 10000
+    t0 = time()
+    nmf = NMF(n_components=n_topics, random_state=1,
+              alpha=.1, l1_ratio=.5, max_iter=1500)
+    nmf_W = nmf.fit_transform(tfidf)
+    training_matrix = nmf_W[:len(training_files)]
+    test_matrix = nmf_W[len(training_files):]
+
+    print("Actual iterations:", nmf.n_iter_)
+    print("done in %0.3fs." % (time() - t0))
+
+    print("\nTopics in NMF model (Frobenius norm):")
+    print_top_words(nmf, feature_names=vectorizer.get_feature_names(), n_top_words=20)
+
+    # training_matrix = vectorizer.transform(training_files)
+    # test_matrix = vectorizer.transform(test_files)
+
+    # training_matrix, encoded_training_labels, vectorizer = create_feature_matrix(training_files,
+    #                                                                      training_labels,
+    #                                                                      vectorizer)
+    # test_matrix, encoded_test_labels,  _ = create_feature_matrix(test_files, test_labels, vectorizer)
 
     return [(training_matrix, encoded_training_labels, training_labels),
             (test_matrix, encoded_test_labels, test_labels)]
-
-
-def create_feature_matrix(file_list, labels, vectorizer=None):
-    # convert label strings to integers
-    labels_encoded = [CLASS_LABELS.index(label) for label in labels]
-    if vectorizer is None:
-        # vectorizer = CountVectorizer(input="filename")  # create a new one
-        vectorizer = TfidfVectorizer(input="filename", analyzer=u"word", ngram_range=(1,2), token_pattern=u"\S+")  # create a new one
-        doc_term_matrix = vectorizer.fit_transform(file_list)
-    else:
-        doc_term_matrix = vectorizer.transform(file_list)
-
-    print("Created a document-term matrix with %d rows and %d columns." 
-          % (doc_term_matrix.shape[0], doc_term_matrix.shape[1]))
-
-    return doc_term_matrix.astype(float), labels_encoded, vectorizer
 
 
 def pretty_print_cm(cm, class_labels):
@@ -93,6 +105,18 @@ def pretty_print_cm(cm, class_labels):
     for l1, row in zip(class_labels, cm):
         print(row_format.format(l1, *row))
 
+def print_top_words(model, feature_names, n_top_words):
+    n = 0
+    for topic_idx, topic in enumerate(model.components_):
+        message = "Topic #%d: " % topic_idx
+        message += " ".join([feature_names[i]
+                             for i in topic.argsort()[:-n_top_words - 1:-1]])
+        print(message)
+        n += 1
+        if n > 50:
+            break
+    print()
+    return
 
 if __name__ == '__main__':
     p = argparse.ArgumentParser()
@@ -147,47 +171,41 @@ if __name__ == '__main__':
                                                       feature_file_test, feature_outfile_name=feature_outfile_name)
     training_matrix, encoded_training_labels, original_training_labels = training_and_test_data[0]
     test_matrix, encoded_test_labels, original_test_labels = training_and_test_data[1]
-    
-    #
-    # Run the classifier
-    #
+
+    print("Train shape:", training_matrix.shape)
+    print("Test shape:", test_matrix.shape)
 
     # Normalize frequencies to unit length
     transformer = Normalizer()
     training_matrix = transformer.fit_transform(training_matrix)
     test_matrix = transformer.fit_transform(test_matrix)
 
-
     # feature selection
-    ch2 = SelectKBest(chi2, k=50000)
-    training_matrix = ch2.fit_transform(training_matrix, encoded_training_labels)
-    test_matrix = ch2.transform(test_matrix)
+    # feature_selection = SelectKBest(chi2, k=50000)
+    # feature_selection = SelectKBest(mutual_info_classif, k=50000)
 
+    # training_matrix = feature_selection.fit_transform(training_matrix, encoded_training_labels)
+    # test_matrix = feature_selection.transform(test_matrix)
+
+
+    # feature selection from the model
+    # lsvc = LinearSVC(C=5000, penalty="l1", dual=False).fit(training_matrix, encoded_training_labels)
+    # feature_selection = SelectFromModel(lsvc, prefit=True)
+    # training_matrix = feature_selection.transform(training_matrix)
+    # test_matrix = feature_selection.transform(test_matrix)
+    # print("Size of test matrix:", test_matrix.shape)
 
     # Train the model
     print("Training the classifier...")
-    clf = LinearSVC(C=0.8)
+    clf = LinearSVC(C=1)
     # clf = RandomForestClassifier()
     # clf = LinearRegression()
-    # clf = SVC(kernel="linear")
+    # clf = SVC(kernel="rbf", gamma=5, C=0.001)
 
     clf.fit(training_matrix, encoded_training_labels)
 
-    # Regression model
-    # clf.fit(training_matrix, [float(x) for x in encoded_training_labels])
-
     predicted = clf.predict(test_matrix)
 
-    # Regression model
-    # for i in range(len(predicted)):
-    #     predicted[i] = int(round(predicted[i]))
-    #     if predicted[i] < 0:
-    #         predicted[i] = 0
-    #     if predicted[i] > 10:
-    #         predicted[i] = 10
-    # print(max(predicted), min(predicted))
-
-    
     #
     # Write Predictions File
     #
