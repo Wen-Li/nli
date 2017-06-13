@@ -27,7 +27,7 @@ CLASS_LABELS = ['FRE', 'GER', 'ITA', 'SPA', 'ARA', 'TUR', 'CHI', 'JPN', 'KOR', '
 unit = u"word"
 unit_range = (2, 2)
 num_features = 50000
-mlf_layer_sizes = (500, 100)
+mlf_layer_sizes = (100, )
 
 def load_features_and_labels(train_partition, test_partition, training_feature_file="../data/features/essays/train/train-2017-05-27-15.39.30.features",
                              test_feature_file="../data/features/essays/dev/dev-2017-05-27-15.39.34.features", preprocessor='tokenized', vectorizer=None,

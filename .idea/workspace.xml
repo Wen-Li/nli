@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5988f0c-c299-4c8a-bc82-5e466f54fe15" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/mlp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/nli.iml" afterPath="$PROJECT_DIR$/.idea/nli.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/string_kernel.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/n_grams.py" afterPath="$PROJECT_DIR$/scripts/n_grams.py" />
     </list>
@@ -24,13 +22,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="n_grams.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="n_grams.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/n_grams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+            <state relative-caret-position="493">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="e#461#476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string_kernel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/string_kernel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,8 +49,8 @@
       <file leaf-file-name="word_vec.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/word_vec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="74" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+            <state relative-caret-position="1445">
+              <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -75,13 +85,28 @@
       <file leaf-file-name="parser_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/parser_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
+            <state relative-caret-position="719">
               <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+                <marker date="1497325612000" expanded="true" signature="8849:9036" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="8921:9025" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="9711:9873" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="9779:9862" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="10456:10875" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="10531:10864" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="10549:10849" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="12331:12546" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="12429:12535" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="12799:12987" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="12893:12976" ph="..." />
                 <marker date="1497325612000" expanded="true" signature="13160:13614" ph="..." />
                 <marker date="1497325612000" expanded="true" signature="13270:13603" ph="..." />
                 <marker date="1497325612000" expanded="true" signature="13288:13588" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="15254:15469" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="15352:15458" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="15736:15924" ph="..." />
+                <marker date="1497325612000" expanded="true" signature="15830:15913" ph="..." />
               </folding>
             </state>
           </provider>
@@ -139,13 +164,14 @@
         <option value="$PROJECT_DIR$/scripts/parser.py" />
         <option value="$PROJECT_DIR$/scripts/mlp.py" />
         <option value="$PROJECT_DIR$/scripts/n_grams.py" />
+        <option value="$PROJECT_DIR$/scripts/string_kernel.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="872" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -172,8 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -324,6 +348,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.essay_baseline">
+  <component name="RunManager" selected="Python.string_kernel">
     <configuration default="false" name="essay_baseline" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,23 +383,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="nli" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/n_grams.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="topic_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="nli" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/topic_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -425,6 +434,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="nli" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="string_kernel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nli" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/string_kernel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -565,18 +591,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.essay_baseline" />
-      <item index="1" class="java.lang.String" itemvalue="Python.topic_model" />
-      <item index="2" class="java.lang.String" itemvalue="Python.word_vec" />
-      <item index="3" class="java.lang.String" itemvalue="Python.parser" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mlp" />
+      <item index="1" class="java.lang.String" itemvalue="Python.word_vec" />
+      <item index="2" class="java.lang.String" itemvalue="Python.parser" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mlp" />
+      <item index="4" class="java.lang.String" itemvalue="Python.string_kernel" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.essay_baseline" />
-        <item index="1" class="java.lang.String" itemvalue="Python.mlp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.parser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.word_vec" />
-        <item index="4" class="java.lang.String" itemvalue="Python.topic_model" />
+        <item index="0" class="java.lang.String" itemvalue="Python.string_kernel" />
+        <item index="1" class="java.lang.String" itemvalue="Python.essay_baseline" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mlp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.parser" />
+        <item index="4" class="java.lang.String" itemvalue="Python.word_vec" />
       </list>
     </recent_temporary>
   </component>
@@ -594,7 +620,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="872" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26849896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -602,7 +628,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46153846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32522407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -633,13 +659,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/essays/train/tokenized/00001.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/essays/train/tokenized/00003.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -925,31 +944,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/essays/train/tokenized/00026.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/deps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="619">
           <caret line="192" column="40" selection-start-line="192" selection-start-column="40" selection-end-line="192" selection-end-column="40" />
-          <folding>
-            <element signature="e#24#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/word_vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="74" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,6 +962,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/essays/train/tokenized/00026.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
           <folding />
         </state>
       </provider>
@@ -979,15 +983,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/parser_test.py">
+    <entry file="file://$PROJECT_DIR$/scripts/n_grams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+        <state relative-caret-position="493">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <marker date="1497325612000" expanded="true" signature="13160:13614" ph="..." />
-            <marker date="1497325612000" expanded="true" signature="13270:13603" ph="..." />
-            <marker date="1497325612000" expanded="true" signature="13288:13588" ph="..." />
+            <element signature="e#461#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/word_vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1002,12 +1013,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/n_grams.py">
+    <entry file="file://$PROJECT_DIR$/scripts/parser_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        <state relative-caret-position="719">
+          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
           <folding>
-            <element signature="e#461#476#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1497325612000" expanded="true" signature="8849:9036" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="8921:9025" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="9711:9873" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="9779:9862" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="10456:10875" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="10531:10864" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="10549:10849" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="12331:12546" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="12429:12535" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="12799:12987" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="12893:12976" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="13160:13614" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="13270:13603" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="13288:13588" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="15254:15469" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="15352:15458" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="15736:15924" ph="..." />
+            <marker date="1497325612000" expanded="true" signature="15830:15913" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/string_kernel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
