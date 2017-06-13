@@ -28,6 +28,7 @@ unit = u"word"
 unit_range = (2, 2)
 num_features = 50000
 mlf_layer_sizes = (100,)
+mlf_layer_sizes = (100, )
 
 
 def load_features_and_labels(train_partition, test_partition,
@@ -126,13 +127,13 @@ if __name__ == '__main__':
     p.add_argument('--test_features',
                    help='Path to file containing precomputed test features. None by default.'
                         'Should be located in ../data/features/<test_partition_name>/')
-    p.add_argument('--feature_outfile_name',
+    p.add_argument('--feature_outfile_name', 
                    help='Custom name, if desired, for output feature files to be written to '
                         '../data/features/essays/<train_partition_name>/ and '
                         '../data.features/essays/<test_partition_name>. '
                         'If none provided, feature files will be named using the date and time.'
                         'If precomputed feature files are provided, this argument will be ignored.')
-    p.add_argument('--predictions_outfile_name',
+    p.add_argument('--predictions_outfile_name', 
                    help='Custom name, if desired, for predictions file to be written to ../predictions/essays/.'
                         'If none provided, predictions file will be names using the date and time.')
     args = p.parse_args()
