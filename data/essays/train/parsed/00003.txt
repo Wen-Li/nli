@@ -1,324 +1,1424 @@
-Traveling/VBG around/IN the/DT world/NN and/CC discovering/VBG new/JJ places/NNS you/PRP never/RB seen/VBN before/RB is/VBZ the/DT most/JJS pleasure/NN thing/NN to/TO do/VB for/IN a/DT lot/NN of/IN people/NNS ./.
-
-csubj(thing-17, Traveling-1)
-case(world-4, around-2)
-det(world-4, the-3)
-nmod:around(Traveling-1, world-4)
-cc(Traveling-1, and-5)
-conj:and(Traveling-1, discovering-6)
-csubj(thing-17, discovering-6)
-amod(places-8, new-7)
-dobj(discovering-6, places-8)
-nsubj(seen-11, you-9)
-neg(seen-11, never-10)
-acl:relcl(places-8, seen-11)
-advmod(seen-11, before-12)
-cop(thing-17, is-13)
-det(thing-17, the-14)
-amod(thing-17, most-15)
-compound(thing-17, pleasure-16)
-root(ROOT-0, thing-17)
-mark(do-19, to-18)
-acl(thing-17, do-19)
-case(lot-22, for-20)
-det(lot-22, a-21)
-nmod:for(do-19, lot-22)
-case(people-24, of-23)
-nmod:of(lot-22, people-24)
-
-For/IN me/PRP when/WRB i/FW decied/VBD to/TO travel/VB i/FW will/MD prefer/VB to/TO plugging/VBG in/IN with/IN a/DT group/NN which/WDT led/VBN by/IN an/DT experince/JJ tour/NN guide/NN rather/RB than/IN traviling/VBG alone/RB for/IN many/JJ resones/NNS ./.
-
-dep(prefer-10, For-1)
-nsubj(prefer-10, me-2)
-advmod(decied-5, when-3)
-nsubj(decied-5, i-4)
-nsubj(travel-7, i-4)
-acl:relcl(me-2, decied-5)
-mark(travel-7, to-6)
-xcomp(decied-5, travel-7)
-dobj(travel-7, i-8)
-aux(prefer-10, will-9)
-root(ROOT-0, prefer-10)
-mark(plugging-12, to-11)
-advcl(prefer-10, plugging-12)
-case(group-16, in-13)
-case(group-16, with-14)
-det(group-16, a-15)
-nmod:with(plugging-12, group-16)
-nsubj(led-18, group-16)
-ref(group-16, which-17)
-acl:relcl(group-16, led-18)
-case(guide-23, by-19)
-det(guide-23, an-20)
-amod(guide-23, experince-21)
-compound(guide-23, tour-22)
-nmod:by(led-18, guide-23)
-cc(plugging-12, rather-24)
-mwe(rather-24, than-25)
-advcl(prefer-10, traviling-26)
-conj:negcc(plugging-12, traviling-26)
-advmod(traviling-26, alone-27)
-case(resones-30, for-28)
-amod(resones-30, many-29)
-nmod:for(traviling-26, resones-30)
-
-First/RB ,/, when/WRB you/PRP visit/VBP a/DT new/JJ place/NN definitly/RB you/PRP do/VBP not/RB know/VB what/WP the/DT famoues/NNS places/VBZ to/TO go/VB and/CC visit/VB ./.
-
-advmod(know-13, First-1)
-advmod(visit-5, when-3)
-nsubj(visit-5, you-4)
-advcl(know-13, visit-5)
-det(place-8, a-6)
-amod(place-8, new-7)
-dobj(visit-5, place-8)
-advmod(visit-5, definitly-9)
-nsubj(know-13, you-10)
-aux(know-13, do-11)
-neg(know-13, not-12)
-root(ROOT-0, know-13)
-dobj(places-17, what-14)
-nsubj(go-19, what-14)
-nsubj(visit-21, what-14)
-det(famoues-16, the-15)
-nsubj(places-17, famoues-16)
-ccomp(know-13, places-17)
-mark(go-19, to-18)
-xcomp(places-17, go-19)
-cc(go-19, and-20)
-xcomp(places-17, visit-21)
-conj:and(go-19, visit-21)
-
-So/RB ,/, the/DT tour/NN guide/NN will/MD provide/VB you/PRP with/IN a/DT varioues/JJ places/NNS and/CC recommand/VBD you/PRP with/IN the/DT best/JJS of/IN them/PRP ./.
-
-advmod(provide-7, So-1)
-det(guide-5, the-3)
-compound(guide-5, tour-4)
-nsubj(provide-7, guide-5)
-nsubj(recommand-14, guide-5)
-aux(provide-7, will-6)
-root(ROOT-0, provide-7)
-dobj(provide-7, you-8)
-case(places-12, with-9)
-det(places-12, a-10)
-amod(places-12, varioues-11)
-nmod:with(provide-7, places-12)
-cc(provide-7, and-13)
-conj:and(provide-7, recommand-14)
-dobj(recommand-14, you-15)
-case(best-18, with-16)
-det(best-18, the-17)
-nmod:with(recommand-14, best-18)
-case(them-20, of-19)
-nmod:of(best-18, them-20)
-
-For/IN example/NN ,/, last/JJ year/NN i/FW traveled/VBD with/IN my/PRP$ husband/NN to/TO California/NNP and/CC we/PRP did/VBD not/RB join/VB a/DT tour/NN group/NN led/VBN by/IN a/DT guide/NN ,/, we/PRP waste/VB our/PRP$ time/NN just/RB for/IN searching/VBG for/IN places/NNS to/TO go/VB ./.
-
-case(example-2, For-1)
-nmod:for(traveled-7, example-2)
-amod(year-5, last-4)
-nmod:tmod(traveled-7, year-5)
-nsubj(traveled-7, i-6)
-root(ROOT-0, traveled-7)
-case(husband-10, with-8)
-nmod:poss(husband-10, my-9)
-nmod:with(traveled-7, husband-10)
-case(California-12, to-11)
-nmod:to(traveled-7, California-12)
-cc(traveled-7, and-13)
-nsubj(join-17, we-14)
-aux(join-17, did-15)
-neg(join-17, not-16)
-ccomp(waste-27, join-17)
-det(group-20, a-18)
-compound(group-20, tour-19)
-dobj(join-17, group-20)
-acl(group-20, led-21)
-case(guide-24, by-22)
-det(guide-24, a-23)
-nmod:by(led-21, guide-24)
-nsubj(waste-27, we-26)
-conj:and(traveled-7, waste-27)
-nmod:poss(time-29, our-28)
-dobj(waste-27, time-29)
-advmod(waste-27, just-30)
-mark(searching-32, for-31)
-advcl(waste-27, searching-32)
-case(places-34, for-33)
-nmod:for(searching-32, places-34)
-mark(go-36, to-35)
-xcomp(searching-32, go-36)
-
-While/IN other/JJ visiters/NNS save/VB thier/NN time/NN by/IN joining/VBG a/DT tour/NN group/NN with/IN a/DT tour/NN guide/NN and/CC visit/VB many/JJ places/NNS than/IN we/PRP did/VBD ./.
-
-mark(save-4, While-1)
-amod(visiters-3, other-2)
-nsubj(save-4, visiters-3)
-nsubj(visit-17, visiters-3)
-csubj(did-22, save-4)
-compound(time-6, thier-5)
-dobj(save-4, time-6)
-mark(joining-8, by-7)
-advcl(save-4, joining-8)
-det(group-11, a-9)
-compound(group-11, tour-10)
-dobj(joining-8, group-11)
-case(guide-15, with-12)
-det(guide-15, a-13)
-compound(guide-15, tour-14)
-nmod:with(joining-8, guide-15)
-cc(save-4, and-16)
-conj:and(save-4, visit-17)
-csubj(did-22, visit-17)
-amod(places-19, many-18)
-dobj(visit-17, places-19)
-case(we-21, than-20)
-nmod:than(visit-17, we-21)
-root(ROOT-0, did-22)
-
-Second/LS ,/, joining/VBG a/DT tour/NN group/NN will/MD give/VB you/PRP the/DT chance/NN to/TO know/VB information/NN telling/VBG by/IN the/DT tour/NN guide/NN that/IN you/PRP did/VBD not/RB know/VB them/PRP before/IN about/RB the/DT places/VBZ you/PRP visiting/VBG them/PRP ./.
-
-advmod(joining-3, Second-1)
-root(ROOT-0, joining-3)
-det(group-6, a-4)
-compound(group-6, tour-5)
-dobj(joining-3, group-6)
-aux(give-8, will-7)
-dep(joining-3, give-8)
-iobj(give-8, you-9)
-det(chance-11, the-10)
-dobj(give-8, chance-11)
-mark(know-13, to-12)
-acl(chance-11, know-13)
-dobj(know-13, information-14)
-acl(information-14, telling-15)
-case(guide-19, by-16)
-det(guide-19, the-17)
-compound(guide-19, tour-18)
-nmod:by(telling-15, guide-19)
-mark(know-24, that-20)
-nsubj(know-24, you-21)
-aux(know-24, did-22)
-neg(know-24, not-23)
-ccomp(telling-15, know-24)
-dobj(know-24, them-25)
-mark(places-29, before-26)
-advmod(the-28, about-27)
-nsubj(places-29, the-28)
-advcl(know-24, places-29)
-nsubj(visiting-31, you-30)
-dep(places-29, visiting-31)
-dobj(visiting-31, them-32)
-
-For/IN example/NN ,/, last/JJ month/NN my/PRP$ parents/NNS went/VBD to/TO Eygipt/NNP and/CC they/PRP decided/VBD to/TO join/VB a/DT tour/NN group/NN and/CC when/WRB they/PRP came/VBD back/RB from/IN their/PRP$ journy/NN they/PRP told/VBD us/PRP a/DT lot/NN of/IN information/NN that/IN we/PRP did/VBD not/RB know/VB about/IN the/DT pyramids/NNS ./.
-
-case(example-2, For-1)
-nmod:for(went-8, example-2)
-amod(month-5, last-4)
-nmod:tmod(went-8, month-5)
-nmod:poss(parents-7, my-6)
-nsubj(went-8, parents-7)
-root(ROOT-0, went-8)
-case(Eygipt-10, to-9)
-nmod:to(went-8, Eygipt-10)
-cc(went-8, and-11)
-nsubj(decided-13, they-12)
-nsubj(join-15, they-12)
-conj:and(went-8, decided-13)
-mark(join-15, to-14)
-xcomp(decided-13, join-15)
-det(group-18, a-16)
-compound(group-18, tour-17)
-dobj(join-15, group-18)
-cc(decided-13, and-19)
-advmod(came-22, when-20)
-nsubj(came-22, they-21)
-advcl(told-28, came-22)
-advmod(came-22, back-23)
-case(journy-26, from-24)
-nmod:poss(journy-26, their-25)
-nmod:from(came-22, journy-26)
-nsubj(told-28, they-27)
-conj:and(went-8, told-28)
-conj:and(decided-13, told-28)
-dobj(told-28, us-29)
-det(lot-31, a-30)
-dep(know-38, lot-31)
-case(information-33, of-32)
-nmod:of(lot-31, information-33)
-mark(know-38, that-34)
-nsubj(know-38, we-35)
-aux(know-38, did-36)
-neg(know-38, not-37)
-ccomp(told-28, know-38)
-case(pyramids-41, about-39)
-det(pyramids-41, the-40)
-nmod:about(know-38, pyramids-41)
-
-All/PDT these/DT information/NN were/VBD told/VBN to/TO them/PRP by/IN the/DT tour/NN guide/NN ./.
-
-det:predet(information-3, All-1)
-det(information-3, these-2)
-nsubjpass(told-5, information-3)
-auxpass(told-5, were-4)
-root(ROOT-0, told-5)
-case(them-7, to-6)
-nmod:to(told-5, them-7)
-case(guide-11, by-8)
-det(guide-11, the-9)
-compound(guide-11, tour-10)
-nmod:by(told-5, guide-11)
-
-Third/LS ,/, a/DT tour/NN guide/NN save/VB your/PRP$ time/NN and/CC make/VB it/PRP more/RBR enjoyable/JJ by/IN taking/VBG you/PRP to/TO the/DT most/RBS famoues/JJ places/NNS and/CC the/DT most/RBS intersting/JJ one/NN too/RB ./.
-
-advmod(save-6, Third-1)
-det(guide-5, a-3)
-compound(guide-5, tour-4)
-nsubj(save-6, guide-5)
-nsubj(make-10, guide-5)
-root(ROOT-0, save-6)
-nmod:poss(time-8, your-7)
-dobj(save-6, time-8)
-cc(save-6, and-9)
-conj:and(save-6, make-10)
-nsubj(enjoyable-13, it-11)
-advmod(enjoyable-13, more-12)
-xcomp(make-10, enjoyable-13)
-mark(taking-15, by-14)
-advcl(make-10, taking-15)
-dobj(taking-15, you-16)
-case(places-21, to-17)
-det(places-21, the-18)
-advmod(famoues-20, most-19)
-amod(places-21, famoues-20)
-nmod:to(taking-15, places-21)
-cc(places-21, and-22)
-det(one-26, the-23)
-advmod(intersting-25, most-24)
-amod(one-26, intersting-25)
-nmod:to(taking-15, one-26)
-conj:and(places-21, one-26)
-advmod(places-21, too-27)
-
-By/IN this/DT you/PRP do/VBP not/RB have/VB to/TO go/VB to/TO every/DT places/NNS and/CC look/VB for/IN the/DT intersting/VBG one/NN ./.
-
-case(this-2, By-1)
-nmod:by(have-6, this-2)
-nsubj(have-6, you-3)
-nsubj(go-8, you-3)
-nsubj(look-13, you-3)
-aux(have-6, do-4)
-neg(have-6, not-5)
-root(ROOT-0, have-6)
-mark(go-8, to-7)
-xcomp(have-6, go-8)
-case(places-11, to-9)
-det(places-11, every-10)
-nmod:to(go-8, places-11)
-cc(go-8, and-12)
-xcomp(have-6, look-13)
-conj:and(go-8, look-13)
-case(one-17, for-14)
-det(one-17, the-15)
-amod(one-17, intersting-16)
-nmod:for(look-13, one-17)
-
+thing_csubj_Traveling
+NN_csubj_Traveling
+thing_csubj_VBG
+NN_csubj_VBG
+Traveling_nmod_world
+VBG_nmod_world
+Traveling_nmod_NN
+VBG_nmod_NN
+world_case_around
+NN_case_around
+world_case_IN
+NN_case_IN
+world_det_the
+NN_det_the
+world_det_DT
+NN_det_DT
+Traveling_cc_and
+VBG_cc_and
+Traveling_cc_CC
+VBG_cc_CC
+Traveling_conj_discovering
+VBG_conj_discovering
+Traveling_conj_VBG
+VBG_conj_VBG
+discovering_dobj_places
+VBG_dobj_places
+discovering_dobj_NNS
+VBG_dobj_NNS
+places_amod_new
+NNS_amod_new
+places_amod_JJ
+NNS_amod_JJ
+places_acl:relcl_seen
+NNS_acl:relcl_seen
+places_acl:relcl_VBN
+NNS_acl:relcl_VBN
+seen_nsubj_you
+VBN_nsubj_you
+seen_nsubj_PRP
+VBN_nsubj_PRP
+seen_neg_never
+VBN_neg_never
+seen_neg_RB
+VBN_neg_RB
+seen_advmod_before
+VBN_advmod_before
+seen_advmod_RB
+VBN_advmod_RB
+thing_cop_is
+NN_cop_is
+thing_cop_VBZ
+NN_cop_VBZ
+thing_det_the
+NN_det_the
+thing_det_DT
+NN_det_DT
+thing_amod_most
+NN_amod_most
+thing_amod_JJS
+NN_amod_JJS
+thing_compound_pleasure
+NN_compound_pleasure
+thing_compound_NN
+NN_compound_NN
+thing_acl_do
+NN_acl_do
+thing_acl_VB
+NN_acl_VB
+do_mark_to
+VB_mark_to
+do_mark_TO
+VB_mark_TO
+do_nmod_lot
+VB_nmod_lot
+do_nmod_NN
+VB_nmod_NN
+lot_case_for
+NN_case_for
+lot_case_IN
+NN_case_IN
+lot_det_a
+NN_det_a
+lot_det_DT
+NN_det_DT
+lot_nmod_people
+NN_nmod_people
+lot_nmod_NNS
+NN_nmod_NNS
+people_case_of
+NNS_case_of
+people_case_IN
+NNS_case_IN
+prefer_dep_For
+VB_dep_For
+prefer_dep_IN
+VB_dep_IN
+prefer_nsubj_me
+VB_nsubj_me
+prefer_nsubj_PRP
+VB_nsubj_PRP
+me_acl:relcl_decied
+PRP_acl:relcl_decied
+me_acl:relcl_VBD
+PRP_acl:relcl_VBD
+decied_advmod_when
+VBD_advmod_when
+decied_advmod_WRB
+VBD_advmod_WRB
+decied_nsubj_i
+VBD_nsubj_i
+decied_nsubj_FW
+VBD_nsubj_FW
+decied_xcomp_travel
+VBD_xcomp_travel
+decied_xcomp_VB
+VBD_xcomp_VB
+travel_mark_to
+VB_mark_to
+travel_mark_TO
+VB_mark_TO
+travel_dobj_i
+VB_dobj_i
+travel_dobj_FW
+VB_dobj_FW
+prefer_aux_will
+VB_aux_will
+prefer_aux_MD
+VB_aux_MD
+prefer_advcl_plugging
+VB_advcl_plugging
+prefer_advcl_VBG
+VB_advcl_VBG
+plugging_mark_to
+VBG_mark_to
+plugging_mark_TO
+VBG_mark_TO
+plugging_nmod_group
+VBG_nmod_group
+plugging_nmod_NN
+VBG_nmod_NN
+group_case_in
+NN_case_in
+group_case_IN
+NN_case_IN
+group_case_with
+NN_case_with
+group_case_IN
+NN_case_IN
+group_det_a
+NN_det_a
+group_det_DT
+NN_det_DT
+group_acl:relcl_led
+NN_acl:relcl_led
+group_acl:relcl_VBN
+NN_acl:relcl_VBN
+led_nsubj_which
+VBN_nsubj_which
+led_nsubj_WDT
+VBN_nsubj_WDT
+led_nmod_guide
+VBN_nmod_guide
+led_nmod_NN
+VBN_nmod_NN
+guide_case_by
+NN_case_by
+guide_case_IN
+NN_case_IN
+guide_det_an
+NN_det_an
+guide_det_DT
+NN_det_DT
+guide_amod_experince
+NN_amod_experince
+guide_amod_JJ
+NN_amod_JJ
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+plugging_cc_rather
+VBG_cc_rather
+plugging_cc_RB
+VBG_cc_RB
+rather_mwe_than
+RB_mwe_than
+rather_mwe_IN
+RB_mwe_IN
+plugging_conj_traviling
+VBG_conj_traviling
+plugging_conj_VBG
+VBG_conj_VBG
+traviling_advmod_alone
+VBG_advmod_alone
+traviling_advmod_RB
+VBG_advmod_RB
+traviling_nmod_resones
+VBG_nmod_resones
+traviling_nmod_NNS
+VBG_nmod_NNS
+resones_case_for
+NNS_case_for
+resones_case_IN
+NNS_case_IN
+resones_amod_many
+NNS_amod_many
+resones_amod_JJ
+NNS_amod_JJ
+know_advmod_First
+VB_advmod_First
+know_advmod_RB
+VB_advmod_RB
+know_advcl_visit
+VB_advcl_visit
+know_advcl_VBP
+VB_advcl_VBP
+visit_advmod_when
+VBP_advmod_when
+visit_advmod_WRB
+VBP_advmod_WRB
+visit_nsubj_you
+VBP_nsubj_you
+visit_nsubj_PRP
+VBP_nsubj_PRP
+visit_dobj_place
+VBP_dobj_place
+visit_dobj_NN
+VBP_dobj_NN
+place_det_a
+NN_det_a
+place_det_DT
+NN_det_DT
+place_amod_new
+NN_amod_new
+place_amod_JJ
+NN_amod_JJ
+visit_advmod_definitly
+VBP_advmod_definitly
+visit_advmod_RB
+VBP_advmod_RB
+know_nsubj_you
+VB_nsubj_you
+know_nsubj_PRP
+VB_nsubj_PRP
+know_aux_do
+VB_aux_do
+know_aux_VBP
+VB_aux_VBP
+know_neg_not
+VB_neg_not
+know_neg_RB
+VB_neg_RB
+know_ccomp_places
+VB_ccomp_places
+know_ccomp_VBZ
+VB_ccomp_VBZ
+places_dobj_what
+VBZ_dobj_what
+places_dobj_WP
+VBZ_dobj_WP
+places_nsubj_famoues
+VBZ_nsubj_famoues
+places_nsubj_NNS
+VBZ_nsubj_NNS
+famoues_det_the
+NNS_det_the
+famoues_det_DT
+NNS_det_DT
+places_xcomp_go
+VBZ_xcomp_go
+places_xcomp_VB
+VBZ_xcomp_VB
+go_mark_to
+VB_mark_to
+go_mark_TO
+VB_mark_TO
+go_cc_and
+VB_cc_and
+go_cc_CC
+VB_cc_CC
+go_conj_visit
+VB_conj_visit
+go_conj_VB
+VB_conj_VB
+provide_advmod_So
+VB_advmod_So
+provide_advmod_RB
+VB_advmod_RB
+provide_nsubj_guide
+VB_nsubj_guide
+provide_nsubj_NN
+VB_nsubj_NN
+guide_det_the
+NN_det_the
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+provide_aux_will
+VB_aux_will
+provide_aux_MD
+VB_aux_MD
+provide_dobj_you
+VB_dobj_you
+provide_dobj_PRP
+VB_dobj_PRP
+provide_nmod_places
+VB_nmod_places
+provide_nmod_NNS
+VB_nmod_NNS
+places_case_with
+NNS_case_with
+places_case_IN
+NNS_case_IN
+places_det_a
+NNS_det_a
+places_det_DT
+NNS_det_DT
+places_amod_varioues
+NNS_amod_varioues
+places_amod_JJ
+NNS_amod_JJ
+provide_cc_and
+VB_cc_and
+provide_cc_CC
+VB_cc_CC
+provide_conj_recommand
+VB_conj_recommand
+provide_conj_VBD
+VB_conj_VBD
+recommand_dobj_you
+VBD_dobj_you
+recommand_dobj_PRP
+VBD_dobj_PRP
+recommand_nmod_best
+VBD_nmod_best
+recommand_nmod_JJS
+VBD_nmod_JJS
+best_case_with
+JJS_case_with
+best_case_IN
+JJS_case_IN
+best_det_the
+JJS_det_the
+best_det_DT
+JJS_det_DT
+best_nmod_them
+JJS_nmod_them
+best_nmod_PRP
+JJS_nmod_PRP
+them_case_of
+PRP_case_of
+them_case_IN
+PRP_case_IN
+traveled_nmod_example
+VBD_nmod_example
+traveled_nmod_NN
+VBD_nmod_NN
+example_case_For
+NN_case_For
+example_case_IN
+NN_case_IN
+traveled_nmod:tmod_year
+VBD_nmod:tmod_year
+traveled_nmod:tmod_NN
+VBD_nmod:tmod_NN
+year_amod_last
+NN_amod_last
+year_amod_JJ
+NN_amod_JJ
+traveled_nsubj_i
+VBD_nsubj_i
+traveled_nsubj_FW
+VBD_nsubj_FW
+traveled_nmod_husband
+VBD_nmod_husband
+traveled_nmod_NN
+VBD_nmod_NN
+husband_case_with
+NN_case_with
+husband_case_IN
+NN_case_IN
+husband_nmod:poss_my
+NN_nmod:poss_my
+husband_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+traveled_nmod_California
+VBD_nmod_California
+traveled_nmod_NNP
+VBD_nmod_NNP
+California_case_to
+NNP_case_to
+California_case_TO
+NNP_case_TO
+traveled_cc_and
+VBD_cc_and
+traveled_cc_CC
+VBD_cc_CC
+traveled_conj_waste
+VBD_conj_waste
+traveled_conj_VB
+VBD_conj_VB
+waste_ccomp_join
+VB_ccomp_join
+waste_ccomp_VB
+VB_ccomp_VB
+join_nsubj_we
+VB_nsubj_we
+join_nsubj_PRP
+VB_nsubj_PRP
+join_aux_did
+VB_aux_did
+join_aux_VBD
+VB_aux_VBD
+join_neg_not
+VB_neg_not
+join_neg_RB
+VB_neg_RB
+join_dobj_group
+VB_dobj_group
+join_dobj_NN
+VB_dobj_NN
+group_det_a
+NN_det_a
+group_det_DT
+NN_det_DT
+group_compound_tour
+NN_compound_tour
+group_compound_NN
+NN_compound_NN
+group_acl_led
+NN_acl_led
+group_acl_VBN
+NN_acl_VBN
+led_nmod_guide
+VBN_nmod_guide
+led_nmod_NN
+VBN_nmod_NN
+guide_case_by
+NN_case_by
+guide_case_IN
+NN_case_IN
+guide_det_a
+NN_det_a
+guide_det_DT
+NN_det_DT
+waste_nsubj_we
+VB_nsubj_we
+waste_nsubj_PRP
+VB_nsubj_PRP
+waste_dobj_time
+VB_dobj_time
+waste_dobj_NN
+VB_dobj_NN
+time_nmod:poss_our
+NN_nmod:poss_our
+time_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+waste_advmod_just
+VB_advmod_just
+waste_advmod_RB
+VB_advmod_RB
+waste_advcl_searching
+VB_advcl_searching
+waste_advcl_VBG
+VB_advcl_VBG
+searching_mark_for
+VBG_mark_for
+searching_mark_IN
+VBG_mark_IN
+searching_nmod_places
+VBG_nmod_places
+searching_nmod_NNS
+VBG_nmod_NNS
+places_case_for
+NNS_case_for
+places_case_IN
+NNS_case_IN
+searching_xcomp_go
+VBG_xcomp_go
+searching_xcomp_VB
+VBG_xcomp_VB
+go_mark_to
+VB_mark_to
+go_mark_TO
+VB_mark_TO
+did_csubj_save
+VBD_csubj_save
+did_csubj_VB
+VBD_csubj_VB
+save_mark_While
+VB_mark_While
+save_mark_IN
+VB_mark_IN
+save_nsubj_visiters
+VB_nsubj_visiters
+save_nsubj_NNS
+VB_nsubj_NNS
+visiters_amod_other
+NNS_amod_other
+visiters_amod_JJ
+NNS_amod_JJ
+save_dobj_time
+VB_dobj_time
+save_dobj_NN
+VB_dobj_NN
+time_compound_thier
+NN_compound_thier
+time_compound_NN
+NN_compound_NN
+save_advcl_joining
+VB_advcl_joining
+save_advcl_VBG
+VB_advcl_VBG
+joining_mark_by
+VBG_mark_by
+joining_mark_IN
+VBG_mark_IN
+joining_dobj_group
+VBG_dobj_group
+joining_dobj_NN
+VBG_dobj_NN
+group_det_a
+NN_det_a
+group_det_DT
+NN_det_DT
+group_compound_tour
+NN_compound_tour
+group_compound_NN
+NN_compound_NN
+joining_nmod_guide
+VBG_nmod_guide
+joining_nmod_NN
+VBG_nmod_NN
+guide_case_with
+NN_case_with
+guide_case_IN
+NN_case_IN
+guide_det_a
+NN_det_a
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+save_cc_and
+VB_cc_and
+save_cc_CC
+VB_cc_CC
+save_conj_visit
+VB_conj_visit
+save_conj_VB
+VB_conj_VB
+visit_dobj_places
+VB_dobj_places
+visit_dobj_NNS
+VB_dobj_NNS
+places_amod_many
+NNS_amod_many
+places_amod_JJ
+NNS_amod_JJ
+visit_nmod_we
+VB_nmod_we
+visit_nmod_PRP
+VB_nmod_PRP
+we_case_than
+PRP_case_than
+we_case_IN
+PRP_case_IN
+joining_advmod_Second
+VBG_advmod_Second
+joining_advmod_LS
+VBG_advmod_LS
+joining_dobj_group
+VBG_dobj_group
+joining_dobj_NN
+VBG_dobj_NN
+group_det_a
+NN_det_a
+group_det_DT
+NN_det_DT
+group_compound_tour
+NN_compound_tour
+group_compound_NN
+NN_compound_NN
+joining_dep_give
+VBG_dep_give
+joining_dep_VB
+VBG_dep_VB
+give_aux_will
+VB_aux_will
+give_aux_MD
+VB_aux_MD
+give_iobj_you
+VB_iobj_you
+give_iobj_PRP
+VB_iobj_PRP
+give_dobj_chance
+VB_dobj_chance
+give_dobj_NN
+VB_dobj_NN
+chance_det_the
+NN_det_the
+chance_det_DT
+NN_det_DT
+chance_acl_know
+NN_acl_know
+chance_acl_VB
+NN_acl_VB
+know_mark_to
+VB_mark_to
+know_mark_TO
+VB_mark_TO
+know_dobj_information
+VB_dobj_information
+know_dobj_NN
+VB_dobj_NN
+information_acl_telling
+NN_acl_telling
+information_acl_VBG
+NN_acl_VBG
+telling_nmod_guide
+VBG_nmod_guide
+telling_nmod_NN
+VBG_nmod_NN
+guide_case_by
+NN_case_by
+guide_case_IN
+NN_case_IN
+guide_det_the
+NN_det_the
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+telling_ccomp_know
+VBG_ccomp_know
+telling_ccomp_VB
+VBG_ccomp_VB
+know_mark_that
+VB_mark_that
+know_mark_IN
+VB_mark_IN
+know_nsubj_you
+VB_nsubj_you
+know_nsubj_PRP
+VB_nsubj_PRP
+know_aux_did
+VB_aux_did
+know_aux_VBD
+VB_aux_VBD
+know_neg_not
+VB_neg_not
+know_neg_RB
+VB_neg_RB
+know_dobj_them
+VB_dobj_them
+know_dobj_PRP
+VB_dobj_PRP
+know_advcl_places
+VB_advcl_places
+know_advcl_VBZ
+VB_advcl_VBZ
+places_mark_before
+VBZ_mark_before
+places_mark_IN
+VBZ_mark_IN
+places_nsubj_the
+VBZ_nsubj_the
+places_nsubj_DT
+VBZ_nsubj_DT
+the_advmod_about
+DT_advmod_about
+the_advmod_RB
+DT_advmod_RB
+places_dep_visiting
+VBZ_dep_visiting
+places_dep_VBG
+VBZ_dep_VBG
+visiting_nsubj_you
+VBG_nsubj_you
+visiting_nsubj_PRP
+VBG_nsubj_PRP
+visiting_dobj_them
+VBG_dobj_them
+visiting_dobj_PRP
+VBG_dobj_PRP
+went_nmod_example
+VBD_nmod_example
+went_nmod_NN
+VBD_nmod_NN
+example_case_For
+NN_case_For
+example_case_IN
+NN_case_IN
+went_nmod:tmod_month
+VBD_nmod:tmod_month
+went_nmod:tmod_NN
+VBD_nmod:tmod_NN
+month_amod_last
+NN_amod_last
+month_amod_JJ
+NN_amod_JJ
+went_nsubj_parents
+VBD_nsubj_parents
+went_nsubj_NNS
+VBD_nsubj_NNS
+parents_nmod:poss_my
+NNS_nmod:poss_my
+parents_nmod:poss_PRP$
+NNS_nmod:poss_PRP$
+went_nmod_Eygipt
+VBD_nmod_Eygipt
+went_nmod_NNP
+VBD_nmod_NNP
+Eygipt_case_to
+NNP_case_to
+Eygipt_case_TO
+NNP_case_TO
+went_cc_and
+VBD_cc_and
+went_cc_CC
+VBD_cc_CC
+went_conj_decided
+VBD_conj_decided
+went_conj_VBD
+VBD_conj_VBD
+decided_nsubj_they
+VBD_nsubj_they
+decided_nsubj_PRP
+VBD_nsubj_PRP
+decided_xcomp_join
+VBD_xcomp_join
+decided_xcomp_VB
+VBD_xcomp_VB
+join_mark_to
+VB_mark_to
+join_mark_TO
+VB_mark_TO
+join_dobj_group
+VB_dobj_group
+join_dobj_NN
+VB_dobj_NN
+group_det_a
+NN_det_a
+group_det_DT
+NN_det_DT
+group_compound_tour
+NN_compound_tour
+group_compound_NN
+NN_compound_NN
+decided_cc_and
+VBD_cc_and
+decided_cc_CC
+VBD_cc_CC
+decided_conj_told
+VBD_conj_told
+decided_conj_VBD
+VBD_conj_VBD
+told_advcl_came
+VBD_advcl_came
+told_advcl_VBD
+VBD_advcl_VBD
+came_advmod_when
+VBD_advmod_when
+came_advmod_WRB
+VBD_advmod_WRB
+came_nsubj_they
+VBD_nsubj_they
+came_nsubj_PRP
+VBD_nsubj_PRP
+came_advmod_back
+VBD_advmod_back
+came_advmod_RB
+VBD_advmod_RB
+came_nmod_journy
+VBD_nmod_journy
+came_nmod_NN
+VBD_nmod_NN
+journy_case_from
+NN_case_from
+journy_case_IN
+NN_case_IN
+journy_nmod:poss_their
+NN_nmod:poss_their
+journy_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+told_nsubj_they
+VBD_nsubj_they
+told_nsubj_PRP
+VBD_nsubj_PRP
+told_dobj_us
+VBD_dobj_us
+told_dobj_PRP
+VBD_dobj_PRP
+told_ccomp_know
+VBD_ccomp_know
+told_ccomp_VB
+VBD_ccomp_VB
+know_dep_lot
+VB_dep_lot
+know_dep_NN
+VB_dep_NN
+lot_det_a
+NN_det_a
+lot_det_DT
+NN_det_DT
+lot_nmod_information
+NN_nmod_information
+lot_nmod_NN
+NN_nmod_NN
+information_case_of
+NN_case_of
+information_case_IN
+NN_case_IN
+know_mark_that
+VB_mark_that
+know_mark_IN
+VB_mark_IN
+know_nsubj_we
+VB_nsubj_we
+know_nsubj_PRP
+VB_nsubj_PRP
+know_aux_did
+VB_aux_did
+know_aux_VBD
+VB_aux_VBD
+know_neg_not
+VB_neg_not
+know_neg_RB
+VB_neg_RB
+know_nmod_pyramids
+VB_nmod_pyramids
+know_nmod_NNS
+VB_nmod_NNS
+pyramids_case_about
+NNS_case_about
+pyramids_case_IN
+NNS_case_IN
+pyramids_det_the
+NNS_det_the
+pyramids_det_DT
+NNS_det_DT
+told_nsubjpass_information
+VBN_nsubjpass_information
+told_nsubjpass_NN
+VBN_nsubjpass_NN
+information_det:predet_All
+NN_det:predet_All
+information_det:predet_PDT
+NN_det:predet_PDT
+information_det_these
+NN_det_these
+information_det_DT
+NN_det_DT
+told_auxpass_were
+VBN_auxpass_were
+told_auxpass_VBD
+VBN_auxpass_VBD
+told_nmod_them
+VBN_nmod_them
+told_nmod_PRP
+VBN_nmod_PRP
+them_case_to
+PRP_case_to
+them_case_TO
+PRP_case_TO
+told_nmod_guide
+VBN_nmod_guide
+told_nmod_NN
+VBN_nmod_NN
+guide_case_by
+NN_case_by
+guide_case_IN
+NN_case_IN
+guide_det_the
+NN_det_the
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+save_advmod_Third
+VB_advmod_Third
+save_advmod_LS
+VB_advmod_LS
+save_nsubj_guide
+VB_nsubj_guide
+save_nsubj_NN
+VB_nsubj_NN
+guide_det_a
+NN_det_a
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+save_dobj_time
+VB_dobj_time
+save_dobj_NN
+VB_dobj_NN
+time_nmod:poss_your
+NN_nmod:poss_your
+time_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+save_cc_and
+VB_cc_and
+save_cc_CC
+VB_cc_CC
+save_conj_make
+VB_conj_make
+save_conj_VB
+VB_conj_VB
+make_xcomp_enjoyable
+VB_xcomp_enjoyable
+make_xcomp_JJ
+VB_xcomp_JJ
+enjoyable_nsubj_it
+JJ_nsubj_it
+enjoyable_nsubj_PRP
+JJ_nsubj_PRP
+enjoyable_advmod_more
+JJ_advmod_more
+enjoyable_advmod_RBR
+JJ_advmod_RBR
+make_advcl_taking
+VB_advcl_taking
+make_advcl_VBG
+VB_advcl_VBG
+taking_mark_by
+VBG_mark_by
+taking_mark_IN
+VBG_mark_IN
+taking_dobj_you
+VBG_dobj_you
+taking_dobj_PRP
+VBG_dobj_PRP
+taking_nmod_places
+VBG_nmod_places
+taking_nmod_NNS
+VBG_nmod_NNS
+places_case_to
+NNS_case_to
+places_case_TO
+NNS_case_TO
+places_det_the
+NNS_det_the
+places_det_DT
+NNS_det_DT
+places_amod_famoues
+NNS_amod_famoues
+places_amod_JJ
+NNS_amod_JJ
+famoues_advmod_most
+JJ_advmod_most
+famoues_advmod_RBS
+JJ_advmod_RBS
+places_cc_and
+NNS_cc_and
+places_cc_CC
+NNS_cc_CC
+places_conj_one
+NNS_conj_one
+places_conj_NN
+NNS_conj_NN
+one_det_the
+NN_det_the
+one_det_DT
+NN_det_DT
+one_amod_intersting
+NN_amod_intersting
+one_amod_JJ
+NN_amod_JJ
+intersting_advmod_most
+JJ_advmod_most
+intersting_advmod_RBS
+JJ_advmod_RBS
+places_advmod_too
+NNS_advmod_too
+places_advmod_RB
+NNS_advmod_RB
+have_nmod_this
+VB_nmod_this
+have_nmod_DT
+VB_nmod_DT
+this_case_By
+DT_case_By
+this_case_IN
+DT_case_IN
+have_nsubj_you
+VB_nsubj_you
+have_nsubj_PRP
+VB_nsubj_PRP
+have_aux_do
+VB_aux_do
+have_aux_VBP
+VB_aux_VBP
+have_neg_not
+VB_neg_not
+have_neg_RB
+VB_neg_RB
+have_xcomp_go
+VB_xcomp_go
+have_xcomp_VB
+VB_xcomp_VB
+go_mark_to
+VB_mark_to
+go_mark_TO
+VB_mark_TO
+go_nmod_places
+VB_nmod_places
+go_nmod_NNS
+VB_nmod_NNS
+places_case_to
+NNS_case_to
+places_case_TO
+NNS_case_TO
+places_det_every
+NNS_det_every
+places_det_DT
+NNS_det_DT
+go_cc_and
+VB_cc_and
+go_cc_CC
+VB_cc_CC
+go_conj_look
+VB_conj_look
+go_conj_VB
+VB_conj_VB
+look_nmod_one
+VB_nmod_one
+look_nmod_NN
+VB_nmod_NN
+one_case_for
+NN_case_for
+one_case_IN
+NN_case_IN
+one_det_the
+NN_det_the
+one_det_DT
+NN_det_DT
+one_amod_intersting
+NN_amod_intersting
+one_amod_VBG
+NN_amod_VBG
+went_nmod_example
+VBD_nmod_example
+went_nmod_NN
+VBD_nmod_NN
+example_case_For
+NN_case_For
+example_case_IN
+NN_case_IN
+went_advcl_went
+VBD_advcl_went
+went_advcl_VBD
+VBD_advcl_VBD
+went_advmod_when
+VBD_advmod_when
+went_advmod_WRB
+VBD_advmod_WRB
+went_nsubj_i
+VBD_nsubj_i
+went_nsubj_FW
+VBD_nsubj_FW
+went_nmod_London
+VBD_nmod_London
+went_nmod_NNP
+VBD_nmod_NNP
+London_case_to
+NNP_case_to
+London_case_TO
+NNP_case_TO
+went_nmod_time
+VBD_nmod_time
+went_nmod_NN
+VBD_nmod_NN
+time_case_for
+NN_case_for
+time_case_IN
+NN_case_IN
+time_det_the
+NN_det_the
+time_det_DT
+NN_det_DT
+time_amod_first
+NN_amod_first
+time_amod_JJ
+NN_amod_JJ
+time_nmod_sister
+NN_nmod_sister
+time_nmod_NN
+NN_nmod_NN
+sister_case_with
+NN_case_with
+sister_case_IN
+NN_case_IN
+sister_nmod:poss_my
+NN_nmod:poss_my
+sister_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+went_nsubj_we
+VBD_nsubj_we
+went_nsubj_PRP
+VBD_nsubj_PRP
+went_advmod_every
+VBD_advmod_every
+went_advmod_DT
+VBD_advmod_DT
+every_case_to
+DT_case_to
+every_case_IN
+DT_case_IN
+went_xcomp_find
+VBD_xcomp_find
+went_xcomp_VB
+VBD_xcomp_VB
+find_advmod_just
+VB_advmod_just
+find_advmod_RB
+VB_advmod_RB
+just_advmod_where
+RB_advmod_where
+just_advmod_WRB
+RB_advmod_WRB
+find_mark_to
+VB_mark_to
+find_mark_TO
+VB_mark_TO
+find_dobj_place
+VB_dobj_place
+find_dobj_NN
+VB_dobj_NN
+place_det_a
+NN_det_a
+place_det_DT
+NN_det_DT
+place_amod_good
+NN_amod_good
+place_amod_JJ
+NN_amod_JJ
+find_advcl_enjoy
+VB_advcl_enjoy
+find_advcl_VB
+VB_advcl_VB
+enjoy_mark_to
+VB_mark_to
+enjoy_mark_TO
+VB_mark_TO
+enjoy_dobj_time
+VB_dobj_time
+enjoy_dobj_NN
+VB_dobj_NN
+time_nmod:poss_our
+NN_nmod:poss_our
+time_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+enjoy_advmod_there
+VB_advmod_there
+enjoy_advmod_RB
+VB_advmod_RB
+went_cc_and
+VBD_cc_and
+went_cc_CC
+VBD_cc_CC
+went_conj_happen
+VBD_conj_happen
+went_conj_VB
+VBD_conj_VB
+happen_advcl_found
+VB_advcl_found
+happen_advcl_VBD
+VB_advcl_VBD
+found_advmod_when
+VBD_advmod_when
+found_advmod_WRB
+VBD_advmod_WRB
+found_nsubj_we
+VBD_nsubj_we
+found_nsubj_PRP
+VBD_nsubj_PRP
+found_dobj_one
+VBD_dobj_one
+found_dobj_NN
+VBD_dobj_NN
+one_det_the
+NN_det_the
+one_det_DT
+NN_det_DT
+one_amod_nice
+NN_amod_nice
+one_amod_JJ
+NN_amod_JJ
+found_advcl_exotic
+VBD_advcl_exotic
+found_advcl_JJ
+VBD_advcl_JJ
+exotic_nsubj_we
+JJ_nsubj_we
+exotic_nsubj_PRP
+JJ_nsubj_PRP
+exotic_cop_were
+JJ_cop_were
+exotic_cop_VBD
+JJ_cop_VBD
+exotic_cc_and
+JJ_cc_and
+exotic_cc_CC
+JJ_cc_CC
+exotic_conj_enjoy
+JJ_conj_enjoy
+exotic_conj_VB
+JJ_conj_VB
+enjoy_nsubj_we
+VB_nsubj_we
+enjoy_nsubj_PRP
+VB_nsubj_PRP
+enjoy_aux_could
+VB_aux_could
+enjoy_aux_MD
+VB_aux_MD
+enjoy_neg_not
+VB_neg_not
+enjoy_neg_RB
+VB_neg_RB
+enjoy_advmod_really
+VB_advmod_really
+enjoy_advmod_RB
+VB_advmod_RB
+enjoy_dobj_time
+VB_dobj_time
+enjoy_dobj_NN
+VB_dobj_NN
+time_nmod:poss_our
+NN_nmod:poss_our
+time_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+enjoy_advmod_then
+VB_advmod_then
+enjoy_advmod_RB
+VB_advmod_RB
+exotic_cc_but
+JJ_cc_but
+exotic_cc_CC
+JJ_cc_CC
+exotic_conj_guide
+JJ_conj_guide
+exotic_conj_NN
+JJ_conj_NN
+guide_mark_if
+NN_mark_if
+guide_mark_IN
+NN_mark_IN
+guide_nsubj_we
+NN_nsubj_we
+guide_nsubj_PRP
+NN_nsubj_PRP
+guide_cop_were
+NN_cop_were
+guide_cop_VBD
+NN_cop_VBD
+guide_case_with
+NN_case_with
+guide_case_IN
+NN_case_IN
+guide_det_a
+NN_det_a
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+happen_nsubj_this
+VB_nsubj_this
+happen_nsubj_DT
+VB_nsubj_DT
+happen_aux_will
+VB_aux_will
+happen_aux_MD
+VB_aux_MD
+happen_neg_never
+VB_neg_never
+happen_neg_RB
+VB_neg_RB
+travel_advmod_So
+VB_advmod_So
+travel_advmod_RB
+VB_advmod_RB
+travel_nmod_reasons
+VB_nmod_reasons
+travel_nmod_NNS
+VB_nmod_NNS
+reasons_case_for
+NNS_case_for
+reasons_case_IN
+NNS_case_IN
+reasons_det_the
+NNS_det_the
+reasons_det_DT
+NNS_det_DT
+reasons_nummod_three
+NNS_nummod_three
+reasons_nummod_CD
+NNS_nummod_CD
+travel_nsubj_i
+VB_nsubj_i
+travel_nsubj_FW
+VB_nsubj_FW
+i_acl_disscussed
+FW_acl_disscussed
+i_acl_VBN
+FW_acl_VBN
+disscussed_nmod_i
+VBN_nmod_i
+disscussed_nmod_FW
+VBN_nmod_FW
+i_case_above
+FW_case_above
+i_case_IN
+FW_case_IN
+travel_aux_will
+VB_aux_will
+travel_aux_MD
+VB_aux_MD
+travel_neg_never
+VB_neg_never
+travel_neg_RB
+VB_neg_RB
+travel_nmod_group
+VB_nmod_group
+travel_nmod_NN
+VB_nmod_NN
+group_case_without
+NN_case_without
+group_case_IN
+NN_case_IN
+group_det_a
+NN_det_a
+group_det_DT
+NN_det_DT
+group_acl_led
+NN_acl_led
+group_acl_VBN
+NN_acl_VBN
+led_nmod_guide
+VBN_nmod_guide
+led_nmod_NN
+VBN_nmod_NN
+guide_case_by
+NN_case_by
+guide_case_IN
+NN_case_IN
+guide_det_a
+NN_det_a
+guide_det_DT
+NN_det_DT
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+wish_cc_And
+VBP_cc_And
+wish_cc_CC
+VBP_cc_CC
+wish_advmod_i
+VBP_advmod_i
+wish_advmod_RB
+VBP_advmod_RB
+wish_xcomp_travel
+VBP_xcomp_travel
+wish_xcomp_VB
+VBP_xcomp_VB
+travel_mark_to
+VB_mark_to
+travel_mark_TO
+VB_mark_TO
+travel_advmod_soon
+VB_advmod_soon
+travel_advmod_RB
+VB_advmod_RB
+travel_nmod_guide
+VB_nmod_guide
+travel_nmod_NN
+VB_nmod_NN
+guide_case_with
+NN_case_with
+guide_case_IN
+NN_case_IN
+guide_det_a
+NN_det_a
+guide_det_DT
+NN_det_DT
+guide_amod_good
+NN_amod_good
+guide_amod_JJ
+NN_amod_JJ
+guide_compound_tour
+NN_compound_tour
+guide_compound_NN
+NN_compound_NN
+travel_cc_and
+VB_cc_and
+travel_cc_CC
+VB_cc_CC
+travel_conj_have
+VB_conj_have
+travel_conj_VB
+VB_conj_VB
+have_dobj_vocation
+VB_dobj_vocation
+have_dobj_NN
+VB_dobj_NN
+vocation_amod_good
+NN_amod_good
+vocation_amod_JJ
+NN_amod_JJ

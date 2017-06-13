@@ -1,197 +1,964 @@
-I/PRP agree/VBP with/IN the/DT statement/NN ./.
-
-nsubj(agree-2, I-1)
-root(ROOT-0, agree-2)
-case(statement-5, with-3)
-det(statement-5, the-4)
-nmod:with(agree-2, statement-5)
-
-Knowing/VBG facts/NNS is/VBZ very/RB important/JJ but/CC we/PRP always/RB need/VBP to/TO think/VB ,/, and/CC I/PRP believe/VBP that/IN it/PRP is/VBZ more/RBR important/JJ to/TO have/VB better/JJR understanding/NN of/IN things/NNS and/CC concepts/NNS to/TO make/VB good/JJ decisions/NNS in/IN real/JJ life/NN ./.
-
-amod(facts-2, Knowing-1)
-nsubj(important-5, facts-2)
-cop(important-5, is-3)
-advmod(important-5, very-4)
-root(ROOT-0, important-5)
-cc(important-5, but-6)
-nsubj(need-9, we-7)
-nsubj(think-11, we-7)
-advmod(need-9, always-8)
-conj:but(important-5, need-9)
-mark(think-11, to-10)
-xcomp(need-9, think-11)
-cc(need-9, and-13)
-nsubj(believe-15, I-14)
-conj:but(important-5, believe-15)
-conj:and(need-9, believe-15)
-mark(important-20, that-16)
-nsubj(important-20, it-17)
-nsubj(have-22, it-17)
-cop(important-20, is-18)
-advmod(important-20, more-19)
-ccomp(believe-15, important-20)
-mark(have-22, to-21)
-xcomp(important-20, have-22)
-amod(understanding-24, better-23)
-dobj(have-22, understanding-24)
-case(things-26, of-25)
-nmod:of(understanding-24, things-26)
-cc(things-26, and-27)
-nmod:of(understanding-24, concepts-28)
-conj:and(things-26, concepts-28)
-mark(make-30, to-29)
-ccomp(have-22, make-30)
-amod(decisions-32, good-31)
-dobj(make-30, decisions-32)
-case(life-35, in-33)
-amod(life-35, real-34)
-nmod:in(make-30, life-35)
-
-Understanding/JJ ideas/NNS and/CC concepts/NNS give/VBP you/PRP a/DT skill/NN of/IN sloving/VBG a/DT problem/NN when/WRB you/PRP come/VBP across/RP to/TO something/NN ./.
-
-amod(ideas-2, Understanding-1)
-nsubj(give-5, ideas-2)
-cc(ideas-2, and-3)
-conj:and(ideas-2, concepts-4)
-nsubj(give-5, concepts-4)
-root(ROOT-0, give-5)
-iobj(give-5, you-6)
-det(skill-8, a-7)
-dobj(give-5, skill-8)
-mark(sloving-10, of-9)
-acl(skill-8, sloving-10)
-det(problem-12, a-11)
-dobj(sloving-10, problem-12)
-advmod(come-15, when-13)
-nsubj(come-15, you-14)
-acl:relcl(problem-12, come-15)
-compound:prt(come-15, across-16)
-case(something-18, to-17)
-nmod:to(come-15, something-18)
-
-Understanding/JJ ideas/NNS and/CC learning/NN facts/NNS are/VBP closely/RB connected/VBN ./.
-
-amod(ideas-2, Understanding-1)
-nsubjpass(connected-8, ideas-2)
-cc(ideas-2, and-3)
-compound(facts-5, learning-4)
-conj:and(ideas-2, facts-5)
-nsubjpass(connected-8, facts-5)
-auxpass(connected-8, are-6)
-advmod(connected-8, closely-7)
-root(ROOT-0, connected-8)
-
-If/IN you/PRP have/VBP an/DT idea/NN about/IN something/NN ,/, you/PRP think/VBP about/IN it/PRP ,/, learn/VBP about/IN it/PRP ,/, and/CC everntually/RB learn/VBP a/DT fact/NN ./.
-
-mark(have-3, If-1)
-nsubj(have-3, you-2)
-advcl(think-10, have-3)
-det(idea-5, an-4)
-dobj(have-3, idea-5)
-case(something-7, about-6)
-nmod:about(idea-5, something-7)
-nsubj(think-10, you-9)
-nsubj(learn-14, you-9)
-nsubj(learn-20, you-9)
-root(ROOT-0, think-10)
-case(it-12, about-11)
-nmod:about(think-10, it-12)
-conj:and(think-10, learn-14)
-case(it-16, about-15)
-nmod:about(learn-14, it-16)
-cc(think-10, and-18)
-advmod(learn-20, everntually-19)
-conj:and(think-10, learn-20)
-det(fact-22, a-21)
-dobj(learn-20, fact-22)
-
-In/IN another/DT word/NN ,/, is/VBZ a/DT process/NN of/IN learning/VBG facts/NNS ./.
-
-case(word-3, In-1)
-det(word-3, another-2)
-nmod:in(process-7, word-3)
-cop(process-7, is-5)
-det(process-7, a-6)
-root(ROOT-0, process-7)
-mark(learning-9, of-8)
-acl(process-7, learning-9)
-dobj(learning-9, facts-10)
-
-For/IN example/NN ,/, if/IN you/PRP know/VBP what/WP is/VBZ happening/VBG in/IN Iraq/NNP ,/, if/IN you/PRP do/VBP n't/RB have/VB an/DT understanding/NN for/IN it/PRP ,/, you/PRP do/VBP n't/RB do/VB anything/NN for/IN it/PRP ./.
-
-case(example-2, For-1)
-nmod:for(do-26, example-2)
-mark(know-6, if-4)
-nsubj(know-6, you-5)
-advcl(do-26, know-6)
-nsubj(happening-9, what-7)
-aux(happening-9, is-8)
-ccomp(know-6, happening-9)
-case(Iraq-11, in-10)
-nmod:in(happening-9, Iraq-11)
-mark(have-17, if-13)
-nsubj(have-17, you-14)
-aux(have-17, do-15)
-neg(have-17, n't-16)
-advcl(happening-9, have-17)
-det(understanding-19, an-18)
-dobj(have-17, understanding-19)
-case(it-21, for-20)
-nmod:for(understanding-19, it-21)
-nsubj(do-26, you-23)
-aux(do-26, do-24)
-neg(do-26, n't-25)
-root(ROOT-0, do-26)
-dobj(do-26, anything-27)
-case(it-29, for-28)
-nmod:for(do-26, it-29)
-
-Facts/NNS without/IN your/PRP$ opinion/NN or/CC concepts/NNS are/VBP useless/JJ even/RB though/IN how/WRB important/JJ the/DT fact/NN is/VBZ ./.
-
-nsubj(useless-8, Facts-1)
-case(opinion-4, without-2)
-nmod:poss(opinion-4, your-3)
-nmod:without(Facts-1, opinion-4)
-cc(opinion-4, or-5)
-nmod:without(Facts-1, concepts-6)
-conj:or(opinion-4, concepts-6)
-cop(useless-8, are-7)
-root(ROOT-0, useless-8)
-advmod(useless-8, even-9)
-dep(is-15, though-10)
-advmod(important-12, how-11)
-dep(is-15, important-12)
-det(fact-14, the-13)
-nsubj(is-15, fact-14)
-dep(useless-8, is-15)
-
-Process/NNP will/MD leads/VBZ you/PRP to/TO the/DT result/NN and/CC you/PRP learn/VBP a/DT lot/NN of/IN things/NNS through/IN out/IN the/DT process/NN ./.
-
-nsubj(leads-3, Process-1)
-aux(leads-3, will-2)
-root(ROOT-0, leads-3)
-dobj(leads-3, you-4)
-case(result-7, to-5)
-det(result-7, the-6)
-nmod:to(leads-3, result-7)
-cc(leads-3, and-8)
-nsubj(learn-10, you-9)
-conj:and(leads-3, learn-10)
-det(lot-12, a-11)
-dobj(learn-10, lot-12)
-case(things-14, of-13)
-nmod:of(lot-12, things-14)
-case(process-18, through-15)
-case(process-18, out-16)
-det(process-18, the-17)
-nmod:through(learn-10, process-18)
-
-I/PRP believe/VBP this/DT from/IN my/PRP$ experience/NN ./.
-
-nsubj(believe-2, I-1)
-root(ROOT-0, believe-2)
-dobj(believe-2, this-3)
-case(experience-6, from-4)
-nmod:poss(experience-6, my-5)
-nmod:from(this-3, experience-6)
-
+agree_nsubj_I
+VBP_nsubj_I
+agree_nsubj_PRP
+VBP_nsubj_PRP
+agree_nmod_statement
+VBP_nmod_statement
+agree_nmod_NN
+VBP_nmod_NN
+statement_case_with
+NN_case_with
+statement_case_IN
+NN_case_IN
+statement_det_the
+NN_det_the
+statement_det_DT
+NN_det_DT
+important_nsubj_facts
+JJ_nsubj_facts
+important_nsubj_NNS
+JJ_nsubj_NNS
+facts_amod_Knowing
+NNS_amod_Knowing
+facts_amod_VBG
+NNS_amod_VBG
+important_cop_is
+JJ_cop_is
+important_cop_VBZ
+JJ_cop_VBZ
+important_advmod_very
+JJ_advmod_very
+important_advmod_RB
+JJ_advmod_RB
+important_cc_but
+JJ_cc_but
+important_cc_CC
+JJ_cc_CC
+important_conj_need
+JJ_conj_need
+important_conj_VBP
+JJ_conj_VBP
+need_nsubj_we
+VBP_nsubj_we
+need_nsubj_PRP
+VBP_nsubj_PRP
+need_advmod_always
+VBP_advmod_always
+need_advmod_RB
+VBP_advmod_RB
+need_xcomp_think
+VBP_xcomp_think
+need_xcomp_VB
+VBP_xcomp_VB
+think_mark_to
+VB_mark_to
+think_mark_TO
+VB_mark_TO
+need_cc_and
+VBP_cc_and
+need_cc_CC
+VBP_cc_CC
+need_conj_believe
+VBP_conj_believe
+need_conj_VBP
+VBP_conj_VBP
+believe_nsubj_I
+VBP_nsubj_I
+believe_nsubj_PRP
+VBP_nsubj_PRP
+believe_ccomp_important
+VBP_ccomp_important
+believe_ccomp_JJ
+VBP_ccomp_JJ
+important_mark_that
+JJ_mark_that
+important_mark_IN
+JJ_mark_IN
+important_nsubj_it
+JJ_nsubj_it
+important_nsubj_PRP
+JJ_nsubj_PRP
+important_cop_is
+JJ_cop_is
+important_cop_VBZ
+JJ_cop_VBZ
+important_advmod_more
+JJ_advmod_more
+important_advmod_RBR
+JJ_advmod_RBR
+important_xcomp_have
+JJ_xcomp_have
+important_xcomp_VB
+JJ_xcomp_VB
+have_mark_to
+VB_mark_to
+have_mark_TO
+VB_mark_TO
+have_dobj_understanding
+VB_dobj_understanding
+have_dobj_NN
+VB_dobj_NN
+understanding_amod_better
+NN_amod_better
+understanding_amod_JJR
+NN_amod_JJR
+understanding_nmod_things
+NN_nmod_things
+understanding_nmod_NNS
+NN_nmod_NNS
+things_case_of
+NNS_case_of
+things_case_IN
+NNS_case_IN
+things_cc_and
+NNS_cc_and
+things_cc_CC
+NNS_cc_CC
+things_conj_concepts
+NNS_conj_concepts
+things_conj_NNS
+NNS_conj_NNS
+have_ccomp_make
+VB_ccomp_make
+have_ccomp_VB
+VB_ccomp_VB
+make_mark_to
+VB_mark_to
+make_mark_TO
+VB_mark_TO
+make_dobj_decisions
+VB_dobj_decisions
+make_dobj_NNS
+VB_dobj_NNS
+decisions_amod_good
+NNS_amod_good
+decisions_amod_JJ
+NNS_amod_JJ
+make_nmod_life
+VB_nmod_life
+make_nmod_NN
+VB_nmod_NN
+life_case_in
+NN_case_in
+life_case_IN
+NN_case_IN
+life_amod_real
+NN_amod_real
+life_amod_JJ
+NN_amod_JJ
+give_nsubj_ideas
+VBP_nsubj_ideas
+give_nsubj_NNS
+VBP_nsubj_NNS
+ideas_amod_Understanding
+NNS_amod_Understanding
+ideas_amod_JJ
+NNS_amod_JJ
+ideas_cc_and
+NNS_cc_and
+ideas_cc_CC
+NNS_cc_CC
+ideas_conj_concepts
+NNS_conj_concepts
+ideas_conj_NNS
+NNS_conj_NNS
+give_iobj_you
+VBP_iobj_you
+give_iobj_PRP
+VBP_iobj_PRP
+give_dobj_skill
+VBP_dobj_skill
+give_dobj_NN
+VBP_dobj_NN
+skill_det_a
+NN_det_a
+skill_det_DT
+NN_det_DT
+skill_acl_sloving
+NN_acl_sloving
+skill_acl_VBG
+NN_acl_VBG
+sloving_mark_of
+VBG_mark_of
+sloving_mark_IN
+VBG_mark_IN
+sloving_dobj_problem
+VBG_dobj_problem
+sloving_dobj_NN
+VBG_dobj_NN
+problem_det_a
+NN_det_a
+problem_det_DT
+NN_det_DT
+problem_acl:relcl_come
+NN_acl:relcl_come
+problem_acl:relcl_VBP
+NN_acl:relcl_VBP
+come_advmod_when
+VBP_advmod_when
+come_advmod_WRB
+VBP_advmod_WRB
+come_nsubj_you
+VBP_nsubj_you
+come_nsubj_PRP
+VBP_nsubj_PRP
+come_compound:prt_across
+VBP_compound:prt_across
+come_compound:prt_RP
+VBP_compound:prt_RP
+come_nmod_something
+VBP_nmod_something
+come_nmod_NN
+VBP_nmod_NN
+something_case_to
+NN_case_to
+something_case_TO
+NN_case_TO
+connected_nsubjpass_ideas
+VBN_nsubjpass_ideas
+connected_nsubjpass_NNS
+VBN_nsubjpass_NNS
+ideas_amod_Understanding
+NNS_amod_Understanding
+ideas_amod_JJ
+NNS_amod_JJ
+ideas_cc_and
+NNS_cc_and
+ideas_cc_CC
+NNS_cc_CC
+ideas_conj_facts
+NNS_conj_facts
+ideas_conj_NNS
+NNS_conj_NNS
+facts_compound_learning
+NNS_compound_learning
+facts_compound_NN
+NNS_compound_NN
+connected_auxpass_are
+VBN_auxpass_are
+connected_auxpass_VBP
+VBN_auxpass_VBP
+connected_advmod_closely
+VBN_advmod_closely
+connected_advmod_RB
+VBN_advmod_RB
+think_advcl_have
+VBP_advcl_have
+think_advcl_VBP
+VBP_advcl_VBP
+have_mark_If
+VBP_mark_If
+have_mark_IN
+VBP_mark_IN
+have_nsubj_you
+VBP_nsubj_you
+have_nsubj_PRP
+VBP_nsubj_PRP
+have_dobj_idea
+VBP_dobj_idea
+have_dobj_NN
+VBP_dobj_NN
+idea_det_an
+NN_det_an
+idea_det_DT
+NN_det_DT
+idea_nmod_something
+NN_nmod_something
+idea_nmod_NN
+NN_nmod_NN
+something_case_about
+NN_case_about
+something_case_IN
+NN_case_IN
+think_nsubj_you
+VBP_nsubj_you
+think_nsubj_PRP
+VBP_nsubj_PRP
+think_nmod_it
+VBP_nmod_it
+think_nmod_PRP
+VBP_nmod_PRP
+it_case_about
+PRP_case_about
+it_case_IN
+PRP_case_IN
+think_conj_learn
+VBP_conj_learn
+think_conj_VBP
+VBP_conj_VBP
+learn_nmod_it
+VBP_nmod_it
+learn_nmod_PRP
+VBP_nmod_PRP
+it_case_about
+PRP_case_about
+it_case_IN
+PRP_case_IN
+think_cc_and
+VBP_cc_and
+think_cc_CC
+VBP_cc_CC
+think_conj_learn
+VBP_conj_learn
+think_conj_VBP
+VBP_conj_VBP
+learn_advmod_everntually
+VBP_advmod_everntually
+learn_advmod_RB
+VBP_advmod_RB
+learn_dobj_fact
+VBP_dobj_fact
+learn_dobj_NN
+VBP_dobj_NN
+fact_det_a
+NN_det_a
+fact_det_DT
+NN_det_DT
+process_nmod_word
+NN_nmod_word
+process_nmod_NN
+NN_nmod_NN
+word_case_In
+NN_case_In
+word_case_IN
+NN_case_IN
+word_det_another
+NN_det_another
+word_det_DT
+NN_det_DT
+process_cop_is
+NN_cop_is
+process_cop_VBZ
+NN_cop_VBZ
+process_det_a
+NN_det_a
+process_det_DT
+NN_det_DT
+process_acl_learning
+NN_acl_learning
+process_acl_VBG
+NN_acl_VBG
+learning_mark_of
+VBG_mark_of
+learning_mark_IN
+VBG_mark_IN
+learning_dobj_facts
+VBG_dobj_facts
+learning_dobj_NNS
+VBG_dobj_NNS
+do_nmod_example
+VB_nmod_example
+do_nmod_NN
+VB_nmod_NN
+example_case_For
+NN_case_For
+example_case_IN
+NN_case_IN
+do_advcl_know
+VB_advcl_know
+do_advcl_VBP
+VB_advcl_VBP
+know_mark_if
+VBP_mark_if
+know_mark_IN
+VBP_mark_IN
+know_nsubj_you
+VBP_nsubj_you
+know_nsubj_PRP
+VBP_nsubj_PRP
+know_ccomp_happening
+VBP_ccomp_happening
+know_ccomp_VBG
+VBP_ccomp_VBG
+happening_nsubj_what
+VBG_nsubj_what
+happening_nsubj_WP
+VBG_nsubj_WP
+happening_aux_is
+VBG_aux_is
+happening_aux_VBZ
+VBG_aux_VBZ
+happening_nmod_Iraq
+VBG_nmod_Iraq
+happening_nmod_NNP
+VBG_nmod_NNP
+Iraq_case_in
+NNP_case_in
+Iraq_case_IN
+NNP_case_IN
+happening_advcl_have
+VBG_advcl_have
+happening_advcl_VB
+VBG_advcl_VB
+have_mark_if
+VB_mark_if
+have_mark_IN
+VB_mark_IN
+have_nsubj_you
+VB_nsubj_you
+have_nsubj_PRP
+VB_nsubj_PRP
+have_aux_do
+VB_aux_do
+have_aux_VBP
+VB_aux_VBP
+have_neg_n't
+VB_neg_n't
+have_neg_RB
+VB_neg_RB
+have_dobj_understanding
+VB_dobj_understanding
+have_dobj_NN
+VB_dobj_NN
+understanding_det_an
+NN_det_an
+understanding_det_DT
+NN_det_DT
+understanding_nmod_it
+NN_nmod_it
+understanding_nmod_PRP
+NN_nmod_PRP
+it_case_for
+PRP_case_for
+it_case_IN
+PRP_case_IN
+do_nsubj_you
+VB_nsubj_you
+do_nsubj_PRP
+VB_nsubj_PRP
+do_aux_do
+VB_aux_do
+do_aux_VBP
+VB_aux_VBP
+do_neg_n't
+VB_neg_n't
+do_neg_RB
+VB_neg_RB
+do_dobj_anything
+VB_dobj_anything
+do_dobj_NN
+VB_dobj_NN
+do_nmod_it
+VB_nmod_it
+do_nmod_PRP
+VB_nmod_PRP
+it_case_for
+PRP_case_for
+it_case_IN
+PRP_case_IN
+useless_nsubj_Facts
+JJ_nsubj_Facts
+useless_nsubj_NNS
+JJ_nsubj_NNS
+Facts_nmod_opinion
+NNS_nmod_opinion
+Facts_nmod_NN
+NNS_nmod_NN
+opinion_case_without
+NN_case_without
+opinion_case_IN
+NN_case_IN
+opinion_nmod:poss_your
+NN_nmod:poss_your
+opinion_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+opinion_cc_or
+NN_cc_or
+opinion_cc_CC
+NN_cc_CC
+opinion_conj_concepts
+NN_conj_concepts
+opinion_conj_NNS
+NN_conj_NNS
+useless_cop_are
+JJ_cop_are
+useless_cop_VBP
+JJ_cop_VBP
+useless_advmod_even
+JJ_advmod_even
+useless_advmod_RB
+JJ_advmod_RB
+useless_dep_is
+JJ_dep_is
+useless_dep_VBZ
+JJ_dep_VBZ
+is_dep_though
+VBZ_dep_though
+is_dep_IN
+VBZ_dep_IN
+is_dep_important
+VBZ_dep_important
+is_dep_JJ
+VBZ_dep_JJ
+important_advmod_how
+JJ_advmod_how
+important_advmod_WRB
+JJ_advmod_WRB
+is_nsubj_fact
+VBZ_nsubj_fact
+is_nsubj_NN
+VBZ_nsubj_NN
+fact_det_the
+NN_det_the
+fact_det_DT
+NN_det_DT
+leads_nsubj_Process
+VBZ_nsubj_Process
+leads_nsubj_NNP
+VBZ_nsubj_NNP
+leads_aux_will
+VBZ_aux_will
+leads_aux_MD
+VBZ_aux_MD
+leads_dobj_you
+VBZ_dobj_you
+leads_dobj_PRP
+VBZ_dobj_PRP
+leads_nmod_result
+VBZ_nmod_result
+leads_nmod_NN
+VBZ_nmod_NN
+result_case_to
+NN_case_to
+result_case_TO
+NN_case_TO
+result_det_the
+NN_det_the
+result_det_DT
+NN_det_DT
+leads_cc_and
+VBZ_cc_and
+leads_cc_CC
+VBZ_cc_CC
+leads_conj_learn
+VBZ_conj_learn
+leads_conj_VBP
+VBZ_conj_VBP
+learn_nsubj_you
+VBP_nsubj_you
+learn_nsubj_PRP
+VBP_nsubj_PRP
+learn_dobj_lot
+VBP_dobj_lot
+learn_dobj_NN
+VBP_dobj_NN
+lot_det_a
+NN_det_a
+lot_det_DT
+NN_det_DT
+lot_nmod_things
+NN_nmod_things
+lot_nmod_NNS
+NN_nmod_NNS
+things_case_of
+NNS_case_of
+things_case_IN
+NNS_case_IN
+learn_nmod_process
+VBP_nmod_process
+learn_nmod_NN
+VBP_nmod_NN
+process_case_through
+NN_case_through
+process_case_IN
+NN_case_IN
+process_case_out
+NN_case_out
+process_case_IN
+NN_case_IN
+process_det_the
+NN_det_the
+process_det_DT
+NN_det_DT
+believe_nsubj_I
+VBP_nsubj_I
+believe_nsubj_PRP
+VBP_nsubj_PRP
+believe_dobj_this
+VBP_dobj_this
+believe_dobj_DT
+VBP_dobj_DT
+this_nmod_experience
+DT_nmod_experience
+this_nmod_NN
+DT_nmod_NN
+experience_case_from
+NN_case_from
+experience_case_IN
+NN_case_IN
+experience_nmod:poss_my
+NN_nmod:poss_my
+experience_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+looking_advcl_had
+VBG_advcl_had
+looking_advcl_VBD
+VBG_advcl_VBD
+had_advmod_Once
+VBD_advmod_Once
+had_advmod_RB
+VBD_advmod_RB
+had_advmod_when
+VBD_advmod_when
+had_advmod_WRB
+VBD_advmod_WRB
+had_nsubj_I
+VBD_nsubj_I
+had_nsubj_PRP
+VBD_nsubj_PRP
+had_dobj_homework
+VBD_dobj_homework
+had_dobj_NN
+VBD_dobj_NN
+homework_det_a
+NN_det_a
+homework_det_DT
+NN_det_DT
+homework_acl_search
+NN_acl_search
+homework_acl_VB
+NN_acl_VB
+search_mark_to
+VB_mark_to
+search_mark_TO
+VB_mark_TO
+search_nmod_Titanic
+VB_nmod_Titanic
+search_nmod_NNP
+VB_nmod_NNP
+Titanic_case_about
+NNP_case_about
+Titanic_case_IN
+NNP_case_IN
+Titanic_det_the
+NNP_det_the
+Titanic_det_DT
+NNP_det_DT
+looking_nsubj_I
+VBG_nsubj_I
+looking_nsubj_PRP
+VBG_nsubj_PRP
+looking_aux_was
+VBG_aux_was
+looking_aux_VBD
+VBG_aux_VBD
+looking_advmod_just
+VBG_advmod_just
+looking_advmod_RB
+VBG_advmod_RB
+looking_nmod_website
+VBG_nmod_website
+looking_nmod_NN
+VBG_nmod_NN
+website_case_for
+NN_case_for
+website_case_IN
+NN_case_IN
+website_det_a
+NN_det_a
+website_det_DT
+NN_det_DT
+website_acl:relcl_says
+NN_acl:relcl_says
+website_acl:relcl_VBZ
+NN_acl:relcl_VBZ
+says_nsubj_that
+VBZ_nsubj_that
+says_nsubj_WDT
+VBZ_nsubj_WDT
+says_ccomp_happened
+VBZ_ccomp_happened
+says_ccomp_VBD
+VBZ_ccomp_VBD
+happened_nsubj_what
+VBD_nsubj_what
+happened_nsubj_WP
+VBD_nsubj_WP
+happened_nmod_it
+VBD_nmod_it
+happened_nmod_PRP
+VBD_nmod_PRP
+it_case_to
+PRP_case_to
+it_case_TO
+PRP_case_TO
+happened_nmod_beginning
+VBD_nmod_beginning
+happened_nmod_NN
+VBD_nmod_NN
+beginning_case_in
+NN_case_in
+beginning_case_IN
+NN_case_IN
+beginning_det_the
+NN_det_the
+beginning_det_DT
+NN_det_DT
+looking_cc_but
+VBG_cc_but
+looking_cc_CC
+VBG_cc_CC
+looking_conj_realized
+VBG_conj_realized
+looking_conj_VBD
+VBG_conj_VBD
+realized_advmod_soon
+VBD_advmod_soon
+realized_advmod_RB
+VBD_advmod_RB
+realized_nsubj_I
+VBD_nsubj_I
+realized_nsubj_PRP
+VBD_nsubj_PRP
+realized_ccomp_were
+VBD_ccomp_were
+realized_ccomp_VBD
+VBD_ccomp_VBD
+were_expl_there
+VBD_expl_there
+were_expl_EX
+VBD_expl_EX
+were_nsubj_lots
+VBD_nsubj_lots
+were_nsubj_NNS
+VBD_nsubj_NNS
+lots_nmod_things
+NNS_nmod_things
+lots_nmod_NNS
+NNS_nmod_NNS
+things_case_of
+NNS_case_of
+things_case_IN
+NNS_case_IN
+things_acl:relcl_happened
+NNS_acl:relcl_happened
+things_acl:relcl_VBD
+NNS_acl:relcl_VBD
+happened_nsubj_that
+VBD_nsubj_that
+happened_nsubj_WDT
+VBD_nsubj_WDT
+happened_dobj_other
+VBD_dobj_other
+happened_dobj_JJ
+VBD_dobj_JJ
+other_nmod_nad
+JJ_nmod_nad
+other_nmod_NN
+JJ_nmod_NN
+nad_case_than
+NN_case_than
+nad_case_IN
+NN_case_IN
+nad_amod_sinking
+NN_amod_sinking
+nad_amod_VBG
+NN_amod_VBG
+nad_ccomp_learn
+NN_ccomp_learn
+nad_ccomp_VBP
+NN_ccomp_VBP
+learn_nsubj_I
+VBP_nsubj_I
+learn_nsubj_PRP
+VBP_nsubj_PRP
+learn_dobj_event
+VBP_dobj_event
+learn_dobj_NN
+VBP_dobj_NN
+event_advmod_much
+NN_advmod_much
+event_advmod_RB
+NN_advmod_RB
+event_amod_interesting
+NN_amod_interesting
+event_amod_JJ
+NN_amod_JJ
+interesting_advmod_more
+JJ_advmod_more
+interesting_advmod_RBR
+JJ_advmod_RBR
+event_ccomp_happened
+NN_ccomp_happened
+event_ccomp_VBD
+NN_ccomp_VBD
+happened_nsubj_that
+VBD_nsubj_that
+happened_nsubj_WDT
+VBD_nsubj_WDT
+happened_advmod_actually
+VBD_advmod_actually
+happened_advmod_RB
+VBD_advmod_RB
+happened_advcl_sank
+VBD_advcl_sank
+happened_advcl_VBD
+VBD_advcl_VBD
+sank_mark_before
+VBD_mark_before
+sank_mark_IN
+VBD_mark_IN
+sank_nsubj_it
+VBD_nsubj_it
+sank_nsubj_PRP
+VBD_nsubj_PRP
+important_nsubj_Process
+JJ_nsubj_Process
+important_nsubj_NNP
+JJ_nsubj_NNP
+important_cop_is
+JJ_cop_is
+important_cop_VBZ
+JJ_cop_VBZ
+important_advmod_more
+JJ_advmod_more
+important_advmod_RBR
+JJ_advmod_RBR
+important_advcl_lead
+JJ_advcl_lead
+important_advcl_VB
+JJ_advcl_VB
+lead_mark_than
+VB_mark_than
+lead_mark_IN
+VB_mark_IN
+lead_nsubj_fact
+VB_nsubj_fact
+lead_nsubj_NN
+VB_nsubj_NN
+fact_det_a
+NN_det_a
+fact_det_DT
+NN_det_DT
+fact_cc_and
+NN_cc_and
+fact_cc_CC
+NN_cc_CC
+fact_conj_i
+NN_conj_i
+fact_conj_FW
+NN_conj_FW
+lead_aux_will
+VB_aux_will
+lead_aux_MD
+VB_aux_MD
+lead_dobj_you
+VB_dobj_you
+lead_dobj_PRP
+VB_dobj_PRP
+lead_nmod_result
+VB_nmod_result
+lead_nmod_NN
+VB_nmod_NN
+result_case_to
+NN_case_to
+result_case_TO
+NN_case_TO
+result_det_the
+NN_det_the
+result_det_DT
+NN_det_DT
+result_acl:relcl_fact
+NN_acl:relcl_fact
+result_acl:relcl_NN
+NN_acl:relcl_NN
+fact_nsubj_which
+NN_nsubj_which
+fact_nsubj_WDT
+NN_nsubj_WDT
+fact_cop_is
+NN_cop_is
+fact_cop_VBZ
+NN_cop_VBZ
+fact_det_a
+NN_det_a
+fact_det_DT
+NN_det_DT
+say_advmod_Sometimes
+VBP_advmod_Sometimes
+say_advmod_RB
+VBP_advmod_RB
+say_nsubj_I
+VBP_nsubj_I
+say_nsubj_PRP
+VBP_nsubj_PRP
+say_xcomp_myself
+VBP_xcomp_myself
+say_xcomp_VB
+VBP_xcomp_VB
+myself_mark_to
+VB_mark_to
+myself_mark_TO
+VB_mark_TO
+myself_dobj_care
+VB_dobj_care
+myself_dobj_NN
+VB_dobj_NN
+care_nmod_process
+NN_nmod_process
+care_nmod_NN
+NN_nmod_NN
+process_case_about
+NN_case_about
+process_case_IN
+NN_case_IN
+process_nmod_fact
+NN_nmod_fact
+process_nmod_NN
+NN_nmod_NN
+fact_case_than
+NN_case_than
+fact_case_IN
+NN_case_IN
+fact_det_a
+NN_det_a
+fact_det_DT
+NN_det_DT
+myself_advcl_easy
+VB_advcl_easy
+myself_advcl_JJ
+VB_advcl_JJ
+easy_mark_because
+JJ_mark_because
+easy_mark_IN
+JJ_mark_IN
+easy_nsubj_it
+JJ_nsubj_it
+easy_nsubj_PRP
+JJ_nsubj_PRP
+easy_cop_is
+JJ_cop_is
+easy_cop_VBZ
+JJ_cop_VBZ
+easy_xcomp_forget
+JJ_xcomp_forget
+easy_xcomp_VB
+JJ_xcomp_VB
+forget_mark_to
+VB_mark_to
+forget_mark_TO
+VB_mark_TO
+forget_cc_and
+VB_cc_and
+forget_cc_CC
+VB_cc_CC
+forget_conj_look
+VB_conj_look
+forget_conj_VB
+VB_conj_VB
+look_advmod_only
+VB_advmod_only
+look_advmod_RB
+VB_advmod_RB
+look_nmod_fact
+VB_nmod_fact
+look_nmod_NN
+VB_nmod_NN
+fact_case_for
+NN_case_for
+fact_case_IN
+NN_case_IN
+fact_det_a
+NN_det_a
+fact_det_DT
+NN_det_DT

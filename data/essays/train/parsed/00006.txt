@@ -1,257 +1,740 @@
-I/PRP disagree/VBP that/IN in/IN twenty/CD years/NNS there/EX will/MD be/VB fewer/JJR cars/NNS in/IN use/NN than/IN there/EX are/VBP today/NN ./.
-
-nsubj(disagree-2, I-1)
-root(ROOT-0, disagree-2)
-mark(cars-11, that-3)
-case(years-6, in-4)
-nummod(years-6, twenty-5)
-nmod:in(cars-11, years-6)
-expl(cars-11, there-7)
-aux(cars-11, will-8)
-cop(cars-11, be-9)
-amod(cars-11, fewer-10)
-ccomp(disagree-2, cars-11)
-case(use-13, in-12)
-nmod:in(cars-11, use-13)
-mark(are-16, than-14)
-expl(are-16, there-15)
-advcl(cars-11, are-16)
-nmod:tmod(are-16, today-17)
-
-Why/WRB people/NNS use/VB car/NN ?/.
-
-advmod(use-3, Why-1)
-nsubj(use-3, people-2)
-root(ROOT-0, use-3)
-dobj(use-3, car-4)
-
-Because/JJ car/NN is/VBZ useful/JJ ./.
-
-amod(car-2, Because-1)
-nsubj(useful-4, car-2)
-cop(useful-4, is-3)
-root(ROOT-0, useful-4)
-
-It/PRP does/VBZ not/RB care/VB time/NN schedule/NN ,/, go/VBP somewhere/RB directly/RB ,/, and/CC can/MD carry/VB someting/VBG more/JJR than/IN other/JJ trancepotaion/NN ./.
-
-nsubj(care-4, It-1)
-nsubj(go-8, It-1)
-nsubj(carry-14, It-1)
-aux(care-4, does-2)
-neg(care-4, not-3)
-root(ROOT-0, care-4)
-compound(schedule-6, time-5)
-dobj(care-4, schedule-6)
-conj:and(care-4, go-8)
-advmod(directly-10, somewhere-9)
-advmod(go-8, directly-10)
-cc(care-4, and-12)
-aux(carry-14, can-13)
-conj:and(care-4, carry-14)
-xcomp(carry-14, someting-15)
-dobj(someting-15, more-16)
-case(trancepotaion-19, than-17)
-amod(trancepotaion-19, other-18)
-nmod:than(someting-15, trancepotaion-19)
-
-If/IN people/NNS go/VBP someplace/JJ ,/, people/NNS use/VBP some/DT trancepotation/NN ./.
-
-mark(go-3, If-1)
-nsubj(go-3, people-2)
-advcl(use-7, go-3)
-xcomp(go-3, someplace-4)
-nsubj(use-7, people-6)
-root(ROOT-0, use-7)
-det(trancepotation-9, some-8)
-dobj(use-7, trancepotation-9)
-
-Usually/RB they/PRP have/VBP to/TO care/VB some/DT trancepotation/NN ``/`` s/VBZ time/NN schedule/NN ,/, but/CC if/IN they/PRP use/VBP car/NN ,/, they/PRP do/VBP not/RB care/VB it/PRP ./.
-
-advmod(have-3, Usually-1)
-nsubj(have-3, they-2)
-nsubj(care-5, they-2)
-root(ROOT-0, have-3)
-mark(care-5, to-4)
-xcomp(have-3, care-5)
-det(trancepotation-7, some-6)
-nsubj(schedule-11, trancepotation-7)
-cop(schedule-11, s-9)
-compound(schedule-11, time-10)
-ccomp(care-5, schedule-11)
-cc(have-3, but-13)
-mark(use-16, if-14)
-nsubj(use-16, they-15)
-advcl(care-22, use-16)
-dobj(use-16, car-17)
-nsubj(care-22, they-19)
-aux(care-22, do-20)
-neg(care-22, not-21)
-conj:but(have-3, care-22)
-dobj(care-22, it-23)
-
-This/DT is/VBZ very/RB useful/JJ ./.
-
-nsubj(useful-4, This-1)
-cop(useful-4, is-2)
-advmod(useful-4, very-3)
-root(ROOT-0, useful-4)
-
-In/IN addition/NN ,/, if/IN people/NNS use/VBP a/DT car/NN ,/, they/PRP can/MD go/VB somewhere/RB directly/RB ,/, but/CC if/IN they/PRP use/VBP train/NN or/CC bus/NN ,/, they/PRP have/VBP to/TO walk/VB or/CC transfer/VB after/IN arrive/VBP station/NN or/CC bus/NN stop/NN ,/, so/IN car/NN is/VBZ more/RBR useful/JJ than/IN other/JJ transportation/NN ./.
-
-case(addition-2, In-1)
-nmod:in(go-12, addition-2)
-mark(use-6, if-4)
-nsubj(use-6, people-5)
-advcl(go-12, use-6)
-det(car-8, a-7)
-dobj(use-6, car-8)
-nsubj(go-12, they-10)
-aux(go-12, can-11)
-root(ROOT-0, go-12)
-advmod(directly-14, somewhere-13)
-advmod(go-12, directly-14)
-cc(go-12, but-16)
-mark(use-19, if-17)
-nsubj(use-19, they-18)
-advcl(have-25, use-19)
-dobj(use-19, train-20)
-cc(train-20, or-21)
-dobj(use-19, bus-22)
-conj:or(train-20, bus-22)
-nsubj(have-25, they-24)
-nsubj(walk-27, they-24)
-nsubj(transfer-29, they-24)
-conj:but(go-12, have-25)
-mark(walk-27, to-26)
-xcomp(have-25, walk-27)
-cc(walk-27, or-28)
-xcomp(have-25, transfer-29)
-conj:or(walk-27, transfer-29)
-mark(arrive-31, after-30)
-advcl(walk-27, arrive-31)
-compound(stop-35, station-32)
-cc(station-32, or-33)
-conj:or(station-32, bus-34)
-compound(stop-35, bus-34)
-dobj(arrive-31, stop-35)
-mark(useful-41, so-37)
-nsubj(useful-41, car-38)
-cop(useful-41, is-39)
-advmod(useful-41, more-40)
-advcl(walk-27, useful-41)
-case(transportation-44, than-42)
-amod(transportation-44, other-43)
-nmod:than(useful-41, transportation-44)
-
-Furtheremore/RB ,/, If/IN people/NNS have/VBP a/DT lot/NN of/IN luggage/NN or/CC something/NN ,/, they/PRP difficultly/RB carry/VBP on/IN the/DT train/NN or/CC bus/NN ./.
-
-advmod(carry-15, Furtheremore-1)
-mark(have-5, If-3)
-nsubj(have-5, people-4)
-advcl(carry-15, have-5)
-det(lot-7, a-6)
-dobj(have-5, lot-7)
-case(luggage-9, of-8)
-nmod:of(lot-7, luggage-9)
-cc(luggage-9, or-10)
-nmod:of(lot-7, something-11)
-conj:or(luggage-9, something-11)
-nsubj(carry-15, they-13)
-advmod(carry-15, difficultly-14)
-root(ROOT-0, carry-15)
-case(train-18, on-16)
-det(train-18, the-17)
-nmod:on(carry-15, train-18)
-cc(train-18, or-19)
-nmod:on(carry-15, bus-20)
-conj:or(train-18, bus-20)
-
-However/RB ,/, car/NN can/MD buring/VB these/DT ./.
-
-advmod(buring-5, However-1)
-nsubj(buring-5, car-3)
-aux(buring-5, can-4)
-root(ROOT-0, buring-5)
-dobj(buring-5, these-6)
-
-Also/RB ,/, car/NN can/MD buring/VB other/JJ people/NNS ./.
-
-advmod(buring-5, Also-1)
-nsubj(buring-5, car-3)
-aux(buring-5, can-4)
-root(ROOT-0, buring-5)
-amod(people-7, other-6)
-dobj(buring-5, people-7)
-
-For/IN example/NN ,/, their/PRP$ children/NNS or/CC friends/NNS ./.
-
-case(example-2, For-1)
-root(ROOT-0, example-2)
-nmod:poss(children-5, their-4)
-conj:or(example-2, children-5)
-cc(example-2, or-6)
-conj:or(example-2, friends-7)
-
-Car/NNP is/VBZ more/RBR useful/JJ then/RB other/JJ transportation/NN ./.
-
-nsubj(useful-4, Car-1)
-cop(useful-4, is-2)
-advmod(useful-4, more-3)
-root(ROOT-0, useful-4)
-advmod(transportation-7, then-5)
-amod(transportation-7, other-6)
-nmod(useful-4, transportation-7)
-
-It/PRP can/MD decide/VB use/VB their/PRP$ request/NN time/NN ,/, go/VB someplace/NN directly/RB ,/, and/CC can/MD carry/VB many/JJ things/NNS ./.
-
-nsubj(decide-3, It-1)
-aux(decide-3, can-2)
-root(ROOT-0, decide-3)
-ccomp(decide-3, use-4)
-nmod:poss(time-7, their-5)
-compound(time-7, request-6)
-dobj(use-4, time-7)
-ccomp(decide-3, go-9)
-conj:and(use-4, go-9)
-dobj(go-9, someplace-10)
-advmod(go-9, directly-11)
-cc(use-4, and-13)
-aux(carry-15, can-14)
-ccomp(decide-3, carry-15)
-conj:and(use-4, carry-15)
-amod(things-17, many-16)
-dobj(carry-15, things-17)
-
-Therefore/RB ,/, I/PRP think/VBP in/IN twenty/CD years/NNS there/EX will/MD not/RB be/VB fewer/JJR cars/NNS in/IN use/NN than/IN there/EX are/VBP today/NN ,/, but/CC If/IN someone/NN find/VBP new/JJ transfar/NN system/NN ,/, it/PRP will/MD able/JJ to/TO change/VB ./.
-
-advmod(think-4, Therefore-1)
-nsubj(think-4, I-3)
-root(ROOT-0, think-4)
-case(years-7, in-5)
-nummod(years-7, twenty-6)
-nmod:in(think-4, years-7)
-expl(cars-13, there-8)
-aux(cars-13, will-9)
-neg(cars-13, not-10)
-cop(cars-13, be-11)
-amod(cars-13, fewer-12)
-acl:relcl(years-7, cars-13)
-case(use-15, in-14)
-nmod:in(cars-13, use-15)
-mark(are-18, than-16)
-expl(are-18, there-17)
-advcl(cars-13, are-18)
-nmod:tmod(are-18, today-19)
-cc(think-4, but-21)
-mark(find-24, If-22)
-nsubj(find-24, someone-23)
-advcl(will-30, find-24)
-amod(system-27, new-25)
-compound(system-27, transfar-26)
-dobj(find-24, system-27)
-nsubj(will-30, it-29)
-conj:but(think-4, will-30)
-xcomp(will-30, able-31)
-mark(change-33, to-32)
-xcomp(able-31, change-33)
-
+disagree_nsubj_I
+VBP_nsubj_I
+disagree_nsubj_PRP
+VBP_nsubj_PRP
+disagree_ccomp_cars
+VBP_ccomp_cars
+disagree_ccomp_NNS
+VBP_ccomp_NNS
+cars_mark_that
+NNS_mark_that
+cars_mark_IN
+NNS_mark_IN
+cars_nmod_years
+NNS_nmod_years
+cars_nmod_NNS
+NNS_nmod_NNS
+years_case_in
+NNS_case_in
+years_case_IN
+NNS_case_IN
+years_nummod_twenty
+NNS_nummod_twenty
+years_nummod_CD
+NNS_nummod_CD
+cars_expl_there
+NNS_expl_there
+cars_expl_EX
+NNS_expl_EX
+cars_aux_will
+NNS_aux_will
+cars_aux_MD
+NNS_aux_MD
+cars_cop_be
+NNS_cop_be
+cars_cop_VB
+NNS_cop_VB
+cars_amod_fewer
+NNS_amod_fewer
+cars_amod_JJR
+NNS_amod_JJR
+cars_nmod_use
+NNS_nmod_use
+cars_nmod_NN
+NNS_nmod_NN
+use_case_in
+NN_case_in
+use_case_IN
+NN_case_IN
+cars_advcl_are
+NNS_advcl_are
+cars_advcl_VBP
+NNS_advcl_VBP
+are_mark_than
+VBP_mark_than
+are_mark_IN
+VBP_mark_IN
+are_expl_there
+VBP_expl_there
+are_expl_EX
+VBP_expl_EX
+are_nmod:tmod_today
+VBP_nmod:tmod_today
+are_nmod:tmod_NN
+VBP_nmod:tmod_NN
+use_advmod_Why
+VB_advmod_Why
+use_advmod_WRB
+VB_advmod_WRB
+use_nsubj_people
+VB_nsubj_people
+use_nsubj_NNS
+VB_nsubj_NNS
+use_dobj_car
+VB_dobj_car
+use_dobj_NN
+VB_dobj_NN
+useful_nsubj_car
+JJ_nsubj_car
+useful_nsubj_NN
+JJ_nsubj_NN
+car_amod_Because
+NN_amod_Because
+car_amod_JJ
+NN_amod_JJ
+useful_cop_is
+JJ_cop_is
+useful_cop_VBZ
+JJ_cop_VBZ
+care_nsubj_It
+VB_nsubj_It
+care_nsubj_PRP
+VB_nsubj_PRP
+care_aux_does
+VB_aux_does
+care_aux_VBZ
+VB_aux_VBZ
+care_neg_not
+VB_neg_not
+care_neg_RB
+VB_neg_RB
+care_dobj_schedule
+VB_dobj_schedule
+care_dobj_NN
+VB_dobj_NN
+schedule_compound_time
+NN_compound_time
+schedule_compound_NN
+NN_compound_NN
+care_conj_go
+VB_conj_go
+care_conj_VBP
+VB_conj_VBP
+go_advmod_directly
+VBP_advmod_directly
+go_advmod_RB
+VBP_advmod_RB
+directly_advmod_somewhere
+RB_advmod_somewhere
+directly_advmod_RB
+RB_advmod_RB
+care_cc_and
+VB_cc_and
+care_cc_CC
+VB_cc_CC
+care_conj_carry
+VB_conj_carry
+care_conj_VB
+VB_conj_VB
+carry_aux_can
+VB_aux_can
+carry_aux_MD
+VB_aux_MD
+carry_xcomp_someting
+VB_xcomp_someting
+carry_xcomp_VBG
+VB_xcomp_VBG
+someting_dobj_more
+VBG_dobj_more
+someting_dobj_JJR
+VBG_dobj_JJR
+someting_nmod_trancepotaion
+VBG_nmod_trancepotaion
+someting_nmod_NN
+VBG_nmod_NN
+trancepotaion_case_than
+NN_case_than
+trancepotaion_case_IN
+NN_case_IN
+trancepotaion_amod_other
+NN_amod_other
+trancepotaion_amod_JJ
+NN_amod_JJ
+use_advcl_go
+VBP_advcl_go
+use_advcl_VBP
+VBP_advcl_VBP
+go_mark_If
+VBP_mark_If
+go_mark_IN
+VBP_mark_IN
+go_nsubj_people
+VBP_nsubj_people
+go_nsubj_NNS
+VBP_nsubj_NNS
+go_xcomp_someplace
+VBP_xcomp_someplace
+go_xcomp_JJ
+VBP_xcomp_JJ
+use_nsubj_people
+VBP_nsubj_people
+use_nsubj_NNS
+VBP_nsubj_NNS
+use_dobj_trancepotation
+VBP_dobj_trancepotation
+use_dobj_NN
+VBP_dobj_NN
+trancepotation_det_some
+NN_det_some
+trancepotation_det_DT
+NN_det_DT
+have_advmod_Usually
+VBP_advmod_Usually
+have_advmod_RB
+VBP_advmod_RB
+have_nsubj_they
+VBP_nsubj_they
+have_nsubj_PRP
+VBP_nsubj_PRP
+have_xcomp_care
+VBP_xcomp_care
+have_xcomp_VB
+VBP_xcomp_VB
+care_mark_to
+VB_mark_to
+care_mark_TO
+VB_mark_TO
+care_ccomp_schedule
+VB_ccomp_schedule
+care_ccomp_NN
+VB_ccomp_NN
+schedule_nsubj_trancepotation
+NN_nsubj_trancepotation
+schedule_nsubj_NN
+NN_nsubj_NN
+trancepotation_det_some
+NN_det_some
+trancepotation_det_DT
+NN_det_DT
+schedule_cop_s
+NN_cop_s
+schedule_cop_VBZ
+NN_cop_VBZ
+schedule_compound_time
+NN_compound_time
+schedule_compound_NN
+NN_compound_NN
+have_cc_but
+VBP_cc_but
+have_cc_CC
+VBP_cc_CC
+have_conj_care
+VBP_conj_care
+have_conj_VB
+VBP_conj_VB
+care_advcl_use
+VB_advcl_use
+care_advcl_VBP
+VB_advcl_VBP
+use_mark_if
+VBP_mark_if
+use_mark_IN
+VBP_mark_IN
+use_nsubj_they
+VBP_nsubj_they
+use_nsubj_PRP
+VBP_nsubj_PRP
+use_dobj_car
+VBP_dobj_car
+use_dobj_NN
+VBP_dobj_NN
+care_nsubj_they
+VB_nsubj_they
+care_nsubj_PRP
+VB_nsubj_PRP
+care_aux_do
+VB_aux_do
+care_aux_VBP
+VB_aux_VBP
+care_neg_not
+VB_neg_not
+care_neg_RB
+VB_neg_RB
+care_dobj_it
+VB_dobj_it
+care_dobj_PRP
+VB_dobj_PRP
+useful_nsubj_This
+JJ_nsubj_This
+useful_nsubj_DT
+JJ_nsubj_DT
+useful_cop_is
+JJ_cop_is
+useful_cop_VBZ
+JJ_cop_VBZ
+useful_advmod_very
+JJ_advmod_very
+useful_advmod_RB
+JJ_advmod_RB
+go_nmod_addition
+VB_nmod_addition
+go_nmod_NN
+VB_nmod_NN
+addition_case_In
+NN_case_In
+addition_case_IN
+NN_case_IN
+go_advcl_use
+VB_advcl_use
+go_advcl_VBP
+VB_advcl_VBP
+use_mark_if
+VBP_mark_if
+use_mark_IN
+VBP_mark_IN
+use_nsubj_people
+VBP_nsubj_people
+use_nsubj_NNS
+VBP_nsubj_NNS
+use_dobj_car
+VBP_dobj_car
+use_dobj_NN
+VBP_dobj_NN
+car_det_a
+NN_det_a
+car_det_DT
+NN_det_DT
+go_nsubj_they
+VB_nsubj_they
+go_nsubj_PRP
+VB_nsubj_PRP
+go_aux_can
+VB_aux_can
+go_aux_MD
+VB_aux_MD
+go_advmod_directly
+VB_advmod_directly
+go_advmod_RB
+VB_advmod_RB
+directly_advmod_somewhere
+RB_advmod_somewhere
+directly_advmod_RB
+RB_advmod_RB
+go_cc_but
+VB_cc_but
+go_cc_CC
+VB_cc_CC
+go_conj_have
+VB_conj_have
+go_conj_VBP
+VB_conj_VBP
+have_advcl_use
+VBP_advcl_use
+have_advcl_VBP
+VBP_advcl_VBP
+use_mark_if
+VBP_mark_if
+use_mark_IN
+VBP_mark_IN
+use_nsubj_they
+VBP_nsubj_they
+use_nsubj_PRP
+VBP_nsubj_PRP
+use_dobj_train
+VBP_dobj_train
+use_dobj_NN
+VBP_dobj_NN
+train_cc_or
+NN_cc_or
+train_cc_CC
+NN_cc_CC
+train_conj_bus
+NN_conj_bus
+train_conj_NN
+NN_conj_NN
+have_nsubj_they
+VBP_nsubj_they
+have_nsubj_PRP
+VBP_nsubj_PRP
+have_xcomp_walk
+VBP_xcomp_walk
+have_xcomp_VB
+VBP_xcomp_VB
+walk_mark_to
+VB_mark_to
+walk_mark_TO
+VB_mark_TO
+walk_cc_or
+VB_cc_or
+walk_cc_CC
+VB_cc_CC
+walk_conj_transfer
+VB_conj_transfer
+walk_conj_VB
+VB_conj_VB
+walk_advcl_arrive
+VB_advcl_arrive
+walk_advcl_VBP
+VB_advcl_VBP
+arrive_mark_after
+VBP_mark_after
+arrive_mark_IN
+VBP_mark_IN
+arrive_dobj_stop
+VBP_dobj_stop
+arrive_dobj_NN
+VBP_dobj_NN
+stop_compound_station
+NN_compound_station
+stop_compound_NN
+NN_compound_NN
+station_cc_or
+NN_cc_or
+station_cc_CC
+NN_cc_CC
+station_conj_bus
+NN_conj_bus
+station_conj_NN
+NN_conj_NN
+walk_advcl_useful
+VB_advcl_useful
+walk_advcl_JJ
+VB_advcl_JJ
+useful_mark_so
+JJ_mark_so
+useful_mark_IN
+JJ_mark_IN
+useful_nsubj_car
+JJ_nsubj_car
+useful_nsubj_NN
+JJ_nsubj_NN
+useful_cop_is
+JJ_cop_is
+useful_cop_VBZ
+JJ_cop_VBZ
+useful_advmod_more
+JJ_advmod_more
+useful_advmod_RBR
+JJ_advmod_RBR
+useful_nmod_transportation
+JJ_nmod_transportation
+useful_nmod_NN
+JJ_nmod_NN
+transportation_case_than
+NN_case_than
+transportation_case_IN
+NN_case_IN
+transportation_amod_other
+NN_amod_other
+transportation_amod_JJ
+NN_amod_JJ
+carry_advmod_Furtheremore
+VBP_advmod_Furtheremore
+carry_advmod_RB
+VBP_advmod_RB
+carry_advcl_have
+VBP_advcl_have
+carry_advcl_VBP
+VBP_advcl_VBP
+have_mark_If
+VBP_mark_If
+have_mark_IN
+VBP_mark_IN
+have_nsubj_people
+VBP_nsubj_people
+have_nsubj_NNS
+VBP_nsubj_NNS
+have_dobj_lot
+VBP_dobj_lot
+have_dobj_NN
+VBP_dobj_NN
+lot_det_a
+NN_det_a
+lot_det_DT
+NN_det_DT
+lot_nmod_luggage
+NN_nmod_luggage
+lot_nmod_NN
+NN_nmod_NN
+luggage_case_of
+NN_case_of
+luggage_case_IN
+NN_case_IN
+luggage_cc_or
+NN_cc_or
+luggage_cc_CC
+NN_cc_CC
+luggage_conj_something
+NN_conj_something
+luggage_conj_NN
+NN_conj_NN
+carry_nsubj_they
+VBP_nsubj_they
+carry_nsubj_PRP
+VBP_nsubj_PRP
+carry_advmod_difficultly
+VBP_advmod_difficultly
+carry_advmod_RB
+VBP_advmod_RB
+carry_nmod_train
+VBP_nmod_train
+carry_nmod_NN
+VBP_nmod_NN
+train_case_on
+NN_case_on
+train_case_IN
+NN_case_IN
+train_det_the
+NN_det_the
+train_det_DT
+NN_det_DT
+train_cc_or
+NN_cc_or
+train_cc_CC
+NN_cc_CC
+train_conj_bus
+NN_conj_bus
+train_conj_NN
+NN_conj_NN
+buring_advmod_However
+VB_advmod_However
+buring_advmod_RB
+VB_advmod_RB
+buring_nsubj_car
+VB_nsubj_car
+buring_nsubj_NN
+VB_nsubj_NN
+buring_aux_can
+VB_aux_can
+buring_aux_MD
+VB_aux_MD
+buring_dobj_these
+VB_dobj_these
+buring_dobj_DT
+VB_dobj_DT
+buring_advmod_Also
+VB_advmod_Also
+buring_advmod_RB
+VB_advmod_RB
+buring_nsubj_car
+VB_nsubj_car
+buring_nsubj_NN
+VB_nsubj_NN
+buring_aux_can
+VB_aux_can
+buring_aux_MD
+VB_aux_MD
+buring_dobj_people
+VB_dobj_people
+buring_dobj_NNS
+VB_dobj_NNS
+people_amod_other
+NNS_amod_other
+people_amod_JJ
+NNS_amod_JJ
+example_case_For
+NN_case_For
+example_case_IN
+NN_case_IN
+example_conj_children
+NN_conj_children
+example_conj_NNS
+NN_conj_NNS
+children_nmod:poss_their
+NNS_nmod:poss_their
+children_nmod:poss_PRP$
+NNS_nmod:poss_PRP$
+example_cc_or
+NN_cc_or
+example_cc_CC
+NN_cc_CC
+example_conj_friends
+NN_conj_friends
+example_conj_NNS
+NN_conj_NNS
+useful_nsubj_Car
+JJ_nsubj_Car
+useful_nsubj_NNP
+JJ_nsubj_NNP
+useful_cop_is
+JJ_cop_is
+useful_cop_VBZ
+JJ_cop_VBZ
+useful_advmod_more
+JJ_advmod_more
+useful_advmod_RBR
+JJ_advmod_RBR
+useful_nmod_transportation
+JJ_nmod_transportation
+useful_nmod_NN
+JJ_nmod_NN
+transportation_advmod_then
+NN_advmod_then
+transportation_advmod_RB
+NN_advmod_RB
+transportation_amod_other
+NN_amod_other
+transportation_amod_JJ
+NN_amod_JJ
+decide_nsubj_It
+VB_nsubj_It
+decide_nsubj_PRP
+VB_nsubj_PRP
+decide_aux_can
+VB_aux_can
+decide_aux_MD
+VB_aux_MD
+decide_ccomp_use
+VB_ccomp_use
+decide_ccomp_VB
+VB_ccomp_VB
+use_dobj_time
+VB_dobj_time
+use_dobj_NN
+VB_dobj_NN
+time_nmod:poss_their
+NN_nmod:poss_their
+time_nmod:poss_PRP$
+NN_nmod:poss_PRP$
+time_compound_request
+NN_compound_request
+time_compound_NN
+NN_compound_NN
+use_conj_go
+VB_conj_go
+use_conj_VB
+VB_conj_VB
+go_dobj_someplace
+VB_dobj_someplace
+go_dobj_NN
+VB_dobj_NN
+go_advmod_directly
+VB_advmod_directly
+go_advmod_RB
+VB_advmod_RB
+use_cc_and
+VB_cc_and
+use_cc_CC
+VB_cc_CC
+use_conj_carry
+VB_conj_carry
+use_conj_VB
+VB_conj_VB
+carry_aux_can
+VB_aux_can
+carry_aux_MD
+VB_aux_MD
+carry_dobj_things
+VB_dobj_things
+carry_dobj_NNS
+VB_dobj_NNS
+things_amod_many
+NNS_amod_many
+things_amod_JJ
+NNS_amod_JJ
+think_advmod_Therefore
+VBP_advmod_Therefore
+think_advmod_RB
+VBP_advmod_RB
+think_nsubj_I
+VBP_nsubj_I
+think_nsubj_PRP
+VBP_nsubj_PRP
+think_nmod_years
+VBP_nmod_years
+think_nmod_NNS
+VBP_nmod_NNS
+years_case_in
+NNS_case_in
+years_case_IN
+NNS_case_IN
+years_nummod_twenty
+NNS_nummod_twenty
+years_nummod_CD
+NNS_nummod_CD
+years_acl:relcl_cars
+NNS_acl:relcl_cars
+years_acl:relcl_NNS
+NNS_acl:relcl_NNS
+cars_expl_there
+NNS_expl_there
+cars_expl_EX
+NNS_expl_EX
+cars_aux_will
+NNS_aux_will
+cars_aux_MD
+NNS_aux_MD
+cars_neg_not
+NNS_neg_not
+cars_neg_RB
+NNS_neg_RB
+cars_cop_be
+NNS_cop_be
+cars_cop_VB
+NNS_cop_VB
+cars_amod_fewer
+NNS_amod_fewer
+cars_amod_JJR
+NNS_amod_JJR
+cars_nmod_use
+NNS_nmod_use
+cars_nmod_NN
+NNS_nmod_NN
+use_case_in
+NN_case_in
+use_case_IN
+NN_case_IN
+cars_advcl_are
+NNS_advcl_are
+cars_advcl_VBP
+NNS_advcl_VBP
+are_mark_than
+VBP_mark_than
+are_mark_IN
+VBP_mark_IN
+are_expl_there
+VBP_expl_there
+are_expl_EX
+VBP_expl_EX
+are_nmod:tmod_today
+VBP_nmod:tmod_today
+are_nmod:tmod_NN
+VBP_nmod:tmod_NN
+think_cc_but
+VBP_cc_but
+think_cc_CC
+VBP_cc_CC
+think_conj_will
+VBP_conj_will
+think_conj_MD
+VBP_conj_MD
+will_advcl_find
+MD_advcl_find
+will_advcl_VBP
+MD_advcl_VBP
+find_mark_If
+VBP_mark_If
+find_mark_IN
+VBP_mark_IN
+find_nsubj_someone
+VBP_nsubj_someone
+find_nsubj_NN
+VBP_nsubj_NN
+find_dobj_system
+VBP_dobj_system
+find_dobj_NN
+VBP_dobj_NN
+system_amod_new
+NN_amod_new
+system_amod_JJ
+NN_amod_JJ
+system_compound_transfar
+NN_compound_transfar
+system_compound_NN
+NN_compound_NN
+will_nsubj_it
+MD_nsubj_it
+will_nsubj_PRP
+MD_nsubj_PRP
+will_xcomp_able
+MD_xcomp_able
+will_xcomp_JJ
+MD_xcomp_JJ
+able_xcomp_change
+JJ_xcomp_change
+able_xcomp_VB
+JJ_xcomp_VB
+change_mark_to
+VB_mark_to
+change_mark_TO
+VB_mark_TO

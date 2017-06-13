@@ -1,381 +1,1176 @@
-On/IN The/DT Premium/NNP Art/NNP of/IN Risk/NN Taking/NNP Success/NNP is/VBZ a/DT very/RB well/JJ balanced/JJ cocktail/NN ./.
-
-case(Art-4, On-1)
-det(Art-4, The-2)
-compound(Art-4, Premium-3)
-nmod:on(cocktail-14, Art-4)
-case(Risk-6, of-5)
-nmod:of(Art-4, Risk-6)
-compound(Success-8, Taking-7)
-nsubj(cocktail-14, Success-8)
-cop(cocktail-14, is-9)
-det(cocktail-14, a-10)
-advmod(well-12, very-11)
-amod(cocktail-14, well-12)
-amod(cocktail-14, balanced-13)
-root(ROOT-0, cocktail-14)
-
-A/DT person/NN whose/WP$ quest/NN is/VBZ for/IN success/NN should/MD keep/VB in/IN mind/NN that/IN without/IN taking/VBG risk/NN ,/, gaining/NNP is/VBZ virtually/RB impossible/JJ ./.
-
-det(person-2, A-1)
-nmod:poss(quest-4, person-2)
-nsubj(keep-9, person-2)
-ref(person-2, whose-3)
-nsubj(success-7, quest-4)
-cop(success-7, is-5)
-case(success-7, for-6)
-acl:relcl(person-2, success-7)
-aux(keep-9, should-8)
-root(ROOT-0, keep-9)
-case(mind-11, in-10)
-nmod:in(keep-9, mind-11)
-mark(impossible-20, that-12)
-mark(taking-14, without-13)
-advcl(impossible-20, taking-14)
-dobj(taking-14, risk-15)
-nsubj(impossible-20, gaining-17)
-cop(impossible-20, is-18)
-advmod(impossible-20, virtually-19)
-ccomp(keep-9, impossible-20)
-
-But/CC taking/VBG risks/NNS is/VBZ an/DT art/NN in/IN which/WDT one/PRP should/MD be/VB extremely/RB careful/JJ and/CC wise/JJ ./.
-
-cc(art-6, But-1)
-csubj(art-6, taking-2)
-dobj(taking-2, risks-3)
-cop(art-6, is-4)
-det(art-6, an-5)
-root(ROOT-0, art-6)
-nmod:in(careful-13, art-6)
-case(which-8, in-7)
-ref(art-6, which-8)
-nsubj(careful-13, one-9)
-nsubj(wise-15, one-9)
-aux(careful-13, should-10)
-cop(careful-13, be-11)
-advmod(careful-13, extremely-12)
-acl:relcl(art-6, careful-13)
-cc(careful-13, and-14)
-acl:relcl(art-6, wise-15)
-conj:and(careful-13, wise-15)
-
-One/PRP should/MD know/VB his/PRP$ vices/NNS and/CC virtues/NNS ,/, he/PRP should/MD know/VB what/WP he/PRP is/VBZ capable/JJ of/IN ./.
-
-nsubj(know-3, One-1)
-aux(know-3, should-2)
-ccomp(know-11, know-3)
-nmod:poss(vices-5, his-4)
-dobj(know-3, vices-5)
-cc(vices-5, and-6)
-dobj(know-3, virtues-7)
-conj:and(vices-5, virtues-7)
-nsubj(know-11, he-9)
-aux(know-11, should-10)
-root(ROOT-0, know-11)
-dobj(capable-15, what-12)
-nsubj(capable-15, he-13)
-cop(capable-15, is-14)
-ccomp(know-11, capable-15)
-nmod(capable-15, of-16)
-
-Taking/VBG risks/NNS by/IN planning/VBG cunningly/NN and/CC regardingly/NN what/WP you/PRP already/RB know/VBP how/WRB to/TO do/VB well/RB is/VBZ the/DT recipe/NN to/TO the/DT elixir/NN ./.
-
-csubj(recipe-18, Taking-1)
-dobj(Taking-1, risks-2)
-mark(planning-4, by-3)
-advcl(Taking-1, planning-4)
-dobj(planning-4, cunningly-5)
-dobj(know-11, cunningly-5)
-cc(cunningly-5, and-6)
-dobj(planning-4, regardingly-7)
-conj:and(cunningly-5, regardingly-7)
-dobj(know-11, regardingly-7)
-ref(cunningly-5, what-8)
-nsubj(know-11, you-9)
-advmod(know-11, already-10)
-acl:relcl(cunningly-5, know-11)
-advmod(do-14, how-12)
-mark(do-14, to-13)
-ccomp(know-11, do-14)
-advmod(do-14, well-15)
-cop(recipe-18, is-16)
-det(recipe-18, the-17)
-root(ROOT-0, recipe-18)
-case(elixir-21, to-19)
-det(elixir-21, the-20)
-nmod:to(recipe-18, elixir-21)
-
-When/WRB one/PRP studies/VBZ politics/NNS ,/, bussiness/NNS or/CC military/JJ science/NN ,/, he/PRP 'll/MD see/VB that/IN success/NN is/VBZ nearly/RB always/RB achieved/VBN by/IN risks/NNS taken/VBN cunningly/RB ./.
-
-advmod(studies-3, When-1)
-nsubj(studies-3, one-2)
-advcl(see-13, studies-3)
-dobj(studies-3, politics-4)
-dobj(studies-3, bussiness-6)
-conj:or(politics-4, bussiness-6)
-cc(politics-4, or-7)
-amod(science-9, military-8)
-dobj(studies-3, science-9)
-conj:or(politics-4, science-9)
-nsubj(see-13, he-11)
-aux(see-13, 'll-12)
-root(ROOT-0, see-13)
-mark(achieved-19, that-14)
-nsubjpass(achieved-19, success-15)
-auxpass(achieved-19, is-16)
-advmod(achieved-19, nearly-17)
-advmod(achieved-19, always-18)
-ccomp(see-13, achieved-19)
-case(risks-21, by-20)
-nmod:by(achieved-19, risks-21)
-acl(risks-21, taken-22)
-advmod(taken-22, cunningly-23)
-
-But/CC one/PRP will/MD also/RB see/VB that/IN many/JJ failures/NNS are/VBP caused/VBN by/IN miscalculated/JJ or/CC misinterpretated/JJ risks/NNS ./.
-
-cc(see-5, But-1)
-nsubj(see-5, one-2)
-aux(see-5, will-3)
-advmod(see-5, also-4)
-root(ROOT-0, see-5)
-mark(caused-10, that-6)
-amod(failures-8, many-7)
-nsubjpass(caused-10, failures-8)
-auxpass(caused-10, are-9)
-ccomp(see-5, caused-10)
-case(risks-15, by-11)
-amod(risks-15, miscalculated-12)
-cc(miscalculated-12, or-13)
-conj:or(miscalculated-12, misinterpretated-14)
-amod(risks-15, misinterpretated-14)
-nmod:by(caused-10, risks-15)
-
-A/DT person/NN who/WP is/VBZ in/IN the/DT position/NN to/TO take/VB risks/NNS should/MD ever/RB be/VB aware/JJ that/IN things/NNS can/MD always/RB go/VB bad/JJ ;/: therefore/RB risks/NNS should/MD always/RB lean/VB on/IN some/DT quality/NN the/DT risk/NN taker/NN posesses/VBZ ./.
-
-det(person-2, A-1)
-nsubj(position-7, person-2)
-nsubj(aware-14, person-2)
-ref(person-2, who-3)
-cop(position-7, is-4)
-case(position-7, in-5)
-det(position-7, the-6)
-acl:relcl(person-2, position-7)
-mark(take-9, to-8)
-acl(position-7, take-9)
-dobj(take-9, risks-10)
-aux(aware-14, should-11)
-advmod(aware-14, ever-12)
-cop(aware-14, be-13)
-root(ROOT-0, aware-14)
-mark(go-19, that-15)
-nsubj(go-19, things-16)
-aux(go-19, can-17)
-advmod(go-19, always-18)
-ccomp(aware-14, go-19)
-xcomp(go-19, bad-20)
-advmod(lean-26, therefore-22)
-nsubj(lean-26, risks-23)
-aux(lean-26, should-24)
-advmod(lean-26, always-25)
-parataxis(aware-14, lean-26)
-case(quality-29, on-27)
-det(quality-29, some-28)
-nmod:on(lean-26, quality-29)
-det(taker-32, the-30)
-compound(taker-32, risk-31)
-nsubj(posesses-33, taker-32)
-acl:relcl(quality-29, posesses-33)
-
-Let/NNP 's/POS take/VBP the/DT battle/NN of/IN Thermopylai/NNP as/IN an/DT example/NN ./.
-
-nsubj(take-3, Let-1)
-case(Let-1, 's-2)
-root(ROOT-0, take-3)
-det(battle-5, the-4)
-dobj(take-3, battle-5)
-case(Thermopylai-7, of-6)
-nmod:of(battle-5, Thermopylai-7)
-case(example-10, as-8)
-det(example-10, an-9)
-nmod:as(take-3, example-10)
-
-The/DT Spartans/NNPS and/CC their/PRP$ allies/NNS took/VBD the/DT risk/NN of/IN facing/VBG an/DT Persian/JJ army/NN that/WDT multiplied/VBN them/PRP in/IN numbers/NNS ./.
-
-det(Spartans-2, The-1)
-nsubj(took-6, Spartans-2)
-cc(Spartans-2, and-3)
-nmod:poss(allies-5, their-4)
-conj:and(Spartans-2, allies-5)
-nsubj(took-6, allies-5)
-root(ROOT-0, took-6)
-det(risk-8, the-7)
-dobj(took-6, risk-8)
-mark(facing-10, of-9)
-acl(risk-8, facing-10)
-det(army-13, an-11)
-amod(army-13, Persian-12)
-dobj(facing-10, army-13)
-nsubj(multiplied-15, army-13)
-ref(army-13, that-14)
-acl:relcl(army-13, multiplied-15)
-dobj(multiplied-15, them-16)
-case(numbers-18, in-17)
-nmod:in(multiplied-15, numbers-18)
-
-The/DT Spartans/NNPS `/`` knew/VBD '/`` that/IN they/PRP had/VBD superior/JJ training/NN in/IN infantry/NN tactics/NNS and/CC that/IN the/DT battlefield/NN was/VBD not/RB fit/VBN for/IN cavalry/NN ./.
-
-det(Spartans-2, The-1)
-nsubj(knew-4, Spartans-2)
-root(ROOT-0, knew-4)
-mark(had-8, that-6)
-nsubj(had-8, they-7)
-ccomp(knew-4, had-8)
-amod(training-10, superior-9)
-dobj(had-8, training-10)
-case(tactics-13, in-11)
-compound(tactics-13, infantry-12)
-nmod:in(training-10, tactics-13)
-cc(had-8, and-14)
-mark(fit-20, that-15)
-det(battlefield-17, the-16)
-nsubjpass(fit-20, battlefield-17)
-auxpass(fit-20, was-18)
-neg(fit-20, not-19)
-ccomp(knew-4, fit-20)
-conj:and(had-8, fit-20)
-case(cavalry-22, for-21)
-nmod:for(fit-20, cavalry-22)
-
-The/DT Spartans/NNPS also/RB knew/VBD the/DT geography/NN that/WDT helped/VBD them/PRP hold/VBP the/DT persian/NN army/NN for/IN that/DT long/JJ ./.
-
-det(Spartans-2, The-1)
-nsubj(knew-4, Spartans-2)
-advmod(knew-4, also-3)
-root(ROOT-0, knew-4)
-det(geography-6, the-5)
-dobj(knew-4, geography-6)
-nsubj(helped-8, geography-6)
-ref(geography-6, that-7)
-acl:relcl(geography-6, helped-8)
-nsubj(hold-10, them-9)
-ccomp(helped-8, hold-10)
-det(army-13, the-11)
-compound(army-13, persian-12)
-dobj(hold-10, army-13)
-case(long-16, for-14)
-det(long-16, that-15)
-nmod:for(army-13, long-16)
-
-In/IN the/DT end/NN ,/, the/DT Greek/JJ allies/NNS in/IN Thermopylai/NNP held/VBD the/DT enemy/NN long/RB enough/RB for/IN the/DT assembly/NN of/IN the/DT Athenian/JJ navy/NN ./.
-
-case(end-3, In-1)
-det(end-3, the-2)
-nmod:in(held-10, end-3)
-det(allies-7, the-5)
-amod(allies-7, Greek-6)
-nsubj(held-10, allies-7)
-case(Thermopylai-9, in-8)
-nmod:in(allies-7, Thermopylai-9)
-root(ROOT-0, held-10)
-det(enemy-12, the-11)
-dobj(held-10, enemy-12)
-advmod(enough-14, long-13)
-advmod(held-10, enough-14)
-case(assembly-17, for-15)
-det(assembly-17, the-16)
-nmod:for(held-10, assembly-17)
-case(navy-21, of-18)
-det(navy-21, the-19)
-amod(navy-21, Athenian-20)
-nmod:of(assembly-17, navy-21)
-
-Hitler/NNP as/IN another/DT example/NN ,/, thought/VBD that/IN he/PRP could/MD capture/VB Moscow/NNP in/IN December/NNP 1941/CD then/RB return/VB home/NN ./.
-
-nsubj(thought-6, Hitler-1)
-case(example-4, as-2)
-det(example-4, another-3)
-nmod:as(Hitler-1, example-4)
-root(ROOT-0, thought-6)
-mark(capture-10, that-7)
-nsubj(capture-10, he-8)
-aux(capture-10, could-9)
-ccomp(thought-6, capture-10)
-dobj(capture-10, Moscow-11)
-case(December-13, in-12)
-nmod:in(Moscow-11, December-13)
-nummod(December-13, 1941-14)
-advmod(capture-10, then-15)
-dep(capture-10, return-16)
-dobj(capture-10, home-17)
-
-This/DT was/VBD a/DT miscalculated/JJ risk/NN and/CC the/DT german/NN army/NN which/WDT was/VBD n't/RB prepared/VBN for/IN winter/NN suffered/VBD dramatic/JJ losses/NNS in/IN the/DT winter/NN of/IN 1941-1942/CD ,/, when/WRB it/PRP could/MD n't/RB reach/VB its/PRP$ 1941/CD objectives/NNS ./.
-
-nsubj(risk-5, This-1)
-cop(risk-5, was-2)
-det(risk-5, a-3)
-amod(risk-5, miscalculated-4)
-root(ROOT-0, risk-5)
-cc(risk-5, and-6)
-det(army-9, the-7)
-compound(army-9, german-8)
-nsubjpass(prepared-13, army-9)
-nsubj(suffered-16, army-9)
-ref(army-9, which-10)
-auxpass(prepared-13, was-11)
-neg(prepared-13, n't-12)
-acl:relcl(army-9, prepared-13)
-case(winter-15, for-14)
-nmod:for(prepared-13, winter-15)
-conj:and(risk-5, suffered-16)
-amod(losses-18, dramatic-17)
-dobj(suffered-16, losses-18)
-case(winter-21, in-19)
-det(winter-21, the-20)
-nmod:in(suffered-16, winter-21)
-case(1941-1942-23, of-22)
-nmod:of(winter-21, 1941-1942-23)
-advmod(reach-29, when-25)
-nsubj(reach-29, it-26)
-aux(reach-29, could-27)
-neg(reach-29, n't-28)
-advcl(suffered-16, reach-29)
-nmod:poss(objectives-32, its-30)
-nummod(objectives-32, 1941-31)
-dobj(reach-29, objectives-32)
-
-Taking/VBG risks/NNS is/VBZ a/DT key/NN to/TO sucess/VB indeed/RB ./.
-
-csubj(key-5, Taking-1)
-dobj(Taking-1, risks-2)
-cop(key-5, is-3)
-det(key-5, a-4)
-root(ROOT-0, key-5)
-mark(sucess-7, to-6)
-acl(key-5, sucess-7)
-advmod(sucess-7, indeed-8)
-
-But/CC one/PRP should/MD keep/VB in/IN mind/NN that/IN miscalculation/NN and/CC ill/JJ preparedness/NN in/IN taking/VBG risks/NNS is/VBZ the/DT most/RBS likely/JJ cause/NN of/IN downfall/NN ./.
-
-cc(keep-4, But-1)
-nsubj(keep-4, one-2)
-aux(keep-4, should-3)
-root(ROOT-0, keep-4)
-case(mind-6, in-5)
-nmod:in(keep-4, mind-6)
-mark(cause-19, that-7)
-compound(preparedness-11, miscalculation-8)
-cc(miscalculation-8, and-9)
-conj:and(miscalculation-8, ill-10)
-compound(preparedness-11, ill-10)
-nsubj(cause-19, preparedness-11)
-mark(taking-13, in-12)
-acl(preparedness-11, taking-13)
-dobj(taking-13, risks-14)
-cop(cause-19, is-15)
-det(cause-19, the-16)
-advmod(likely-18, most-17)
-amod(cause-19, likely-18)
-ccomp(keep-4, cause-19)
-case(downfall-21, of-20)
-nmod:of(cause-19, downfall-21)
-
+Art_case_On
+NNP_case_On
+Art_case_IN
+NNP_case_IN
+Art_det_The
+NNP_det_The
+Art_det_DT
+NNP_det_DT
+Art_compound_Premium
+NNP_compound_Premium
+Art_compound_NNP
+NNP_compound_NNP
+Art_nmod_Taking
+NNP_nmod_Taking
+Art_nmod_NNP
+NNP_nmod_NNP
+Taking_case_of
+NNP_case_of
+Taking_case_IN
+NNP_case_IN
+Taking_compound_Risk
+NNP_compound_Risk
+Taking_compound_NNP
+NNP_compound_NNP
+cocktail_nsubj_Success
+NN_nsubj_Success
+cocktail_nsubj_NNP
+NN_nsubj_NNP
+cocktail_cop_is
+NN_cop_is
+cocktail_cop_VBZ
+NN_cop_VBZ
+cocktail_det_a
+NN_det_a
+cocktail_det_DT
+NN_det_DT
+cocktail_amod_well
+NN_amod_well
+cocktail_amod_JJ
+NN_amod_JJ
+well_advmod_very
+JJ_advmod_very
+well_advmod_RB
+JJ_advmod_RB
+cocktail_amod_balanced
+NN_amod_balanced
+cocktail_amod_JJ
+NN_amod_JJ
+keep_nsubj_person
+VB_nsubj_person
+keep_nsubj_NN
+VB_nsubj_NN
+person_det_A
+NN_det_A
+person_det_DT
+NN_det_DT
+person_acl:relcl_success
+NN_acl:relcl_success
+person_acl:relcl_NN
+NN_acl:relcl_NN
+success_nsubj_quest
+NN_nsubj_quest
+success_nsubj_NN
+NN_nsubj_NN
+quest_nmod:poss_whose
+NN_nmod:poss_whose
+quest_nmod:poss_WP$
+NN_nmod:poss_WP$
+success_cop_is
+NN_cop_is
+success_cop_VBZ
+NN_cop_VBZ
+success_case_for
+NN_case_for
+success_case_IN
+NN_case_IN
+keep_aux_should
+VB_aux_should
+keep_aux_MD
+VB_aux_MD
+keep_nmod_mind
+VB_nmod_mind
+keep_nmod_NN
+VB_nmod_NN
+mind_case_in
+NN_case_in
+mind_case_IN
+NN_case_IN
+keep_ccomp_impossible
+VB_ccomp_impossible
+keep_ccomp_JJ
+VB_ccomp_JJ
+impossible_mark_that
+JJ_mark_that
+impossible_mark_IN
+JJ_mark_IN
+impossible_advcl_taking
+JJ_advcl_taking
+impossible_advcl_VBG
+JJ_advcl_VBG
+taking_mark_without
+VBG_mark_without
+taking_mark_IN
+VBG_mark_IN
+taking_dobj_risk
+VBG_dobj_risk
+taking_dobj_NN
+VBG_dobj_NN
+impossible_nsubj_gaining
+JJ_nsubj_gaining
+impossible_nsubj_NNP
+JJ_nsubj_NNP
+impossible_cop_is
+JJ_cop_is
+impossible_cop_VBZ
+JJ_cop_VBZ
+impossible_advmod_virtually
+JJ_advmod_virtually
+impossible_advmod_RB
+JJ_advmod_RB
+art_cc_But
+NN_cc_But
+art_cc_CC
+NN_cc_CC
+art_csubj_taking
+NN_csubj_taking
+art_csubj_VBG
+NN_csubj_VBG
+taking_dobj_risks
+VBG_dobj_risks
+taking_dobj_NNS
+VBG_dobj_NNS
+art_cop_is
+NN_cop_is
+art_cop_VBZ
+NN_cop_VBZ
+art_det_an
+NN_det_an
+art_det_DT
+NN_det_DT
+art_acl:relcl_careful
+NN_acl:relcl_careful
+art_acl:relcl_JJ
+NN_acl:relcl_JJ
+careful_nmod_which
+JJ_nmod_which
+careful_nmod_WDT
+JJ_nmod_WDT
+which_case_in
+WDT_case_in
+which_case_IN
+WDT_case_IN
+careful_nsubj_one
+JJ_nsubj_one
+careful_nsubj_PRP
+JJ_nsubj_PRP
+careful_aux_should
+JJ_aux_should
+careful_aux_MD
+JJ_aux_MD
+careful_cop_be
+JJ_cop_be
+careful_cop_VB
+JJ_cop_VB
+careful_advmod_extremely
+JJ_advmod_extremely
+careful_advmod_RB
+JJ_advmod_RB
+careful_cc_and
+JJ_cc_and
+careful_cc_CC
+JJ_cc_CC
+careful_conj_wise
+JJ_conj_wise
+careful_conj_JJ
+JJ_conj_JJ
+know_ccomp_know
+VB_ccomp_know
+know_ccomp_VB
+VB_ccomp_VB
+know_nsubj_One
+VB_nsubj_One
+know_nsubj_PRP
+VB_nsubj_PRP
+know_aux_should
+VB_aux_should
+know_aux_MD
+VB_aux_MD
+know_dobj_vices
+VB_dobj_vices
+know_dobj_NNS
+VB_dobj_NNS
+vices_nmod:poss_his
+NNS_nmod:poss_his
+vices_nmod:poss_PRP$
+NNS_nmod:poss_PRP$
+vices_cc_and
+NNS_cc_and
+vices_cc_CC
+NNS_cc_CC
+vices_conj_virtues
+NNS_conj_virtues
+vices_conj_NNS
+NNS_conj_NNS
+know_nsubj_he
+VB_nsubj_he
+know_nsubj_PRP
+VB_nsubj_PRP
+know_aux_should
+VB_aux_should
+know_aux_MD
+VB_aux_MD
+know_ccomp_capable
+VB_ccomp_capable
+know_ccomp_JJ
+VB_ccomp_JJ
+capable_dobj_what
+JJ_dobj_what
+capable_dobj_WP
+JJ_dobj_WP
+capable_nsubj_he
+JJ_nsubj_he
+capable_nsubj_PRP
+JJ_nsubj_PRP
+capable_cop_is
+JJ_cop_is
+capable_cop_VBZ
+JJ_cop_VBZ
+capable_nmod_of
+JJ_nmod_of
+capable_nmod_IN
+JJ_nmod_IN
+recipe_csubj_Taking
+NN_csubj_Taking
+recipe_csubj_VBG
+NN_csubj_VBG
+Taking_dobj_risks
+VBG_dobj_risks
+Taking_dobj_NNS
+VBG_dobj_NNS
+Taking_advcl_planning
+VBG_advcl_planning
+Taking_advcl_VBG
+VBG_advcl_VBG
+planning_mark_by
+VBG_mark_by
+planning_mark_IN
+VBG_mark_IN
+planning_dobj_cunningly
+VBG_dobj_cunningly
+planning_dobj_NN
+VBG_dobj_NN
+cunningly_cc_and
+NN_cc_and
+cunningly_cc_CC
+NN_cc_CC
+cunningly_conj_regardingly
+NN_conj_regardingly
+cunningly_conj_NN
+NN_conj_NN
+cunningly_acl:relcl_know
+NN_acl:relcl_know
+cunningly_acl:relcl_VBP
+NN_acl:relcl_VBP
+know_dobj_what
+VBP_dobj_what
+know_dobj_WP
+VBP_dobj_WP
+know_nsubj_you
+VBP_nsubj_you
+know_nsubj_PRP
+VBP_nsubj_PRP
+know_advmod_already
+VBP_advmod_already
+know_advmod_RB
+VBP_advmod_RB
+know_ccomp_do
+VBP_ccomp_do
+know_ccomp_VB
+VBP_ccomp_VB
+do_advmod_how
+VB_advmod_how
+do_advmod_WRB
+VB_advmod_WRB
+do_mark_to
+VB_mark_to
+do_mark_TO
+VB_mark_TO
+do_advmod_well
+VB_advmod_well
+do_advmod_RB
+VB_advmod_RB
+recipe_cop_is
+NN_cop_is
+recipe_cop_VBZ
+NN_cop_VBZ
+recipe_det_the
+NN_det_the
+recipe_det_DT
+NN_det_DT
+recipe_nmod_elixir
+NN_nmod_elixir
+recipe_nmod_NN
+NN_nmod_NN
+elixir_case_to
+NN_case_to
+elixir_case_TO
+NN_case_TO
+elixir_det_the
+NN_det_the
+elixir_det_DT
+NN_det_DT
+see_advcl_studies
+VB_advcl_studies
+see_advcl_VBZ
+VB_advcl_VBZ
+studies_advmod_When
+VBZ_advmod_When
+studies_advmod_WRB
+VBZ_advmod_WRB
+studies_nsubj_one
+VBZ_nsubj_one
+studies_nsubj_PRP
+VBZ_nsubj_PRP
+studies_dobj_politics
+VBZ_dobj_politics
+studies_dobj_NNS
+VBZ_dobj_NNS
+politics_conj_bussiness
+NNS_conj_bussiness
+politics_conj_NNS
+NNS_conj_NNS
+politics_cc_or
+NNS_cc_or
+politics_cc_CC
+NNS_cc_CC
+politics_conj_science
+NNS_conj_science
+politics_conj_NN
+NNS_conj_NN
+science_amod_military
+NN_amod_military
+science_amod_JJ
+NN_amod_JJ
+see_nsubj_he
+VB_nsubj_he
+see_nsubj_PRP
+VB_nsubj_PRP
+see_aux_'ll
+VB_aux_'ll
+see_aux_MD
+VB_aux_MD
+see_ccomp_achieved
+VB_ccomp_achieved
+see_ccomp_VBN
+VB_ccomp_VBN
+achieved_mark_that
+VBN_mark_that
+achieved_mark_IN
+VBN_mark_IN
+achieved_nsubjpass_success
+VBN_nsubjpass_success
+achieved_nsubjpass_NN
+VBN_nsubjpass_NN
+achieved_auxpass_is
+VBN_auxpass_is
+achieved_auxpass_VBZ
+VBN_auxpass_VBZ
+achieved_advmod_nearly
+VBN_advmod_nearly
+achieved_advmod_RB
+VBN_advmod_RB
+achieved_advmod_always
+VBN_advmod_always
+achieved_advmod_RB
+VBN_advmod_RB
+achieved_nmod_risks
+VBN_nmod_risks
+achieved_nmod_NNS
+VBN_nmod_NNS
+risks_case_by
+NNS_case_by
+risks_case_IN
+NNS_case_IN
+risks_acl_taken
+NNS_acl_taken
+risks_acl_VBN
+NNS_acl_VBN
+taken_advmod_cunningly
+VBN_advmod_cunningly
+taken_advmod_RB
+VBN_advmod_RB
+see_cc_But
+VB_cc_But
+see_cc_CC
+VB_cc_CC
+see_nsubj_one
+VB_nsubj_one
+see_nsubj_PRP
+VB_nsubj_PRP
+see_aux_will
+VB_aux_will
+see_aux_MD
+VB_aux_MD
+see_advmod_also
+VB_advmod_also
+see_advmod_RB
+VB_advmod_RB
+see_ccomp_caused
+VB_ccomp_caused
+see_ccomp_VBN
+VB_ccomp_VBN
+caused_mark_that
+VBN_mark_that
+caused_mark_IN
+VBN_mark_IN
+caused_nsubjpass_failures
+VBN_nsubjpass_failures
+caused_nsubjpass_NNS
+VBN_nsubjpass_NNS
+failures_amod_many
+NNS_amod_many
+failures_amod_JJ
+NNS_amod_JJ
+caused_auxpass_are
+VBN_auxpass_are
+caused_auxpass_VBP
+VBN_auxpass_VBP
+caused_nmod_risks
+VBN_nmod_risks
+caused_nmod_NNS
+VBN_nmod_NNS
+risks_case_by
+NNS_case_by
+risks_case_IN
+NNS_case_IN
+risks_amod_miscalculated
+NNS_amod_miscalculated
+risks_amod_JJ
+NNS_amod_JJ
+miscalculated_cc_or
+JJ_cc_or
+miscalculated_cc_CC
+JJ_cc_CC
+miscalculated_conj_misinterpretated
+JJ_conj_misinterpretated
+miscalculated_conj_JJ
+JJ_conj_JJ
+aware_nsubj_person
+JJ_nsubj_person
+aware_nsubj_NN
+JJ_nsubj_NN
+person_det_A
+NN_det_A
+person_det_DT
+NN_det_DT
+person_acl:relcl_position
+NN_acl:relcl_position
+person_acl:relcl_NN
+NN_acl:relcl_NN
+position_nsubj_who
+NN_nsubj_who
+position_nsubj_WP
+NN_nsubj_WP
+position_cop_is
+NN_cop_is
+position_cop_VBZ
+NN_cop_VBZ
+position_case_in
+NN_case_in
+position_case_IN
+NN_case_IN
+position_det_the
+NN_det_the
+position_det_DT
+NN_det_DT
+position_acl_take
+NN_acl_take
+position_acl_VB
+NN_acl_VB
+take_mark_to
+VB_mark_to
+take_mark_TO
+VB_mark_TO
+take_dobj_risks
+VB_dobj_risks
+take_dobj_NNS
+VB_dobj_NNS
+aware_aux_should
+JJ_aux_should
+aware_aux_MD
+JJ_aux_MD
+aware_advmod_ever
+JJ_advmod_ever
+aware_advmod_RB
+JJ_advmod_RB
+aware_cop_be
+JJ_cop_be
+aware_cop_VB
+JJ_cop_VB
+aware_ccomp_go
+JJ_ccomp_go
+aware_ccomp_VB
+JJ_ccomp_VB
+go_mark_that
+VB_mark_that
+go_mark_IN
+VB_mark_IN
+go_nsubj_things
+VB_nsubj_things
+go_nsubj_NNS
+VB_nsubj_NNS
+go_aux_can
+VB_aux_can
+go_aux_MD
+VB_aux_MD
+go_advmod_always
+VB_advmod_always
+go_advmod_RB
+VB_advmod_RB
+go_xcomp_bad
+VB_xcomp_bad
+go_xcomp_JJ
+VB_xcomp_JJ
+aware_parataxis_lean
+JJ_parataxis_lean
+aware_parataxis_VB
+JJ_parataxis_VB
+lean_advmod_therefore
+VB_advmod_therefore
+lean_advmod_RB
+VB_advmod_RB
+lean_nsubj_risks
+VB_nsubj_risks
+lean_nsubj_NNS
+VB_nsubj_NNS
+lean_aux_should
+VB_aux_should
+lean_aux_MD
+VB_aux_MD
+lean_advmod_always
+VB_advmod_always
+lean_advmod_RB
+VB_advmod_RB
+lean_nmod_quality
+VB_nmod_quality
+lean_nmod_NN
+VB_nmod_NN
+quality_case_on
+NN_case_on
+quality_case_IN
+NN_case_IN
+quality_det_some
+NN_det_some
+quality_det_DT
+NN_det_DT
+quality_acl:relcl_posesses
+NN_acl:relcl_posesses
+quality_acl:relcl_VBZ
+NN_acl:relcl_VBZ
+posesses_nsubj_taker
+VBZ_nsubj_taker
+posesses_nsubj_NN
+VBZ_nsubj_NN
+taker_det_the
+NN_det_the
+taker_det_DT
+NN_det_DT
+taker_compound_risk
+NN_compound_risk
+taker_compound_NN
+NN_compound_NN
+take_nsubj_Let
+VBP_nsubj_Let
+take_nsubj_NNP
+VBP_nsubj_NNP
+Let_case_'s
+NNP_case_'s
+Let_case_POS
+NNP_case_POS
+take_dobj_battle
+VBP_dobj_battle
+take_dobj_NN
+VBP_dobj_NN
+battle_det_the
+NN_det_the
+battle_det_DT
+NN_det_DT
+battle_nmod_Thermopylai
+NN_nmod_Thermopylai
+battle_nmod_NNP
+NN_nmod_NNP
+Thermopylai_case_of
+NNP_case_of
+Thermopylai_case_IN
+NNP_case_IN
+take_nmod_example
+VBP_nmod_example
+take_nmod_NN
+VBP_nmod_NN
+example_case_as
+NN_case_as
+example_case_IN
+NN_case_IN
+example_det_an
+NN_det_an
+example_det_DT
+NN_det_DT
+took_nsubj_Spartans
+VBD_nsubj_Spartans
+took_nsubj_NNPS
+VBD_nsubj_NNPS
+Spartans_det_The
+NNPS_det_The
+Spartans_det_DT
+NNPS_det_DT
+Spartans_cc_and
+NNPS_cc_and
+Spartans_cc_CC
+NNPS_cc_CC
+Spartans_conj_allies
+NNPS_conj_allies
+Spartans_conj_NNS
+NNPS_conj_NNS
+allies_nmod:poss_their
+NNS_nmod:poss_their
+allies_nmod:poss_PRP$
+NNS_nmod:poss_PRP$
+took_dobj_risk
+VBD_dobj_risk
+took_dobj_NN
+VBD_dobj_NN
+risk_det_the
+NN_det_the
+risk_det_DT
+NN_det_DT
+risk_acl_facing
+NN_acl_facing
+risk_acl_VBG
+NN_acl_VBG
+facing_mark_of
+VBG_mark_of
+facing_mark_IN
+VBG_mark_IN
+facing_dobj_army
+VBG_dobj_army
+facing_dobj_NN
+VBG_dobj_NN
+army_det_an
+NN_det_an
+army_det_DT
+NN_det_DT
+army_amod_Persian
+NN_amod_Persian
+army_amod_JJ
+NN_amod_JJ
+army_acl:relcl_multiplied
+NN_acl:relcl_multiplied
+army_acl:relcl_VBN
+NN_acl:relcl_VBN
+multiplied_nsubj_that
+VBN_nsubj_that
+multiplied_nsubj_WDT
+VBN_nsubj_WDT
+multiplied_dobj_them
+VBN_dobj_them
+multiplied_dobj_PRP
+VBN_dobj_PRP
+multiplied_nmod_numbers
+VBN_nmod_numbers
+multiplied_nmod_NNS
+VBN_nmod_NNS
+numbers_case_in
+NNS_case_in
+numbers_case_IN
+NNS_case_IN
+knew_nsubj_Spartans
+VBD_nsubj_Spartans
+knew_nsubj_NNPS
+VBD_nsubj_NNPS
+Spartans_det_The
+NNPS_det_The
+Spartans_det_DT
+NNPS_det_DT
+knew_ccomp_had
+VBD_ccomp_had
+knew_ccomp_VBD
+VBD_ccomp_VBD
+had_mark_that
+VBD_mark_that
+had_mark_IN
+VBD_mark_IN
+had_nsubj_they
+VBD_nsubj_they
+had_nsubj_PRP
+VBD_nsubj_PRP
+had_dobj_training
+VBD_dobj_training
+had_dobj_NN
+VBD_dobj_NN
+training_amod_superior
+NN_amod_superior
+training_amod_JJ
+NN_amod_JJ
+training_nmod_tactics
+NN_nmod_tactics
+training_nmod_NNS
+NN_nmod_NNS
+tactics_case_in
+NNS_case_in
+tactics_case_IN
+NNS_case_IN
+tactics_compound_infantry
+NNS_compound_infantry
+tactics_compound_NN
+NNS_compound_NN
+had_cc_and
+VBD_cc_and
+had_cc_CC
+VBD_cc_CC
+had_conj_fit
+VBD_conj_fit
+had_conj_VBN
+VBD_conj_VBN
+fit_mark_that
+VBN_mark_that
+fit_mark_IN
+VBN_mark_IN
+fit_nsubjpass_battlefield
+VBN_nsubjpass_battlefield
+fit_nsubjpass_NN
+VBN_nsubjpass_NN
+battlefield_det_the
+NN_det_the
+battlefield_det_DT
+NN_det_DT
+fit_auxpass_was
+VBN_auxpass_was
+fit_auxpass_VBD
+VBN_auxpass_VBD
+fit_neg_not
+VBN_neg_not
+fit_neg_RB
+VBN_neg_RB
+fit_nmod_cavalry
+VBN_nmod_cavalry
+fit_nmod_NN
+VBN_nmod_NN
+cavalry_case_for
+NN_case_for
+cavalry_case_IN
+NN_case_IN
+knew_nsubj_Spartans
+VBD_nsubj_Spartans
+knew_nsubj_NNPS
+VBD_nsubj_NNPS
+Spartans_det_The
+NNPS_det_The
+Spartans_det_DT
+NNPS_det_DT
+knew_advmod_also
+VBD_advmod_also
+knew_advmod_RB
+VBD_advmod_RB
+knew_dobj_geography
+VBD_dobj_geography
+knew_dobj_NN
+VBD_dobj_NN
+geography_det_the
+NN_det_the
+geography_det_DT
+NN_det_DT
+geography_acl:relcl_helped
+NN_acl:relcl_helped
+geography_acl:relcl_VBD
+NN_acl:relcl_VBD
+helped_nsubj_that
+VBD_nsubj_that
+helped_nsubj_WDT
+VBD_nsubj_WDT
+helped_ccomp_hold
+VBD_ccomp_hold
+helped_ccomp_VBP
+VBD_ccomp_VBP
+hold_nsubj_them
+VBP_nsubj_them
+hold_nsubj_PRP
+VBP_nsubj_PRP
+hold_dobj_army
+VBP_dobj_army
+hold_dobj_NN
+VBP_dobj_NN
+army_det_the
+NN_det_the
+army_det_DT
+NN_det_DT
+army_compound_persian
+NN_compound_persian
+army_compound_NN
+NN_compound_NN
+army_nmod_long
+NN_nmod_long
+army_nmod_JJ
+NN_nmod_JJ
+long_case_for
+JJ_case_for
+long_case_IN
+JJ_case_IN
+long_det_that
+JJ_det_that
+long_det_DT
+JJ_det_DT
+held_nmod_end
+VBD_nmod_end
+held_nmod_NN
+VBD_nmod_NN
+end_case_In
+NN_case_In
+end_case_IN
+NN_case_IN
+end_det_the
+NN_det_the
+end_det_DT
+NN_det_DT
+held_nsubj_allies
+VBD_nsubj_allies
+held_nsubj_NNS
+VBD_nsubj_NNS
+allies_det_the
+NNS_det_the
+allies_det_DT
+NNS_det_DT
+allies_amod_Greek
+NNS_amod_Greek
+allies_amod_JJ
+NNS_amod_JJ
+allies_nmod_Thermopylai
+NNS_nmod_Thermopylai
+allies_nmod_NNP
+NNS_nmod_NNP
+Thermopylai_case_in
+NNP_case_in
+Thermopylai_case_IN
+NNP_case_IN
+held_dobj_enemy
+VBD_dobj_enemy
+held_dobj_NN
+VBD_dobj_NN
+enemy_det_the
+NN_det_the
+enemy_det_DT
+NN_det_DT
+held_advmod_enough
+VBD_advmod_enough
+held_advmod_RB
+VBD_advmod_RB
+enough_advmod_long
+RB_advmod_long
+enough_advmod_RB
+RB_advmod_RB
+held_nmod_assembly
+VBD_nmod_assembly
+held_nmod_NN
+VBD_nmod_NN
+assembly_case_for
+NN_case_for
+assembly_case_IN
+NN_case_IN
+assembly_det_the
+NN_det_the
+assembly_det_DT
+NN_det_DT
+assembly_nmod_navy
+NN_nmod_navy
+assembly_nmod_NN
+NN_nmod_NN
+navy_case_of
+NN_case_of
+navy_case_IN
+NN_case_IN
+navy_det_the
+NN_det_the
+navy_det_DT
+NN_det_DT
+navy_amod_Athenian
+NN_amod_Athenian
+navy_amod_JJ
+NN_amod_JJ
+thought_nsubj_Hitler
+VBD_nsubj_Hitler
+thought_nsubj_NNP
+VBD_nsubj_NNP
+Hitler_nmod_example
+NNP_nmod_example
+Hitler_nmod_NN
+NNP_nmod_NN
+example_case_as
+NN_case_as
+example_case_IN
+NN_case_IN
+example_det_another
+NN_det_another
+example_det_DT
+NN_det_DT
+thought_ccomp_capture
+VBD_ccomp_capture
+thought_ccomp_VB
+VBD_ccomp_VB
+capture_mark_that
+VB_mark_that
+capture_mark_IN
+VB_mark_IN
+capture_nsubj_he
+VB_nsubj_he
+capture_nsubj_PRP
+VB_nsubj_PRP
+capture_aux_could
+VB_aux_could
+capture_aux_MD
+VB_aux_MD
+capture_dobj_Moscow
+VB_dobj_Moscow
+capture_dobj_NNP
+VB_dobj_NNP
+Moscow_nmod_December
+NNP_nmod_December
+Moscow_nmod_NNP
+NNP_nmod_NNP
+December_case_in
+NNP_case_in
+December_case_IN
+NNP_case_IN
+December_nummod_1941
+NNP_nummod_1941
+December_nummod_CD
+NNP_nummod_CD
+capture_advmod_then
+VB_advmod_then
+capture_advmod_RB
+VB_advmod_RB
+capture_dep_return
+VB_dep_return
+capture_dep_VB
+VB_dep_VB
+capture_dobj_home
+VB_dobj_home
+capture_dobj_NN
+VB_dobj_NN
+risk_nsubj_This
+NN_nsubj_This
+risk_nsubj_DT
+NN_nsubj_DT
+risk_cop_was
+NN_cop_was
+risk_cop_VBD
+NN_cop_VBD
+risk_det_a
+NN_det_a
+risk_det_DT
+NN_det_DT
+risk_amod_miscalculated
+NN_amod_miscalculated
+risk_amod_JJ
+NN_amod_JJ
+risk_cc_and
+NN_cc_and
+risk_cc_CC
+NN_cc_CC
+risk_conj_suffered
+NN_conj_suffered
+risk_conj_VBD
+NN_conj_VBD
+suffered_nsubj_army
+VBD_nsubj_army
+suffered_nsubj_NN
+VBD_nsubj_NN
+army_det_the
+NN_det_the
+army_det_DT
+NN_det_DT
+army_compound_german
+NN_compound_german
+army_compound_NN
+NN_compound_NN
+army_acl:relcl_prepared
+NN_acl:relcl_prepared
+army_acl:relcl_VBN
+NN_acl:relcl_VBN
+prepared_nsubjpass_which
+VBN_nsubjpass_which
+prepared_nsubjpass_WDT
+VBN_nsubjpass_WDT
+prepared_auxpass_was
+VBN_auxpass_was
+prepared_auxpass_VBD
+VBN_auxpass_VBD
+prepared_neg_n't
+VBN_neg_n't
+prepared_neg_RB
+VBN_neg_RB
+prepared_nmod_winter
+VBN_nmod_winter
+prepared_nmod_NN
+VBN_nmod_NN
+winter_case_for
+NN_case_for
+winter_case_IN
+NN_case_IN
+suffered_dobj_losses
+VBD_dobj_losses
+suffered_dobj_NNS
+VBD_dobj_NNS
+losses_amod_dramatic
+NNS_amod_dramatic
+losses_amod_JJ
+NNS_amod_JJ
+suffered_nmod_winter
+VBD_nmod_winter
+suffered_nmod_NN
+VBD_nmod_NN
+winter_case_in
+NN_case_in
+winter_case_IN
+NN_case_IN
+winter_det_the
+NN_det_the
+winter_det_DT
+NN_det_DT
+winter_nmod_1941-1942
+NN_nmod_1941-1942
+winter_nmod_CD
+NN_nmod_CD
+1941-1942_case_of
+CD_case_of
+1941-1942_case_IN
+CD_case_IN
+suffered_advcl_reach
+VBD_advcl_reach
+suffered_advcl_VB
+VBD_advcl_VB
+reach_advmod_when
+VB_advmod_when
+reach_advmod_WRB
+VB_advmod_WRB
+reach_nsubj_it
+VB_nsubj_it
+reach_nsubj_PRP
+VB_nsubj_PRP
+reach_aux_could
+VB_aux_could
+reach_aux_MD
+VB_aux_MD
+reach_neg_n't
+VB_neg_n't
+reach_neg_RB
+VB_neg_RB
+reach_dobj_objectives
+VB_dobj_objectives
+reach_dobj_NNS
+VB_dobj_NNS
+objectives_nmod:poss_its
+NNS_nmod:poss_its
+objectives_nmod:poss_PRP$
+NNS_nmod:poss_PRP$
+objectives_nummod_1941
+NNS_nummod_1941
+objectives_nummod_CD
+NNS_nummod_CD
+key_csubj_Taking
+NN_csubj_Taking
+key_csubj_VBG
+NN_csubj_VBG
+Taking_dobj_risks
+VBG_dobj_risks
+Taking_dobj_NNS
+VBG_dobj_NNS
+key_cop_is
+NN_cop_is
+key_cop_VBZ
+NN_cop_VBZ
+key_det_a
+NN_det_a
+key_det_DT
+NN_det_DT
+key_acl_sucess
+NN_acl_sucess
+key_acl_VB
+NN_acl_VB
+sucess_mark_to
+VB_mark_to
+sucess_mark_TO
+VB_mark_TO
+sucess_advmod_indeed
+VB_advmod_indeed
+sucess_advmod_RB
+VB_advmod_RB
+keep_cc_But
+VB_cc_But
+keep_cc_CC
+VB_cc_CC
+keep_nsubj_one
+VB_nsubj_one
+keep_nsubj_PRP
+VB_nsubj_PRP
+keep_aux_should
+VB_aux_should
+keep_aux_MD
+VB_aux_MD
+keep_nmod_mind
+VB_nmod_mind
+keep_nmod_NN
+VB_nmod_NN
+mind_case_in
+NN_case_in
+mind_case_IN
+NN_case_IN
+keep_ccomp_cause
+VB_ccomp_cause
+keep_ccomp_NN
+VB_ccomp_NN
+cause_mark_that
+NN_mark_that
+cause_mark_IN
+NN_mark_IN
+cause_nsubj_preparedness
+NN_nsubj_preparedness
+cause_nsubj_NN
+NN_nsubj_NN
+preparedness_compound_miscalculation
+NN_compound_miscalculation
+preparedness_compound_NN
+NN_compound_NN
+miscalculation_cc_and
+NN_cc_and
+miscalculation_cc_CC
+NN_cc_CC
+miscalculation_conj_ill
+NN_conj_ill
+miscalculation_conj_JJ
+NN_conj_JJ
+preparedness_acl_taking
+NN_acl_taking
+preparedness_acl_VBG
+NN_acl_VBG
+taking_mark_in
+VBG_mark_in
+taking_mark_IN
+VBG_mark_IN
+taking_dobj_risks
+VBG_dobj_risks
+taking_dobj_NNS
+VBG_dobj_NNS
+cause_cop_is
+NN_cop_is
+cause_cop_VBZ
+NN_cop_VBZ
+cause_det_the
+NN_det_the
+cause_det_DT
+NN_det_DT
+cause_amod_likely
+NN_amod_likely
+cause_amod_JJ
+NN_amod_JJ
+likely_advmod_most
+JJ_advmod_most
+likely_advmod_RBS
+JJ_advmod_RBS
+cause_nmod_downfall
+NN_nmod_downfall
+cause_nmod_NN
+NN_nmod_NN
+downfall_case_of
+NN_case_of
+downfall_case_IN
+NN_case_IN
