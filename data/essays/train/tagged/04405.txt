@@ -1,0 +1,16 @@
+Some_DT people_NNS may_MD think_VB that_IN the_DT current_JJ usage_NN in_IN cars_NNS is_VBZ not_RB sustainable_JJ from_IN an_DT environmental_JJ reason_NN ._.
+However_RB ,_, I_PRP disagree_VBP to_TO the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS time_NN ,_, based_VBN on_IN increases_NNS in_IN the_DT world_NN population_NN and_CC improvement_NN in_IN the_DT quality_NN of_IN life_NN among_IN the_DT developing_VBG countries_NNS ._.
+First_RB ,_, the_DT population_NN of_IN the_DT world_NN is_VBZ growing_VBG on_IN a_DT continuous_JJ basis_NN ,_, and_CC it_PRP is_VBZ not_RB sensible_JJ to_TO assume_VB that_DT number_NN of_IN cars_NNS will_MD not_RB grow_VB at_IN least_JJS in_IN a_DT linear_JJ manner_NN ,_, simply_RB because_IN car_NN is_VBZ necessary_JJ for_IN transportaion_NN ._.
+Facing_VBG necessity_NN ,_, the_DT environmental_JJ issues_NNS need_VBP to_TO be_VB dealt_VBN elsewhere_RB ,_, not_RB by_IN decreasing_VBG the_DT number_NN of_IN cars_NNS ,_, but_CC by_IN replacing_VBG the_DT cars_NNS with_IN environmentally_RB friendly_JJ fuels_NNS ._.
+The_DT current_JJ development_NN in_IN the_DT area_NN of_IN batteries_NNS and_CC solar_JJ energies_NNS seems_VBZ promising_JJ ._.
+Second_RB ,_, many_JJ third_JJ world_NN and_CC developing_VBG countires_NNS are_VBP growing_VBG rapidly_RB ._.
+15_CD years_NNS ago_RB ,_, car_NN was_VBD owned_VBN by_IN limited_JJ number_NN of_IN people_NNS in_IN China_NNP ._.
+Today_NN ,_, roads_NNS in_IN big_JJ cities_NNS like_IN Shanghai_NNP are_VBP congested_VBN with_IN cars_NNS and_CC you_PRP can_MD barely_RB move_VB ._.
+Buying_VBG cars_NNS is_VBZ a_DT current_JJ new_JJ trend_NN in_IN China_NNP among_IN young_JJ people_NNS ._.
+They_PRP have_VBP become_VBN able_JJ to_TO purchase_VB cars_NNS because_IN their_PRP$ income_NN basis_NN has_VBZ improved_VBN ._.
+Countries_NNS in_IN the_DT Middle_NNP East_NNP and_CC Russia_NNP are_VBP following_VBG the_DT same_JJ situation_NN ._.
+Going_VBG forward_RB ,_, countries_NNS from_IN Africa_NNP is_VBZ expected_VBN to_TO follow_VB ._.
+People_NNS have_VBP a_DT necessity_NN to_TO transport_NN ,_, and_CC once_RB you_PRP obtain_VB a_DT certain_JJ level_NN in_IN your_PRP$ quality_NN of_IN life_NN ,_, it_PRP is_VBZ extremely_RB difficult_JJ to_TO lower_VB them_PRP ._.
+I_PRP believe_VBP that_IN the_DT only_JJ possibility_NN to_TO have_VB less_JJR cars_NNS in_IN the_DT future_JJ needs_NNS to_TO come_VB from_IN a_DT technological_JJ invention_NN that_WDT replaces_VBZ cars_NNS to_TO other_JJ type_NN of_IN methods_NNS ._.
+However_RB ,_, twenty_CD years_NNS is_VBZ a_DT relatively_RB foreseebale_JJ future_NN ,_, and_CC the_DT fact_NN that_IN we_PRP are_VBP not_RB aware_JJ of_IN any_DT invention_NN leads_VBZ me_PRP to_TO believe_VB that_IN cars_NNS will_MD keep_VB on_IN increasing_VBG in_IN the_DT future_NN ._.
+Therefore_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN today_NN ._.

@@ -1,0 +1,13 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+I_PRP disagree_VBP this_DT because_IN half_DT knowledge_NN is_VBZ always_RB harmful_JJ ._.
+The_DT primary_JJ reason_NN why_WRB I_PRP prefer_VBP specialization_NN in_IN one_CD specific_JJ subject_NN is_VBZ specialization_NN gives_VBZ you_PRP indepth_JJ study_NN of_IN the_DT subject_NN which_WDT could_MD be_VB very_RB useful_JJ in_IN the_DT real_JJ time_NN applications_NNS ._.
+For_IN example_NN a_DT computer_NN engineer_NN can_MD not_RB be_VB an_DT efficient_JJ cardiologist_NN ._.
+This_DT may_MD effect_VB the_DT heart_NN patient_NN ._.
+Another_DT reason_NN for_IN specializing_VBG in_IN one_CD subjet_NN is_VBZ you_PRP can_MD discover_VB new_JJ things_NNS after_IN going_VBG across_IN insight_NN information_NN of_IN the_DT subject_NN ._.
+Most_JJS of_IN the_DT discoveries_NNS have_VBP been_VBN made_VBN by_IN the_DT scientists_NNS only_RB after_IN specializing_VBG in_IN one_CD subject_NN ._.
+That_DT is_VBZ after_IN conducting_VBG repeated_VBN experiments_NNS on_IN one_CD thing_NN ._.
+Thirdly_RB ,_, specialization_NN improves_VBZ creativity_NN in_IN a_DT person_NN ._.
+In_IN every_DT field_NN specialization_NN is_VBZ the_DT essential_JJ component_NN ._.
+However_RB it_PRP is_VBZ better_JJR to_TO have_VB some_DT knowledge_NN of_IN many_JJ academic_JJ subjects_NNS and_CC that_DT is_VBZ why_WRB when_WRB you_PRP come_VBP from_IN graduation_NN to_TO post_VB graduation_NN then_RB to_TO phd_NN ,_, you_PRP are_VBP supposed_VBN to_TO take_VB specialized_JJ subjects_NNS ._.
+Therefore_RB based_VBN on_IN the_DT specialization_NN students_NNS are_VBP classified_VBN as_IN computer_NN engineers_NNS ,_, electronic_JJ engineer_NN ,_, doctors_NNS and_CC so_RB on_IN ._.
+In_IN conclusion_NN ,_, I_PRP strongly_RB recommend_VBP that_IN specialization_NN in_IN one_CD subject_NN is_VBZ better_JJR than_IN having_VBG broad_JJ knowledge_NN on_IN many_JJ academic_JJ subjects_NNS ._.

@@ -1,0 +1,6 @@
+Learning_NNP facts_NNS is_VBZ more_RBR important_JJ than_IN understanding_VBG ideas_NNS and_CC concepts_NNS ._.
+In_IN my_PRP$ opinion_NN i_FW disagree_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ First_JJ reason_NN is_VBZ that_IN experincing_VBG ideas_NNS and_CC lessons_NNS is_VBZ more_RBR effective_JJ way_NN to_TO try_VB them_PRP in_IN our_PRP$ daily_JJ lives_NNS ._.
+We_PRP learn_VBP many_JJ things_NNS in_IN school_NN and_CC from_IN friends_NNS but_CC when_WRB to_TO do_VB and_CC get_VB benefit_NN from_IN them_PRP ._.
+Second_JJ reason_NN is_VBZ that_IN understanding_VBG ideas_NNS is_VBZ more_RBR likely_JJ to_TO lose_VB than_IN learning_VBG facts_NNS ._.
+We_PRP someone_NN learns_VBZ a_DT fact_NN ,_, it_PRP stays_VBZ in_IN his_PRP$ or_CC her_PRP$ mine_NN because_IN it_PRP is_VBZ a_DT fact_NN ._.
+Third_JJ reason_NN is_VBZ that_IN learning_VBG facts_NNS is_VBZ more_RBR interesting_JJ understand_VBP concepts_NNS ._.

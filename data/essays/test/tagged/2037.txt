@@ -1,0 +1,13 @@
+Today_NN ,_, people_NNS debat_VBP either_RB important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS or_CC to_TO learn_VB facts_NNS ._.
+Some_DT people_NNS claims_VBZ that_IN it_PRP is_VBZ the_DT most_RBS important_JJ things_NNS for_IN students_NNS to_TO learn_VB facts_NNS because_IN learning_VBG facts_NNS is_VBZ basement_NN ._.
+However_RB I_PRP suggest_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+that_DT is_VBZ beacuse_NN understanding_NN ideas_NNS and_CC concepts_NNS help_VBP them_PRP to_TO remember_VB more_JJR things_NNS and_CC to_TO encourage_VB thier_JJR thinkings_NNS ._.
+First_NNP of_IN all_DT ,_, last_JJ school_NN usually_RB tought_JJ student_NN the_DT common_JJ fact_NN such_JJ as_IN history_NN and_CC principal_NN theory_NN of_IN science_NN and_CC test_NN for_IN students_NNS to_TO remmeber_NN learnig_NN things_NNS ._.
+But_CC today_NN school_NN teaches_VBZ the_DT reasons_NNS why_WRB the_DT fact_NN happens_VBZ because_IN it_PRP make_VBP students_NNS not_RB only_RB to_TO know_VB the_DT fact_NN but_CC also_RB to_TO understand_VB ideas_NNS and_CC concept_NN ._.
+For_IN examaple_NN ,_, I_PRP remmeber_VBP what_WP principal_NN 's_POS graviety_NN is_VBZ ._.
+My_PRP$ teacher_NN explain_VB it_PRP 's_VBZ concept_NN by_IN using_VBG experiment_NN ._.
+Second_RB ,_, Understanding_VBG ideas_NNS and_CC cocepts_NNS improve_VBP for_IN students_NNS to_TO have_VB creative_JJ and_CC considerable_JJ thinking_NN ._.
+If_IN you_PRP spends_VBZ lots_NNS of_IN times_NNS to_TO solve_VB problems_NNS and_CC to_TO consider_VB why_WRB facts_NNS happens_VBZ ,_, you_PRP could_MD feel_VB that_IN your_PRP$ capability_NN of_IN thinking_VBG becomes_VBZ better_JJR creative_JJ and_CC considerable_JJ ._.
+Thoes_NNS are_VBP why_WRB I_PRP claims_VBZ that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concets_NNS than_IN to_TO learn_VB facts_NNS ._.
+I_PRP believe_VBP that_IN student_NN learn_VBP the_DT facts_NNS by_IN understanding_VBG the_DT fact_NN 's_POS concept_NN ._.
+That_DT help_NN students_NNS to_TO remmeber_VB the_DT facts_NNS longer_RBR and_CC to_TO understand_VB other_JJ facts_NNS more_RBR easy_JJ

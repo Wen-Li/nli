@@ -1,0 +1,23 @@
+I_PRP would_MD like_VB to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN learning_VBG facts_NNS ._.
+There_EX are_VBP several_JJ reasons_NNS why_WRB I_PRP prefer_VBP this_DT way_NN ._.
+First_RB ,_, a_DT fact_NN can_MD be_VB more_RBR easily_RB to_TO use_VB if_IN you_PRP know_VBP the_DT concept_NN of_IN it_PRP ._.
+If_IN you_PRP do_VBP n't_RB have_VB any_DT idea_NN about_IN some_DT facts_NNS ,_, you_PRP ca_MD n't_RB go_VB further_JJ step_NN in_IN order_NN to_TO improve_VB your_PRP$ ability_NN ._.
+For_IN example_NN ,_, let_VB 's_POS say_VB you_PRP know_VB many_JJ formulas_NNS about_IN math_NN ,_, but_CC does_VBZ n't_RB know_VB how_WRB to_TO use_VB it_PRP ._.
+Of_IN course_NN it_PRP is_VBZ really_RB important_JJ to_TO know_VB formulas_NNS ._.
+But_CC ,_, when_WRB you_PRP have_VBP a_DT math_NN test_NN ,_, you_PRP will_MD be_VB confuse_VB because_IN you_PRP have_VBP no_DT idea_NN what_WP the_DT formulas_NNS mean_VBP ._.
+You_PRP 'll_MD have_VB variety_NN of_IN facts_NNS ,_, but_CC you_PRP ca_MD n't_RB use_VB it_PRP properly_RB ._.
+By_IN contrast_NN ,_, if_IN you_PRP understand_VBP the_DT concept_NN of_IN the_DT formulas_NNS ,_, you_PRP know_VBP how_WRB and_CC when_WRB to_TO use_VB it_PRP ._.
+Secondly_RB ,_, if_IN you_PRP know_VBP the_DT concepts_NNS of_IN something_NN ,_, it_PRP is_VBZ easily_RB to_TO understand_VB the_DT facts_NNS ._.
+This_DT is_VBZ because_IN you_PRP feel_VBP comfortable_JJ when_WRB you_PRP have_VBP some_DT images_NNS that_WDT are_VBP related_JJ to_TO the_DT facts_NNS ._.
+I_PRP can_MD say_VB this_DT by_IN using_VBG example_NN from_IN math_NN formulas_NNS again_RB ._.
+If_IN you_PRP have_VBP images_NNS of_IN basic_JJ formulas_NNS ,_, you_PRP should_MD n't_RB have_VB hard_JJ time_NN to_TO memorize_VB many_JJ formulas_NNS at_IN the_DT same_JJ time_NN ._.
+Sometimes_RB I_PRP get_VBP confuse_VB when_WRB I_PRP encounter_VBP to_TO new_JJ rules_NNS we_PRP use_VBP in_IN the_DT math_NN class_NN ._.
+This_DT is_VBZ because_IN I_PRP do_VBP n't_RB have_VB a_DT basic_JJ understanding_NN about_IN formulas_NNS ,_, which_WDT means_VBZ I_PRP have_VBP no_DT ideas_NNS about_IN it_PRP ._.
+When_WRB I_PRP know_VBP how_WRB to_TO prove_VB why_WRB the_DT formula_NN can_MD be_VB used_VBN ,_, I_PRP have_VBP deep_JJ idea_NN about_IN it_PRP ,_, so_IN it_PRP is_VBZ not_RB painful_JJ to_TO memorize_VB it_PRP ._.
+Also_RB ,_, if_IN I_PRP know_VBP some_DT backgrounds_NNS of_IN these_DT formulas_NNS ,_, I_PRP do_VBP well_RB on_IN the_DT math_NN exam_NN ._.
+Finally_RB ,_, you_PRP can_MD improve_VB in_IN some_DT ways_NNS by_IN understanding_VBG the_DT concepts_NNS ._.
+When_WRB I_PRP play_VBP golf_NN ,_, the_DT ball_NN curve_NN from_IN right_NN to_TO left_VBN ._.
+If_IN I_PRP want_VBP to_TO fix_VB this_DT curving_NN ,_, I_PRP ca_MD n't_RB just_RB shots_NNS millions_NNS of_IN balls_NNS until_IN I_PRP could_MD finally_RB make_VB it_PRP straight_RB ._.
+At_IN first_RB ,_, I_PRP have_VBP to_TO know_VB why_WRB and_CC how_WRB a_DT golf_NN ball_NN makes_VBZ a_DT curve_NN ._.
+This_DT part_NN is_VBZ the_DT concept_NN ._.
+Once_RB I_PRP got_VBD some_DT basic_JJ ideas_NNS ,_, now_RB I_PRP can_MD hit_VB and_CC try_VB some_DT different_JJ swings_NNS in_IN order_NN to_TO make_VB the_DT ball_NN straight_RB ._.

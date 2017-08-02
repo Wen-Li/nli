@@ -1,0 +1,18 @@
+I_PRP believe_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG only_RB facts_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, there_EX are_VBP several_JJ reasons_NNS why_WRB ideas_NNS are_VBP more_RBR important_JJ than_IN facts_NNS ._.
+For_IN instance_NN ,_, while_IN I_PRP was_VBD attending_VBG history_NN course_NN ,_, which_WDT is_VBZ often_RB believed_VBN to_TO be_VB made_VBN only_RB of_IN facts_NNS ,_, I_PRP realized_VBD that_IN some_DT events_NNS are_VBP common_JJ in_IN different_JJ periods_NNS ._.
+Therefore_RB ,_, when_WRB I_PRP was_VBD able_JJ to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS ,_, I_PRP was_VBD also_RB able_JJ to_TO catalog_NN similar_JJ events_NNS in_IN big_JJ caterogories_NNS and_CC this_DT way_NN of_IN learnig_NN helped_VBD me_PRP in_IN getting_VBG a_DT good_JJ mark_NN in_IN the_DT exam_NN ._.
+Moreover_RB ,_, while_IN I_PRP was_VBD attending_VBG the_DT university_NN I_PRP realized_VBD that_IN the_DT way_NN of_IN learning_VBG ideas_NNS and_CC concepts_NNS is_VBZ really_RB imporant_JJ ._.
+For_IN example_NN ,_, a_DT course_NN can_MD explain_VB with_IN some_DT examples_NNS how_WRB to_TO deal_VB with_IN certain_JJ issues_NNS ._.
+However_RB ,_, it_PRP may_MD occur_VB that_IN a_DT different_JJ issues_NNS occurs_VBZ so_RB ,_, I_PRP believe_VBP that_IN only_RB whether_IN you_PRP understood_VBD the_DT ideas_NNS you_PRP might_MD solve_VB this_DT new_JJ issue_NN ._.
+An_DT example_NN ,_, that_WDT confirmed_VBD that_IN ideas_NNS and_CC concepts_NNS are_VBP more_RBR important_JJ than_IN facts_NNS ,_, is_VBZ what_WP happened_VBD last_JJ year_NN during_IN the_DT electronic_JJ laboratory_NN course_NN ._.
+I_PRP and_CC my_PRP$ friends_NNS were_VBD working_VBG on_IN ``_`` led_VBD ''_'' ,_, light_JJ emitting_VBG diode_NN ,_, and_CC we_PRP were_VBD measuring_VBG the_DT emssion_NN of_IN the_DT light_NN ._.
+We_PRP were_VBD using_VBG a_DT particular_JJ instrument_NN to_TO get_VB the_DT measures_NNS when_WRB it_PRP stopped_VBD to_TO working_VBG ._.
+We_PRP were_VBD worried_VBN because_IN we_PRP knew_VBD that_DT was_VBD the_DT only_JJ instrument_NN to_TO do_VB that_DT kind_NN of_IN measure_NN ._.
+What_WP is_VBZ more_JJR we_PRP studied_VBD only_RB how_WRB to_TO use_VB that_DT kind_NN of_IN instrument_NN and_CC other_JJ types_NNS ._.
+Our_PRP$ professor_NN told_VBD us_PRP that_IN also_RB it_PRP was_VBD impossible_JJ to_TO repair_VB it_PRP ._.
+We_PRP thought_VBD we_PRP lost_VBD all_PDT the_DT experiment_NN ,_, but_CC it_PRP was_VBD not_RB true_JJ ._.
+While_IN we_PRP were_VBD reading_VBG the_DT the_DT manual_NN we_PRP understood_VBD that_IN that_IN istrument_NN was_VBD only_RB the_DT combination_NN of_IN two_CD well_RB known_VBN instrument_NN :_: a_DT ''_'' wave_NN generator_NN ''_'' and_CC ''_'' amperometer_NN ''_'' ._.
+We_PRP got_VBD the_DT ideas_NNS ._.
+We_PRP were_VBD able_JJ to_TO build_VB our_PRP$ instrument_NN and_CC continue_VB the_DT experiment_NN ._.
+We_PRP were_VBD really_RB happy_JJ of_IN what_WP we_PRP had_VBD done_VBN and_CC we_PRP understood_VBD that_IN the_DT we_PRP were_VBD able_JJ to_TO finish_VB our_PRP$ experiment_NN ony_NN because_IN of_IN ablity_NN to_TO abstract_JJ ideas_NNS and_CC concept_NN that_IN we_PRP had_VBD understood_VBN in_IN the_DT past_NN ._.

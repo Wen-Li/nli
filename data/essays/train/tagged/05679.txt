@@ -1,0 +1,3 @@
+I_PRP have_VBP to_TO say_VB agree_VBP and_CC disagree_VBP ._.
+First_NNP of_IN all_DT ,_, why_WRB I_PRP agree_VBP is_VBZ because_IN only_RB learn_VBP can_MD not_RB understund_VB ._.
+But_CC same_JJ time_NN why_WRB I_PRP disageree_VBP is_VBZ because_IN every_DT body_NN has_VBZ another_DT oppinion_NN so_RB

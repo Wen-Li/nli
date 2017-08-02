@@ -1,0 +1,15 @@
+I_PRP disagree_VBP with_IN statement_NN about_IN to_TO have_VB broad_JJ knowledge_NN on_IN many_JJ academic_JJ subjects_NNS rather_RB specializing_VBG in_IN one_CD specific_JJ subject_NN ._.
+It_PRP is_VBZ always_RB better_JJR to_TO have_VB one_CD subject_JJ to_TO get_VB specialised_VBN more_RBR because_IN it_PRP makes_VBZ the_DT person_NN strong_JJ enough_RB to_TO compete_VB for_IN certain_JJ jobs_NNS which_WDT especially_RB requires_VBZ specialization_NN in_IN some_DT particular_JJ subject_NN ._.
+I_PRP have_VBP presented_VBN some_DT examples_NNS below_IN to_TO support_VB my_PRP$ arguement_NN ._.
+I_PRP have_VBP got_VBN two_CD friends_NNS who_WP are_VBP studying_VBG their_PRP$ undergraduation_NN in_IN ``_`` MECHANICAL_NNP ''_'' ,_, ``_`` MECHATRONOICS_NN ''_'' as_IN their_PRP$ majors_NNS ._.
+The_DT subjects_NNS involved_VBN in_IN mechanical_JJ are_VBP purely_RB related_VBN to_TO concepts_NNS based_VBN on_IN mechanical_JJ ._.
+But_CC the_DT subjects_NNS involved_VBN in_IN mechatronics_NNS are_VBP related_JJ to_TO mechanical_JJ ,_, electronics_NNS ,_, little_JJ bit_NN of_IN computer_NN science_NN ,_, i.e_JJ mechatronics_NNS is_VBZ a_DT combination_NN of_IN the_DT subjects_NNS ._.
+when_WRB my_PRP$ both_DT friends_NNS completed_VBD their_PRP$ undergraduation_NN in_IN their_PRP$ respective_JJ fields_NNS ,_, i_FW observed_VBN that_IN the_DT person_NN who_WP done_VBD his_PRP$ major_JJ in_IN mechanical_JJ were_VBD able_JJ to_TO hire_VB or_CC get_VB the_DT job_NN easily_RB ._.
+In_IN case_NN of_IN other_JJ friend_NN this_DT has_VBZ not_RB happened_VBN ._.
+Here_RB he_PRP is_VBZ eligible_JJ to_TO attend_VB the_DT companies_NNS which_WDT requries_VBZ mechanical_JJ ._.
+electronics_NNS ,_, computerscience_NN background_NN knowledge_NN independently_RB ,_, that_IN sounds_VBZ to_TO be_VB more_RBR specification_NN in_IN the_DT subjects_NNS mentioned_VBN above_IN ._.
+Here_RB my_PRP$ friend_NN was_VBD unable_JJ to_TO pursue_VB the_DT job_NN as_IN he_PRP lacks_VBZ more_RBR knowledge_NN in_IN depth_NN to_TO be_VB required_VBN for_IN a_DT particular_JJ company_NN ._.
+Therefore_RB for_IN every_DT individual_NN it_PRP is_VBZ essential_JJ to_TO have_VB an_DT keen_JJ thorough_JJ knowledge_NN or_CC specialization_NN in_IN particular_JJ academic_JJ subject_NN rather_RB than_IN having_VBG a_DT broad_JJ knowledge_NN on_IN many_JJ subjects_NNS ._.
+This_DT case_NN can_MD better_RB be_VB explained_VBN in_IN case_NN of_IN field_NN of_IN doctor_NN 's_POS profession_NN ._.
+As_IN we_PRP all_DT know_VBP that_IN a_DT doctor_NN who_WP is_VBZ specialized_VBN in_IN one_CD particular_JJ organ_NN of_IN our_PRP$ human_JJ body_NN ,_, say_VBP eyes_NNS ,_, heart_NN ,_, kidney_NN etc._NN ,_, are_VBP more_RBR valuedand_JJ paid_VBN than_IN the_DT doctors_NNS who_WP have_VBP got_VBN enough_RB knowledge_NN on_IN all_DT aspects_NNS of_IN the_DT human_JJ organs_NNS ._.
+This_DT is_VBZ the_DT reason_NN why_WRB kidney_NN specialists_NNS ,_, heart_NN specialists_NNS etc._FW ,_, have_VBP more_RBR fame_NN than_IN other_JJ doctors_NNS who_WP do_VBP n't_RB have_VB any_DT specialization_NN degree_NN in_IN any_DT organs_NNS of_IN oyr_NN human_JJ body_NN ._.

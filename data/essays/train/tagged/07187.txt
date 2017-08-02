@@ -1,0 +1,10 @@
+First_NNP of_IN all_DT I_PRP 'm_VBP not_RB totaly_RB disagree_VBP with_IN this_DT statement_NN ._.
+I_PRP think_VBP that_IN the_DT number_NN of_IN cars_NNS in_IN use_NN in_IN the_DT next_JJ twenty_CD years_NNS will_MD be_VB the_DT same_JJ that_IN there_EX are_VBP today_NN ._.
+I_PRP hope_VBP that_IN the_DT number_NN of_IN cars_NNS decrease_VBP ,_, but_CC I_PRP 'm_VBP not_RB sure_JJ that_IN it_PRP happen_VB ._.
+In_IN Italy_NNP ,_, the_DT country_NN where_WRB I_PRP live_VBP ,_, the_DT situation_NN is_VBZ very_RB difficult_JJ ._.
+Everyday_JJ in_IN the_DT street_NN there_EX are_VBP a_DT lot_NN of_IN cars_NNS ,_, so_RB there_EX are_VBP also_RB a_DT lot_NN of_IN pollution_NN and_CC also_RB a_DT lot_NN of_IN incidents_NNS ._.
+Today_NN the_DT cost_NN of_IN life_NN is_VBZ very_RB high_JJ ,_, so_RB for_IN many_JJ people_NNS is_VBZ difficult_JJ to_TO buy_VB a_DT car_NN and_CC they_PRP use_VBP the_DT public_JJ transport_NN like_IN bus_NN ,_, taxi_NN ,_, train_NN or_CC underground_JJ (_NN metro_NN )_NN ._.
+In_IN Italy_NNP ,_, in_IN my_PRP$ opinion_NN ,_, the_DT public_JJ transport_NN is_VBZ not_RB very_RB development_NN and_CC I_PRP think_VBP that_IN instead_RB is_VBZ important_JJ to_TO increase_VB this_DT type_NN of_IN service_NN ._.
+For_IN example_NN there_EX are_VBP a_DT lot_NN of_IN people_NNS ,_, that_IN live_JJ far_RB away_RB the_DT place_NN where_WRB they_PRP work_VBP ,_, that_DT everyday_JJ go_NN to_TO work_VB by_IN car_NN ,_, in_IN spite_NN of_IN there_EX are_VBP orher_NN possibility_NN to_TO go_VB like_IN train_NN as_IN I_PRP have_VBP just_RB said_VBN before_IN ._.
+But_CC in_IN Italy_NNP I_PRP know_VBP because_IN the_DT people_NNS prefer_VBP to_TO use_VB car_NN instead_RB of_IN train_NN or_CC other_JJ public_JJ transport_NN ,_, because_IN they_PRP are_VBP always_RB in_IN late_JJ and_CC they_PRP are_VBP not_RB efficent_JJ ._.
+I_PRP hope_VBP that_IN in_IN the_DT next_JJ years_NNS the_DT thing_NN could_MD be_VB better_JJR than_IN now_RB ._.

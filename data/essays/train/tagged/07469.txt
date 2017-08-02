@@ -1,0 +1,14 @@
+In_IN general_JJ ,_, I_PRP would_MD say_VB that_IN both_DT are_VBP important_JJ and_CC they_PRP complement_VBP to_TO each_DT other_JJ ._.
+In_IN my_PRP$ experience_NN ,_, I_PRP would_MD say_VB that_IN it_PRP is_VBZ more_RBR advantageous_JJ for_IN students_NNS to_TO undertand_VB ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB facts_NNS ;_: although_IN ,_, this_DT may_MD not_RB be_VB true_JJ in_IN all_DT cases_NNS ._.
+Firstly_RB ,_, the_DT study_NN of_IN facts_NNS is_VBZ based_VBN on_IN the_DT understanding_NN of_IN concepts_NNS and_CC ideas_NNS ._.
+It_PRP is_VBZ not_RB possible_JJ for_IN a_DT student_NN to_TO understand_VB properly_RB a_DT fact_NN if_IN he_PRP or_CC she_PRP does_VBZ not_RB have_VB a_DT basic_JJ knowledge_NN of_IN the_DT ideas_NNS an_DT concepts_NNS which_WDT constitute_VBP the_DT basis_NN of_IN these_DT facts_NNS ._.
+Secondly_RB ,_, while_IN the_DT study_NN of_IN facts_NNS is_VBZ based_VBN on_IN memory_NN ,_, the_DT study_NN of_IN ideas_NNS and_CC concepts_NNS allows_VBZ students_NNS to_TO use_VB their_PRP$ reasoning_NN in_IN order_NN to_TO understand_VB the_DT causes_NNS and_CC effects_NNS of_IN things_NNS or_CC facts_NNS ._.
+The_DT understanding_NN of_IN concepts_NNS allow_VBP them_PRP to_TO establish_VB relationships_NNS between_IN different_JJ concepts_NNS as_RB well_RB as_IN their_PRP$ causes_NNS and_CC effects_NNS ._.
+However_RB ,_, it_PRP is_VBZ also_RB important_JJ to_TO take_VB into_IN consideration_NN that_IN each_DT educational_JJ method_NN has_VBZ its_PRP$ own_JJ advatages_NNS or_CC disadvantages_NNS according_VBG to_TO the_DT student_NN ._.
+For_IN some_DT students_NNS it_PRP is_VBZ easier_JJR to_TO learn_VB through_IN facts_NNS ,_, while_IN other_JJ students_NNS understand_VBP better_JJR through_IN concepts_NNS and_CC ides_NNS ._.
+These_DT differences_NNS depend_VBP on_IN the_DT type_NN on_IN intelligence_NN of_IN the_DT student_NN ._.
+The_DT study_NN based_VBN on_IN the_DT understanding_NN of_IN concepts_NNS or_CC facts_NNS varies_VBZ according_VBG to_TO each_DT profession_NN ._.
+For_IN example_NN ,_, philosophers_NNS learn_VBP based_VBN on_IN abstract_JJ concepts_NNS and_CC ideas_NNS ;_: which_WDT they_PRP identify_VBP in_IN facts_NNS ._.
+On_IN the_DT contrary_NN ,_,
+I_PRP conslusion_VBP ,_, I_PRP belive_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS provide_VBP students_NNS with_IN more_JJR valuable_JJ tools_NNS and_CC skills_NNS for_IN their_PRP$ future_JJ lifes_NNS ._.
+However_RB ,_, there_EX might_MD be_VB some_DT cases_NNS in_IN which_WDT it_PRP might_MD be_VB more_RBR beneficial_JJ for_IN a_DT student_NN to_TO learn_VB based_VBN on_IN facts_NNS ._.

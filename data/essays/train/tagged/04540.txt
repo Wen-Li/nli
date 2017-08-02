@@ -1,0 +1,20 @@
+Learning_NNP concepts_NNS and_CC facts_NNS are_VBP two_CD common_JJ elements_NNS in_IN the_DT process_NN of_IN learning_NN ._.
+However_RB ,_, which_WDT one_CD is_VBZ important_JJ than_IN the_DT other_JJ one_CD ?_.
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understands_VBZ ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+In_IN my_PRP$ point_NN of_IN view_NN ,_, learning_VBG facts_NNS is_VBZ much_RB more_RBR important_JJ than_IN learning_VBG concepts_NNS and_CC ideas_NNS ._.
+It_PRP is_VBZ important_JJ to_TO learn_VB facts_NNS in_IN the_DT begining_NN of_IN a_DT learning_NN process_NN ._.
+Before_IN learning_VBG a_DT new_JJ thing_NN ,_, we_PRP have_VBP no_DT ideas_NNS about_IN it_PRP ._.
+Therefore_RB it_PRP is_VBZ important_JJ to_TO us_PRP know_VBP about_IN the_DT facts_NNS which_WDT are_VBP most_RBS outter_JJ side_NN of_IN a_DT thing_NN ._.
+For_IN example_NN ,_, when_WRB a_DT baby_NN is_VBZ learning_VBG what_WP an_DT apple_NN is_VBZ ,_, they_PRP only_RB recognize_VBP that_IN an_DT apple_NN is_VBZ a_DT round_JJ red_JJ thing_NN ._.
+He_PRP does_VBZ not_RB need_VB to_TO know_VB that_DT apple_NN is_VBZ a_DT fruit_NN which_WDT is_VBZ an_DT living_NN thing_NN and_CC how_WRB it_PRP grows_VBZ ._.
+Another_DT example_NN is_VBZ that_IN when_WRB we_PRP study_VBP history_NN ,_, we_PRP always_RB have_VBP know_VB about_IN the_DT facts_NNS first_RB ._.
+We_PRP have_VBP to_TO know_VB what_WP ,_, where_WRB ,_, when_WRB and_CC how_WRB first_JJ ._.
+After_IN we_PRP knowing_VBG the_DT facts_NNS ,_, we_PRP starts_VBZ learning_VBG the_DT concepts_NNS and_CC ideas_NNS which_WDT are_VBP hidden_VBN in_IN the_DT facts_NNS ._.
+Therefore_RB ,_, learning_VBG the_DT facts_NNS is_VBZ important_JJ because_IN it_PRP is_VBZ the_DT first_JJ step_NN of_IN a_DT learning_VBG prcess_NN ._.
+Moreover_RB ,_, learning_VBG facts_NNS is_VBZ important_JJ because_IN it_PRP is_VBZ a_DT easy_JJ and_CC direct_JJ way_NN to_TO learn_VB something_NN ._.
+Understanding_VBG ideas_NNS and_CC concepts_NNS play_VBP a_DT supporting_VBG role_NN in_IN the_DT process_NN of_IN learning_NN ._.
+It_PRP is_VBZ because_IN understanding_VBG ideas_NNS and_CC concepts_NNS allows_VBZ us_PRP to_TO know_VB more_JJR about_IN how_WRB the_DT facts_NNS work_VBP in_IN their_PRP$ ways_NNS ._.
+If_IN we_PRP only_RB understand_VBP ideas_NNS and_CC concepts_NNS but_CC not_RB focus_VB on_IN the_DT facts_NNS ,_, we_PRP do_VBP not_RB even_RB know_VB what_WP we_PRP are_VBP learning_VBG and_CC absorbing_VBG ._.
+In_IN other_JJ words_NNS ,_, it_PRP is_VBZ useless_JJ to_TO only_RB know_VB the_DT ideas_NNS but_CC ignore_VBP the_DT facts_NNS ._.
+Facts_NNS are_VBP concrete_JJ and_CC solidary_JJ things_NNS that_IN we_PRP have_VBP to_TO know_VB about_RB in_IN learing_NN ._.
+In_IN conclusion_NN ,_, it_PRP is_VBZ imprtant_JJ for_IN students_NNS to_TO learn_VB facts_NNS that_IN it_PRP is_VBZ for_IN them_PRP to_TO understand_VB ideas_NNS and_CC conc_NN

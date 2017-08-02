@@ -1,0 +1,31 @@
+I_PRP totally_RB agree_VBP with_IN the_DT statement_NN that_IN having_VBG a_DT knowledge_NN on_IN many_JJ subjects_NNS is_VBZ better_JJR than_IN specializing_VBG on_IN one_CD subject_NN ._.
+The_DT world_NN now_RB is_VBZ growing_VBG fast_RB and_CC the_DT diversity_NN in_IN all_DT fields_NNS is_VBZ maximizing_VBG ._.
+In_IN such_PDT a_DT new_JJ and_CC modern_JJ world_NN specializing_VBG in_IN one_CD subject_NN can_MD be_VB challenging_JJ ._.
+Fields_NNP which_WDT have_VBP once_RB been_VBN thought_VBN to_TO be_VB in_IN isolation_NN or_CC independent_JJ are_VBP now_RB requring_VBG support_NN from_IN other_JJ fields_NNS ._.
+This_DT interdependency_NN has_VBZ given_VBN raise_NN to_TO more_RBR sophisticated_JJ companies_NNS which_WDT require_VBP people_NNS with_IN a_DT minimum_JJ knowledge_NN in_IN many_JJ important_JJ fields_NNS ._.
+This_DT has_VBZ a_DT lot_NN of_IN applications_NNS ._.
+A_DT multi_JJ national_JJ company_NN (_CD MNC_NN )_NN is_VBZ the_DT best_JJS example_NN of_IN a_DT place_NN which_WDT require_VBP people_NNS having_VBG knowledge_NN in_IN many_JJ fields_NNS ._.
+In_IN an_DT MNC_NN there_EX are_VBP various_JJ levels_NNS of_IN work_NN ._.
+Let_VB us_PRP take_VB an_DT example_NN of_IN a_DT Human_JJ Resource_NNP Manager_NNP ._.
+His_PRP$ work_NN is_VBZ to_TO employ_VB new_JJ people_NNS suitable_JJ to_TO the_DT firm_NN ,_, monitor_VB the_DT progress_NN of_IN projects_NNS and_CC constantly_RB deal_VB with_IN economic_JJ issues_NNS of_IN his_PRP$ form_NN ._.
+The_DT above_IN three_CD tasks_NNS require_VBP aplication_NN in_IN various_JJ fiellds_NNS like_IN to_TO employ_VB new_JJ people_NNS he_PRP must_MD first_RB basically_RB understand_VB the_DT needs_NNS of_IN his_PRP$ firm_NN ._.
+This_DT requires_VBZ him_PRP to_TO have_VB a_DT knowledge_NN in_IN the_DT field_NN of_IN firm_NN bussiness_NN requirements_NNS ._.
+Next_JJ to_TO monitor_VB a_DT project_NN he_PRP should_MD know_VB the_DT platform_NN on_IN which_WDT the_DT project_NN is_VBZ being_VBG built_VBN ._.
+For_IN this_DT he_PRP needs_VBZ to_TO have_VB some_DT skill_NN in_IN the_DT computer_NN languages_NNS ._.
+Next_JJ to_TO deal_VB with_IN the_DT economic_JJ issues_NNS of_IN the_DT firm_NN he_PRP must_MD atleast_VB know_VB the_DT basics_NNS of_IN the_DT laws_NNS of_IN bussiness_NN running_NN ._.
+Thus_RB a_DT level-3_NN worker_NN like_IN a_DT HR_NN manager_NN requires_VBZ a_DT knowledge_NN on_IN three_CD totally_RB diverse_JJ fields_NNS ._.
+If_IN this_DT is_VBZ the_DT case_NN with_IN a_DT HR_NN manager_NN then_RB we_PRP can_MD easilly_RB understand_VB the_DT requirements_NNS a_DT CEO_NNP needs_NNS ._.
+Even_RB scientists_NNS need_VBP a_DT knowledge_NN on_IN many_JJ different_JJ fileds_NNS other_JJ than_IN thier_JJR own_JJ subject_NN ._.
+For_IN example_NN a_DT physics_NN scientist_NN needs_VBZ to_TO know_VB mathematics_NNS for_IN calculation_NN in_IN physics_NN ._.
+He_PRP needs_VBZ to_TO have_VB grip_NN on_IN topics_NNS like_IN trignometry_NN ,_, calculus_NN etc_NN which_WDT are_VBP essential_JJ for_IN solving_VBG complex_JJ relationships_NNS in_IN fields_NNS like_IN dynamics_NNS ,_, solid_JJ state_NN physics_NN etc_NN ._.
+The_DT computer_NN which_WDT can_MD be_VB called_VBN as_IN the_DT new_JJ face_NN of_IN the_DT world_NN changed_VBD a_DT lot_NN of_IN approaches_NNS in_IN many_JJ fields_NNS ._.
+It_PRP is_VBZ being_VBG used_VBN in_IN fields_NNS like_IN astronomy_NN ,_, physics_NN chemistry_NN in_IN many_JJ ways_NNS like_IN embedded_JJ systems_NNS ._.
+A_DT space_NN research_NN scientist_NN ,_, launching_VBG a_DT rocket_NN needs_VBZ to_TO calculate_VB the_DT astronomical_JJ distance_NN between_IN the_DT earth_NN and_CC the_DT target_NN ._.
+This_DT if_IN done_VBN with_IN help_NN of_IN a_DT cmputer_NN needs_VBZ him_PRP to_TO understand_VB how_WRB to_TO use_VB the_DT system_NN and_CC other_JJ such_JJ complexities_NNS ._.
+E_NN ven_VBD the_DT present_JJ educational_JJ system_NN seems_VBZ to_TO have_VB accepted_VBN the_DT need_NN of_IN having_VBG basic_JJ information_NN in_IN many_JJ fields_NNS ._.
+The_DT schools_NNS of_IN the_DT presemt_NN day_NN have_VBP many_JJ subjects_NNS lke_JJ maths_NNS ,_, science_NN ,_, social_JJ ,_, languages_NNS etc_FW ._.
+The_DT students_NNS ought_MD to_TO take_VB all_PDT these_DT subjects_NNS atleast_JJ till_IN a_DT certain_JJ grade_NN and_CC then_RB opt_VB for_IN subjects_NNS they_PRP are_VBP interested_JJ in_IN ._.
+The_DT courses_NNS in_IN collges_NNS also_RB have_VBP many_JJ subjects_NNS in_IN the_DT courses_NNS which_WDT they_PRP feel_VBP are_VBP needed_VBN ._.
+For_IN example_NN in_IN engineering_NN all_PDT the_DT students_NNS also_RB have_VBP common_JJ subjects_NNS in_IN the_DT area_NN of_IN computers_NNS ,_, electronics_NNS etc_FW ._.
+Thus_RB in_IN view_NN of_IN the_DT new_JJ world_NN i_FW feel_VB a_DT knowledge_NN in_IN a_DT many_JJ subjects_NNS is_VBZ needed_VBN for_IN achieving_VBG success_NN ._.
+A_DT specialization_NN in_IN a_DT single_JJ area_NN has_VBZ no_DT great_JJ use_NN today_NN ._.

@@ -1,0 +1,8 @@
+I_PRP agree_VBP with_IN this_DT statement_NN ._.
+There_EX are_VBP three_CD reasons_NNS ._.
+First_RB ,_, in_IN twenty_CD years_NNS there_RB will_MD be_VB more_RBR trains_NNS at_IN the_DT city_NN than_IN today_NN ._.
+So_IN people_NNS can_MD choose_VB car_NN or_CC train_NN when_WRB they_PRP go_VBP out_RP ._.
+Second_RB ,_, in_IN twenty_CD years_NNS people_NNS will_MD be_VB worry_VB about_IN the_DT environment_NN than_IN today_NN ._.
+I_PRP think_VBP that_IN people_NNS should_MD be_VB worry_VB about_IN the_DT environment_NN of_IN the_DT world_NN future_NN ._.
+Third_NNP in_IN twenty_CD years_NNS the_DT number_NN of_IN the_DT population_NN will_MD be_VB getting_VBG down_RB ._.
+That_DT is_VBZ why_WRB I_PRP agree_VBP with_IN this_DT statement_NN ._.

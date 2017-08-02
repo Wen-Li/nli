@@ -1,0 +1,23 @@
+Communication_NN and_CC industry_NN brings_VBZ us_PRP some_DT new_JJ concepts_NNS ,_, selling_VBG products_NNS and_CC advertisements_NNS of_IN these_DT products_NNS ._.
+Advertisements_NNS can_MD be_VB very_RB helpful_JJ for_IN understanding_VBG what_WP the_DT product_NN is_VBZ ._.
+However_RB ,_, usually_RB advertisements_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+Advertisements_NNS may_MD be_VB necessary_JJ but_CC they_PRP can_MD be_VB checked_VBN by_IN some_DT mechanism_NN if_IN they_PRP reflects_VBZ the_DT reality_NN or_CC not_RB ._.
+I_PRP want_VBP to_TO give_VB you_PRP a_DT torch_NN example_NN ._.
+A_DT seller_NN was_VBD standing_VBG on_IN the_DT corner_NN of_IN a_DT street_NN in_IN Ankara_NNP ,_, the_DT capital_NN city_NN of_IN TURKEY_NNP ,_, advertising_NN torchs_NNS which_WDT do_VBP not_RB need_VB any_DT energy_NN sources_NNS like_IN battery_NN or_CC electricity_NN ._.
+I_PRP think_VBP they_PRP were_VBD all_DT made_VBN in_IN China_NNP and_CC they_PRP very_RB extremely_RB cheap_JJ ._.
+One_CD of_IN them_PRP was_VBD recharging_VBG by_IN shaking_VBG the_DT torch_NN ,_, one_CD of_IN them_PRP was_VBD recharging_VBG pushing_VBG an_DT arm_NN on_IN torch_NN etc_NN ._.
+There_EX were_VBD three_CD kinds_NNS of_IN torchs_NNS which_WDT do_VBP not_RB need_VB energy_NN source_NN according_VBG to_TO the_DT seller_NN ._.
+I_PRP brought_VBD the_DT torch_NN which_WDT can_MD be_VB recharged_VBN by_IN shaking_VBG ._.
+That_DT day_NN the_DT torch_NN was_VBD working_VBG properly_RB ._.
+But_CC one_CD or_CC two_CD days_NNS later_RB it_PRP did_VBD not_RB work_VB ._.
+Because_IN I_PRP understood_VBD that_IN there_EX is_VBZ a_DT small_JJ battery_NN in_IN it_PRP and_CC it_PRP takes_VBZ energy_NN from_IN that_DT battery_NN and_CC shaking_VBG the_DT torch_NN changes_VBZ nothing_NN on_IN energy_NN source_NN ._.
+When_WRB the_DT battery_NN dies_VBZ off_RP ,_, the_DT torche_NN also_RB does_VBZ ._.
+I_PRP gave_VBD e_SYM very_RB simple_JJ and_CC small_JJ example_NN which_WDT can_MD be_VB ignored_VBN because_IN of_IN its_PRP$ cost_NN ._.
+However_RB you_PRP can_MD see_VB such_JJ advertisements_NNS on_IN tv_NN or_CC on_IN internet_NN or_CC even_RB you_PRP can_MD listen_VB them_PRP on_IN radio_NN ._.
+You_PRP should_MD ask_VB for_IN help_NN to_TO your_PRP$ friends_NNS or_CC experienced_JJ costumers_NNS who_WP bought_VBD that_DT product_NN ._.
+You_PRP should_MD read_VB the_DT warranty_NN statements_NNS of_IN the_DT product_NN and_CC if_IN exists_VBZ user_NN manual_NN ._.
+Becuse_NNP if_IN you_PRP read_VBP the_DT user_NN manual_NN you_PRP can_MD understand_VB what_WP the_DT features_NNS of_IN the_DT product_NN are_VBP ._.
+I_PRP had_VBD mentioned_VBN about_IN some_DT mechanism_NN which_WDT checks_NNS advertisements_NNS are_VBP true_JJ or_CC not_RB ._.
+Finally_RB I_PRP will_MD say_VB this_DT mechanism_NN :_: trust_NN yourself_PRP ._.
+Not_RB only_RB on_IN the_DT advertisement_NN ,_, if_IN you_PRP want_VBP to_TO learn_VB the_DT real_JJ features_NNS you_PRP should_MD talk_VB with_IN other_JJ customers_NNS ,_, make_VBP a_DT little_JJ investigation_NN ._.
+After_IN all_DT you_PRP can_MD make_VB a_DT decision_NN whether_IN the_DT advertisement_NN says_VBZ only_RB the_DT truths_NNS or_CC not_RB ._.

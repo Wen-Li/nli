@@ -1,0 +1,5 @@
+in_IN my_PRP$ opinion_NN i_FW agree_VBP with_IN statent_NN ._.
+there_EX are_VBP no_DT enough_JJ time_NN for_IN the_DT young_JJ people_NNS to_TO helping_VBG the_DT communities_NNS ._.
+first_RB off_IN all_DT ,_, the_DT edecationat_NN take_VB the_DT big_JJ part_NN of_IN this_DT like_IN if_IN some_DT body_NN have_VBP atheraty_NN no_DT body_NN look_NN to_TO hem_NN ._.
+secondly_RB there_EX are_VBP no_DT body_NN help_VB the_DT young_JJ people_NNS when_WRB they_PRP need_VBP it_PRP for_IN example_NN if_IN some_DT body_NN need_VBP some_DT mony_NN to_TO sport_NN his_PRP$ project_NN no_DT body_NN he_PRP can_MD finde_VB ._.
+finaly_RB ,_, i_FW beleave_FW ,_, the_DT young_JJ people_NNS nowaday_RB do_VBP not_RB give_VB enough_JJ time_NN to_TO helping_VBG their_PRP$ communities_NNS ._.

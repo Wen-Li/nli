@@ -1,0 +1,14 @@
+Well_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN that_WDT says_VBZ ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ''_'' ._.
+The_DT reason_NN for_IN that_DT ,_, is_VBZ I_PRP think_VBP facts_NNS are_VBP the_DT basic_JJ of_IN ideas_NNS ._.
+So_RB ,_, how_WRB can_MD an_DT idae_FW or_CC a_DT concept_NN come_VBN before_IN the_DT fact_NN ._.
+Consquantally_RB ,_, the_DT we_PRP leran_VBP the_DT basic_JJ which_WDT is_VBZ the_DT fact_NN ,_, then_RB we_PRP propose_VBP an_DT idea_NN ._.
+So_RB ,_, if_IN a_DT students_NNS recivied_VBD an_DT idea_NN or_CC a_DT concept_NN without_IN having_VBG the_DT solid_JJ basics_NNS ,_, he_PRP wil_VBD not_RB be_VB able_JJ to_TO make_VB his_PRP$ decision_NN about_IN it_PRP ._.
+Therefor_NNP ,_, he_PRP will_MD not_RB have_VB the_DT apportinuty_NN to_TO discouss_VB the_DT concept_NN ._.
+Clearly_RB ,_, the_DT logical_JJ way_NN to_TO learn_VB is_VBZ facts_NNS then_RB concepts_NNS ._.
+So_RB ,_, we_PRP teach_VBP students_NNS the_DT basics_NNS and_CC the_DT facts_NNS ,_, and_CC gradually_RB try_VB to_TO involve_VB some_DT ideas_NNS and_CC concepts_NNS into_IN their_PRP$ material_NN ._.
+In_IN this_DT way_NN ,_, they_PRP will_MD learn_VB how_WRB accepet_NN all_PDT the_DT opinions_NNS and_CC then_RB make_VB their_PRP$ own_JJ decision_NN ._.
+Also_RB ,_, they_PRP will_MD try_VB to_TO interfere_VB from_IN the_DT facts_NNS then_RB try_VBP to_TO propose_VB their_PRP$ explaination_NN and_CC support_VBP it_PRP with_IN evidences_NNS ._.
+An_DT example_NN for_IN my_PRP$ choise_NN if_IN Geology_NN calss_NN ._.
+If_IN we_PRP taught_VBD a_DT student_NN that_WDT caves_VBZ are_VBP formed_VBN in_IN a_DT certain_JJ way_NN ,_, he_PRP will_MD memorize_VB it_PRP without_IN conventition_NN ._.
+In_IN other_JJ hand_NN if_IN we_PRP taught_VBD him_PRP about_IN caves_NNS from_IN different_JJ areas_NNS ._.
+They_PRP are_VBP an_DT extent_NN area_NN but_CC if_IN he_PRP got_VBD some_DT information_NN about_IN kinds_NNS of_IN caves_NNS and_CC how_WRB it_PRP formed_VBD ,_, he_PRP will_MD be_VB convinted_VBN about_IN what_WP he_PRP learns_VBZ ._.

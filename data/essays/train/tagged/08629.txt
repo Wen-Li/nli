@@ -1,0 +1,15 @@
+It_PRP is_VBZ true_JJ that_IN sudents_NNS ,_, today_NN ,_, are_VBP really_RB more_RBR inclined_JJ to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB the_DT facts_NNS ._.
+Though_IN it_PRP is_VBZ not_RB what_WP is_VBZ supposed_VBN to_TO be_VB can_MD we_PRP blame_VB the_DT students_NNS ?_.
+The_DT education_NN system_NN in_IN many_JJ countries_NNS ,_, itself_PRP ,_, requires_VBZ it_PRP to_TO be_VB like_IN that_DT ._.
+And_CC today_NN 's_POS world_NN has_VBZ nothing_NN to_TO do_VB with_IN the_DT `_`` facts_NNS '_POS indeed_RB ._.
+in_IN many_JJ countries_NNS education_NN systems_NNS are_VBP so_RB restrictive_JJ and_CC so_RB close_JJ to_TO development_NN and_CC resarch_NN that_WDT students_NNS find_VBP themselves_PRP in_IN an_DT environment_NN which_WDT is_VBZ totally_RB close_JJ to_TO the_DT facts_NNS ._.
+when_WRB using_VBG textbooks_NNS is_VBZ the_DT only_JJ option_NN the_DT students_NNS have_VBP and_CC when_WRB they_PRP are_VBP expected_VBN to_TO be_VB succesful_JJ in_IN a_DT kind_NN of_IN competition_NN at_IN the_DT end_NN of_IN which_WDT the_DT winner_NN takes_VBZ it_PRP all_DT how_WRB can_MD we_PRP expect_VB the_DT students_NNS possibly_RB try_VB to_TO reach_VB for_IN the_DT facts_NNS ?_.
+the_DT system_NN forges_VBZ the_DT students_NNS to_TO be_VB tend_VB to_TO get_VB the_DT ideas_NNS and_CC concepts_NNS ._.
+In_IN addition_NN to_TO that_IN we_PRP live_VBP in_IN a_DT world_NN which_WDT has_VBZ nothing_NN to_TO do_VB with_IN the_DT facts_NNS ._.
+for_IN there_EX is_VBZ not_RB an_DT unique_JJ objective_NN `_`` fact`_NN ._.
+the_DT facts_NNS are_VBP made_VBN not_RB occur_VB any_DT longer_JJR ._.
+all_DT the_DT facts_NNS are_VBP mere_JJ deceptions_NNS ._.
+the_DT worst_JJS of_IN all_DT noone_NN is_VBZ really_RB interested_JJ in_IN the_DT facts_NNS ._.
+since_IN the_DT facts_NNS are_VBP not_RB of_IN any_DT use_NN it_PRP is_VBZ kind_NN of_IN no_DT surprise_NN that_IN the_DT students_NNS are_VBP not_RB involved_VBN in_IN them_PRP ._.
+all_DT in_IN all_DT it_PRP is_VBZ so_RB clear_JJ that_IN students_NNS do_VBP not_RB pay_VB much_JJ attention_NN to_TO the_DT facts_NNS ._.
+when_WRB there_EX are_VBP so_RB many_JJ obstacles_NNS and_CC problems_NNS why_WRB do_VBP we_PRP think_VB they_PRP should_MD ?_.

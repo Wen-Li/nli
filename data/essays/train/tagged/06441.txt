@@ -1,0 +1,20 @@
+I_PRP agree_VBP this_DT point_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO undestand_JJ ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Because_IN understanding_VBG concepts_NNS make_VBP them_PRP to_TO deal_VB with_IN the_DT problems_NNS which_WDT are_VBP occured_VBN with_IN that_DT particular_JJ concept_NN ._.
+Let_VB us_PRP take_VB one_CD example_NN by_IN learning_VBG the_DT concept_NN of_IN computers_NNS we_PRP may_MD able_JJ to_TO use_VB it_PRP in_IN an_DT efficient_JJ way_NN ._.
+we_PRP are_VBP also_RB able_JJ to_TO deal_VB the_DT probles_NNS found_VBN with_IN it_PRP ._.
+Only_RB the_DT person_NN who_WP knows_VBZ about_IN the_DT computers_NNS can_MD only_RB deal_VB with_IN it_PRP ._.
+By_IN knowing_VBG the_DT concepts_NNS we_PRP are_VBP able_JJ to_TO have_VB good_JJ ideas_NNS about_IN developing_VBG that_DT concept_NN ._.
+And_CC we_PRP can_MD creat_VB a_DT new_JJ concept_NN ._.
+We_PRP are_VBP well_RB experienced_VBN by_IN knowing_VBG the_DT concept_NN
+Concept_NN undertanding_NN makes_VBZ us_PRP to_TO have_VB more_JJR command_NN and_CC control_NN over_IN a_DT concept_NN than_IN learning_VBG facts_NNS ._.
+We_PRP do_VBP not_RB get_VB experienced_VBN by_IN learning_VBG facts_NNS ._.
+we_PRP only_RB know_VBP about_IN the_DT thing_NN and_CC working_VBG about_IN it_PRP ._.
+But_CC knowing_VBG the_DT concept_NN we_PRP know_VBP the_DT process_NN of_IN it_PRP and_CC internal_JJ structure_NN of_IN it_PRP ._.
+By_IN understanding_VBG the_DT concept_NN we_PRP can_MD even_RB try_VB to_TO work_VB with_IN the_DT other_JJ fields_NNS for_IN example_NN ._.
+If_IN a_DT person_NN knows_VBZ about_IN the_DT programming_NN language_NN `_`` C_NN '_'' he_PRP can_MD also_RB try_VB to_TO work_VB with_IN `_`` JAVA_NNP '_'' because_IN some_DT syntax_NN are_VBP same_JJ in_IN both_DT of_IN the_DT languages_NNS ._.
+We_PRP cannnot_VBP have_VBP an_DT idea_NN by_IN learning_VBG facts_NNS ._.
+they_PRP remain_VBP unchanged_JJ even_RB after_IN the_DT many_JJ years_NNS ._.
+We_PRP may_MD have_VB new_JJ ideas_NNS by_IN understanding_VBG concepts_NNS ._.
+We_PRP also_RB become_VBP experts_NNS in_IN taht_NN particular_JJ field_NN ._.
+By_IN understanding_VBG the_DT concept_NN there_EX is_VBZ no_DT scope_NN of_IN forgetting_VBG it_PRP ._.
+So_RB i_FW suggest_VBP students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN learning_VBG facts_NNS ._.

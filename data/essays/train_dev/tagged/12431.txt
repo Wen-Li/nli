@@ -1,0 +1,11 @@
+I_PRP am_VBP disagree_VBP with_IN the_DT statement_NN ._.
+I_PRP think_VBP that_IN it_PRP is_VBZ more_RBR important_JJ to_TO learn_VB that_IN we_PRP all_DT can_MD prove_VB as_IN facts_NNS ._.
+First_RB ,_, Not_RB every_DT thing_NN we_PRP understant_VBD as_IN concept_NN or_CC idea_NN is_VBZ a_DT fact_NN ._.
+For_IN instance_NN ,_, when_WRB we_PRP learn_VBP an_DT specific_JJ topic_NN in_IN economics_NNS we_PRP spect_VBP that_IN it_PRP will_MD works_VBZ every_DT time_NN ._.
+But_CC that_IN it_PRP is_VBZ not_RB true_JJ ,_, a_DT well_RB known_VBN case_NN is_VBZ the_DT way_NN that_IN one_CD must_MD take_VB a_DT desicion_NN in_IN a_DT game_NN ,_, remember_VBP John_NNP Nash_NNP equilibrium_NN ._.
+Sencond_NNP ,_, it_PRP is_VBZ more_RBR easy_JJ to_TO memorize_VB a_DT fact_NN that_IN a_DT concept_NN ._.
+We_PRP all_DT know_VBP that_IN two_CD plus_CC two_CD is_VBZ four_CD ._.
+On_IN the_DT other_JJ hand_NN ,_, try_VBP to_TO understand_VB how_WRB physics_NNS explain_VBP the_DT earth_NN 's_POS movement_NN ._.
+Finally_RB ,_, There_EX are_VBP alot_NNS of_IN research_NN in_IN each_DT area_NN that_WDT when_WRB we_PRP understand_VBP a_DT concept_NN imediatly_RB arise_VB a_DT new_JJ theory_NN explaining_VBG the_DT same_JJ concept_NN ._.
+For_IN example_NN ,_, Pluto_NNP is_VBZ not_RB a_DT planet_NN when_WRB I_PRP was_VBD a_DT child_NN everybody_NN known_VBN that_IN Pluto_NNP was_VBD the_DT converse_NN ._.
+For_IN all_DT I_PRP wrote_VBD above_IN I_PRP can_MD sincerely_RB say_VB that_IN to_TO learn_VB facts_NNS is_VBZ more_RBR important_JJ for_IN students_NNS ._.

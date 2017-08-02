@@ -1,0 +1,29 @@
+Generally_RB speaking_VBG ,_, the_DT purpose_NN of_IN an_DT academic_JJ education_NN is_VBZ twofold_RB ._.
+Firstly_RB ,_, it_PRP prepares_VBZ students_NNS for_IN the_DT labor_NN market_NN in_IN a_DT particular_JJ area_NN ._.
+Since_IN most_JJS students_NNS pursue_VBP careers_NNS outside_IN academia_NN ,_, this_DT is_VBZ not_RB a_DT trivial_JJ purpose_NN ._.
+Secondly_RB ,_, it_PRP should_MD prepare_VB students_NNS to_TO conduct_VB effective_JJ research_NN applying_VBG the_DT state_NN of_IN the_DT art_NN research_NN methodology_NN ._.
+Thus_RB ,_, both_DT purposes_NNS of_IN academic_JJ education_NN should_MD be_VB taken_VBN into_IN account_NN when_WRB discussing_VBG this_DT subject_NN ._.
+In_IN effect_NN ,_, a_DT broader_JJR knowledge_NN of_IN many_JJ subjects_NNS will_MD necessarily_RB require_VB students_NNS to_TO focus_VB on_IN the_DT broader_JJR concepts_NNS instead_RB of_IN the_DT details_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, studying_VBG subjects_NNS more_RBR in_IN depth_NN will_MD allow_VB a_DT student_NN to_TO absorb_VB a_DT significantly_RB higher_JJR amount_NN of_IN detail_NN ,_, at_IN the_DT expense_NN of_IN knowledge_NN outside_IN the_DT area_NN of_IN specialization_NN ._.
+It_PRP has_VBZ often_RB been_VBN argued_VBN that_IN such_JJ in-depth_JJ knowledge_NN of_IN a_DT subject_JJ area_NN and_CC its_PRP$ details_NNS is_VBZ not_RB beneficial_JJ ,_, because_IN of_IN a_DT phenomenon_NN colloquially_RB called_VBN ``_`` brain_NN overflow_NN ''_'' ._.
+As_IN we_PRP acquire_VBP new_JJ details_NNS ,_, we_PRP forget_VBP the_DT details_NNS we_PRP have_VBP learned_VBN in_IN the_DT past_NN ._.
+However_RB ,_, research_NN has_VBZ shown_VBN that_IN the_DT brain_NN is_VBZ not_RB a_DT container_NN with_IN a_DT fixed_VBN size_NN that_WDT can_MD only_RB contain_VB a_DT limited_JJ amount_NN of_IN knowledge_NN ._.
+Rather_RB ,_, the_DT process_NN of_IN learning_NN and_CC remembering_VBG itself_PRP expands_VBZ the_DT capacity_NN of_IN the_DT brain_NN ._.
+Thus_RB ,_, there_EX is_VBZ no_DT clear_JJ cut_NN limit_NN to_TO the_DT amount_NN any_DT one_CD person_NN can_MD learn_VB and_CC remember_VB ._.
+Looking_VBG at_IN the_DT labor_NN market_NN implications_NNS of_IN this_DT issue_NN ,_, it_PRP is_VBZ important_JJ to_TO note_VB that_IN especially_RB in_IN knowledge_NN based_VBN professional_JJ services_NNS ,_, the_DT degree_NN of_IN specialisation_NN is_VBZ increasing_VBG ._.
+Therefore_RB ,_, generalists_NNS tend_VBP to_TO be_VB in_IN less_JJR demand_NN than_IN specialists_NNS that_WDT are_VBP able_JJ to_TO cover_VB one_CD subject_JJ area_NN in_IN depth_NN ._.
+Similarly_RB ,_, contrary_JJ to_TO popular_JJ belief_NN ,_, it_PRP is_VBZ still_RB factual_JJ knowledge_NN which_WDT allows_VBZ people_NNS to_TO put_VB new_JJ information_NN in_IN context_NN ._.
+Only_RB those_DT who_WP have_VBP a_DT sufficient_JJ amount_NN of_IN factual_JJ information_NN and_CC a_DT thorough_JJ understanding_NN of_IN a_DT subject_NN will_MD be_VB able_JJ to_TO process_VB new_JJ information_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, most_JJS people_NNS would_MD agree_VB that_IN while_IN the_DT exact_JJ limit_NN of_IN the_DT brain_NN 's_POS capacity_NN might_MD be_VB unknown_JJ ,_, there_EX must_MD be_VB some_DT limit_NN to_TO the_DT number_NN of_IN data_NNS one_CD can_MD remember_VB ._.
+In_IN earlier_JJR times_NNS intellectuals_NNS like_IN J.W._NNP Goethe_NNP had_VBD actually_RB read_VBN all_DT or_CC almost_RB all_DT books_NNS published_VBN in_IN the_DT three_CD main_JJ languages_NNS at_IN that_DT time_NN ._.
+This_DT is_VBZ drastically_RB different_JJ today_NN ._.
+Since_IN the_DT knowledge_NN in_IN many_JJ academic_JJ subjects_NNS doubles_VBZ every_DT ten_CD years_NNS or_CC so_RB ,_, it_PRP is_VBZ impossible_JJ to_TO keep_VB up_RP with_IN this_DT pace_NN by_IN going_VBG into_IN subject_JJ specific_JJ details_NNS ._.
+Scientists_NNS thus_RB are_VBP condemned_VBN to_TO become_VB generalists_NNS to_TO some_DT extent_NN ._.
+It_PRP is_VBZ also_RB important_JJ to_TO understand_VB that_IN it_PRP is_VBZ the_DT very_RB ability_NN to_TO learn_VB that_IN might_MD be_VB the_DT most_RBS important_JJ result_NN of_IN an_DT academic_JJ education_NN ._.
+Acquiring_VBG the_DT ability_NN to_TO quickly_RB identify_VB the_DT most_RBS important_JJ questions_NNS and_CC then_RB to_TO absorb_VB new_JJ knowledge_NN is_VBZ more_RBR important_JJ than_IN accumulating_VBG large_JJ amounts_NNS of_IN ``_`` dead_JJ data_NN ''_'' ._.
+It_PRP is_VBZ not_RB only_RB the_DT knowledge_NN that_WDT differentiates_VBZ graduates_NNS from_IN non-graduates_JJ ._.
+It_PRP is_VBZ also_RB their_PRP$ ability_NN to_TO learn_VB and_CC process_VB new_JJ knowledge_NN faster_RBR ._.
+All_PDT this_DT would_MD favor_VB a_DT more_RBR general_JJ knowledge_NN of_IN many_JJ subjects_NNS ._.
+In_IN addition_NN to_TO this_DT ,_, on_IN today_NN 's_POS labor_NN market_NN ,_, most_JJS jobs_NNS require_VBP constant_JJ adaptation_NN to_TO new_JJ developments_NNS ._.
+The_DT speed_NN with_IN which_WDT we_PRP are_VBP able_JJ to_TO adapt_VB to_TO new_JJ developments_NNS might_MD therefor_RB be_VB more_RBR important_JJ than_IN the_DT mass_NN of_IN knowledge_NN acquired_VBN in_IN the_DT past_NN ._.
+I_PRP would_MD therefore_RB favor_VB a_DT stronger_JJR focus_NN on_IN general_JJ knowledge_NN of_IN many_JJ subjects_NNS rather_RB than_IN an_DT in_IN depth_NN focus_NN on_IN one_CD subject_NN ._.

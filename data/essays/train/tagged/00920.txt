@@ -1,0 +1,17 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN ._.
+I_PRP think_VBP it_PRP 's_VBZ so_RB hard_JJ to_TO decrease_VB the_DT number_NN of_IN cars_NNS and_CC it_PRP takes_VBZ more_JJR than_IN twenty_CD years_NNS ._.
+I_PRP will_MD describe_VB my_PRP$ main_JJ ideas_NNS ._.
+First_RB ,_, it_PRP is_VBZ true_JJ that_IN there_EX are_VBP many_JJ people_NNS who_WP go_VBP to_TO their_PRP$ offices_NNS or_CC schools_NNS by_IN car_NN ._.
+They_PRP use_VBP cars_NNS because_IN they_PRP do_VBP n't_RB have_VB any_DT other_JJ ways_NNS such_JJ as_IN trains_NNS or_CC buses_NNS ._.
+The_DT solution_NN for_IN this_DT problem_NN is_VBZ to_TO construct_VB them_PRP more_RBR ._.
+If_IN the_DT govenment_NN does_VBZ it_PRP ,_, cars_NNS will_MD be_VB fewer_JJR ,_, but_CC it_PRP takes_VBZ a_DT lot_NN of_IN time_NN and_CC cost_NN ._.
+In_IN addition_NN to_TO it_PRP ,_, I_PRP do_VBP n't_RB think_VB that_IN the_DT government_NN take_VB an_DT immediate_JJ action_NN for_IN that_DT ._.
+Second_RB ,_, actually_RB cars_NNS are_VBP convenient_JJ ,_, especially_RB if_IN you_PRP live_VBP in_IN a_DT rural_JJ area_NN ._.
+People_NNS who_WP live_VBP in_IN a_DT rural_JJ area_NN ,_, for_IN example_NN ,_, ca_MD n't_RB go_VB to_TO the_DT supermarket_NN by_IN their_PRP$ foot_NN ,_, because_IN it_PRP is_VBZ too_RB far_RB ._.
+That_DT 's_VBZ why_WRB these_DT people_NNS have_VBP to_TO use_VB cars_NNS even_RB if_IN they_PRP do_VBP n't_RB to_TO want_VB to_TO ._.
+The_DT solution_NN for_IN this_DT problem_NN is_VBZ to_TO built_VBN many_JJ stores_NNS in_IN a_DT rural_JJ area_NN ,_, but_CC it_PRP is_VBZ not_RB easy_JJ and_CC realistic_JJ ._.
+As_RB long_RB as_IN there_EX are_VBP rural_JJ countries_NNS ,_, cars_NNS will_MD not_RB be_VB decreased_VBN ._.
+Third_NNP ,_, there_EX are_VBP many_JJ works_NNS which_WDT need_VBP cars_NNS ._.
+For_IN example_NN ,_, carring_VBG goods_NNS from_IN manufacturing_VBG companies_NNS to_TO stores_NNS ._.
+They_PRP are_VBP forced_VBN to_TO use_VB cars_NNS ,_, because_IN they_PRP have_VBP a_DT lot_NN of_IN things_NNS to_TO carry_VB ._.
+For_IN these_DT reasons_NNS ,_, I_PRP disagree_VBP with_IN the_DT statement_NN ._.

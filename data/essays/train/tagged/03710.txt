@@ -1,0 +1,23 @@
+As_IN my_PRP$ opinion_NN ,_, learning_VBG fact_NN is_VBZ more_RBR important_JJ than_IN understanding_VBG concepts_NNS ._.
+There_EX are_VBP some_DT reasons_NNS ._.
+First_RB ,_, the_DT fact_NN can_MD make_VB people_NNS have_VBP deep_JJ impression_NN ._.
+Everyone_NN will_MD have_VB a_DT deep_JJ impression_NN when_WRB he_PRP meets_VBZ the_DT difficulties_NNS ._.
+As_IN you_PRP solve_VB the_DT problems_NNS ,_, you_PRP will_MD undersdtand_VB more_RBR about_IN the_DT ideas_NNS or_CC concept_NN you_PRP learned_VBD ._.
+Solving_VBG the_DT difficulty_NN is_VBZ also_RB the_DT energy_NN for_IN learning_NN ._.
+You_PRP will_MD be_VB confident_JJ after_IN you_PRP solve_VB it_PRP ._.
+Second_RB ,_, the_DT ideas_NNS we_PRP learned_VBD in_IN school_NN are_VBP conceptional_JJ ._.
+They_PRP are_VBP the_DT conclusion_NN after_IN experment_NN or_CC research_NN ._.
+They_PRP are_VBP the_DT base_NN of_IN knowledge_NN ._.
+After_IN school_NN ,_, you_PRP will_MD have_VB basic_JJ knowledge_NN to_TO face_VB the_DT fact_NN you_PRP will_MD happen_VB in_IN the_DT future_NN ._.
+Although_IN ideas_NNS are_VBP the_DT parment_NN elements_NNS in_IN your_PRP$ study_NN ,_, you_PRP have_VBP to_TO face_VB any_DT difficulty_NN in_IN your_PRP$ career_NN ._.
+Third_NNP ,_, faceing_VBG difficulties_NNS and_CC solving_VBG them_PRP will_MD make_VB you_PRP more_RBR completely_RB ._.
+You_PRP have_VBP lots_NNS of_IN experience_NN that_IN you_PRP will_MD have_VB a_DT high_JJ position_NN in_IN the_DT company_NN ._.
+The_DT experience_NN will_MD promote_VB you_PRP to_TO have_VB a_DT higher_JJR level_NN ._.
+When_WRB I_PRP graduated_VBD from_IN school_NN ,_, I_PRP found_VBD a_DT job_NN in_IN bicycle_NN industry_NN ._.
+At_IN the_DT begining_NN ,_, I_PRP faced_VBD a_DT lot_NN of_IN problems_NNS that_IN I_PRP do_VBP n't_RB know_VB what_WP to_TO do_VB ._.
+So_RB ,_, I_PRP tried_VBD to_TO ask_VB my_PRP$ coworker_NN and_CC found_VBD solution_NN in_IN the_DT text_NN book_NN ._.
+After_IN my_PRP$ co-workers_NNS '_POS help_NN ,_, I_PRP finally_RB solve_VB the_DT problems_NNS ._.
+After_IN that_DT ,_, I_PRP enjoyed_VBD faceing_VBG problem_NN no_DT matter_NN how_WRB tough_JJ that_DT is_VBZ ._.
+By_IN this_DT kind_NN of_IN experience_NN ,_, I_PRP discover_VBP that_IN I_PRP learn_VBP a_DT lot_NN and_CC more_RBR mature_JJ ._.
+That_DT made_VBD me_PRP more_RBR satisfied_JJ about_IN my_PRP$ work_NN ._.
+The_DT company_NN also_RB gave_VBD a_DT promotion_NN and_CC looked_VBD forward_RB to_TO another_DT improvment_NN ._.

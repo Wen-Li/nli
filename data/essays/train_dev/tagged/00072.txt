@@ -1,0 +1,25 @@
+I_PRP agree_VBP with_IN this_DT statement_NN for_IN the_DT following_VBG three_CD reasons_NNS ._.
+First_NNP of_IN all_DT ,_, I_PRP do_VBP think_VB learning_VBG the_DT basic_JJ ideas_NNS of_IN the_DT concepts_NNS or_CC the_DT lessons_NNS are_VBP more_RBR important_JJ than_IN knowing_VBG the_DT facts_NNS ._.
+Take_VB the_DT math_NN class_NN for_IN example_NN ._.
+In_IN most_JJS math_NN classes_NNS ,_, the_DT students_NNS are_VBP taught_VBN the_DT facts_NNS of_IN the_DT theories_NNS ._.
+And_CC there_EX are_VBP some_DT basic_JJ ways_NNS for_IN them_PRP to_TO calculate_VB the_DT math_NN questions_NNS ._.
+But_CC it_PRP is_VBZ not_RB useful_JJ for_IN students_NNS to_TO understand_VB the_DT meaning_NN for_IN the_DT question_NN ._.
+They_PRP always_RB try_VBP to_TO momorize_VB the_DT way_NN how_WRB to_TO calculate_VB them_PRP instead_RB of_IN truly_RB understand_VBP the_DT meaning_NN of_IN the_DT questions_NNS or_CC the_DT reason_NN they_PRP use_VBP the_DT way_NN to_TO solve_VB them_PRP ._.
+It_PRP makes_VBZ students_NNS easy_JJ to_TO forget_VB the_DT way_NN how_WRB they_PRP calculate_VBP them_PRP as_RB long_RB as_IN they_PRP do_VBP not_RB try_VB to_TO keep_VB them_PRP in_IN mind_NN often_RB ._.
+It_PRP fails_VBZ to_TO teach_VB students_NNS the_DT real_JJ meanings_NNS of_IN education_NN ._.
+Second_RB ,_, if_IN all_DT the_DT students_NNS only_RB try_VBP to_TO know_VB and_CC remember_VB the_DT facts_NNS instead_RB of_IN understanding_VBG the_DT concepts_NNS and_CC ideas_NNS ,_, it_PRP is_VBZ such_JJ a_DT pity_NN for_IN students_NNS to_TO know_VB the_DT valuable_JJ treasure_NN that_WDT our_PRP$ ancestors_NNS left_VBD for_IN us_PRP ._.
+Take_VB history_NN for_IN example_NN ._.
+we_PRP did_VBD have_VB a_DT lot_NN of_IN famous_JJ wars_NNS or_CC events_NNS in_IN history_NN and_CC they_PRP all_DT have_VBP their_PRP$ special_JJ meanings_NNS at_IN that_DT time_NN ._.
+Why_WRB they_PRP were_VBD fighting_VBG ?_.
+What_WDT factors_NNS made_VBD them_PRP do_VB this_DT ?_.
+and_CC what_WP the_DT results_NNS were_VBD made_VBN after_IN these_DT war_NN or_CC great_JJ events_NNS ?_.
+if_IN the_DT generations_NNS such_JJ as_IN the_DT students_NNS only_RB know_VBP the_DT facts_NNS that_WDT who_WP wins_VBZ and_CC lost_VBN in_IN this_DT war_NN instead_RB of_IN trying_VBG to_TO understand_VB the_DT meaning_NN of_IN the_DT history_NN ,_, they_PRP will_MD not_RB gain_VB what_WP the_DT ancestors_NNS left_VBD for_IN us_PRP and_CC what_WP they_PRP really_RB want_VBP us_PRP to_TO learn_VB from_IN these_DT experiences_NNS ._.
+Finally_RB ,_, if_IN the_DT students_NNS can_MD learn_VB the_DT ideas_NNS and_CC concepts_NNS instead_RB of_IN being_VBG told_VBD the_DT results_NNS ,_, they_PRP will_MD learn_VB how_WRB to_TO think_VB and_CC judge_VB things_NNS by_IN themselves_PRP ._.
+We_PRP do_VBP not_RB want_VB our_PRP$ students_NNS to_TO be_VB the_DT learning_NN machines_NNS ._.
+It_PRP is_VBZ so_RB sad_JJ if_IN students_NNS get_VBP used_VBN to_TO receiving_VBG information_NN instead_RB of_IN thinking_VBG them_PRP and_CC responsing_VBG them_PRP ._.
+if_IN that_DT happens_VBZ ,_, there_EX is_VBZ no_DT interaction_NN between_IN the_DT teachers_NNS and_CC students_NNS ._.
+We_PRP should_MD discipline_NN our_PRP$ students_NNS to_TO think_VB and_CC judge_VB things_NNS ._.
+They_PRP will_MD have_VB their_PRP$ own_JJ thoughts_NNS if_IN they_PRP learn_VBP the_DT ideas_NNS or_CC concepts_NNS ,_, they_PRP will_MD have_VB quetions_NNS and_CC responses_NNS to_TO them_PRP ._.
+That_DT is_VBZ the_DT way_NN that_IN we_PRP should_MD educate_VB our_PRP$ students_NNS ._.
+In_IN conclusion_NN ,_, as_IN an_DT old_JJ saying_VBG ``_`` we_PRP should_MD teach_VB students_NNS how_WRB to_TO fish_NN instead_RB of_IN giving_VBG them_PRP fish_NN directly_RB ._. ''_''
+Teachers_NNPS and_CC the_DT educational_JJ system_NN should_MD put_VB more_JJR emphasis_NN on_IN educating_VBG students_NNS the_DT basic_JJ ideas_NNS and_CC concepts_NNS ._.

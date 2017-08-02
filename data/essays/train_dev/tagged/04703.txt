@@ -1,0 +1,17 @@
+car_NN is_VBZ apersonal_JJ transport_NN vechile_NN ._.
+cars_NNS are_VBP used_VBN by_IN the_DT people_NNS to_TO go_VB tothe_JJ office_NN or_CC work_NN ._.
+for_IN this_DT purpose_NN maintanance_NN of_IN car_NN is_VBZ required_VBN ._.
+for_IN maintance_NN of_IN car_NN consider_VBP so_RB many_JJ factors_NNS those_DT are_VBP car_NN 's_POS cost_NN ,_, milage_NN ,_, petrolium_NN charges_NNS ,_, safty_NN ,_, security_NN ,_, confortability_NN ,_, speed_NN and_CC easy_JJ to_TO drive_VB ._.
+if_IN this_DT qualities_NNS satisfied_VBN with_IN the_DT consumers_NNS then_RB car_NN exisist_NN more_JJR than_IN twenty_CD years_NNS for_IN using_VBG the_DT people_NNS ._.
+now_RB analys_VBZ the_DT factors_NNS that_WDT one_CD cars_NNS 's_POS cost_NN ._.
+it_PRP plays_VBZ very_RB important_JJ role_NN in_IN the_DT exisisting_NN ._.
+if_IN the_DT car_NN 's_POS cost_NN is_VBZ low_JJ consumers_NNS are_VBP intrested_VBN to_TO buy_VB and_CC use_VB car_NN ._.
+now_RB consider_VBP the_DT petroliumcharge_NN and_CC milage_NN of_IN cars_NNS ._.
+petrolium_NN chargs_NNS are_VBP variable_JJ because_IN that_DT charges_NNS depend_VBP on_IN marketand_NN avalability_NN of_IN petrolium_NN ._.
+so_RB milage_NN is_VBZ most_RBS importent_JJ criteria_NNS to_TO maintain_VB a_DT car_NN ._.
+if_IN milage_NN is_VBZ more_RBR consumers_NNS are_VBP intrested_VBN to_TO buy_VB the_DT car_NN and_CC maintain_VB the_DT car_NN ._.
+if_IN milage_NN is_VBZ high_JJ then_RB car_NN will_MD exsist_VB longer_JJR time_NN ._.
+now_RB consider_VBP the_DT safty_NN and_CC security_NN of_IN cars_NNS ._.
+it_PRP plays_VBZ very_RB importent_JJ role_NN because_IN if_IN any_DT acceident_JJ occur_VBP safty_NN is_VBZ importent_JJ ,_, security_NN meas_NNS proteted_VBN from_IN theft_NN ._.
+speed_NN also_RB plays_VBZ one_CD importent_JJ role_NN ._.
+finally_RB i_FW conclude_VBP that_IN if_IN car_NN satisfied_JJ all_DT conditions_NNS listed_VBN above_IN it_PRP will_MD exisist_VB longer_JJR time_NN ._.

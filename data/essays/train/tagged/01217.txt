@@ -1,0 +1,14 @@
+Historically_NNP ,_, students_NNS have_VBP been_VBN thought_VBN given_VBN facs_NNS and_CC definitions_NNS ._.
+But_CC recent_JJ developments_NNS show_VBP ,_, that_IN a_DT new_JJ form_NN of_IN education_NN ,_, namely_RB teaching_VBG the_DT principle_NN guidelines_NNS ,_, the_DT basis_NN of_IN complex_JJ structures_NNS is_VBZ more_RBR useful_JJ for_IN students_NNS in_IN order_NN to_TO understand_VB a_DT certain_JJ problem_NN ._.
+That_DT raises_VBZ the_DT question_NN whether_IN or_CC not_RB the_DT old_JJ form_NN is_VBZ still_RB appropriate_JJ ?_.
+First_NNP of_IN all_DT ,_, I_PRP would_MD like_VB to_TO point_VB out_RP that_IN I_PRP 'm_VBP a_DT student_NN of_IN a_DT university_NN that_WDT strongly_RB encourages_VBZ the_DT students_NNS to_TO think_VB for_IN themselves_PRP ._.
+Therefore_RB it_PRP is_VBZ very_RB essential_JJ to_TO understansd_VB the_DT basic_JJ structure_NN and_CC the_DT idea_NN behind_IN a_DT problem_NN ._.
+Simply_RB learning_VBG facts_NNS is_VBZ not_RB only_RB boring_JJ but_CC also_RB very_RB likely_JJ to_TO be_VB forgetten_VBN soon_RB ._.
+For_IN example_NN ,_, it_PRP is_VBZ possible_JJ to_TO learn_VB chemical_JJ reactions_NNS simply_RB by_IN heart_NN but_CC is_VBZ also_RB possible_JJ to_TO learn_VB why_WRB elements_NNS react_VBP in_IN a_DT specific_JJ way_NN and_CC how_WRB they_PRP do_VBP ._.
+Not_RB only_RB that_IN it_PRP is_VBZ easier_JJR to_TO learn_VB one_CD concept_NN instead_RB of_IN a_DT whole_JJ set_NN of_IN formulas_NNS but_CC it_PRP also_RB makes_VBZ you_PRP able_JJ to_TO understand_VB how_WRB the_DT elements_NNS behave_VBP under_IN different_JJ circumstitions_NNS ._.
+That_DT simple_JJ chemical_NN example_NN is_VBZ applicable_JJ to_TO a_DT whole_JJ range_NN of_IN problems_NNS ._.
+Moreover_RB it_PRP is_VBZ essential_JJ for_IN a_DT later_JJ job_NN ,_, to_TO have_VB completely_RB understood_VBN the_DT principals_NNS of_IN certain_JJ structures_NNS ._.
+With_IN a_DT broad_JJ basis_NN of_IN concepts_NNS ,_, you_PRP are_VBP able_JJ to_TO solve_VB problems_NNS more_RBR independently_RB and_CC to_TO anticipate_VB possible_JJ future_JJ problems_NNS ._.
+It_PRP is_VBZ no_DT use_NN for_IN anyone_NN being_VBG able_JJ to_TO respond_VB to_TO a_DT certain_JJ problem_NN with_IN facts_NNS that_WDT have_VBP been_VBN learned_VBN ,_, but_CC not_RB having_VBG understood_VBN what_WP stands_VBZ behind_IN them_PRP ._.
+Finally_RB ,_, i_FW 'm_VBP personally_RB convinced_VBN that_IN lerning_VBG too_RB much_JJ facts_NNS is_VBZ a_DT waste_NN of_IN time_NN and_CC a_DT barrier_NN when_WRB you_PRP try_VBP to_TO communicate_VB with_IN specific_JJ people_NNS over_IN a_DT complex_NN topic_NN ._.
+To_TO conclude_VB ,_, it_PRP should_MD actively_RB be_VB encouraged_VBN to_TO learn_VB the_DT essential_JJ sructures_NNS and_CC to_TO build_VB ones_NNS own_JJ opinion_NN ,_, rather_RB than_IN learning_VBG fact_NN

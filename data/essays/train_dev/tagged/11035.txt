@@ -1,0 +1,18 @@
+I_PRP agree_VBP with_IN this_DT sentence_NN ._.
+The_DT most_RBS important_JJ thing_NN for_IN a_DT student_NN is_VBZ to_TO understand_VB how_WRB and_CC why_WRB events_NNS happened_VBD respect_NN to_TO the_DT singular_JJ fact_NN ._.
+In_IN other_JJ words_NNS ,_, I_PRP think_VBP that_IN students_NNS have_VBP to_TO learn_VB a_DT method_NN of_IN working_VBG to_TO analyse_VB facts_NNS and_CC phenomena_NNS ._.
+This_DT is_VBZ also_RB the_DT highest_JJS challenge_NN for_IN a_DT teacher_NN ._.
+For_IN example_NN ,_, in_IN molecular_JJ biology_NN is_VBZ more_RBR important_JJ to_TO understand_VB the_DT sense_NN of_IN a_DT step_NN in_IN a_DT protocol_NN respect_NN to_TO the_DT concentration_NN of_IN each_DT reagent_NN in_IN the_DT same_JJ step_NN ._.
+The_DT concentrations_NNS of_IN the_DT reagent_NN is_VBZ written_VBN ,_, it_PRP more_RBR important_JJ to_TO know_VB why_WRB you_PRP have_VBP to_TO use_VB that_IN reagent_NN ._.
+When_WRB a_DT student_NN has_VBZ got_VBN a_DT method_NN ow_NN work_NN ,_, presumibly_RB he/she_NN has_VBZ a_DT clear_JJ view_NN of_IN his/her_NN work_NN ._.
+The_DT ideas_NNS and_CC concept_NN are_VBP something_NN you_PRP will_MD never_RB forget_VB ._.
+They_PRP give_VBP you_PRP style_NN of_IN work_NN ,_, in_IN a_DT logic_NN manner_NN ._.
+Instead_RB the_DT fact_NN are_VBP suitable_JJ to_TO be_VB forgotten_VBN ._.
+For_IN example_NN ,_, I_PRP have_VBP forgotten_VBN a_DT lot_NN of_IN specific_JJ dates_NNS of_IN civil_JJ wars_NNS in_IN Italy_NNP during_IN the_DT centuries_NNS ,_, but_CC I_PRP know_VBP quite_RB well_RB the_DT entire_JJ story_NN ._.
+Is_VBZ not_RB important_JJ the_DT single_JJ fact_NN ,_, but_CC the_DT general_JJ structure_NN of_IN the_DT subject_NN ._.
+I_PRP 'm_VBP a_DT biologist_NN ._.
+When_WRB I_PRP do_VBP an_DT experiment_NN ,_, I_PRP ask_VBP to_TO myself_PRP :_: ``_`` Did_VBD I_PRP prepared_VBD the_DT good_JJ conditions_NNS to_TO obtain_VB somethig_NN interesting_JJ ?_. ''_''
+Little_JJ things_NNS means_VBZ a_DT lot_NN :_: tempereture_NN ,_, sterility_NN ,_, comfortable_JJ position_NN to_TO handle_VB my_PRP$ instruments_NNS ._.
+This_DT is_VBZ the_DT first_JJ step_NN of_IN a_DT method_NN of_IN working_VBG ._.
+Then_RB a_DT scientist_NN must_MD have_VB clear_JJ the_DT reason_NN of_IN every_DT step_NN of_IN the_DT experiment_NN ._.
+Even_RB though_IN mistakes_NNS are_VBP always_RB possible_JJ ,_, If_IN one_CD has_VBZ a_DT good_JJ method_NN of_IN working_VBG ,_, clear_JJ ideas_NNS and_CC concepts_NNS in_IN its_PRP$ mind_NN ,_, he/she_NN could_MD discover_VB soon_RB the_DT errors_NNS ._.

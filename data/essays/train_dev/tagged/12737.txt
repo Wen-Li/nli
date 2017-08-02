@@ -1,0 +1,14 @@
+I_PRP think_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB fact_NN ,_, and_CC I_PRP will_MD take_VB a_DT controversary_JJ example_NN ,_, which_WDT is_VBZ History_NN ._.
+First_RB ,_, when_WRB you_PRP learn_VBP History_NN ,_, it_PRP is_VBZ important_JJ to_TO be_VB able_JJ to_TO give_VB their_PRP$ relative_JJ importance_NN to_TO the_DT different_JJ facts_NNS ._.
+For_IN example_NN ,_, it_PRP is_VBZ impossible_JJ to_TO understand_VB different_JJ facts_NNS of_IN French_JJ political_JJ life_NN ,_, such_JJ as_IN the_DT Popular_NNP Front_NN ,_, without_IN any_DT idea_NN of_IN what_WP the_DT Left_VBN and_CC the_DT Right_NNP mean_NN ._.
+Moreover_RB ,_, sometimes_RB ideas_NNS happen_VB to_TO inform_VB reality_NN ._.
+It_PRP would_MD be_VB absurd_JJ to_TO learn_VB a_DT factual_JJ history_NN of_IN the_DT USSR_NN or_CC the_DT history_NN of_IN the_DT Cold_NNP War_NNP without_IN any_DT idea_NN of_IN what_WP communism_NN is_VBZ ._.
+More_RBR profoundly_RB ,_, there_EX is_VBZ no_DT discourse_NN about_IN facts_NNS without_IN an_DT interpretation_NN of_IN the_DT facts_NNS ._.
+Nietzsche_NNP and_CC ,_, more_RBR recently_RB ,_, Michel_NNP Foucault_NNP have_VBP explained_VBN that_IN all_PDT the_DT facts_NNS are_VBP constructed_VBN ._.
+There_EX are_VBP no_DT ``_`` natural_JJ facts_NNS ''_'' that_IN we_PRP should_MD examine_VB without_IN a_DT theory_NN ._.
+Even_RB the_DT selection_NN of_IN the_DT facts_NNS reveals_VBZ an_DT idea_NN of_IN what_WP is_VBZ important_JJ and_CC what_WP makes_VBZ History_NN ._.
+Economics_NNP provides_VBZ us_PRP with_IN countless_JJ examples_NNS of_IN theories_NNS that_WDT are_VBP necessary_JJ to_TO explain_VB facts_NNS ,_, and_CC even_RB to_TO construct_VB them_PRP ._.
+However_RB ,_, it_PRP does_VBZ to_TO mean_VB that_IN there_EX is_VBZ no_DT escape_NN to_TO general_JJ relativism_NN ,_, and_CC that_IN there_EX is_VBZ no_DT necessity_NN to_TO learn_VB fact_NN ._.
+It_PRP is_VBZ important_JJ to_TO cast_VB light_NN on_IN the_DT hypothesis_NN that_WDT are_VBP made_VBN in_IN Economics_NNP as_RB well_RB as_IN in_IN History_NN ,_, but_CC it_PRP is_VBZ also_RB important_JJ to_TO give_VB some_DT information_NN about_IN the_DT facts_NNS ._.
+At_IN the_DT same_JJ time_NN as_IN they_PRP improve_VBP their_PRP$ critical_JJ view_NN ,_, students_NNS should_MD be_VB able_JJ to_TO learn_VB precise_JJ facts_NNS ._.
+To_TO take_VB another_DT time_NN the_DT example_NN of_IN History_NN ,_, the_DT chronology_NN is_VBZ very_RB important_JJ :_: it_PRP would_MD not_RB make_VB sense_NN to_TO explain_VB the_DT facism_NN thinking_VBG that_IN it_PRP occured_VBD before_IN World_NNP War_NNP I._NNP As_IN far_RB as_IN Economics_NNP is_VBZ concerned_VBN ,_, it_PRP is_VBZ important_JJ to_TO test_VB empirically_RB economic_JJ theories_NNS to_TO demonstrate_VB that_IN they_PRP are_VBP useful_JJ to_TO understand_VB real_JJ economic_JJ relations_NNS ._.

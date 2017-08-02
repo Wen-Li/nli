@@ -1,0 +1,21 @@
+I_PRP can_MD say_VB that_IN I_PRP agree_VBP with_IN the_DT statement_NN above_IN ._.
+To_TO my_PRP$ mind_NN ,_, it_PRP is_VBZ much_RB more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS that_IN to_TO learn_VB facts_NNS ._.
+I_PRP think_VBP that_IN a_DT true_JJ learning_NN experience_NN comes_VBZ from_IN a_DT complete_JJ understanding_NN of_IN some_DT key_JJ points_NNS ._.
+Facts_NNS are_VBP something_NN that_WDT can_MD support_VB the_DT key_JJ concepts_NNS that_IN you_PRP have_VBP in_IN mind_NN ,_, and_CC help_VB you_PRP memorize_VB them_PRP ,_, but_CC can_MD not_RB be_VB the_DT principal_JJ elements_NNS of_IN a_DT learning_NN experience_NN ._.
+I_PRP would_MD n't_RB call_VB `_`` learning_VBG '_'' what_WP is_VBZ instead_RB a_DT simple_JJ memorization_NN of_IN facts_NNS ._.
+I_PRP will_MD take_VB History_NN as_IN an_DT example_NN ._.
+History_NN is_VBZ usually_RB treated_VBN as_IN a_DT subject_NN that_WDT requires_VBZ students_NNS to_TO memorize_VB a_DT lot_NN of_IN facts_NNS ._.
+This_DT is_VBZ not_RB completely_RB correct_JJ ._.
+Of_IN course_NN ,_, you_PRP will_MD need_VB to_TO remember_VB some_DT key_JJ dates_NNS to_TO organize_VB the_DT information_NN you_PRP have_VBP collected_VBN from_IN classes_NNS and_CC from_IN your_PRP$ text_NN book_NN ,_, but_CC this_DT will_MD not_RB help_VB you_PRP understand_VB the_DT importance_NN of_IN a_DT particular_JJ event_NN or_CC of_IN a_DT specific_JJ historical_JJ period_NN ._.
+You_PRP will_MD need_VB to_TO understand_VB the_DT main_JJ ideas_NNS that_WDT are_VBP behind_IN that_DT event_NN or_CC that_IN period_NN ._.
+Otherwise_RB ,_, you_PRP will_MD not_RB have_VB learnt_VBN anything_NN ,_, you_PRP will_MD just_RB have_VB done_VBN some_DT memorization_NN exercise_NN ._.
+Of_IN course_NN ,_, you_PRP can_MD not_RB study_VB a_DT subject_NN without_IN needing_VBG to_TO memorize_VB any_DT fact_NN ._.
+I_PRP will_MD take_VB one_CD more_JJR example_NN ._.
+A_DT student_NN of_IN medicine_NN will_MD need_VB to_TO study_VB Anatomy_NNP ,_, which_WDT is_VBZ also_RB considered_VBN as_IN a_DT tough_JJ subject_NN because_IN there_EX are_VBP a_DT lot_NN of_IN names_NNS to_TO memorize_VB ._.
+Nobody_NN can_MD be_VB a_DT good_JJ doctor_NN without_IN a_DT solid_JJ knowledge_NN of_IN the_DT parts_NNS of_IN the_DT human_JJ body_NN and_CC of_IN their_PRP$ names_NNS ._.
+Therefore_RB facts_NNS are_VBP also_RB important_JJ ._.
+Nevertheless_RB ,_, if_IN there_EX is_VBZ n't_RB any_DT concept_NN that_IN connects_VBZ those_DT facts_NNS ,_, you_PRP will_MD not_RB have_VB any_DT knowledge_NN ._.
+Facts_NNS alone_RB have_VBP no_DT meaning_NN if_IN there_EX is_VBZ no_DT supporting_VBG idea_NN or_CC concept_NN behid_VBD them_PRP ._.
+This_DT is_VBZ the_DT reason_NN why_WRB students_NNS of_IN medicine_NN will_MD learn_VB Anatomy_NNP in_IN an_DT organised_VBN way_NN ,_, :_: the_DT parts_NNS of_IN the_DT body_NN are_VBP classified_VBN in_IN different_JJ categories_NNS ,_, and_CC this_DT will_MD help_VB students_NNS understand_VB how_WRB the_DT human_JJ body_NN works_NNS ._.
+Finally_RB ,_, there_EX is_VBZ another_DT important_JJ factor_NN to_TO consider_VB :_: The_DT human_JJ brain_NN can_MD not_RB retain_VB a_DT lot_NN of_IN information_NN for_IN a_DT long_JJ period_NN of_IN time_NN ._.
+If_IN you_PRP simply_RB learn_VBP names_NNS or_CC a_DT series_NN of_IN facts_NNS without_IN any_DT connection_NN ,_, without_IN any_DT concept_NN behind_IN them_PRP ,_, you_PRP will_MD soon_RB forget_VB what_WP you_PRP have_VBP been_VBN trying_VBG to_TO learn_VB ._.

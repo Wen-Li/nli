@@ -1,0 +1,16 @@
+I_PRP do_VBP agree_VB with_IN this_DT statement_NN because_IN one_PRP can_MD not_RB apply_VB facts_NNS to_TO situations_NNS ._.
+For_IN that_DT reason_NN I_PRP consider_VBP understanding_VBG ideas_NNS and_CC concepts_NNS much_RB more_RBR important_JJ than_IN learning_VBG facts_NNS ._.
+As_IN I_PRP already_RB stated_VBD the_DT major_JJ difference_NN between_IN learning_VBG facts_NNS and_CC understanding_VBG concepts_NNS is_VBZ that_IN you_PRP can_MD apply_VB concepts_NNS to_TO different_JJ areas_NNS while_IN facts_NNS are_VBP only_RB useful_JJ for_IN specific_JJ situation_NN ._.
+For_IN example_NN if_IN you_PRP merely_RB memorize_VBP a_DT math_NN formula_NN it_PRP will_MD only_RB help_VB you_PRP if_IN the_DT teacher_NN asks_VBZ you_PRP to_TO write_VB down_RP the_DT formula_NN ._.
+On_IN the_DT other_JJ hand_NN if_IN you_PRP actually_RB understand_VBP the_DT concept_NN of_IN how_WRB the_DT formula_NN works_VBZ you_PRP will_MD be_VB able_JJ to_TO solve_VB all_DT kinds_NNS of_IN math_NN problems_NNS with_IN it_PRP ._.
+Another_DT reasons_NNS I_PRP consider_VBP understanding_VBG concepts_NNS more_RBR important_JJ is_VBZ that_IN humans_NNS are_VBP only_RB able_JJ to_TO learn_VB from_IN concepts_NNS ,_, not_RB facts_NNS ._.
+Let_VB us_PRP take_VB an_DT example_NN from_IN history_NN ._.
+If_IN one_CD knows_VBZ when_WRB the_DT Second_NNP World_NNP War_NNP started_VBD and_CC ended_VBD ,_, who_WP participated_VBD etc._FW one_CD would_MD not_RB be_VB able_JJ to_TO recognize_VB a_DT situation_NN where_WRB something_NN similar_JJ could_MD happen_VB ._.
+If_IN one_CD understands_VBZ why_WRB the_DT Second_NNP World_NNP War_NNP has_VBZ started_VBN and_CC knows_VBZ the_DT cause-effect-relationships_NNS this_DT person_NN is_VBZ likely_JJ to_TO recognize_VB a_DT similar_JJ situation_NN ._.
+And_CC only_RB if_IN one_CD is_VBZ able_JJ to_TO recognize_VB a_DT situation_NN one_NN can_MD think_VB about_IN possible_JJ solutions_NNS to_TO prevent_VB it_PRP from_IN happening_VBG ._.
+The_DT third_JJ reason_NN why_WRB I_PRP believe_VBP that_IN learning_VBG facts_NNS is_VBZ not_RB very_RB important_JJ is_VBZ that_IN one_CD is_VBZ much_RB more_RBR likely_JJ to_TO forget_VB facts_NNS ._.
+If_IN you_PRP memorize_VBP that_IN the_DT Boston_NNP Tea_NNP Party_NNP was_VBD in_IN 1773_CD you_PRP are_VBP very_RB likely_JJ to_TO forget_VB the_DT year_NN as_IN time_NN passes_VBZ whereas_IN if_IN you_PRP learn_VBP why_WRB and_CC what_WP happened_VBD you_PRP are_VBP likely_JJ to_TO still_RB know_VB the_DT important_JJ things_NNS even_RB after_IN a_DT few_JJ months_NNS ._.
+That_DT is_VBZ because_IN it_PRP is_VBZ much_RB easier_JJR for_IN the_DT brain_NN to_TO memorize_VB cause-effect-relationships_NNS that_WDT are_VBP connected_VBN to_TO knowledge_NN you_PRP already_RB have_VBP than_IN to_TO memorize_VB mere_JJ data_NNS ._.
+As_IN I_PRP already_RB said_VBD ,_, the_DT concepts_NNS are_VBP the_DT most_RBS important_JJ thing_NN because_IN you_PRP can_MD not_RB apply_VB mere_JJ facts_NNS to_TO situations_NNS ._.
+Therefore_RB facts_NNS do_VBP not_RB help_VB you_PRP dealing_VBG situations_NNS which_WDT everybody_NN has_VBZ to_TO do_VB every_DT day_NN ._.
+This_DT is_VBZ the_DT reason_NN why_WRB I_PRP think_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ much_RB more_RBR important_JJ for_IN students_NNS ._.

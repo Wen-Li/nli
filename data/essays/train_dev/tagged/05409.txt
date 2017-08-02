@@ -1,0 +1,24 @@
+I_PRP completely_RB disagree_VBP with_IN this_DT statement_NN ._.
+I_PRP think_VBP that_IN the_DT whole_JJ world_NN is_VBZ mainly_RB dependent_JJ on_IN the_DT life_NN facts_NNS ._.
+Mr._NNP Gandhi_NNP had_VBD said_VBN that_IN if_IN their_PRP$ is_VBZ facts_NNS and_CC truth_NN in_IN your_PRP$ life_NN then_RB you_PRP are_VBP on_IN the_DT verge_NN to_TO win_VB the_DT world_NN ._.
+In_IN a_DT class_NN room_NN when_WRB many_JJ students_NNS are_VBP listening_VBG a_DT perticular_JJ lecture_NN ._.
+They_PRP mainly_RB concentrate_VBP on_IN the_DT lecturer_NN ._.
+They_PRP listen_VBP to_TO the_DT only_JJ part_NN which_WDT the_DT lecturer_NN is_VBZ saying_VBG ._.
+As_IN a_DT part_NN of_IN the_DT study_NN ,_, lecturer_NN provides_VBZ them_PRP only_RB the_DT idea_NN behind_IN the_DT topic_NN ._.
+And_CC accordingly_RB the_DT student_NN follow_VB the_DT instructions_NNS of_IN the_DT lecturer_NN ._.
+At_IN this_DT time_NN students_NNS can_MD not_RB understand_VB the_DT topic_NN because_IN they_PRP have_VBP not_RB any_DT real_JJ example_NN to_TO support_VB the_DT topic_NN ._.
+They_PRP just_RB mug_VBP the_DT topic_NN and_CC leave_VB it_PRP as_IN a_DT part_NN of_IN assignment_NN and_CC some_DT may_MD think_VB that_IN it_PRP is_VBZ only_RB a_DT part_NN of_IN our_PRP$ syllabus_NN ._.
+On_IN the_DT other_JJ hand_NN some_DT students_NNS go_VBP in_IN deep_JJ ._.
+They_PRP analyze_VBP the_DT topic_NN ._.
+They_PRP dont_VBP mug_NN the_DT topic_NN ._.
+They_PRP approach_VBP each_DT other_JJ or_CC go_VB through_IN the_DT book_NN to_TO understand_VB the_DT concept_NN behind_IN the_DT topic_NN ._.
+But_CC in_IN book_NN ,_, it_PRP is_VBZ not_RB compulsary_JJ that_IN every_DT book_NN has_VBZ mentioned_VBN the_DT reality_NN of_IN the_DT topic_NN and_CC from_IN where_WRB it_PRP comes_VBZ ._.
+But_CC some_DT book_NN conceptually_RB explain_VB this_DT very_RB well_RB ._.
+Various_JJ concepts_NNS are_VBP provided_VBN for_IN a_DT single_JJ thing_NN ._.
+Now_RB student_NN has_VBZ multiple_JJ option_NN for_IN a_DT single_JJ thing_NN ._.
+Fourtunately_RB their_PRP$ topic_NN becomes_VBZ more_RBR clear_JJ by_IN using_VBG this_DT much_JJ amount_NN of_IN the_DT concepts_NNS provided_VBN by_IN the_DT books_NNS ._.
+But_CC when_WRB they_PRP come_VBP in_IN real_JJ life_NN these_DT concepts_NNS are_VBP worthless_JJ because_IN there_EX can_MD not_RB be_VB a_DT '_'' idea_NN '_'' to_TO handle_VB the_DT situation_NN ._.
+They_PRP do_VBP not_RB know_VB the_DT facts_NNS about_IN the_DT life_NN and_CC by_IN that_IN they_PRP can_MD not_RB survive_VB in_IN this_DT confused_JJ world_NN ._.
+Most_JJS of_IN the_DT time_NN ,_, the_DT facts_NNS of_IN the_DT life_NN are_VBP useful_JJ than_IN ideas_NNS and_CC concepts_NNS ._.
+For_IN doing_VBG science_NN and_CC mathematics_NN study_NN ideas_NNS and_CC concept_NN works_NNS but_CC in_IN real_JJ life_NN the_DT student_NN should_MD be_VB aware_JJ of_IN facts_NNS of_IN life_NN ._.
+Life_NNP works_VBZ on_IN facts_NNS and_CC truth_NN not_RB on_IN illusive_JJ ideas_NNS and_CC concepts_NNS though_IN they_PRP are_VBP useful_JJ in_IN study_NN and_CC in_IN doing_VBG business_NN ._.

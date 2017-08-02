@@ -1,0 +1,25 @@
+In_IN my_PRP$ opinion_NN ,_, it_PRP is_VBZ better_JJR to_TO have_VB specialization_NN in_IN one_CD specific_JJ subject_JJ rather_RB than_IN having_VBG a_DT broader_JJR knowledge_NN of_IN many_JJ academic_JJ subject_NN ._.
+I_PRP believe_VBP that_IN a_DT person_NN should_MD be_VB a_DT specialist_NN rather_RB than_IN generalist_NN ._.
+There_EX 's_VBZ an_DT old_JJ saying_VBG ,_, ``_`` Jack_NNP of_IN all_DT trades_NNS master_NN of_IN none_NN ._. ''_''
+Firstly_RB ,_, a_DT person_NN should_MD not_RB waste_VB his_PRP$ time_NN and_CC money_NN in_IN acquiring_VBG knowledge_NN which_WDT he_PRP wo_MD n't_RB require_VB or_CC use_VB it_PRP in_IN future_NN ._.
+A_DT person_NN should_MD not_RB devote_VB his_PRP$ time_NN in_IN learning_VBG unnecessary_JJ subjects_NNS which_WDT he_PRP wo_MD n't_RB even_RB imply_VB in_IN his_PRP$ specialization_NN like_IN Literature_NNP and_CC Mathematics_NNP are_VBP two_CD different_JJ fields_NNS ._.
+None_NN of_IN the_DT things_NNS are_VBP common_JJ between_IN them_PRP ._.
+Also_RB ,_, a_DT mathematics_NN student_NN would_MD waste_VB his_PRP$ time_NN and_CC energy_NN in_IN learning_VBG literature_NN whereas_IN he_PRP could_MD use_VB this_DT time_NN to_TO do_VB reserach_VB in_IN his_PRP$ prefered_JJ subject_NN ._.
+This_DT implies_VBZ vice_NN versa_RB too_RB ._.
+There_EX is_VBZ no_DT practical_JJ implementation_NN of_IN Mathematics_NNP in_IN Literature_NNP ._.
+We_PRP should_MD avoid_VB our_PRP$ time_NN and_CC energy_NN spent_VBD on_IN learning_VBG unnecessary_JJ subject_NN ._.
+Secondly_RB ,_, all_PDT the_DT renowned_JJ people_NNS whether_IN it_PRP is_VBZ from_IN literature_NN or_CC history_NN or_CC science_NN are_VBP the_DT people_NNS who_WP have_VBP specialized_VBN in_IN one_CD subject_NN ._.
+They_PRP are_VBP not_RB the_DT people_NNS who_WP have_VBP studied_VBN everything_NN ._.
+Infact_NNP ,_, they_PRP are_VBP the_DT people_NNS who_WP have_VBP devoted_VBN all_DT their_PRP$ life_NN in_IN specializing_VBG a_DT subject_NN ._.
+They_PRP work_VBP day_NN and_CC night_NN on_IN their_PRP$ subject_JJ to_TO come_VB to_TO certain_JJ conclusions_NNS which_WDT become_VBP the_DT basis_NN of_IN our_PRP$ lives_NNS ._.
+Moreover_RB there_EX are_VBP lot_NN of_IN prizes_NNS and_CC recognition_NN for_IN the_DT people_NNS who_WP have_VBP specialized_VBN in_IN one_CD subject_NN ._.
+There_EX is_VBZ no_DT such_JJ recognition_NN for_IN the_DT people_NNS who_WP know_VBP lot_NN of_IN subjects_NNS and_CC are_VBP masters_NNS of_IN none_NN ._.
+There_EX is_VBZ wealth_NN ,_, fame_NN and_CC recognition_NN for_IN the_DT people_NNS who_WP have_VBP dedicated_VBN their_PRP$ lives_NNS to_TO specialize_VB and_CC reserach_VB in_IN their_PRP$ particular_JJ field_NN ._.
+These_DT are_VBP the_DT people_NNS who_WP are_VBP highly_RB appreciated_VBN and_CC respected_VBN in_IN our_PRP$ society_NN ._.
+Thirdly_RB ,_, most_JJS of_IN the_DT profession_NN in_IN today_NN 's_POS world_NN requires_VBZ a_DT specialist_NN ._.
+We_PRP have_VBP software_NN programmers_NNS ,_, scientist_NN ,_, engineers_NNS and_CC etc_NN ._.
+They_PRP all_DT are_VBP the_DT people_NNS who_WP have_VBP mastered_VBN their_PRP$ field_NN which_WDT is_VBZ based_VBN on_IN one_CD subject_NN ._.
+This_DT shows_VBZ that_IN a_DT specialist_NN can_MD survive_VB in_IN any_DT conditions_NNS ._.
+He_PRP will_MD always_RB have_VB jobs_NNS for_IN earning_VBG his_PRP$ livelihood_NN ._.
+He_PRP will_MD alway_VB have_VB a_DT preference_NN over_IN others_NNS ._.
+Lastly_RB ,_, I_PRP will_MD like_VB to_TO conclude_VB that_IN the_DT greatest_JJS problem_NN solver_NN in_IN any_DT field_NN are_VBP the_DT ones_NNS who_WP are_VBP specialist_NN in_IN their_PRP$ subject_NN ,_, not_RB the_DT one_NN who_WP know_VBP everything_NN ._.

@@ -1,0 +1,16 @@
+In_IN University_NNP ,_, students_NNS have_VBP both_DT to_TO undestand_JJ ideas_NNS and_CC concepts_NNS and_CC to_TO learn_VB facts_NNS ._.
+In_IN my_PRP$ point_NN of_IN view_NN ,_, these_DT two_CD things_NNS are_VBP totally_RB complementary_JJ in_IN a_DT student_NN learning-process_NN ._.
+It_PRP is_VBZ true_JJ that_IN ,_, depending_VBG on_IN the_DT area_NN of_IN studies_NNS ,_, it_PRP is_VBZ sometimes_RB more_RBR important_JJ for_IN a_DT student_NN to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, or_CC in_IN contrary_JJ ,_, more_RBR important_JJ to_TO learn_VB facts_NNS ._.
+For_IN example_NN ,_, a_DT student_NN in_IN History_NN will_MD have_VB to_TO learn_VB a_DT lot_NN of_IN facts_NNS and_CC dates_NNS to_TO be_VB able_JJ to_TO talk_VB about_IN a_DT war_NN ._.
+If_IN you_PRP do_VBP n't_RB know_VB these_DT ,_, you_PRP are_VBP not_RB able_JJ to_TO explain_VB them_PRP ._.
+Learning_NNP facts_NNS happens_VBZ first_RB ,_, and_CC understanting_VBG ideas_NNS ,_, after_IN ._.
+Mathematics_NN or_CC even_RB Economics_NNP students_NNS would_MD rather_RB say_VB that_IN it_PRP is_VBZ more_RBR important_JJ for_IN them_PRP to_TO understand_VB a_DT theory_NN or_CC a_DT concept_NN than_IN learning_VBG facts_NNS ._.
+If_IN you_PRP understand_VBP an_DT idea_NN you_PRP can_MD thing_NN about_IN it_PRP ,_, re-use_VB the_DT idea_NN ,_, or_CC even_RB learn_VB from_IN previous_JJ mistakes_NNS than_IN have_VBP been_VBN made_VBN in_IN the_DT past_NN ._.
+After_IN that_DT ,_, it_PRP could_MD be_VB interesting_JJ to_TO learn_VB when_WRB a_DT theory_NN has_VBZ been_VBN though_IN or_CC where_WRB ._.
+Moreover_RB ,_, if_IN you_PRP understand_VBP something_NN very_RB well_RB first_RB ,_, then_RB it_PRP is_VBZ easier_JJR to_TO remember_VB facts_NNS about_IN it_PRP ._.
+For_IN instance_NN ,_, when_WRB I_PRP was_VBD in_IN high_JJ school_NN ,_, I_PRP had_VBD lot_NN of_IN difficulties_NNS in_IN learning_VBG facts_NNS and_CC dates_NNS in_IN History_NN ,_, especially_RB concerning_VBG the_DT Cold_NNP War_NNP ._.
+After_IN speaking_VBG to_TO an_DT older_JJR student_NN ,_, I_PRP realised_VBD that_IN I_PRP was_VBD n't_RB able_JJ to_TO memorize_VB the_DT facts_NNS because_IN I_PRP did_VBD n't_RB understand_VB how_WRB it_PRP happens_VBZ and_CC why_WRB ._.
+After_IN understanding_VBG something_NN ,_, you_PRP sometimes_RB remember_VBP everything_NN without_IN ever_RB noticing_VBG it_PRP ._.
+In_IN my_PRP$ opinion_NN ,_, understand_VB and_CC learning_VBG are_VBP both_DT important_JJ for_IN a_DT student_NN ._.
+However_RB ,_, during_IN all_PDT the_DT years_NNS of_IN studies_NNS ,_, students_NNS have_VBP to_TO learn_VB to_TO think_VB ,_, to_TO take_VB decision_NN ,_, to_TO learn_VB from_IN mistakes_NNS ,_, not_RB only_RB in_IN order_NN to_TO find_VB a_DT job_NN ,_, but_CC also_RB in_IN their_PRP$ everyday_JJ life_NN ._.
+Because_IN studying_VBG is_VBZ not_RB only_RB being_VBG able_JJ to_TO learn_VB facts_NNS but_CC it_PRP is_VBZ also_RB the_DT development_NN from_IN a_DT child_NN to_TO an_DT adult_JJ ,_, I_PRP agree_VBP that_IN understand_VBP ideas_NNS and_CC concepts_NNS is_VBZ the_DT more_RBR important_JJ ._.

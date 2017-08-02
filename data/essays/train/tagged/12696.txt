@@ -1,0 +1,21 @@
+In_IN my_PRP$ opinion_NN it_PRP is_VBZ better_JJR to_TO have_VB a_DT broader_JJR knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+In_IN today_NN 's_POS world_NN ,_, no_DT subject_NN can_MD be_VB studied_VBN in_IN isolation_NN ._.
+Subjects_NNS are_VBP linked_VBN to_TO each_DT other_JJ ._.
+For_IN a_DT good_JJ understanding_NN of_IN one_CD subject_NN ,_, some_DT amount_NN of_IN knowledge_NN of_IN a_DT related_JJ subject_NN is_VBZ essential_JJ ._.
+For_IN example_NN ,_, for_IN studying_VBG complex_JJ genetic_JJ engineering_NN ,_, a_DT knowledge_NN of_IN computers_NNS is_VBZ required_VBN for_IN studying_VBG models_NNS ._.
+Similarly_RB ,_, while_IN studying_VBG history_NN of_IN a_DT particular_JJ region_NN at_IN a_DT certain_JJ time_NN ,_, it_PRP is_VBZ beneficial_JJ to_TO know_VB the_DT economics_NNS of_IN that_DT area_NN at_IN that_DT time_NN ._.
+It_PRP would_MD help_VB us_PRP better_RBR understand_VB the_DT events_NNS occuring_VBG at_IN that_DT time_NN and_CC the_DT reasons_NNS behind_IN them_PRP ._.
+Thus_RB ,_, as_IN subjects_NNS are_VBP inter-related_JJ we_PRP need_VBP to_TO have_VB knowledge_NN of_IN many_JJ subjects_NNS ._.
+We_PRP also_RB need_VBP to_TO understand_VB things_NNS happening_VBG around_IN us_PRP ._.
+Things_NNS happening_VBG around_IN us_PRP are_VBP also_RB related_VBN ._.
+To_TO understand_VB issues_NNS like_IN why_WRB did_VBD the_DT Iraq_NNP war_NN occur_VBP ,_, we_PRP need_VBP to_TO understand_VB politics_NNS and_CC history_NN ._.
+To_TO be_VB aware_JJ of_IN why_WRB and_CC when_WRB tsunamis_NNS or_CC hurricanes_NNS occur_VBP ,_, we_PRP need_VBP to_TO know_VB geography_NN ._.
+If_IN we_PRP catch_VBP cold_JJ ,_, then_RB we_PRP need_VBP to_TO know_VB why_WRB it_PRP happened_VBD and_CC how_WRB we_PRP can_MD prevent_VB it_PRP ._.
+So_IN we_PRP need_VBP to_TO expand_VB our_PRP$ horizon_NN of_IN knowledge_NN to_TO include_VB many_JJ subjects_NNS to_TO increase_VB our_PRP$ awareness_NN ._.
+Does_VBZ this_DT mean_NN that_IN we_PRP dont_VBP need_NN specialists_NNS ?_.
+Specialists_NNS are_VBP required_VBN as_IN there_EX are_VBP many_JJ areas_NNS which_WDT require_VBP a_DT detailed_JJ and_CC thorough_JJ study_NN which_WDT specialists_NNS have_VBP done_VBN ._.
+For_IN research_NN in_IN particular_JJ fields_NNS specialists_NNS are_VBP required_VBN ._.
+In_IN my_PRP$ opinion_NN ,_, the_DT number_NN of_IN subjects_NNS to_TO be_VB studied_VBN should_MD vary_VB according_VBG to_TO the_DT level_NN of_IN education_NN ._.
+Primary_JJ and_CC secondary_JJ education_NN should_MD focus_VB on_IN a_DT variety_NN of_IN subjects_NNS as_IN they_PRP are_VBP the_DT building_NN blocks_NNS of_IN a_DT student_NN 's_POS knowledge_NN base_NN ._.
+Higher_JJR education_NN can_MD be_VB focussed_VBN at_IN a_DT specific_JJ subject_NN ._.
+Thus_RB ,_, a_DT broad_JJ knowledge_NN of_IN numerous_JJ academic_JJ subjects_NNS is_VBZ essential_JJ at_IN the_DT primary_JJ and_CC secondary_JJ level_NN of_IN education_NN ._.

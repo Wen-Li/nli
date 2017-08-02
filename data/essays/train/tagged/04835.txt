@@ -1,0 +1,15 @@
+I_PRP do_VBP n't_RB agree_VB with_IN this_DT statement_NN ._.
+I_PRP 'd_MD like_VB to_TO explain_VB why_WRB I_PRP think_VBP so_RB ._.
+There_EX are_VBP three_CD reasons_NNS ._.
+First_RB ,_, the_DT number_NN of_IN human_JJ beings_NNS will_MD inclease_VB in_IN this_DT twenty_CD years_NNS ._.
+Now_RB ,_, there_EX are_VBP about_IN 6,000_CD million_CD human_JJ beings_NNS in_IN the_DT earth_NN ,_, and_CC it_PRP is_VBZ incleasing_VBG ,_, especially_RB in_IN China_NNP ,_, India_NNP ,_, and_CC so_RB on_IN ._.
+And_CC these_DT countries_NNS are_VBP the_DT good_JJ markets_NNS of_IN the_DT car_NN ._.
+Second_RB ,_, the_DT car_NN will_MD become_VB more_RBR typical_JJ way_NN of_IN moving_VBG ,_, because_IN typically_RB ,_, the_DT countries_NNS in_IN which_WDT the_DT number_NN of_IN human_JJ beings_NNS will_MD inclease_VB have_VB very_RB wide_JJ country_NN area_NN ,_, like_IN China_NNP ._.
+So_RB ,_, they_PRP will_MD want_VB to_TO use_VB car_NN for_IN moving_VBG ._.
+Lastly_RB ,_, the_DT car_NN will_MD become_VB more_RBR personal_JJ item_NN of_IN moving_VBG ._.
+Currently_RB ,_, typical_JJ style_NN of_IN owning_VBG the_DT car_NN is_VBZ that_IN a_DT family_NN or_CC a_DT company_NN owns_VBZ the_DT car_NN ._.
+The_DT reason_NN of_IN this_DT is_VBZ economical_JJ reason_NN ._.
+The_DT price_NN of_IN car_NN is_VBZ very_RB expensive_JJ ,_, so_IN we_PRP must_MD share_VB a_DT car_NN with_IN some_DT people_NNS ._.
+Because_IN there_EX will_MD be_VB the_DT cost_NN reduction_NN by_IN the_DT production_NN technology_NN 's_POS advent_NN in_IN recent_JJ years_NNS ,_, the_DT car_NN price_NN will_MD be_VB down_RB ._.
+In_IN this_DT situation_NN ,_, the_DT style_NN of_IN owning_VBG the_DT car_NN is_VBZ change_NN to_TO the_DT style_NN of_IN per_IN person_NN ._.
+Because_IN of_IN these_DT three_CD reasons_NNS ,_, I_PRP think_VBP that_IN the_DT number_NN of_IN cars_NNS will_MD inclease_VB in_IN twenty_CD years_NNS ._.

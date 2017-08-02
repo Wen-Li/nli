@@ -1,0 +1,13 @@
+Both_DT learning_VBG facts_NNS and_CC understanding_VBG ideas_NNS are_VBP important_JJ ._.
+Neither_DT one_CD of_IN them_PRP dominates_VBZ another_DT ._.
+On_IN the_DT one_CD side_NN ,_, learning_VBG facts_NNS helps_VBZ people_NNS to_TO get_VB experience_NN so_IN that_IN they_PRP can_MD understand_VB and_CC generate_VB ideas_NNS better_RBR ;_: on_IN the_DT other_JJ side_NN ,_, the_DT ability_NN which_WDT people_NNS has_VBZ to_TO understand_VB ideas_NNS affects_VBZ people_NNS 's_POS performance_NN to_TO learn_VB facts_NNS ._.
+Everyone_NN starts_VBZ to_TO learn_VB things_NNS from_IN learning_VBG facts_NNS first_RB ._.
+For_IN example_NN ,_, young_JJ children_NNS start_VBP to_TO learn_VB facts_NNS when_WRB they_PRP start_VBP to_TO go_VB to_TO school_NN ._.
+They_PRP might_MD learn_VB that_IN seventy_CD five_CD percent_NN of_IN the_DT surface_NN of_IN the_DT earth_NN area_NN is_VBZ covered_VBN by_IN water_NN ._.
+This_DT knowledge_NN is_VBZ not_RB from_IN understand_VB ideas_NNS but_CC from_IN facts_NNS ._.
+Another_DT example_NN is_VBZ that_IN young_JJ children_NNS learn_VBP that_IN fire_NN burns_NNS and_CC hurt_VB people_NNS by_IN touching_VBG fire_NN because_IN they_PRP have_VBP no_DT idea_NN about_IN fire_NN before_IN they_PRP get_VBP hurt_VBN ._.
+However_RB ,_, only_RB learning_VBG facts_NNS would_MD not_RB help_VB students_NNS to_TO get_VB knowledge_NN effiently_RB ,_, they_PRP must_MD go_VB to_TO school_NN or_CC somewhere_RB else_RB to_TO learn_VB ideas_NNS ._.
+For_IN example_NN ,_, some_DT of_IN the_DT the_DT knowledges_NNS learned_VBN by_IN students_NNS at_IN school_NN are_VBP ideas_NNS ._.
+When_WRB students_NNS have_VBP enough_RB knowledge_NN and_CC ideas_NNS ,_, they_PRP would_MD learn_VB facts_NNS deeper_JJR and_CC broader_JJR ._.
+Understanding_VBG ideas_NNS and_CC learning_VBG facts_NNS should_MD not_RB be_VB separate_JJ ._.
+Both_DT of_IN them_PRP are_VBP the_DT ways_NNS to_TO help_VB students_NNS to_TO abtain_VB knowledges_NNS ._.

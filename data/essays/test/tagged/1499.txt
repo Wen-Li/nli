@@ -1,0 +1,1 @@
+I_PRP agree_VBP with_IN the_DT following_VBG statement_NN ``_`` it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ''_'' ._.

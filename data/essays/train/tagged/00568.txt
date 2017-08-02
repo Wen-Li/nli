@@ -1,0 +1,19 @@
+I_PRP strongly_RB agree_VBP with_IN this_DT statement_NN ._.
+This_DT is_VBZ for_IN various_JJ reasons_NNS :_: First_NNP ,_, the_DT mere_JJ learning_NN of_IN facts_NNS is_VBZ boring_VBG to_TO most_JJS people_NNS ,_, thus_RB leading_VBG to_TO lack_NN of_IN motivation_NN and_CC concentration_NN ._.
+Understanding_VBG the_DT underlying_VBG ideas_NNS and_CC concepts_NNS on_IN the_DT other_JJ hand_NN is_VBZ more_RBR interesting_JJ to_TO most_JJS students_NNS ._.
+Plus_NN ,_, once_RB they_PRP have_VBP understood_VBN a_DT certain_JJ concept_NN they_PRP often_RB feel_VBP proud_JJ of_IN themselves_PRP which_WDT gives_VBZ motivation_NN for_IN further_JJ learning_NN ._.
+Moreover_RB ,_, once_RB a_DT student_NN has_VBZ developed_VBN an_DT understanding_NN for_IN the_DT basic_JJ ideas_NNS of_IN a_DT certain_JJ issue_NN ,_, they_PRP are_VBP not_RB likely_JJ to_TO forget_VB what_WP they_PRP have_VBP learned_VBN as_IN fast_JJ as_IN they_PRP would_MD had_VBD they_PRP only_RB memorized_VBD facts_NNS ._.
+Plus_NN ,_, students_NNS who_WP have_VBP an_DT understanding_NN of_IN the_DT matter_NN can_MD answer_VB questions_NNS more_RBR easily_RB ,_, and_CC are_VBP even_RB able_JJ to_TO answer_VB questions_NNS that_WDT go_VBP beyond_IN the_DT mere_JJ facts_NNS ._.
+Thus_RB ,_, from_IN a_DT didactic_JJ point_NN of_IN view_NN ,_, understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ far_RB superior_JJ to_TO learning_VBG facts_NNS ._.
+Now_RB let_VB me_PRP give_VB you_PRP some_DT examples_NNS supporting_VBG the_DT statements_NNS which_WDT I_PRP have_VBP made_VBN above_IN ._.
+Let_VB us_PRP take_VB a_DT look_NN at_IN the_DT physics_NN of_IN a_DT flying_VBG ball_NN ._.
+Students_NNS can_MD either_RB just_RB memorize_VB the_DT formulas_NNS or_CC try_VB to_TO understand_VB why_WRB the_DT ball_NN is_VBZ moving_VBG the_DT way_NN it_PRP is_VBZ ._.
+Simply_RB learning_VBG the_DT formulas_NNS is_VBZ not_RB interesting_JJ at_IN all_DT as_IN they_PRP consist_VBP of_IN only_RB letters_NNS and_CC numbers_NNS ._.
+It_PRP is_VBZ easy_JJ to_TO forget_VB that_IN the_DT x_NN was_VBD squared_VBN or_CC that_IN what_WP a_DT certain_JJ letter_NN meant_VBD ._.
+On_IN the_DT other_JJ hand_NN ,_, trying_VBG to_TO understand_VB the_DT cause_NN of_IN the_DT movement_NN is_VBZ a_DT much_RB better_JJR idea_NN ._.
+Students_NNS learn_VBP that_IN there_EX are_VBP different_JJ fundamental_JJ forces_NNS that_WDT act_VBP on_IN a_DT flying_VBG ball_NN ._.
+They_PRP can_MD now_RB draw_VB a_DT picture_NN showing_VBG the_DT directions_NNS of_IN the_DT forces_NNS acting_VBG on_IN the_DT ball_NN and_CC retrieve_VB the_DT formulas_NNS easily_RB form_VBP their_PRP$ sketch_NN ._.
+If_IN they_PRP were_VBD now_RB given_VBN a_DT different_JJ problem_NN of_IN moving_VBG objects_NNS they_PRP are_VBP also_RB able_JJ to_TO indentify_VB the_DT forces_NNS and_CC thus_RB deduct_VB a_DT set_NN of_IN formulas_NNS describing_VBG the_DT motion_NN ._.
+Had_VBD they_PRP only_RB learned_VBD the_DT formulas_NNS of_IN the_DT flying_VBG ball_NN in_IN the_DT first_JJ place_NN ,_, they_PRP are_VBP not_RB very_RB likely_JJ to_TO be_VB able_JJ to_TO handle_VB a_DT different_JJ ,_, but_CC similar_JJ problem_NN ._.
+Another_DT point_NN I_PRP would_MD like_VB to_TO make_VB is_VBZ the_DT fact_NN that_IN once_RB someone_NN knows_VBZ the_DT underlying_VBG concept_NN of_IN a_DT problem_NN ,_, they_PRP are_VBP also_RB able_JJ to_TO explain_VB and_CC to_TO pass_VB on_IN what_WP they_PRP have_VBP learend_VBN to_TO other_JJ people_NNS ._.
+This_DT is_VBZ again_RB due_JJ to_TO the_DT fact_NN that_IN they_PRP are_VBP able_JJ to_TO answer_VB questions_NNS going_VBG beyond_IN mere_JJ facts_NNS ._.

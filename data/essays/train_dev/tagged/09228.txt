@@ -1,0 +1,13 @@
+I_PRP disagree_VBP that_IN `_`` In_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP tody_NN '_'' for_IN the_DT following_VBG reasons_NNS ._.
+First_RB ,_, cars_NNS are_VBP very_RB convenient_JJ ._.
+No_DT other_JJ tranportations_NNS can_MD replace_VB them_PRP ._.
+For_IN example_NN ,_, car_NN has_VBZ been_VBN `_`` a_DT people_NNS 's_POS legs_NNS '_POS ._.
+When_WRB I_PRP lived_VBD in_IN Hiroshima_NNP ,_, one_CD of_IN the_DT local_JJ city_NN of_IN Japan_NNP ,_, I_PRP can_MD not_RB move_VB anywhere_RB without_IN a_DT car_NN ._.
+Social_NNP systems_NNS are_VBP in_IN the_DT condition_NN people_NNS can_MD use_VB a_DT car_NN ._.
+Additionally_RB ,_, I_PRP find_VBP it_PRP more_RBR in_IN the_DT countryside_NN ,_, people_NNS can_MD not_RB go_VB to_TO shops_NNS without_IN cars_NNS ._.
+I_PRP believe_VBP that_IN cars_NNS are_VBP convenient_JJ and_CC have_VBP been_VBN the_DT tools_NNS for_IN living_NN ._.
+Second_RB ,_, I_PRP think_VBP that_IN cars_NNS will_MD be_VB developed_VBN to_TO adjust_VB our_PRP$ life_NN ._.
+The_DT features_NNS of_IN car_NN can_MD change_VB and_CC can_MD solve_VB the_DT problems_NNS ._.
+For_IN example_NN ,_, cars_NNS comsume_VBP a_DT lot_NN of_IN energy_NN and_CC pollute_VB our_PRP$ environments_NNS ,_, but_CC now_RB improving_VBG their_PRP$ mechanism_NN to_TO reduce_VB bad_JJ inpacts_NNS ._.
+I_PRP believe_VBP that_IN cars_NNS will_MD be_VB developed_VBN better_RBR in_IN twenty_CD years_NNS and_CC will_MD not_RB lose_VB their_PRP$ possition_NN ._.
+In_IN conclution_NN ,_, for_IN the_DT reasons_NNS mentioned_VBN above_IN ,_, I_PRP strongly_RB do_VBP not_RB believe_VB that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN in_IN twenty_CD years_NNS ._.

@@ -1,0 +1,12 @@
+In_IN my_PRP$ think_NN of_IN way_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO learn_VB facts_NNS than_IN to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS ._.
+There_EX are_VBP two_CD reasons_NNS why_WRB I_PRP believe_VBP that_IN learing_VBG facts_NNS is_VBZ more_RBR important_JJ than_IN understanding_VBG ideas_NNS and_CC concepts_NNS ._.
+Fisrt_NNP ,_, if_IN students_NNS dose_NN n't_RB know_VB about_IN the_DT facts_NNS perfectly_RB and_CC only_RB understand_VBP about_IN its_PRP$ cincepts_NNS and_CC ideas_NNS ,_, they_PRP would_MD not_RB know_VB what_WP the_DT truth_NN is_VBZ ._.
+This_DT would_MD make_VB students_NNS confuse_VB when_WRB they_PRP enter_VBP social_JJ life_NN after_IN school_NN and_CC face_VBP the_DT real_JJ situation_NN which_WDT they_PRP only_RB understood_VBD ithe_JJ concepts_NNS ._.
+They_PRP could_MD do_VB well_RB accroding_VBG what_WP they_PRP have_VBP understood_VBN about_RB ,_, but_CC if_IN it_PRP is_VBZ wrong_JJ what_WP they_PRP have_VBP understood_VBN ,_, they_PRP would_MD fail_VB at_IN the_DT moment_NN ._.
+Second_JJ reason_NN why_WRB i_FW believe_VBP learning_VBG facts_NNS more_RBR important_JJ is_VBZ the_DT change_NN of_IN the_DT concepts_NNS and_CC ideas_NNS about_IN what_WP they_PRP learned_VBD ._.
+The_DT concepts_NNS and_CC ideas_NNS about_IN an_DT objective_NN could_MD change_VB as_IN time_NN go_VB on_IN ._.
+In_IN other_JJ words_NNS ,_, even_RB though_IN it_PRP learned_VBD the_DT right_JJ concepts_NNS and_CC ideas_NNS when_WRB they_PRP were_VBD students_NNS ,_, the_DT concepts_NNS of_IN an_DT object_NN could_MD keep_VB change_NN depends_VBZ on_IN the_DT social_JJ environment_NN ,_, so_RB what_WP they_PRP have_VBP know_VB will_MD may_MD not_RB ture_VB anymore_RB ._.
+Third_NNP ,_, understanding_VBG only_RB concepts_NNS and_CC ideas_NNS is_VBZ less_RBR effecetive_JJ for_IN making_VBG creative_JJ for_IN the_DT student_NN ._.
+If_IN they_PRP understand_VBP of_IN on_IN object_NN 's_POS ideas_NNS already_RB ,_, they_PRP would_MD believe_VB that_IN there_EX is_VBZ only_RB the_DT ideas_NNS for_IN the_DT object_NN ._.
+Then_RB ,_, they_PRP 'll_MD lose_VB a_DT chance_NN to_TO make_VB their_PRP$ won_VBN ideas_NNS and_CC opinion_NN about_IN the_DT object_NN ._.
+Therefore_RB ,_, in_IN my_PRP$ opinion_NN ,_, it_PRP is_VBZ more_RBR important_JJ to_TO learn_VB facts_NNS than_IN understand_VBP only_RB concepts_NNS and_CC ideas_NNS f_SYM

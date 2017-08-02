@@ -1,0 +1,3 @@
+The_DT most_RBS advertisement_NN is_VBZ make_VB a_DT products_NNS ._.
+A_DT much_JJ better_JJR than_IN them_PRP ._.
+They_PRP are_VBP actualy_RB ._.

@@ -1,0 +1,22 @@
+It_PRP is_VBZ definitely_RB important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN learning_VBG facts_NNS because_IN facts_NNS are_VBP based_VBN on_IN ideas_NNS and_CC concepts_NNS ._.
+There_EX always_RB is_VBZ some_DT concept_NN in_IN the_DT process_NN to_TO reach_VB for_IN a_DT particular_JJ fact_NN ._.
+So_RB if_IN a_DT student_NN is_VBZ not_RB clear_JJ in_IN his/her_JJ ideas_NNS or_CC concepts_NNS he_PRP will_MD definitely_RB have_VB some_DT problem_NN in_IN finding_VBG a_DT particular_JJ fact_NN about_IN something_NN ._.
+Let_VB us_PRP take_VB an_DT example_NN ._.
+Suppose_VB that_IN there_EX is_VBZ a_DT student_NN working_VBG on_IN some_DT physics_NNS paper_NN ._.
+Now_RB he_PRP comes_VBZ across_IN a_DT point_NN of_IN ``_`` WORK_VBP ''_'' ._. and_CC he_PRP notices_NNS that_IN the_DT formula_NN for_IN force_NN is_VBZ WORK_VBP =_JJ FORCE_VBP *_SYM DISPLACEMENT_NN
+(_NN force_NN multiplied_VBN by_IN displacement_NN )_CD
+Now_RB if_IN the_DT student_NN does_VBZ not_RB know_VB anything_NN about_IN ``_`` displacement_NN ''_'' ,_, i.e._FW whether_IN a_DT positive_JJ or_CC a_DT negative_JJ displacement_NN ,_, he_PRP will_MD be_VB confused_VBN ._.
+Another_DT important_JJ thing_NN is_VBZ that_IN the_DT ``_`` facts_NNS and_CC figures_NNS ''_'' ,_, that_IN we_PRP make_VBP use_NN of_IN while_IN understanding_VBG the_DT ``_`` idea_NN or_CC concept_NN ''_'' ,_, are_VBP also_RB based_VBN on_IN some_DT concepts_NNS ._.
+Working_VBG on_IN a_DT concept_NN with_IN some_DT facts_NNS leads_VBZ to_TO a_DT new_JJ ``_`` fact_NN ''_'' ._.
+We_PRP sometimes_RB take_VBP an_DT example_NN of_IN Newtons_NNP third_JJ Law_NN of_IN Motion_NNP in_IN our_PRP$ everyday_JJ life_NN ._.
+The_DT law_NN states_VBZ that_IN ``_`` Every_DT action_NN has_VBZ an_DT equal_JJ and_CC opposite_JJ reaction_NN ''_'' ._.
+Suppose_VB we_PRP hit_VBD the_DT wall_NN with_IN our_PRP$ hand_NN ,_, it_PRP definitely_RB hurts_VBZ ._.
+The_DT reason_NN for_IN this_DT is_VBZ that_IN when_WRB we_PRP apply_VBP force_NN on_IN a_DT body_NN it_PRP reacts_VBZ to_TO it_PRP at_IN the_DT same_JJ moment_NN the_DT force_NN is_VBZ applied_VBN ._.
+We_PRP never_RB wonder_VBP why_WRB we_PRP are_VBP hurt_VBN ._.
+This_DT also_RB has_VBZ many_JJ reasons_NNS ._.
+First_NNP of_IN ll_NN the_DT third_JJ law_NN of_IN motion_NN prompts_VBZ the_DT wall_NN to_TO react_VB back_RB ._.
+Secondly_RB the_DT density_NN of_IN the_DT wall_NN is_VBZ more_JJR than_IN our_PRP$ hand_NN ._.
+Because_IN if_IN we_PRP hit_VBD a_DT bag_NN of_IN cotton_NN with_IN the_DT same_JJ force_NN it_PRP wont_VBD hurt_NN Here_RB we_PRP have_VBP made_VBN use_NN of_IN facts_NNS and_CC concepts_NNS both_CC ._.
+We_PRP see_VBP that_IN ``_`` facts_NNS ''_'' and_CC ``_`` concepts_NNS ''_'' are_VBP interrelated_JJ but_CC it_PRP is_VBZ very_RB important_JJ to_TO understand_VB the_DT concepts_NNS and_CC ideas_NNS before_IN we_PRP try_VBP to_TO learn_VB or_CC arrive_VB at_IN any_DT fact_NN ._.
+Moreover_RB if_IN we_PRP dont_VBP understand_VB any_DT ideas_NNS or_CC concept_NN we_PRP just_RB keep_VB on_IN working_VBG on_IN the_DT known_JJ facts_NNS ._.
+But_CC if_IN we_PRP concentrate_VBP on_IN the_DT concepts_NNS or_CC ideas_NNS about_IN a_DT particular_JJ thing_NN ,_, it_PRP may_MD be_VB that_IN we_PRP develop_VBP a_DT new_JJ fact_NN about_IN it_PRP ._.

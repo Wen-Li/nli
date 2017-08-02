@@ -1,0 +1,16 @@
+Comprehension_NN is_VBZ very_RB important_JJ so_RB has_VBZ learning_VBG facts_NNS ._.
+We_PRP learn_VBP things_NNS every_DT day_NN but_CC do_VBP we_PRP all_DT understand_VBP them_PRP ?_.
+If_IN you_PRP can_MD easily_RB rememeber_VB facts_NNS then_RB it_PRP 's_VBZ great_JJ but_CC once_RB you_PRP know_VBP them_PRP will_MD you_PRP be_VB able_JJ to_TO really_RB understand_VB them_PRP ?_.
+I_PRP am_VBP not_RB so_RB sure_JJ ._.
+If_IN someone_NN knows_VBZ by_IN heart_NN the_DT whole_JJ history_NN of_IN a_DT country_NN but_CC can_MD not_RB make_VB connections_NNS between_IN facts_NNS then_RB It_PRP did_VBD n't_RB really_RB helped_VBD him_PRP to_TO know_VB the_DT information_NN ._.
+If_IN he_PRP understands_VBZ it_PRP then_RB he_PRP could_MD possibly_RB imagine_VB what_WP will_MD happen_VB or_CC at_IN least_JJS make_VB a_DT change_NN ._.
+Of_IN course_NN he_PRP can_MD tell_VB the_DT story_NN to_TO everyone_NN but_CC if_IN someone_NN asks_VBZ him_PRP why_WRB it_PRP happend_VBD he_PRP will_MD not_RB be_VB able_JJ to_TO answer_VB because_IN he_PRP himself_PRP did_VBD n't_RB understand_VB it_PRP ._.
+On_IN the_DT contrary_NN ,_, if_IN the_DT person_NN understands_VBZ the_DT concepts_NNS and_CC ideas_NNS of_IN the_DT fact_NN but_CC ca_MD n't_RB rememeber_VB it_PRP exactly_RB ,_, then_RB I_PRP think_VBP it_PRP 's_VBZ not_RB so_RB bad_JJ ._.
+Nobody_NN can_MD rememeber_VB everything_NN ,_, that_DT 's_VBZ part_NN of_IN the_DT human_JJ being_NN ._.
+This_DT person_NN can_MD always_RB search_VB for_IN information_NN ._.
+These_DT days_NNS ,_, you_PRP can_MD easily_RB look_VB at_IN the_DT thing_NN you_PRP are_VBP interessted_VBN in_IN on_IN the_DT Internet_NN or_CC with_IN the_DT help_NN of_IN books_NNS ._.
+Once_RB he_PRP will_MD have_VB the_DT information_NN it_PRP will_MD easy_RB for_IN him_PRP to_TO make_VB connections_NNS with_IN other_JJ things_NNS ._.
+He_PRP will_MD also_RB be_VB capable_JJ to_TO explain_VB it_PRP to_TO other_JJ people_NNS ._.
+If_IN they_PRP do_VBP n't_RB understand_VB it_PRP the_DT way_NN he_PRP explains_VBZ it_PRP then_RB he_PRP will_MD find_VB an_DT other_JJ way_NN of_IN saying_VBG it_PRP ._.
+Since_IN he_PRP understood_VBD the_DT concept_NN it_PRP will_MD be_VB much_RB easier_JJR for_IN him_PRP then_RB for_IN the_DT person_NN who_WP learned_VBD everything_NN by_IN heart_NN but_CC did_VBD n't_RB understand_VB it_PRP ._.
+In_IN conclusion_NN ,_, I_PRP think_VBP it_PRP is_VBZ more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS then_RB to_TO know_VB exactly_RB everything_NN point_NN by_IN point_NN without_IN knowing_VBG what_WP it_PRP really_RB means_VBZ and_CC what_WP he_PRP can_MD do_VB with_IN this_DT information_NN ._.

@@ -1,0 +1,14 @@
+I_PRP agree_VBP with_IN this_DT statement_NN ._.
+It_PRP is_VBZ more_RBR important_JJ to_TO understand_VB basic_JJ ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+If_IN someone_NN does_VBZ not_RB understand_VB the_DT idea_NN behind_IN a_DT concept_NN ,_, it_PRP does_VBZ not_RB help_VB to_TO know_VB all_PDT the_DT facts_NNS ._.
+facts_NNS are_VBP normally_RB written_VBN somewhere_RB and_CC it_PRP does_VBZ not_RB take_VB long_JJ to_TO look_VB them_PRP up_RP when_WRB they_PRP are_VBP needed_VBN ._.
+But_CC if_IN the_DT whole_JJ concept_NN is_VBZ not_RB understood_VBN ,_, it_PRP is_VBZ impossible_JJ to_TO realise_VB it_PRP ._.
+That_DT shall_MD not_RB mean_VB that_IN i_FW believe_VBP that_IN learnig_NN facts_NNS is_VBZ unimportant_JJ ,_, the_DT believe_VB of_IN the_DT bigger_JJR importance_NN of_IN understanding_VBG the_DT idea_NN is_VBZ just_RB bigger_JJR ._.
+I_PRP would_MD like_VB to_TO explain_VB to_TO you_PRP where_WRB this_DT believe_VBP is_VBZ based_VBN on_IN ,_, on_IN a_DT practical_JJ example_NN ._.
+Emagine_NNP you_PRP sit_VBP in_IN a_DT restaurant_NN ._.
+You_PRP are_VBP obviously_RB hungry_JJ and_CC have_VBP pleased_VBN the_DT waiter_NN already_RB to_TO hurry_VB ._.
+He_PRP seats_VBZ you_PRP ,_, hands_NNS out_IN the_DT menu_NN and_CC starts_VBZ explaining_VBG what_WP all_DT is_VBZ new_JJ in_IN this_DT menu_NN ._.
+You_PRP look_VBP at_IN him_PRP ,_, begging_VBG with_IN your_PRP$ eyes_NNS ,_, while_IN he_PRP starts_VBZ to_TO present_VB the_DT specialmenu_NN for_IN the_DT weekend_NN and_CC the_DT actionmenu_NN of_IN the_DT month_NN and_CC so_RB on_IN ._.
+That_DT waiter_NN definetly_RB knows_VBZ all_PDT the_DT facts_NNS ,_, but_CC still_RB you_PRP will_MD be_VB unsatisfied_JJ because_IN he_PRP did_VBD not_RB get_VB the_DT point_NN ._.
+You_PRP are_VBP hungry_JJ ,_, and_CC all_DT you_PRP want_VBP is_VBZ that_IN you_PRP get_VBP good_JJ quality_NN food_NN in_IN a_DT fast_JJ time_NN ._.
+He_PRP should_MD have_VB suggested_VBN the_DT daily_JJ menu_NN and_CC you_PRP would_MD have_VB been_VBN pleased_VBN ._.

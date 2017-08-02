@@ -1,0 +1,21 @@
+I do neither agree or disagree with the statement .
+I think there must be a combination of both .
+A student has to understand the ideas and concepts related to his career .
+He also has to learn facts about it , those are really important .
+The reason I think that both are important is because both are used in different situations and the student must be prepared for them .
+
+A person that has learned facts can answer quicker to a known situation than a person who only understands the ideas and concepts .
+For example , I study computer science .
+One of the most common problems in this field is sorting a set of elements .
+Knowing that you can not sort a set in less than a certain time allows you to make quick decisions like not using a certain propossed approach and looking for a new way of solving the problem .
+A person who does not know this fact but understands the concepts would take much time figuring the answer .
+
+Now , if a person understands the concepts but does not know the facts , he ( or she ) can not react as quickly as the person that knows them .
+His ( or her ) advantage is that he ( or she ) is able of creating new solutions , since he ( or she ) does understand how similar problems are solved .
+In the situation exposed above , knowing the facts allows you to determine fast if a solution is the right one or not .
+If you needed to build a new solution , you would need to understand the concepts .
+
+The main point I am trying to express is that a combination of both characteristics is important .
+It depends on the kind of work you are performing which one is more important .
+A good example is if you are hired to correct things , you need to learn many facts , you can not build everything from scratch .
+If you are hired to create new things , you need to fully understand the ideas behind other creations .

@@ -1,0 +1,7 @@
+The_DT number_NN of_IN cars_NNS in_IN use_NN rappresents_VBZ a_DT complex_JJ variable_NN to_TO study_VB ._.
+Actually_RB we_PRP can_MD describe_VB this_DT variable_NN like_IN a_DT constant_JJ expansion_NN as_IN nowadays_RB we_PRP can_MD consider_VB car_NN as_IN a_DT status_NN symbol_NN ._.
+Most_JJS of_IN the_DT people_NNS uses_VBZ car_NN everyday_JJ and_CC for_IN any_DT reasons_NNS ,_, such_JJ as_IN going_VBG to_TO work_VB ,_, to_TO shop_VB or_CC to_TO holyday_NN ._.
+In_IN my_PRP$ opinion_NN now_RB there_EX is_VBZ not_RB a_DT valide_NN alternative_NN to_TO change_VB this_DT way_NN of_IN life_NN ._.
+Public_NNP transportation_NN ,_, like_IN bus_NN ,_, metro_NN is_VBZ not_RB efficient_JJ as_IN people_NNS required_VBN :_: not_RB all_DT city_NN blocks_VBZ can_MD be_VB easily_RB reached_VBN without_IN waste_NN too_RB much_JJ time_NN ,_, and_CC vehicle_NN are_VBP less_RBR comfortable_JJ than_IN own_JJ car_NN ._.
+For_IN these_DT reasons_NNS I_PRP think_VBP that_IN number_NN of_IN cars_NNS in_IN use_NN will_MD continue_VB to_TO increase_VB without_IN a_DT serious_JJ and_CC global_JJ transportation_NN politics_NNS ._.
+If_IN I_PRP go_VBP arond_IN I_PRP can_MD see_VB the_DT highest_JJS percentage_NN of_IN cars_NNS occupied_VBN from_IN the_DT driver_NN only_RB ,_, familes_NNS that_WDT have_VBP more_RBR cars_NNS than_IN persons_NNS in_IN house_NN ,_, and_CC on_IN the_DT other_JJ hand_NN a_DT bad_JJ plublic_JJ transportation_NN ._.

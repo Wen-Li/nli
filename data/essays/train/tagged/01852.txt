@@ -1,0 +1,25 @@
+I_PRP have_VBP a_DT father_NN who_WP works_VBZ very_RB hard_JJ ._.
+He_PRP is_VBZ a_DT manager_NN of_IN a_DT group_NN of_IN Japanese_JJ people_NNS at_IN a_DT company_NN called_VBD Hitachi_NNP ._.
+Sometimes_RB my_PRP$ father_NN works_VBZ so_RB hard_JJ that_IN he_PRP works_VBZ at_IN his_PRP$ company_NN until_IN the_DT next_JJ morning_NN ._.
+I_PRP feel_VBP bad_JJ for_IN him_PRP sometimes_RB ._.
+One_CD day_NN ,_, I_PRP asked_VBD him_PRP about_IN how_WRB he_PRP managed_VBD to_TO do_VB all_PDT the_DT hard_JJ work_NN ._.
+In_IN Japanese_JJ ,_, he_PRP said_VBD that_IN he_PRP enjoys_VBZ the_DT work_NN that_IN he_PRP does_VBZ and_CC he_PRP said_VBD that_IN the_DT work_NN that_IN he_PRP does_VBZ is_VBZ very_RB hard_JJ work_NN ,_, but_CC he_PRP feels_VBZ rewarded_VBN when_WRB he_PRP finishes_VBZ the_DT work_NN because_IN he_PRP gets_VBZ a_DT bonus_NN when_WRB he_PRP does_VBZ an_DT extra_JJ hard_JJ work_NN ._.
+I_PRP work_VBP very_RB hard_RB too_RB ._.
+I_PRP go_VBP to_TO a_DT very_RB demanding_VBG American_NNP School_NNP with_IN high_JJ standards_NNS ._.
+I_PRP work_VBP hard_RB to_TO keep_VB up_RP my_PRP$ grades_NNS in_IN my_PRP$ AP_NNP Environmental_NNP Science_NNP ,_, AP_NNP Calculus_NNPS and_CC AP_NNP Statistics_NNPS classes_NNS ._.
+During_IN the_DT time_NN off_RP when_WRB I_PRP have_VBP free_JJ time_NN ,_, I_PRP work_VBP on_IN my_PRP$ homework_NN ._.
+During_IN the_DT weekend_NN ,_, I_PRP work_VBP on_IN my_PRP$ homework_NN ._.
+I_PRP am_VBP under_IN a_DT lot_NN of_IN stress_NN and_CC pressure_NN ._.
+I_PRP turned_VBD my_PRP$ college_NN applications_NNS in_IN last_JJ week_NN ._.
+I_PRP am_VBP worried_VBN that_IN I_PRP might_MD not_RB get_VB accepted_VBN into_IN the_DT colleges_NNS that_IN I_PRP intend_VBP to_TO get_VB in_IN ._.
+FYI_NNP ,_, the_DT colleges_NNS that_IN I_PRP applied_VBD to_TO last_JJ week_NN was_VBD in_IN America_NNP ._.
+My_PRP$ parents_NNS also_RB gave_VBD me_PRP an_DT option_NN to_TO apply_VB to_TO Japanese_JJ universities_NNS but_CC I_PRP can_MD not_RB apply_VB to_TO them_PRP until_IN I_PRP get_VBP the_DT result_NN from_IN the_DT American_JJ universities_NNS because_IN the_DT year_NN starts_VBZ different_JJ for_IN American_JJ and_CC Japanese_JJ Universities_NNS ._.
+To_TO be_VB honest_JJ ,_, I_PRP do_VBP not_RB know_VB which_WDT country_NN to_TO go_VB to_TO ._.
+In_IN addition_NN ,_, I_PRP have_VBP a_DT choice_NN of_IN rejecting_VBG the_DT University_NNP in_IN America_NNP and_CC instead_RB apply_VB to_TO a_DT University_NNP in_IN Japan_NNP or_CC I_PRP can_MD go_VB to_TO a_DT University_NNP in_IN America_NNP ._.
+Either_DT way_NN ,_, I_PRP do_VBP not_RB know_VB which_WDT country_NN to_TO choose_VB between_IN Japan_NNP and_CC America_NNP ._.
+The_DT Universities_NNS in_IN America_NNP that_IN I_PRP applied_VBD to_TO will_MD give_VB me_PRP the_DT results_NNS of_IN whether_IN I_PRP am_VBP a_DT good_JJ candidate_NN or_CC not_RB in_IN April_NNP ._.
+Moreover_RB I_PRP have_VBP three_CD months_NNS until_IN I_PRP can_MD decide_VB whether_IN I_PRP will_MD go_VB to_TO America_NNP or_CC not_RB ,_, but_CC I_PRP have_VBP not_RB a_DT clue_NN about_IN which_WDT country_NN to_TO choose_VB because_IN I_PRP love_VBP both_CC countries_NNS ._.
+(_NN I_PRP can_MD not_RB stay_VB in_IN England_NNP because_IN of_IN financial_JJ problems_NNS )_VBP
+Considering_VBG that_DT young_JJ people_NNS are_VBP people_NNS younger_JJR than_IN a_DT college_NN student_NN like_IN me_PRP and_CC older_JJR people_NNS are_VBP people_NNS who_WP are_VBP older_JJR than_IN a_DT high_JJ school_NN senior_JJ ,_, I_PRP think_VBP older_JJR people_NNS enjoy_VBP life_NN more_JJR than_IN young_JJ people_NNS ._.
+Young_JJ people_NNS are_VBP under_IN enormous_JJ pressure_NN because_IN of_IN the_DT issue_NN with_IN the_DT University_NNP and_CC the_DT future_NN after_IN that_DT ._.
+On_IN the_DT other_JJ hand_NN ,_, older_JJR people_NNS do_VBP not_RB have_VB to_TO endure_VB with_IN that_DT pressure_NN because_IN they_PRP have_VBP already_RB gone_VBN over_IN that_DT obstacle_NN ._.

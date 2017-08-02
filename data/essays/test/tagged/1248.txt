@@ -1,0 +1,18 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN ._.
+First_NNP of_IN all_DT let_VB me_PRP explain_VB what_WP I_PRP understand_VBP about_IN ``_`` successful_JJ people_NNS ''_'' ._.
+Someone_NN is_VBZ successful_JJ if_IN one_CD reachs_VBZ the_DT goal_NN for_IN a_DT certain_JJ task_NN on_IN time_NN ._.
+The_DT goal_NN can_MD be_VB either_CC the_DT same_JJ every_DT time_NN or_CC something_NN totally_RB different_JJ ._.
+It_PRP ``_`` s_VBZ the_DT same_JJ with_IN the_DT task_NN ._.
+The_DT tasks_NNS can_MD change_VB ore_NN keep_VB the_DT same_JJ ._.
+Let_VB me_PRP provide_VB an_DT example_NN to_TO underline_VB my_PRP$ thesis_NN ._.
+Someone_NN likes_VBZ to_TO run_VB a_DT marathon_NN ._.
+That_DT is_VBZ the_DT goal_NN ._.
+The_DT task_NN is_VBZ to_TO train_VB for_IN the_DT marathon_NN in_IN order_NN to_TO achive_VB the_DT goal_NN ._.
+The_DT training_NN methods_NNS can_MD be_VB allways_IN the_DT same_JJ and_CC just_RB because_IN of_IN having_VBG an_DT ongoing_JJ dialy_NN training_NN it_PRP can_MD be_VB possible_JJ to_TO reach_VB the_DT goal_NN ._.
+On_IN the_DT other_JJ hand_NN training_NN methods_NNS might_MD change_VB and_CC even_RB with_IN the_DT changed_VBN training_NN methods_NNS it_PRP is_VBZ possible_JJ to_TO achive_VB the_DT goal_NN ._.
+In_IN both_DT situations_NNS the_DT runner_NN is_VBZ not_RB certain_JJ because_IN unprodicted_JJ situations_NNS might_MD occure_VB like_IN an_DT ilness_NN ,_, bad_JJ weather_NN conditions_NNS during_IN the_DT marathon_NN ._.
+In_IN case_NN the_DT runner_NN decides_VBZ to_TO do_VB a_DT Iron-men_JJ he_PRP would_MD change_VB his_PRP$ goal_NN from_IN marathon_NN to_TO iron-men_JJ ._.
+He_PRP could_MD keep_VB his_PRP$ training_NN methods_NNS from_IN the_DT marathon_NN preparation_NN or_CC change_VB it_PRP to_TO some_DT other_JJ methods_NNS ._.
+Trying_VBG new_JJ things_NNS the_DT person_NN has_VBZ to_TO get_VB used_VBN to_TO changes_NNS which_WDT normale_VBP decrease_VB the_DT ability_NN of_IN being_VBG ``_`` good_JJ ''_'' and_CC ``_`` fast_RB ''_'' After_IN a_DT replication_NN of_IN the_DT activity_NN the_DT person_NN gets_VBZ more_JJR familar_JJ and_CC the_DT quality_NN and_CC the_DT speed_NN is_VBZ increasing_VBG ._.
+That_DT means_VBZ trying_VBG new_JJ things_NNS for_IN the_DT first_JJ time_NN people_NNS are_VBP most_RBS likely_JJ not_RB as_IN succesful_JJ as_IN peole_NN who_WP have_VBP done_VBN the_DT activity_NN more_RBR often_RB ._.
+Becaue_NNP of_IN the_DT fact_NN that_IN new_JJ things_NNS are_VBP of_IN course_NN not_RB well_RB known_VBN the_DT person_NN taks_VBZ the_DT risk_NN in_IN being_VBG not_RB successfull_JJ ._.

@@ -1,0 +1,6 @@
+I_PRP agree_VBP with_IN the_DT following_VBG ._.
+There_EX are_VBP two_CD reasons_NNS ._.
+First_RB ,_, I_PRP think_VBP if_IN they_PRP have_VBP broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ,_, they_PRP would_MD have_VB a_DT wide_JJ view_NN points_NNS of_IN see_VBP many_JJ things_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subjects_NNS ._.
+Second_RB ,_, I_PRP think_VBP they_PRP learn_VBP many_JJ achademic_JJ subjects_NNS ,_, then_RB they_PRP can_MD know_VB what_WP they_PRP like_VBP or_CC does_VBZ n't_RB like_VB ._.
+And_CC they_PRP know_VBP it_PRP ,_, they_PRP would_MD choose_VB one_CD specific_JJ subject_NN ._.
+I_PRP think_VBP it_PRP 's_VBZ the_DT best_JJS way_NN ._.

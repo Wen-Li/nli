@@ -1,0 +1,25 @@
+In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, some_DT young_JJ people_NNS prefer_VBP to_TO travel_VB by_IN themselves_PRP ._.
+However_RB ,_, I_PRP agree_VBP to_TO the_DT statement_NN that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN for_IN the_DT follwing_VBG reasons_NNS ._.
+My_PRP$ first_JJ reason_NN is_VBZ that_IN to_TO travel_VB in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN is_VBZ safer_JJR than_IN to_TO travel_VB alone_RB ._.
+For_IN instance_NN ,_, when_WRB I_PRP was_VBD a_DT junior_JJ high_JJ school_NN student_NN ,_, I_PRP traveled_VBD to_TO New_NNP York_NNP in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+In_IN that_DT time_NN ,_, I_PRP heard_VBD that_IN New_NNP York_NNP was_VBD a_DT quite_RB dangerous_JJ city_NN ._.
+We_PRP planed_VBD to_TO visit_VB a_DT famous_JJ theater_NN ._.
+Actually_RB ,_, the_DT theater_NN was_VBD located_JJ in_IN a_DT downtown_NN where_WRB was_VBD a_DT quite_RB dangerous_JJ place_NN ._.
+Because_IN I_PRP was_VBD in_IN a_DT group_NN ,_, I_PRP was_VBD able_JJ to_TO take_VB a_DT tour_NN bus_NN from_IN a_DT hotel_NN where_WRB I_PRP stayed_VBD to_TO the_DT theater_NN ._.
+In_IN addition_NN ,_, a_DT tour_NN guide_NN helped_VBD me_PRP to_TO visit_VB there_RB ._.
+So_RB It_PRP was_VBD totally_RB safe_JJ for_IN me_PRP ._.
+If_IN I_PRP had_VBD traveled_VBN alone_RB ,_, I_PRP would_MD have_VB had_VBN to_TO take_VB a_DT subway_NN to_TO visit_VB the_DT theater_NN ._.
+I_PRP am_VBP not_RB sure_JJ if_IN I_PRP was_VBD able_JJ to_TO visit_VB there_RB alone_RB without_IN any_DT help_NN from_IN a_DT tour_NN guide_NN ._.
+This_DT example_NN clearly_RB shows_VBZ that_IN to_TO travel_VB in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN is_VBZ safer_JJR than_IN to_TO travel_VB alone_RB ._.
+My_PRP$ next_JJ reason_NN is_VBZ that_IN I_PRP can_MD make_VB more_JJR friends_NNS if_IN I_PRP travel_VBP in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN than_IN I_PRP travel_VBP alone_RB ._.
+For_IN instance_NN ,_, when_WRB I_PRP was_VBD a_DT studying_VBG in_IN Waseda_NNP university_NN ,_, one_CD of_IN the_DT most_RBS famous_JJ private_JJ universities_NNS in_IN japan_NN ,_, I_PRP traveled_VBD to_TO Europe_NNP in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+In_IN the_DT group_NN ,_, I_PRP met_VBD a_DT girl_NN ,_, Shiori_NNP ._.
+AIthough_JJ I_PRP never_RB met_VBD her_PRP in_IN my_PRP$ campus_NN ,_, she_PRP was_VBD also_RB studying_VBG in_IN Waseda_NNP university_NN ._.
+In_IN addition_NN ,_, I_PRP was_VBD able_JJ to_TO make_VB some_DT friends_NNS in_IN a_DT group_NN ,_, including_VBG a_DT tour_NN guide_NN ._.
+A_DT tour_NN gude_NN ,_, Miki_NNP ,_, and_CC I_PRP was_VBD actually_RB living_VBG in_IN a_DT same_JJ apartment_NN ._.
+After_IN the_DT tour_NN ,_, I_PRP often_RB contacted_VBD with_IN her_PRP ._.
+She_PRP is_VBZ now_RB one_CD of_IN my_PRP$ best_JJS friends_NNS ._.
+If_IN I_PRP had_VBD traveled_VBN alone_RB ,_, I_PRP would_MD not_RB have_VB known_VBN them_PRP ._.
+Because_IN I_PRP traveled_VBD in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ,_, I_PRP was_VBD able_JJ to_TO know_VB Shiori_NNP ,_, Miki_NNP and_CC other_JJ people_NNS ._.
+This_DT strongly_RB illustrates_VBZ that_IN I_PRP can_MD make_VB more_JJR friends_NNS if_IN I_PRP travel_VBP in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN than_IN I_PRP travel_VBP alone_RB ._.
+In_IN conclusion_NN ,_, I_PRP agree_VBP to_TO the_DT statement_NN that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.

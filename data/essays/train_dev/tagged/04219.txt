@@ -1,0 +1,15 @@
+A_DT true_JJ learning_NN is_VBZ one_CD where_WRB the_DT students_NNS are_VBP clear_JJ with_IN basic_JJ ideas_NNS and_CC concept_NN of_IN the_DT problem_NN ._.
+This_DT the_DT way_NN by_IN which_WDT they_PRP can_MD solve_VB many_JJ problems_NNS without_IN complexities_NNS involved_VBN in_IN it_PRP ._.
+Though_NNP ,_, fact_NN about_IN the_DT perticular_JJ topic_NN is_VBZ important_JJ to_TO know_VB and_CC it_PRP forms_VBZ an_DT important_JJ element_NN ,_, without_IN which_WDT learning_NN is_VBZ incomplete_JJ but_CC understanding_VBG the_DT ideas_NNS and_CC concept_NN are_VBP equally_RB required_VBN ._.
+for_IN example_NN ,_, a_DT child_NN wants_VBZ to_TO learn_VB about_IN how_WRB to_TO solve_VB a_DT mathematical_JJ problem_NN like_IN addition_NN or_CC substraction_NN ._.
+Then_RB it_PRP is_VBZ very_RB important_JJ that_IN he_PRP knows_VBZ the_DT concept_NN of_IN the_DT problem_NN ._.
+It_PRP is_VBZ important_JJ for_IN him_PRP to_TO identify_VB where_WRB he_PRP has_VBZ to_TO add_VB up_RP and_CC where_WRB he_PRP has_VBZ to_TO substract_VB ._.
+This_DT will_MD help_VB him_PRP out_RP to_TO solve_VB similar_JJ kind_NN of_IN problem_NN in_IN future_NN ,_, only_RB becuase_VB the_DT ideas_NNS and_CC the_DT concepts_NNS are_VBP clear_JJ to_TO him_PRP ._.
+Further_RB ,_, we_PRP can_MD learn_VB the_DT facts_NNS only_RB by_IN making_VBG inferences_NNS and_CC drawing_VBG conclusions_NNS which_WDT involves_VBZ the_DT complete_JJ understanding_NN of_IN ideas_NNS ._.
+only_RB then_RB it_PRP will_MD be_VB possible_JJ to_TO reach_VB to_TO a_DT conclusion_NN and_CC eventually_RB to_TO learn_VB about_IN the_DT fact_NN ._.
+For_IN example_NN this_DT is_VBZ the_DT fact_NN that_IN earth_NN is_VBZ the_DT only_JJ planet_NN where_WRB life_NN exists_VBZ ._.
+The_DT main_JJ ideas_NNS and_CC reasons_NNS behind_IN it_PRP are_VBP becuase_NN of_IN the_DT favourable_JJ atmosphere_NN ,_, presence_NN of_IN oxygen_NN ,_, earths_JJ distance_NN from_IN the_DT sun_NN etc.these_NN things_NNS helps_VBZ us_PRP to_TO make_VB a_DT conclusion_NN about_IN existence_NN of_IN life_NN on_IN earth_NN ._.
+Which_WDT is_VBZ the_DT fact_NN ._.
+In_IN other_JJ words_NNS ,_, the_DT concept_NN of_IN a_DT model_NN which_WDT was_VBD suggested_VBN by_IN a_DT scientist_NN with_IN sun_NN at_IN the_DT centre_NN in_IN the_DT planet_NN system_NN ,_, one_PRP can_MD give_VB reasons_NNS and_CC explain_VB the_DT fact_NN that_IN earth_NN is_VBZ locatedat_NN a_DT perticular_JJ distance_NN ._.
+so_RB ,_, what_WP is_VBZ more_RBR important_JJ is_VBZ ,_, to_TO first_RB have_VB a_DT basic_JJ idea_NN about_IN a_DT concept_NN and_CC then_RB learn_VBP the_DT fact_NN which_WDT is_VBZ associated_VBN to_TO it_PRP ._.
+This_DT is_VBZ the_DT way_NN any_DT problem_NN can_MD be_VB solved_VBN with_IN better_JJR understanding_NN and_CC improved_VBD learning_VBG ability_NN ._.

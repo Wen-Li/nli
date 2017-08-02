@@ -1,0 +1,16 @@
+In_IN general_JJ ,_, the_DT purpose_NN of_IN the_DT advertisement_NN is_VBZ to_TO increase_VB the_DT customer_NN 's_POS custom_NN ._.
+Therefore_RB ,_, the_DT advertisements_NNS are_VBP usually_RB quite_RB over_IN expressing_VBG about_IN the_DT products_NNS '_POS properties_NNS ._.
+First_NNP of_IN all_DT ,_, because_IN a_DT person_NN who_WP plans_VBZ the_DT advertisement_NN is_VBZ the_DT person_NN who_WP wants_VBZ to_TO sell_VB the_DT goods_NNS ,_, the_DT advertisement_NN follows_VBZ the_DT seller_NN 's_POS intention_NN ._.
+Since_IN the_DT seller_NN desires_NNS to_TO sell_VB as_RB many_JJ as_IN goods_NNS as_IN s/he_NN can_MD ,_, the_DT advertisement_NN sometimes_RB even_RB exaggerates_VBZ the_DT character_NN of_IN the_DT product_NN ._.
+Hence_RB ,_, although_IN the_DT impression_NN that_IN advertise_VB makes_NNS is_VBZ not_RB exactly_RB same_JJ as_IN that_DT of_IN the_DT product_NN ,_, the_DT customer_NN has_VBZ no_DT way_NN to_TO figure_VB out_RP the_DT fact_NN ._.
+Moreover_RB ,_, the_DT advertisement_NN is_VBZ limited_VBN in_IN either_CC short_JJ time_NN or_CC rooms_NNS to_TO express_VB the_DT character_NN of_IN the_DT goods_NNS ._.
+As_IN a_DT result_NN ,_, the_DT sellers_NNS need_VBP to_TO point_VB out_RP all_PDT the_DT strong_JJ points_NNS of_IN the_DT product_NN and_CC express_VBP those_DT under_IN the_DT limited_JJ condition_NN ._.
+Due_JJ to_TO this_DT limitation_NN ,_, the_DT seller_NN would_MD not_RB present_VB the_DT unbeneficial_JJ sides_NNS of_IN the_DT product_NN on_IN the_DT advertisement_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT customer_NN can_MD accept_VB only_RB the_DT shown_VBN aspects_NNS on_IN the_DT advertisement_NN and_CC loses_VBZ opportunity_NN to_TO evaluate_VB the_DT goods_NNS in_IN various_JJ views_NNS ._.
+In_IN addition_NN ,_, the_DT skills_NNS that_WDT are_VBP used_VBN in_IN the_DT advertisement_NN affect_VB on_IN the_DT impression_NN that_IN customer_NN receives_VBZ ._.
+To_TO make_VB an_DT effecient_JJ advertisement_NN ,_, the_DT seller_NN uses_VBZ some_DT skills_NNS to_TO take_VB a_DT good-looking_JJ picture_NN and_CC computer_NN graphics_NNS such_JJ as_IN photoshop_NN ._.
+Thus_RB ,_, the_DT image_NN that_WDT comes_VBZ out_RP on_IN the_DT advertisement_NN might_MD look_VB like_IN more_RBR attractive_JJ than_IN it_PRP actually_RB look_VBP like_IN ._.
+The_DT customer_NN ,_, however_RB ,_, just_RB accepts_VBZ that_IN impression_NN as_IN it_PRP is_VBZ because_IN s/he_NN does_VBZ not_RB have_VB any_DT clues_NNS to_TO judge_VB the_DT product_NN in_IN other_JJ ways_NNS ._.
+In_IN short_JJ ,_, as_IN the_DT advertisement_NN is_VBZ made_VBN by_IN the_DT product_NN seller_NN ,_, it_PRP tends_VBZ to_TO follow_VB the_DT seller_NN 's_POS intention_NN and_CC therefore_RB ,_, it_PRP makes_VBZ the_DT goods_NNS better_JJR than_IN really_RB they_PRP are_VBP ._.
+Also_RB ,_, as_IN it_PRP uses_VBZ fascinating_JJ skills_NNS to_TO gain_VB customer_NN 's_POS attention_NN more_RBR ,_, the_DT customer_NN can_MD be_VB easily_RB tricked_VBN by_IN the_DT impression_NN that_WDT shows_VBZ up_RP on_IN the_DT advertisement_NN ._.
+Hence_RB ,_, to_TO maek_VB a_DT good_JJ decision_NN ,_, the_DT customer_NN should_MD have_VB certain_JJ value_NN to_TO judge_NN products_NNS that_WDT are_VBP represented_VBN on_IN the_DT advertisement_NN ._.

@@ -1,0 +1,16 @@
+In_IN my_PRP$ opinion_NN ,_, understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG just_RB the_DT facts_NNS ._.
+This_DT is_VBZ because_IN students_NNS may_MD not_RB understand_VB the_DT ideas_NNS from_IN the_DT facts_NNS ,_, but_CC students_NNS may_MD learn_VB the_DT facts_NNS from_IN understanding_VBG the_DT ideas_NNS ._.
+For_IN instance_NN ,_, imagin_NN you_PRP are_VBP in_IN the_DT high_JJ level_NN math_NN class_NN ,_, and_CC instructore_NN gives_VBZ you_PRP an_DT assignment_NN paper_NN ._.
+The_DT instructor_NN says_VBZ just_RB ``_`` Do_VBP it_PRP ''_'' ,_, to_TO you_PRP ._.
+If_IN you_PRP have_VBP a_DT knowledge_NN about_IN that_DT questions_NNS on_IN the_DT assignment_NN ,_, you_PRP may_MD do_VB it_PRP ._.
+However_RB ,_, if_IN you_PRP do_VBP not_RB have_VB knowledge_NN ,_, you_PRP never_RB do_VBP it_PRP ._.
+Therefore_RB ,_, you_PRP will_MD ask_VB instructor_NN how_WRB to_TO solve_VB these_DT questions_NNS ,_, and_CC the_DT instructor_NN gives_VBZ you_PRP an_DT answer-list_JJ paper_NN ._.
+So_IN you_PRP can_MD write_VB answers_NNS now_RB ._.
+This_DT is_VBZ what_WP I_PRP think_VBP about_IN learning_VBG just_RB the_DT facts_NNS ._.
+In_IN this_DT situation_NN ,_, you_PRP never_RB study_VB math_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, If_IN you_PRP are_VBP in_IN the_DT same_JJ math_NN class_NN ,_, but_CC instructor_NN exchanged_VBD ._.
+The_DT instructor_NN gives_VBZ you_PRP the_DT same_JJ assignment_NN paper_NN ,_, and_CC he_PRP says_VBZ ``_`` let_VB 's_POS start_VB a_DT lecture_NN using_VBG that_IN paper_NN ''_'' ._.
+Next_RB ,_, the_DT instructor_NN bigins_VBZ the_DT lecture_NN to_TO tell_VB you_PRP how_WRB to_TO solve_VB the_DT questions_NNS on_IN the_DT assignment_NN paper_NN ,_, and_CC he_PRP also_RB recommends_VBZ you_PRP and_CC gives_VBZ a_DT few_JJ time_NN to_TO consider_VB the_DT solving_VBG method_NN or_CC formula_NN ._.
+After_IN that_DT time_NN ,_, instructor_NN gives_VBZ you_PRP the_DT answers_NNS or_CC correct_VB your_PRP$ idea_NN about_IN these_DT questions_NNS ,_, and_CC he_PRP also_RB explains_VBZ why_WRB this_DT method_NN is_VBZ useful_JJ ._.
+At_IN the_DT end_NN of_IN the_DT class_NN ,_, you_PRP have_VBP studied_VBN math_NN ,_, and_CC if_IN some_DT questions_NNS remain_VBP on_IN the_DT assignment_NN papre_NN ,_, you_PRP can_MD try_VB to_TO answer_VB them_PRP from_IN the_DT knowledge_NN of_IN what_WP you_PRP studied_VBD while_IN hte_NN class_NN ._.
+Finally_RB ,_, you_PRP can_MD say_VB that_IN you_PRP study_VB math_NN ._.

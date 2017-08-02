@@ -1,0 +1,22 @@
+Specialization_NN or_CC Broad_NNP Knowledge_NNP
+Whether_IN or_CC not_RB specialization_NN should_MD be_VB favored_VBN in_IN academics_NNS is_VBZ a_DT controversial_JJ issue_NN ._.
+It_PRP is_VBZ not_RB easy_JJ to_TO completely_RB state_VB that_IN specialization_NN on_IN a_DT specific_JJ subject_NN is_VBZ better_RBR compared_VBN to_TO having_VBG broad_JJ knowledge_NN of_IN academic_JJ subjects_NNS ._.
+However_RB ,_, I_PRP belive_VBP that_IN specialization_NN on_IN a_DT specific_JJ subject_NN should_MD be_VB accompanied_VBN with_IN a_DT broad_JJ knowledge_NN of_IN other_JJ subjects_NNS ._.
+Firstly_RB ,_, it_PRP is_VBZ practically_RB not_RB possible_JJ and_CC reasonable_JJ to_TO have_VB a_DT broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+Human_JJ time_NN and_CC energy_NN would_MD not_RB be_VB sufficient_JJ to_TO have_VB knowledge_NN on_IN many_JJ issues_NNS ._.
+Even_RB though_IN it_PRP is_VBZ ideal_JJ ,_, specialization_NN in_IN a_DT subject_NN is_VBZ only_RB possible_JJ for_IN mankind_NN ._.
+To_TO have_VB a_DT broad_JJ knowledge_NN on_IN academic_JJ subjects_NNS is_VBZ not_RB reasonably_RB possible_JJ ,_, since_IN it_PRP is_VBZ contrary_JJ to_TO the_DT idea_NN of_IN academics_NNS ._.
+Furthermore_RB ,_, specialization_NN would_MD help_VB for_IN the_DT evolution_NN of_IN human_JJ civilization_NN ._.
+Progress_NNP could_MD only_RB be_VB achieved_VBN by_IN knowledge_NN and_CC only_RB by_IN specilization_NN such_JJ a_DT knowledge_NN could_MD be_VB achieved_VBN ._.
+Knowledge_NN is_VBZ attained_VBN through_IN concentration_NN ,_, research_NN and_CC experimentation_NN ._.
+However_RB it_PRP is_VBZ not_RB possible_JJ to_TO experiment_NN in_IN all_DT realted_VBN academic_JJ subject_NN ._.
+For_IN instance_NN ,_, if_IN Newton_NNP did_VBD not_RB contentrate_VB on_IN physics_NNS but_CC have_VBP bits_NNS and_CC pieces_NNS of_IN physics_NNS ,_, biology_NN and_CC chemistry_NN he_PRP wouldnot_VBD be_VB able_JJ to_TO develop_VB his_PRP$ theories_NNS ._.
+Similarly_RB ,_, if_IN Freud_NNP did_VBD not_RB specialize_VB on_IN psychoanalysis_NN many_JJ of_IN his_PRP$ assertions_NNS would_MD not_RB exist_VB ._.
+On_IN the_DT contrary_NN ,_, it_PRP must_MD be_VB kept_VBN in_IN mind_NN that_IN an_DT academics_NNS require_VBP an_DT awareness_NN ._.
+In_IN order_NN to_TO be_VB a_DT serious_JJ academic_JJ ,_, apart_RB from_IN specialization_NN general_JJ knowledge_NN and_CC awareness_NN is_VBZ required_VBN ._.
+An_DT academic_JJ in_IN social_JJ sciences_NNS should_MD be_VB open_JJ to_TO learning_VBG about_IN chemistry_NN for_IN instance_NN ._.
+Specialization_NN only_RB has_VBZ a_DT value_NN if_IN is_VBZ exercised_VBN within_IN the_DT context_NN of_IN relevant_JJ disciplines_NNS ._.
+For_IN instance_NN ,_, a_DT commercial_JJ lawyer_NN ,_, must_MD know_VB the_DT codes_NNS ,_, doctrine_NN as_RB well_RB as_IN the_DT relevant_JJ history_NN ,_, economic_JJ structure_NN ,_, managerial_JJ problems_NNS ,_, business_NN practice_NN ._.
+Consequently_RB ,_, in_IN the_DT 21st_JJ century_NN it_PRP is_VBZ required_VBN for_IN humans_NNS to_TO be_VB specialized_VBN ._.
+The_DT primary_JJ reason_NN for_IN specialization_NN is_VBZ the_DT progress_NN of_IN mankind_NN ._.
+In_IN addition_NN to_TO that_DT ,_, one_CD most_RBS always_RB keep_VB in_IN mind_NN that_IN a_DT specialist_NN always_RB have_VBP to_TO have_VB broad_JJ knowledge_NN

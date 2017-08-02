@@ -1,0 +1,12 @@
+Some_DT people_NNS might_MD argue_VB that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS and_CC some_DT might_MD argue_VB that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO learn_VB facts_NNS ._.
+I_PRP most_RBS certainly_RB believe_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO learn_VB facts_NNS rather_RB then_RB just_RB understan_NN ideas_NNS and_CC concepts_NNS ._.
+The_DT reason_NN is_VBZ that_IN understaing_VBG ideas_NNS and_CC concepts_NNS only_RB offers_VBZ brief_JJ summery_NN of_IN matter_NN but_CC not_RB specific_JJ details_NNS ._.
+There_EX are_VBP many_JJ are_VBP that_IN students_NNS are_VBP required_VBN to_TO know_VB details_NNS rather_RB than_IN just_RB ideas_NNS and_CC concepts_NNS such_JJ as_IN mechanism_NN and_CC history_NN ._.
+First_NNP of_IN all_DT ,_, mechanism_NN requires_VBZ students_NNS to_TO know_VB all_PDT the_DT specific_JJ details_NNS about_IN machines_NNS ._.
+For_IN instance_NN ,_, if_IN a_DT student_NN is_VBZ to_TO learn_VB how_WRB a_DT heater_NN works_VBZ ,_, then_RB the_DT student_NN need_NN to_TO know_VB not_RB only_RB the_DT concepts_NNS of_IN devices_NNS in_IN the_DT heater_NN but_CC also_RB the_DT facts_NNS and_CC details_NNS about_IN how_WRB it_PRP all_DT work_VBP together_RB ._.
+Lets_VBZ say_VBP that_IN one_CD student_NN who_WP understand_VBP how_WRB heaters_NNS work_VBP wants_VBZ to_TO create_VB a_DT heater_NN ._.
+Even_RB if_IN he_PRP has_VBZ idea_NN about_IN heaters_NNS ,_, in_IN order_NN to_TO actually_RB make_VB one_CD ,_, he_PRP needs_VBZ to_TO know_VB all_PDT the_DT facts_NNS and_CC details_NNS how_WRB the_DT machine_NN works_VBZ
+Secondly_RB ,_, History_NN requires_VBZ students_NNS to_TO know_VB facts_NNS rather_RB than_IN understand_VB ideas_NNS ._.
+Lets_NNS say_VBP there_EX is_VBZ a_DT student_NN who_WP is_VBZ learning_VBG avout_IN the_DT world_NN war_NN two_CD ._.
+Understanding_VBG the_DT concept_NN and_CC idea_NN how_WRB the_DT world_NN war_NN two_CD started_VBD would_MD be_VB important_JJ but_CC know_VBP the_DT details_NNS and_CC facts_NNS about_IN the_DT world_NN one_CD two_CD would_MD be_VB moreimportant_JJ ._.
+Thus_RB ,_, as_IN can_MD be_VB seen_VBN as_IN above_RB ,_, I_PRP certainly_RB believe_VBP that_IN learning_VBG facts_NNS is_VBZ more_RBR important_JJ for_IN students_NNS than_IN just_RB understanding_VBG ideas_NNS and_CC concepts_NNS in_IN that_DT there_EX are_VBP many_JJ cases_NNS that_WDT understaing_VBG ideas_NNS and_CC concept_NN would_MD not_RB be_VB sufficience_NN ._.

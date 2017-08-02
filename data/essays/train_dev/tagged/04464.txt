@@ -1,0 +1,1 @@
+it_PRP is_VBZ difficult_JJ decide_VB whether_IN or_CC not_RB the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.

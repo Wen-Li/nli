@@ -1,0 +1,19 @@
+In_IN my_PRP$ opinios_NNS ,_, I_PRP prefer_VBP having_VBG broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS rather_RB than_IN to_TO specilize_VB in_IN one_CD specific_JJ subject_NN because_IN of_IN importance_NN of_IN academic_JJ ages_NNS ._.
+There_EX are_VBP several_JJ reasons_NNS ._.
+First_RB ,_, a_DT narrow_JJ knowledge_NN field_NN may_MD occur_VB of_IN narrow_JJ seesight_NN ._.
+The_DT man_NN who_WP know_VBP only_RB one_CD field_NN called_VBN ``_`` L_NN ''_'' typed_VBD human_JJ ._.
+vertical_JJ section_NN of_IN ``_`` L_NN ''_'' shows_VBZ various_JJ field_NN ,_, and_CC horizonal_JJ field_NN shows_NNS are_VBP amount_NN of_IN knowledge_NN ._.
+Because_IN the_DT ``_`` L_NN ''_'' typed_VBD human_JJ does_VBZ not_RB know_VB another_DT area_NN ,_, they_PRP cound_VBP not_RB work_VB another_DT area_NN ._.
+It_PRP may_MD be_VB a_DT extremely_RB penalty_NN ._.
+I_PRP recommand_VBP ``_`` A_NN ''_'' typed_VBD human_JJ or_CC ``_`` H_NN ''_'' typed_VBD human_JJ having_VBG two_CD or_CC more_JJR specialize_VBP skills_NNS or_CC has_VBZ not_RB only_RB specified_VBN skill_NN but_CC also_RB related_JJ skills_NNS ._.
+These_DT tyoed_VBD human_JJ can_MD adopt_VB every_DT position_NN ,_, and_CC may_MD found_VBD their_PRP$ new_JJ potential_NN ._.
+For_IN example_NN ,_, I_PRP majored_VBD computer_NN science_NN ,_, but_CC I_PRP alwals_NNS has_VBZ a_DT question_NN about_IN another_DT potential_NN ._.
+I_PRP studied_VBD various_JJ subjects_NNS ,_, as_IN a_DT result_NN I_PRP could_MD cook_VB ,_, actor_NN and_CC master_NN of_IN Takwondo_NNP ._.
+Second_RB ,_, as_IN you_PRP would_MD like_VB to_TO become_VB a_DT specialist_NN ,_, you_PRP should_MD know_VB about_IN all_PDT the_DT fields_NNS related_VBN to_TO your_PRP$ subjects_NNS ._.
+For_IN instance_NN ,_, if_IN you_PRP like_VBP to_TO become_VB a_DT best_JJS network_NN engineer_NN ,_, it_PRP is_VBZ impossible_JJ to_TO know_VB about_IN the_DT networks_NNS ._.
+For_IN the_DT efficient_JJ transmit/receive_JJ mechanism_NN ,_, you_PRP should_MD know_VB the_DT hardware_NN architecture_NN ;_: for_IN the_DT reduce_VB of_IN problem_NN such_JJ as_IN bottle_NN neck_NN ,_, you_PRP should_MD understand_VB not_RB only_RB memory_NN architecture_NN but_CC also_RB operating_VBG system_NN ;_: if_IN you_PRP get_VBP a_DT software_NN showing_VBG gool_NN performance_NN you_PRP does_VBZ not_RB know_VB about_IN network_NN ,_, you_PRP should_MD know_VB software_NN engineering_NN ._.
+In_IN addition_NN ,_, if_IN you_PRP would_MD like_VB a_DT good_JJ project_NN conclusion_NN ,_, you_PRP need_VBP to_TO know_VB the_DT activity_NN as_IN a_DT team_NN management_NN ._.
+If_IN you_PRP does_VBZ not_RB various_JJ field_NN ,_, you_PRP could_MD not_RB lead_VB your_PRP$ team_NN composed_VBN psesons_NNS having_VBG various_JJ skill_NN ._.
+All_DT clues_NNS written_VBN on_IN upper_JJ thesis_NN must_MD study_VB at_IN a_DT academic_JJ ages_NNS ._.
+In_IN academic_JJ ages_NNS ,_, it_PRP is_VBZ a_DT best_JJS ages_NNS to_TO study_VB abroad_RB ,_, so_IN all_DT students_NNS in_IN a_DT university_NN does_VBZ not_RB lazy_JJ to_TO studying_VBG an_DT abroad_RB subjects_NNS ._.
+You_PRP had_VBD better_RBR having_VBG a_DT broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.

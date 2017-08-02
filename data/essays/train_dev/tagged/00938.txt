@@ -1,0 +1,19 @@
+The_DT concept_NN is_VBZ the_DT base_NN of_IN life_NN ._.
+Indeed_RB ,_, our_PRP$ world_NN and_CC our_PRP$ way_NN of_IN thinking_VBG are_VBP built_VBN on_IN ideas_NNS or_CC concepts_NNS ._.
+We_PRP often_RB associate_VBP school_NN as_IN a_DT place_NN where_WRB pupils_NNS have_VBP to_TO learn_VB facts_NNS by_IN heart_NN ._.
+But_CC where_WRB should_MD we_PRP place_VB the_DT limit_NN between_IN a_DT wisdom_NN acquierd_NN by_IN learning_VBG the_DT facts_NNS and_CC a_DT knowledge_NN based_VBN on_IN concepts_NNS ?_.
+A_DT History_NN class_NN would_MD be_VB the_DT best_JJS example_NN to_TO answer_VB this_DT question_NN ._.
+Indeed_RB ,_, while_IN pupils_NNS are_VBP studying_VBG a_DT certain_JJ period_NN of_IN history_NN ,_, the_DT most_RBS important_JJ for_IN them_PRP is_VBZ to_TO understand_VB the_DT way_NN of_IN thinking_NN of_IN the_DT people_NNS living_VBG at_IN that_DT time_NN ,_, their_PRP$ ideas_NNS ,_, the_DT circumpstances_NNS ,_, what_WP happened_VBD before_RB ,_, the_DT consequences_NNS i.e._FW ,_, the_DT whole_JJ context_NN ._.
+However_RB ,_, I_PRP think_VBP that_IN it_PRP is_VBZ also_RB very_RB important_JJ for_IN them_PRP to_TO be_VB able_JJ to_TO structure_NN every_DT thing_NN ._.
+Therefore_RB students_NNS should_MD have_VB to_TO learn_VB precise_JJ dates_NNS and_CC events_NNS in_IN order_NN to_TO illustrate_VB by_IN concreat_NN examples_NNS their_PRP$ ideas_NNS ._.
+The_DT concept_NN is_VBZ the_DT first_JJ thing_NN that_IN we_PRP should_MD learn_VB ,_, because_IN it_PRP is_VBZ what_WP we_PRP keep_VBP in_IN mind_NN after_IN a_DT lesson_NN ._.
+But_CC if_IN this_DT concept_NN is_VBZ not_RB associated_VBN to_TO a_DT date_NN or_CC illustrated_VBN by_IN a_DT fact_NN ,_, the_DT concept_NN does_VBZ not_RB worth_JJ anything_NN anylonger_NN ._.
+On_IN top_NN of_IN that_DT ,_, how_WRB could_MD we_PRP explain_VB a_DT concept_NN without_IN giving_VBG any_DT example_NN ?_.
+It_PRP 's_VBZ just_RB impossible_JJ ._.
+Phylosophy_NNP ,_, which_WDT is_VBZ the_DT science_NN of_IN concepts_NNS is_VBZ based_VBN on_IN example_NN and_CC thus_RB on_IN facts_NNS ._.
+This_DT leads_VBZ me_PRP to_TO say_VB that_IN it_PRP is_VBZ really_RB important_JJ for_IN a_DT student_NN to_TO have_VB a_DT good_JJ memory_NN and_CC that_DT is_VBZ why_WRB children_NNS have_VBP to_TO learn_VB poems_NNS by_IN heart_NN ._.
+As_IN far_RB as_IN I_PRP am_VBP concerned_JJ ,_, ideas_NNS and_CC facts_NNS are_VBP deeply_RB linked_VBN ._.
+We_PRP could_MD even_RB go_VB further_RB by_IN saying_VBG that_IN very_RB often_RB we_PRP start_VBP by_IN learning_VBG the_DT fact_NN and_CC then_RB we_PRP understand_VBP the_DT idea_NN which_WDT is_VBZ behind_IN this_DT fact_NN ._.
+In_IN mathematics_NNS for_IN example_NN we_PRP learn_VBP the_DT formules_NNS of_IN the_DT sinus_NN and_CC the_DT cosinus_NN before_IN even_RB knowing_VBG what_WP they_PRP represent_VBP ._.
+It_PRP follows_VBZ then_RB that_IN even_RB if_IN ideas_NNS are_VBP more_RBR important_JJ when_WRB we_PRP take_VBP a_DT step_NN back_RB ,_, we_PRP do_VBP not_RB understand_VB them_PRP right_RB away_RB without_IN any_DT facts_NNS or_CC dates_NNS ._.
+To_TO sum_VB up_RP I_PRP would_MD say_VB that_IN after_IN having_VBG learnt_VBN and_CC understood_VBN something_NN ,_, the_DT idea_NN is_VBZ more_RBR important_JJ ,_, but_CC while_IN learing_VBG this_DT particular_JJ thing_NN ,_, we_PRP can_MD not_RB separate_VB the_DT idea_NN and_CC the_DT fact_NN ._.

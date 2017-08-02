@@ -1,0 +1,17 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN ``_`` it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ''_'' ._.
+I_PRP think_VBP having_VBG a_DT broad_JJ field_NN of_IN knowledge_NN is_VBZ as_RB important_JJ as_IN specializing_VBG in_IN one_CD particular_JJ subject_NN ._.
+Having_VBG a_DT broad_JJ knowledge_NN of_IN many_JJ academic_JJ field_NN only_RB allows_VBZ one_CD to_TO know_VB the_DT shallower_JJR part_NN of_IN each_DT subject_NN ._.
+One_CD who_WP does_VBZ not_RB specialize_VB in_IN any_DT field_NN can_MD only_RB be_VB deemed_VBN as_IN ``_`` amateur_JJ ''_'' ,_, not_RB ``_`` professional_JJ ''_'' ._.
+A_DT person_NN with_IN broad_JJ knowledge_NN in_IN many_JJ academic_JJ fields_NNS but_CC no_DT deep_JJ insights_NNS in_IN any_DT subject_NN can_MD never_RB design_VB gadgets_NNS as_RB well_RB as_IN professional_JJ engineers_NNS do_VBP ;_: they_PRP can_MD never_RB navigate_VB planes_NNS as_RB well_RB as_IN professional_JJ aviators_NNS do_VBP ;_: they_PRP can_MD never_RB compose_VB music_NN pieces_NNS as_IN remarkably_RB as_IN musicians_NNS do_VBP ._. .._SYM
+Hence_RB ,_, we_PRP need_VBP people_NNS who_WP specialize_VBP in_IN one_CD specific_JJ subject_NN to_TO make_VB our_PRP$ world_NN a_DT better_JJR place_NN and_CC to_TO run_VB our_PRP$ society_NN smoothly_RB ._.
+However_RB ,_, specializing_VBG in_IN one_CD one_CD particular_JJ subject_NN has_VBZ drawbacks_NNS as_RB well_RB ._.
+For_IN example_NN ,_, in_IN Singapore_NNP ,_, the_DT universities_NNS place_VBP too_RB much_JJ emphasis_NN on_IN specialized_VBN knowledge_NN ._.
+That_DT leads_VBZ to_TO a_DT work_NN force_NN that_WDT is_VBZ rather_RB narrow-minded_JJ ._.
+As_IN a_DT result_NN ,_, Singaporeans_NNPS tend_VBP to_TO be_VB less_JJR creative_JJ and_CC less_RBR likely_JJ to_TO think_VB out_IN of_IN the_DT box_NN ._.
+Also_RB ,_, people_NNS with_IN different_JJ academic_JJ field_NN might_MD have_VB difficulty_NN in_IN communicating_VBG with_IN each_DT other_JJ ,_, making_VBG people_NNS more_RBR isolated_VBN ._.
+On_IN the_DT contrary_NN ,_, the_DT tertiary_JJ education_NN in_IN the_DT United_NNP States_NNPS emphasizes_VBZ on_IN both_DT specialized_VBN and_CC broad_JJ knowledge_NN of_IN the_DT students_NNS ._.
+It_PRP makes_VBZ people_NNS more_RBR prepared_JJ to_TO make_VB sound_JJ dicisions_NNS in_IN complicated_JJ circumstances_NNS which_WDT involves_VBZ different_JJ academic_JJ fields_NNS ._.
+For_IN instance_NN ,_, a_DT politician_NN who_WP specializes_VBZ in_IN Politics_NNP only_RB will_MD not_RB be_VB able_JJ to_TO make_VB sound_JJ sound_JJ policies_NNS in_IN environmental_JJ problems_NNS ._.
+It_PRP is_VBZ also_RB likely_JJ that_IN he_PRP might_MD take_VB the_DT lobbists_NNS '_POS words_NNS blindly_RB ._.
+Hence_RB ,_, it_PRP is_VBZ also_RB important_JJ for_IN one_CD to_TO have_VB a_DT broad_JJ range_NN of_IN knowedge_NN ._.
+In_IN conclusion_NN ,_, I_PRP think_VBP it_PRP is_VBZ equally_RB important_JJ for_IN one_CD to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS and_CC to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.

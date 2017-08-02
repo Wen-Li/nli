@@ -1,0 +1,14 @@
+I_PRP agree_VBP with_IN this_DT statement_NN ._.
+I_PRP think_VBP that_IN young_JJ people_NNS enjoy_VBP life_NN more_JJR than_IN older_JJR people_NNS ._.
+There_EX are_VBP two_CD reasons_NNS ._.
+One_CD reaso_NN is_VBZ that_IN young_JJ people_NNS are_VBP more_RBR activity_NN than_IN older_JJR people_NNS ._.
+Also_RB ,_, the_DT other_JJ one_CD is_VBZ that_IN young_JJ people_NNS have_VBP new_JJ ideas_NNS for_IN life_NN ._.
+First_NNP of_IN all_DT ,_, young_JJ people_NNS are_VBP more_RBR activity_NN than_IN older_JJR people_NNS ._.
+It_PRP 's_VBZ because_IN young_JJ people_NNS can_MD do_VB dance_VB more_JJR activity_NN than_IN older_JJR people_NNS ._.
+However_RB older_JJR people_NNS ca_MD n't_RB do_VB dance_VB more_JJR activity_NN than_IN young_JJ people_NNS ._.
+It_PRP 's_VBZ becuse_JJ older_JJR people_NNS do_VBP n't_RB have_VB enough_JJ power_NN of_IN dancing_NN for_IN a_DT long_JJ time_NN ._.
+Second_NNP of_IN all_DT ,_, young_JJ people_NNS have_VBP some_DT new_JJ ideas_NNS for_IN enjoying_VBG in_IN life_NN ._.
+For_IN example_NN ,_, there_EX is_VBZ festival_NN in_IN life_NN ._.
+Young_JJ people_NNS can_MD open_VB up_RP thier_JJR ideas_NNS for_IN festival_NN ._.
+It_PRP 's_VBZ because_IN young_JJ people_NNS can_MD think_VB of_IN interesting_JJ ideas_NNS ._.
+In_IN conclusion_NN ,_, young_JJ people_NNS can_MD enjoy_VB in_IN life_NN ._.

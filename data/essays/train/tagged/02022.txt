@@ -1,0 +1,9 @@
+I_PRP do_VBP n't_RB think_VB that_IN it_PRP 's_VBZ important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS as_IN compared_VBN to_TO learn_VB facts_NNS ._.
+I_PRP think_VBP ideas_NNS and_CC concepts_NNS help_VBP the_DT students_NNS in_IN learning_VBG in_IN their_PRP$ intial_JJ classes_NNS only_RB ._.
+In_IN my_PRP$ opinion_NN ,_, the_DT facts_NNS are_VBP more_RBR important_JJ to_TO learn_VB as_IN they_PRP are_VBP used_VBN in_IN long_JJ run_NN ._.
+For_IN example_NN ,_, I_PRP was_VBD a_DT student_NN of_IN the_DT physics_NN class_NN ._.
+As_IN part_NN of_IN our_PRP$ course_NN structure_NN we_PRP have_VBP numerous_JJ derivations_NNS to_TO understand_VB the_DT idea_NN behind_IN a_DT particular_JJ fact_NN ._.
+At_IN that_DT time_NN I_PRP used_VBD to_TO cram_VB all_PDT the_DT derivations_NNS in_IN order_NN to_TO get_VB good_JJ marks_NNS ._.
+But_CC now_RB at_IN this_DT point_NN of_IN my_PRP$ age_NN I_PRP can_MD just_RB able_JJ to_TO remember_VB what_WP was_VBD the_DT fact_NN not_RB the_DT idea_NN or_CC the_DT concept_NN behind_IN it_PRP ._.
+Like_IN I_PRP remember_VBP that_IN what_WP is_VBZ the_DT density_NN of_IN water_NN but_CC I_PRP do_VBP n't_RB know_VB how_WRB to_TO calculate_VB it_PRP ._.
+So_RB ,_, I_PRP belive_VBP that_IN students_NNS should_MD more_RBR concentrate_VB on_IN facts_NNS than_IN understanding_VBG ides_NNS and_CC concepts_NNS ._.

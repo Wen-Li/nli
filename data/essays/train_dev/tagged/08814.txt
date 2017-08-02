@@ -1,0 +1,19 @@
+Some_DT people_NNS disagree_VBP the_DT statement_NN that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+However_RB ,_, personally_RB I_PRP agree_VBP the_DT statement_NN for_IN the_DT following_VBG reasons_NNS ._.
+First_RB ,_, traveling_VBG with_IN a_DT tour_NN guide_NN could_MD save_VB time_NN ._.
+For_IN example_NN ,_, in_IN 2005_CD I_PRP traveld_VBP to_TO Italy_NNP with_IN my_PRP$ mother_NN by_IN using_VBG a_DT tour_NN company_NN ._.
+My_PRP$ mother_NN and_CC I_PRP wanted_VBD to_TO go_VB to_TO Italy_NNP for_IN a_DT long_JJ time_NN and_CC so_IN we_PRP were_VBD looking_VBG forward_RB to_TO visiting_VBG museums_NNS and_CC historical_JJ places_NNS ._.
+However_RB ,_, there_EX are_VBP many_JJ museums_NNS and_CC famous_JJ places_NNS in_IN Italy_NNP ._.
+We_PRP worried_VBD about_IN how_WRB would_MD we_PRP do_VB to_TO see_VB efficiently_RB ._.
+We_PRP consulted_VBD with_IN our_PRP$ tour_NN guide_NN and_CC she_PRP gave_VBD us_PRP good_JJ advice_NN ._.
+She_PRP changed_VBD out_RP tour_NN route_NN to_TO be_VB able_JJ to_TO visit_VB efficiently_RB ,_, where_WRB we_PRP wanted_VBD to_TO go_VB ._.
+This_DT example_NN clearly_RB shows_VBZ that_IN traveling_VBG with_IN a_DT tour_NN guide_NN could_MD save_VB time_NN ._.
+Second_RB ,_, traveling_VBG with_IN a_DT tour_NN guide_NN could_MD learn_VB more_RBR ._.
+When_WRB I_PRP perticipated_VBD in_IN the_DT tour_NN goint_NN to_TO India_NNP in_IN 2004_CD ,_, I_PRP were_VBD led_VBN by_IN a_DT Indian_JJ tour_NN guide_NN ._.
+We_PRP went_VBD to_TO many_JJ temples_NNS ,_, but_CC I_PRP did_VBD not_RB have_VB much_JJ knowlege_NN of_IN Hindu_NNP and_CC Muslim_JJ ,_, Indian_JJ religions_NNS ._.
+Then_RB ,_, he_PRP lectured_VBD me_PRP the_DT religion_NN and_CC the_DT means_NNS of_IN pictures_NNS and_CC structures_NNS in_IN the_DT temples_NNS ._.
+Also_RB ,_, he_PRP answered_VBD my_PRP$ questions_NNS ._.
+For_IN example_NN ,_, what_WP is_VBZ the_DT most_RBS famous_JJ person_NN in_IN India_NNP ,_, what_WP is_VBZ the_DT most_RBS popular_JJ occupation_NN among_IN Indian_JJ women_NNS and_CC so_RB on_IN ._.
+I_PRP could_MD learn_VB many_JJ things_NNS from_IN the_DT guide_NN ._.
+The_DT above_JJ experience_NN demonstrates_VBZ that_IN traveling_VBG with_IN a_DT tour_NN guide_NN could_MD learn_VB more_RBR ._.
+Therefore_RB ,_, I_PRP agree_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN tour_NN guide_NN ._.

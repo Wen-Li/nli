@@ -1,0 +1,24 @@
+I_PRP can_MD not_RB really_RB agree_VB with_IN the_DT opinion_NN stated_VBN above_IN ._.
+I_PRP think_VBP that_IN understanding_VBG concepts_NNS ,_, as_RB well_RB as_IN learning_VBG facts_NNS ,_, are_VBP equally_RB important_JJ ._.
+On_IN the_DT one_CD hand_NN ,_, it_PRP is_VBZ very_RB important_JJ to_TO understand_VB an_DT underlying_JJ idea_NN ._.
+It_PRP is_VBZ the_DT base_NN to_TO apply_VB it_PRP to_TO new_JJ contexts_NNS and_CC to_TO connect_VB it_PRP with_IN other_JJ concepts_NNS ._.
+It_PRP is_VBZ an_DT essential_JJ ability_NN to_TO suceed_VB in_IN exams_NNS and_CC it_PRP even_RB enables_VBZ the_DT further_JJ development_NN of_IN new_JJ hypotheses_NNS or_CC even_RB whole_JJ theories_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, real_JJ understanding_NN proves_VBZ if_IN someone_NN is_VBZ an_DT intelligent_JJ ,_, independent_JJ thinking_VBG person_NN ._.
+And_CC these_DT are_VBP necessary_JJ attributes_NNS for_IN a_DT successful_JJ researcher_NN and_CC a_DT satisfying_JJ academic_JJ career_NN ._.
+For_IN example_NN ,_, the_DT principle_NN of_IN many_JJ basic_JJ learning_NN theories_NNS ,_, investigated_VBN by_IN Skinner_NNP ,_, where_WRB cited_VBN by_IN numerous_JJ other_JJ researchers_NNS ._.
+The_DT researchers_NNS conducted_VBD many_JJ interesting_JJ experiments_NNS ,_, resulting_VBG in_IN highly_RB useful_JJ applications_NNS ._.
+In_IN the_DT other_JJ hand_NN ,_, you_PRP can_MD not_RB deny_VB the_DT importance_NN of_IN knowledge_NN of_IN facts_NNS ._.
+Surely_RB ,_, the_DT solely_RB learning_NN of_IN facts_NNS was_VBD exaggerated_VBN for_IN a_DT long_JJ time_NN ._.
+Whole_JJ generations_NNS of_IN students_NNS only_RB had_VBD to_TO repeat_VB information_NN without_IN having_VBG to_TO prove_VB their_PRP$ understanding_NN ._.
+I_PRP totally_RB agree_VBP ,_, that_IN this_DT does_VBZ not_RB make_VB any_DT sense_NN ._.
+I_PRP also_RB permit_VBP that_IN it_PRP is_VBZ hard_JJ work_NN to_TO learn_VB them_PRP and_CC it_PRP seems_VBZ senseless_JJ from_IN time_NN to_TO time_NN ._.
+Nevertheless_RB ,_, facts_NNS are_VBP important_JJ ._.
+It_PRP is_VBZ not_RB sufficient_JJ if_IN researchers_NNS have_VBP understood_VBN a_DT main_JJ principle_NN ._.
+They_PRP have_VBP to_TO know_VB all_DT included_VBD variables_NNS of_IN a_DT theorie_NN ,_, how_WRB the_DT experiment_NN were_VBD conducted_VBN ,_, why_WRB ,_, in_IN which_WDT content_NN ._.
+They_PRP should_MD be_VB aware_JJ in_IN which_WDT time_NN period_NN a_DT theorie_NN was_VBD invented_VBN and_CC a_DT fact_NN was_VBD discovered_VBN and_CC by_IN whom_WP ._.
+This_DT is_VBZ all_DT fruitful_JJ background_NN information_NN ._.
+The_DT first_JJ things_NNS to_TO learn_VB are_VBP facts_NNS ._.
+Then_RB understanding_NN of_IN the_DT underlying_VBG idea_NN is_VBZ the_DT next_JJ important_JJ step_NN ._.
+And_CC finally_RB the_DT further_JJ connection_NN and_CC application_NN follows_VBZ ._.
+The_DT last_JJ step_NN could_MD not_RB be_VB achieved_VBN if_IN one_CD of_IN the_DT earlier_JJR steps_NNS would_MD be_VB missing_VBG ._.
+Therefore_RB I_PRP draw_VBP the_DT conclusion_NN that_IN you_PRP can_MD not_RB say_VB which_WDT of_IN the_DT two_CD learning_VBG strategies_NNS is_VBZ more_RBR important_JJ for_IN a_DT student_NN ._.

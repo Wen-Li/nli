@@ -1,0 +1,10 @@
+agree_nsubj_I
+agree_iobj_people
+people_amod_becouse
+people_compound_younge
+agree_dobj_time
+time_amod_wast
+time_amod_theire
+agree_nmod_things
+things_case_in
+things_amod_other

@@ -1,0 +1,8 @@
+I_PRP agree_VBP the_DT statement_NN ._.
+The_DT reasons_NNS for_IN the_DT agreement_NN is_VBZ as_RB below_RB ._.
+First_RB ,_, the_DT main_JJ purpose_NN of_IN travel_NN is_VBZ seeing_VBG a_DT famous_JJ place_NN ._.
+If_IN you_PRP travel_VBP with_IN a_DT tour_NN guide_NN ,_, the_DT guide_NN tell_VBP you_PRP good_JJ points_NNS related_VBN to_TO the_DT place_NN ._.
+Then_RB you_PRP can_MD learn_VB more_RBR ._.
+Second_RB ,_, you_PRP can_MD meet_VB new_JJ people_NNS in_IN the_DT travel_NN group_NN and_CC talk_NN about_IN something_NN ._.
+Third_RB ,_, The_DT guide_NN can_MD inform_VB you_PRP of_IN which_WDT way_NN to_TO go_VB and_CC where_WRB to_TO stay_VB ,_, etc_FW ._.
+So_IN you_PRP does_VBZ not_RB worry_VB about_IN being_VBG lost_VBN ._.

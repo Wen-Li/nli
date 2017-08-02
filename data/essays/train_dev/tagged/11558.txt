@@ -1,0 +1,16 @@
+Today_NN ,_, the_DT number_NN of_IN cars_NNS boght_NN every_DT year_NN is_VBZ staggering_JJ and_CC the_DT number_NN keeps_VBZ increasingyear_NN on_IN year_NN ._.
+However_RB ,_, I_PRP believe_VBP that_IN the_DT number_NN of_IN cars_NNS has_VBZ peaked_VBN and_CC will_MD definitely_RB reduce_VB in_IN the_DT near_JJ future_NN ._.
+One_CD of_IN the_DT major_JJ reasons_NNS for_IN decline_NN in_IN the_DT cars_NNS would_MD be_VB the_DT affordibility_NN ._.
+With_IN ever_RB rising_VBG oil_NN prices_NNS and_CC declinng_NN reserves_NNS ,_, it_PRP would_MD be_VB hard_JJ for_IN many_JJ to_TO own_VB and_CC run_VB a_DT car_NN ._.
+Although_IN alternative_JJ fuels_NNS like_IN Solar_NNP and_CC Alchohol_NNP cars_NNS have_VBP been_VBN suggested_VBN they_PRP are_VBP still_RB far_RB from_IN feasible_JJ ._.
+These_DT technologies_NNS would_MD take_VB atelast_JJ two_CD decades_NNS in_IN implementing_VBG and_CC can_MD not_RB offer_VB any_DT immediate_JJ solution_NN ._.
+Also_RB there_EX is_VBZ lot_NN of_IN concern_NN for_IN pollution_NN and_CC traffic_NN caused_VBN by_IN the_DT large_JJ number_NN of_IN cars_NNS on_IN our_PRP$ streets_NNS ._.
+Green_NNP activists_NNS are_VBP calling_VBG for_IN special_JJ taxes_NNS on_IN cars_NNS for_IN polluting_VBG the_DT environment_NN ._.
+This_DT forced_JJ goverments_NNS to_TO enforce_VB taxes_NNS on_IN the_DT car_NN manufacturing_NN companies_NNS ._.
+This_DT would_MD certainly_RB reduce_VB the_DT interest_NN of_IN new_JJ car_NN manufacturers_NNS ._.
+Public_NNP transport_NN facilities_NNS like_IN buses_NNS and_CC metros_NNS will_MD gain_VB wide_JJ acceptance_NN not_RB only_RB because_IN thay_NN are_VBP much_JJ cheaper_JJR ._.
+But_CC also_RB because_IN of_IN the_DT advancements_NNS in_IN the_DT technology_NN ,_, Government_NN and_CC other_JJ organizations_NNS are_VBP able_JJ to_TO provide_VB commuters_NNS with_IN comforts_NNS which_WDT are_VBP on_IN par_NN with_IN the_DT ones_NNS that_WDT cars_NNS provide_VBP ._.
+Twenty_CD years_NNS later_RB there_RB would_MD be_VB further_JJ improvement_NN in_IN the_DT commuting_VBG technologies_NNS which_WDT would_MD lead_VB to_TO reduced_VBN car_NN users_NNS ._.
+Lastly_RB ,_, there_EX are_VBP technologies_NNS like_IN SEGWAY_NNP and_CC personal_JJ flying_VBG planes_NNS that_WDT are_VBP in_IN prototype_NN stage_NN of_IN testing_NN ._.
+These_DT inventions_NNS could_MD replace_VB the_DT cars_NNS in_IN the_DT near_JJ future_NN ._.
+In_IN sum_NN I_PRP believe_VBP that_IN cars_NNS would_MD be_VB replaced_VBN by_IN other_JJ forms_NNS of_IN transport_NN both_CC for_IN economical_JJ and_CC environmetal_JJ issues_NNS ._.

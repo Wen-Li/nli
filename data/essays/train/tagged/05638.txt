@@ -1,0 +1,6 @@
+I_PRP think_VBP there_EX will_MD not_RB be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN in_IN twenty_CD years_NNS ._.
+There_EX is_VBZ two_CD reasons_NNS like_IN below_RB ._.
+At_IN first_RB ,_, the_DT present_JJ population_NN in_IN the_DT world_NN is_VBZ six_CD billion_CD ,_, and_CC it_PRP never_RB stop_VBP to_TO increase_VB ,_, and_CC it_PRP is_VBZ said_VBD the_DT world_NN population_NN is_VBZ growing_VBG with_IN much_RB more_JJR high_JJ speed_NN ._.
+So_IN it_PRP is_VBZ certain_JJ that_IN the_DT demand_NN of_IN car_NN also_RB increases_VBZ with_IN the_DT increase_NN of_IN the_DT population_NN ._.
+Second_RB ,_, I_PRP think_VBP it_PRP is_VBZ difficult_JJ that_IN we_PRP invent_VBP a_DT brand_NN new_JJ vehicle_NN that_WDT is_VBZ more_RBR convinient_JJ than_IN car_NN in_IN twenty_CD years_NNS ._.
+We_PRP have_VBP already_RB had_VBN another_DT transportation_NN system_NN like_IN plane_NN ,_, ship_NN ,_, bicycle_NN ,_, but_CC they_PRP are_VBP used_VBN with_IN different_JJ needs_NNS ,_, and_CC they_PRP are_VBP not_RB useful_JJ as_IN a_DT alternative_NN of_IN car_NN ._.

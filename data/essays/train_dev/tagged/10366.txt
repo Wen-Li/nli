@@ -1,0 +1,17 @@
+Traffic_NN in_IN big_JJ cities_NNS is_VBZ the_DT source_NN of_IN a_DT lot_NN of_IN bad_JJ consequences_NNS ._.
+The_DT environmental_JJ pollution_NN is_VBZ the_DT most_RBS noticeable_JJ ,_, but_CC also_RB side-effects_NNS on_IN drivers_NNS '_POS health_NN are_VBP evident_JJ (_NN e.g._FW ,_, stress_NN caused_VBN by_IN traffic_NN jams_NNS )_RB ._.
+All_PDT this_DT is_VBZ due_JJ to_TO the_DT large_JJ usage_NN of_IN cars_NNS by_IN private_JJ citizens_NNS ._.
+Improving_NN public_JJ transportation_NN services_NNS or_CC providing_VBG suitable_JJ incentives_NNS to_TO prevent_VB people_NNS from_IN riding_VBG alone_RB also_RB for_IN short_JJ movements_NNS could_MD contribute_VB to_TO solve_VB this_DT problem_NN ._.
+Pollution_NNP caused_VBN by_IN gases_NNS released_VBN by_IN the_DT cars_NNS while_IN moving_VBG endangers_VBZ a_DT lot_NN the_DT planet_NN where_WRB we_PRP live_VBP ,_, also_RB by_IN warming_VBG the_DT weather_NN ._.
+The_DT exhaustion_NN of_IN the_DT petroleum_NN resources_NNS on_IN the_DT planet_NN is_VBZ paving_VBG the_DT way_NN to_TO research_NN about_IN alternative_JJ propellents_NNS ._.
+They_PRP have_VBP been_VBN studied_VBN for_IN the_DT last_JJ twenty_CD years_NNS ;_: unfortunately_RB ,_, they_PRP take_VBP to_TO an_DT increase_NN in_IN the_DT cost_NN of_IN the_DT engines_NNS too_RB high_JJ to_TO permit_VB they_PRP are_VBP included_VBN in_IN mass_NN production_NN ._.
+I_PRP think_VBP that_IN this_DT solution_NN would_MD only_RB solve_VB part_NN of_IN the_DT problem_NN ._.
+A_DT better_JJR solution_NN would_MD consist_VB in_IN improving_VBG public_JJ transportation_NN services_NNS ._.
+In_IN many_JJ parts_NNS of_IN the_DT world_NN these_DT are_VBP still_RB insufficiently_RB deployed_VBN or_CC unreliable_JJ (_NN in_IN Italy_NNP trains_NNS are_VBP rarely_RB on_IN time_NN )_NN ._.
+However_RB ,_, my_PRP$ opinion_NN is_VBZ that_IN the_DT most_RBS effective_JJ strategy_NN would_MD consist_VB in_IN educating_VBG people_NNS ._.
+People_NNS should_MD use_VB cars_NNS only_RB when_WRB effectively_RB needed_VBN (_RB many_JJ of_IN them_PRP use_VBP cars_NNS for_IN very_RB short_JJ movements_NNS )_VBP ._.
+In_IN addition_NN ,_, novel_JJ possibilities_NNS ,_, e.g._FW ,_, car_NN pooling_VBG or_CC car_NN sharing_NN ,_, should_MD be_VB supported_VBN by_IN incentivating_VBG people_NNS to_TO exploit_VB them_PRP ._.
+The_DT usage_NN of_IN a_DT car_NN by_IN a_DT single_JJ people_NNS takes_VBZ to_TO great_JJ resource_NN waste_NN ._.
+I_PRP am_VBP not_RB sure_JJ whether_IN in_IN the_DT next_JJ twenty_CD years_NNS the_DT use_NN of_IN the_DT cars_NNS will_MD diminish_VB ._.
+I_PRP rather_RB believe_VBP that_IN some_DT solutions_NNS need_VBP to_TO be_VB found_VBN to_TO make_VB the_DT statement_NN become_VBN true_JJ ._.
+The_DT education_NN of_IN people_NNS not_RB to_TO use_VB cars_NNS for_IN short_JJ movements_NNS or_CC to_TO exploit_VB sharing_VBG strategies_NNS ,_, and_CC a_DT drastic_JJ improvement_NN of_IN public_JJ transportation_NN are_VBP the_DT most_RBS effective_JJ solutions_NNS I_PRP advise_VBP ._.

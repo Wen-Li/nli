@@ -1,0 +1,25 @@
+Traffic_NN is_VBZ a_DT big_JJ problem_NN in_IN great_JJ cities_NNS like_IN Istanbul_NNP ,_, Paris_NNP ,_, New_NNP York_NNP ._.
+Because_IN there_EX are_VBP a_DT lot_NN of_IN cars_NNS ._.
+The_DT number_NN of_IN cars_NNS are_VBP increasing_VBG because_IN of_IN populations_NNS increasing_VBG ._.
+This_DT couses_NNS more_RBR problems_NNS in_IN traffic_NN ._.
+Researchers_NNS are_VBP looking_VBG for_IN alternative_JJ approaches_NNS to_TO solve_VB this_DT problem_NN ._.
+I_PRP think_VBP that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR car_NN in_IN use_NN than_IN tere_NN are_VBP today_NN ._.
+Firstly_RB ,_, researchers_NNS developing_VBG the_DT trains_NNS ._.
+Cars_NNS are_VBP more_RBR popular_JJ than_IN trains_NNS in_IN today_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, cars_NNS popularity_NN will_MD decrease_VB in_IN future_NN ._.
+Because_IN in_IN future_JJ there_EX will_MD be_VB faster_RBR and_CC more_RBR comfortable_JJ trains_NNS than_IN in_IN today_NN ._.
+Governments_NNS will_MD develop_VB and_CC build_VB better_JJR railroads_NNS too_RB ._.
+As_IN a_DT result_NN of_IN these_DT popularity_NN of_IN trains_NNS will_MD increase_VB and_CC popularity_NN of_IN cars_NNS will_MD decrease_VB ._.
+Morower_NNP ,_, air_NN travel_NN will_MD also_RB be_VB more_RBR popular_JJ in_IN future_NN ._.
+The_DT number_NN of_IN air_NN travel_NN firms_NNS is_VBZ increasing_VBG everyday_JJ ._.
+Because_IN of_IN the_DT competition_NN ,_, the_DT price_NN of_IN tickets_NNS is_VBZ decreasing_VBG ._.
+So_RB ,_, air_NN travel_NN becomes_VBZ more_RBR common_JJ and_CC popular_JJ ._.
+People_NNS prefer_VBP going_VBG to_TO far_RB places_NNS by_IN using_VBG airoplanes_NNS ._.
+The_DT number_NN of_IN helicopters_NNS is_VBZ increasing_VBG too_RB ._.
+These_DT are_VBP other_JJ factors_NNS that_WDT cause_VBP decrease_NN in_IN number_NN of_IN cars_NNS ._.
+Lastly_RB ,_, if_IN you_PRP think_VBP that_IN technology_NN is_VBZ developing_VBG very_RB fast_RB ,_, you_PRP will_MD think_VB that_IN trains_NNS and_CC planes_NNS will_MD be_VB more_RBR popular_JJ and_CC cheaper_JJR in_IN a_DT short_JJ time_NN period_NN ._.
+Twenty_CD years_NNS is_VBZ a_DT short_JJ peariod_NN of_IN time_NN for_IN the_DT developments_NNS of_IN trains_NNS and_CC planes_NNS ._.
+Consequently_RB ,_, cars_NNS will_MD lose_VB their_PRP$ popularity_NN in_IN twenty_CD years_NNS ._.
+Because_IN people_NNS will_MD prefer_VB travelling_VBG by_IN trains_NNS and_CC planes_NNS rather_RB than_IN travelling_VBG by_IN cars_NNS ._.
+Technology_NNP developing_VBG will_MD result_VB with_IN faster_JJR and_CC more_RBR comfortable_JJ trains_NNS and_CC planes_NNS ._.
+So_RB ,_, the_DT number_NN os_NNS cars_NNS will_MD decrease_VB in_IN twenty_CD years_NNS ._.

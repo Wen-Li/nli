@@ -1,0 +1,14 @@
+Is_VBZ it_PRP better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ suject_JJ they_PRP choose_VB ?_.
+It_PRP is_VBZ not_RB so_RB easy_JJ to_TO say_VB which_WDT is_VBZ more_RBR desirable_JJ ._.
+Often_RB it_PRP seems_VBZ to_TO be_VB dependent_JJ on_IN the_DT characteristics_NNS of_IN the_DT person_NN ._.
+But_CC I_PRP disagree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN concerning_VBG many_JJ areas_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN for_IN the_DT following_VBG two_CD reasons_NNS :_: firstly_RB no_DT one_PRP can_MD reach_VB the_DT full_JJ knowledge_NN of_IN every_DT aspect_NN ,_, secondly_RB it_PRP is_VBZ more_RBR profitable_JJ for_IN each_DT person_NN to_TO study_VB in_IN his_PRP$ or_CC her_PRP$ own_JJ area_NN and_CC then_RB share_VBP the_DT result_NN ._.
+At_IN first_RB ,_, no_DT one_NN grasp_NN the_DT entire_JJ knowledge_NN of_IN every_DT subject_NN ._.
+What_WP is_VBZ easy_JJ to_TO scientists_NNS may_MD not_RB be_VB easy_JJ to_TO sociologists_NNS ._.
+Also_RB What_WP is_VBZ natural_JJ to_TO sociologists_NNS may_MD not_RB be_VB natural_JJ to_TO scientists_NNS ._.
+We_PRP have_VBP the_DT limitation_NN of_IN intelligence_NN ,_, thoug_IN we_PRP do_VBP not_RB have_VB the_DT limitation_NN of_IN interest_NN ._.
+So_RB if_IN you_PRP try_VBP to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ,_, eventually_RB you_PRP can_MD find_VB your_PRP$ knowledge_NN very_RB superficial_JJ ._.
+In_IN addition_NN ,_, it_PRP is_VBZ more_RBR desirable_JJ for_IN each_DT person_NN to_TO study_VB in_IN his_PRP$ or_CC her_PRP$ own_JJ area_NN and_CC then_RB share_VBP the_DT result_NN ._.
+For_IN example_NN ,_, life_NN scientists_NNS concentrate_VBP their_PRP$ capacities_NNS on_IN studying_VBG the_DT system_NN of_IN life_NN ._.
+Their_PRP$ result_NN helps_VBZ many_JJ people_NNS who_WP do_VBP not_RB know_VB about_IN the_DT system_NN of_IN life_NN ._.
+That_DT is_VBZ more_RBR helpful_JJ for_IN our_PRP$ society_NN ._.
+All_DT things_NNS considered_VBN ,_, it_PRP is_VBZ better_JJR to_TO specialize_VB in_IN one_CD specific_JJ subject_JJ thant_JJ th_DT have_VBP broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS in_IN respect_NN of_IN individual_JJ ability_NN and_CC social_JJ advantage_NN as_RB well_RB ._.

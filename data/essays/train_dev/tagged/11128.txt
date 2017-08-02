@@ -1,0 +1,16 @@
+I_PRP do_VBP agree_VB with_IN the_DT statement_NN ,_, but_CC i_FW can_MD not_RB be_VB completely_RB sure_JJ about_IN it_PRP ._.
+It_PRP is_VBZ a_DT fact_NN that_IN oil_NN prices_NNS are_VBP higher_JJR than_IN ever_RB before_RB ._.
+Also_RB the_DT polution_NN shows_VBZ a_DT lot_NN of_IN economical_JJ and_CC enviromental_JJ problems_NNS and_CC it_PRP is_VBZ enough_RB a_DT reason_NN to_TO stop_VB using_VBG the_DT cars_NNS because_IN of_IN their_PRP$ leck_NN of_IN usefulness_NN in_IN the_DT cities_NNS ._.
+Oil_NN prices_NNS is_VBZ a_DT principal_JJ problem_NN for_IN western_JJ countries_NNS which_WDT have_VBP n't_RB their_PRP$ own_JJ oil_NN supplies_NNS ._.
+For_IN example_NN in_IN europe_NN ,_, it_PRP is_VBZ almost_RB impossible_JJ to_TO have_VB a_DT car_NN without_IN paying_VBG car_NN taxes_NNS ,_, insurances_NNS and_CC enormous_JJ fuel_NN costs_NNS ._.
+Also_RB the_DT leck_NN of_IN space_NN in_IN major_JJ cities_NNS make_VBP the_DT price_NN rise_NN up_RB ._.
+One_PRP can_MD already_RB see_VB many_JJ trends_NNS in_IN a_DT lot_NN of_IN cities_NNS in_IN europe_NN ,_, e.g._FW the_DT goverment_NN in_IN Vienna_NNP is_VBZ making_VBG biking_NN routs_NNS in_IN the_DT city_NN and_CC also_RB providing_VBG cheap_JJ rent-a-bike_JJ places_NNS for_IN its_PRP$ habitants_NNS ._.
+Holland_NNP is_VBZ for_IN sure_JJ a_DT good_JJ example_NN and_CC shows_VBZ that_IN people_NNS are_VBP still_RB mobile_JJ without_IN a_DT car_NN ._.
+A_DT city_NN designer_NN in_IN London_NNP said_VBD that_IN cars_NNS should_MD n't_RB design_VB the_DT city_NN ._.
+He_PRP meant_VBD that_IN cities_NNS are_VBP not_RB made_VBN for_IN cars_NNS but_CC for_IN humans_NNS ._.
+This_DT statement_NN has_VBZ its_PRP$ truth_NN ,_, when_WRB one_CD compares_VBZ cities_NNS in_IN newer_JJR countries_NNS with_IN older_JJR ones_NNS ._.
+European_JJ cities_NNS have_VBP a_DT natural_JJ structure_NN ._.
+The_DT old_JJ parts_NNS mostly_RB the_DT centers_NNS are_VBP n't_RB designed_VBN for_IN cars_NNS but_CC more_JJR for_IN humans_NNS ._.
+American_JJ cities_NNS like_IN Caracas_NNP they_PRP have_VBP major_JJ problems_NNS with_IN mobility_NN of_IN humans_NNS ._.
+Of_IN course_NN they_PRP have_VBP a_DT metro_NN but_CC the_DT cars_NNS made_VBD formed_VBN the_DT appearance_NN of_IN the_DT city_NN ._.
+They_PRP have_VBP in_IN the_DT middle_NN of_IN the_DT city_NN big_JJ highways_NNS and_CC it_PRP is_VBZ completely_RB impossible_JJ to_TO walk_VB from_IN one_CD point_NN to_TO the_DT other_JJ ._.

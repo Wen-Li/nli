@@ -1,0 +1,3 @@
+I_PRP agree_VBP with_IN this_DT statement_NN ._.
+because_IN the_DT main_JJ reson_NN or_CC the_DT most_RBS important_JJ reson_NN is_VBZ attracting_VBG people_NNS and_CC get_VB their_PRP$ attention_NN ._.
+for_IN example_NN ,_, there_EX are_VBP so_RB many_JJ types_NNS of_IN shampoo_NN exist_VBP in_IN the_DT market_NN which_WDT will_MD almost_RB all_PDT the_DT same_JJ ,_, each_DT company_NN spends_VBZ alot_NNS of_IN money_NN making_VBG advertisement_NN of_IN their_PRP$ products_NNS

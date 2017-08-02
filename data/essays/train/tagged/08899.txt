@@ -1,0 +1,13 @@
+Some_DT people_NNS agree_VBP that_IN It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS or_CC others_NNS disagree_VBP that_IN ._.
+When_WRB I_PRP read_VBP this_DT question_NN ,_, I_PRP vicillated_VBD between_IN agree_VBP or_CC disgaree_VBP because_IN both_DT are_VBP important_JJ to_TO students_NNS ._.
+However_RB ,_, I_PRP agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN student_NN to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP if_IN for_IN them_PRP to_TO lern_JJ facts_NNS ._.
+There_EX are_VBP few_JJ specific_JJ reason_NN and_CC examples_NNS to_TO support_VB my_PRP$ statement_NN ._.
+First_RB ,_, ideas_NNS and_CC concepts_NNS could_MD be_VB basic_JJ information_NN of_IN all_DT theory_NN or_CC others_NNS ._.
+For_IN example_NN ,_, facts_NNS are_VBP from_IN the_DT ideas_NNS and_CC concepts_NNS ._.
+If_IN there_EX are_VBP not_RB ideas_NNS and_CC concept_NN ,_, ther_NN also_RB are_VBP not_RB the_DT facts_NNS ,_, all_DT investigations_NNS have_VBP patterns_NNS or_CC method_NN such_JJ a_DT scientific_JJ method_NN ._.
+First_NNP of_IN all_DT we_PRP think_VBP ideas_NNS and_CC concepts_NNS first_RB ._.
+That_DT is_VBZ why_WRB I_PRP assert_VBP that_IN all_DT facts_NNS made_VBN by_IN lots_NNS of_IN ideas_NNS and_CC concepts_NNS ._.
+Second_RB ,_, People_NNS can_MD nat_VB critical_JJ thinking_VBG when_WRB they_PRP learn_VBP facts_NNS ._.
+For_IN example_NN ,_, 1_CD +_CC 1_CD =_JJ 2_CD is_VBZ a_DT absolutely_RB facts_NNS but_CC they_PRP would_MD not_RB know_VB why_WRB 1_CD +_CC 2_CD =_JJ 2_CD because_IN they_PRP do_VBP not_RB know_VB the_DT comcept_NN of_IN the_DT fomular_JJ ._.
+Students_NNS to_TO understand_VB is_VBZ ideas_NNS and_CC concepts_NNS that_WDT will_MD be_VB helpful_JJ to_TO them_PRP ._.
+In_IN conclusion_NN ,_, I_PRP agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC cocepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.

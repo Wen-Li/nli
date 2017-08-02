@@ -1,0 +1,17 @@
+Cars_NNS are_VBP the_DT main_JJ means_NNS of_IN transport_NN these_DT days_NNS in_IN many_JJ parts_NNS of_IN the_DT world_NN ._.
+But_CC I_PRP do_VBP not_RB think_VB that_IN this_DT would_MD be_VB a_DT case_NN in_IN twenty_CD years_NNS from_IN now_RB ._.
+Many_JJ reasons_NNS can_MD be_VB stated_VBN in_IN support_NN of_IN this_DT thesis_NN ._.
+The_DT first_JJ reason_NN is_VBZ that_IN the_DT cost_NN of_IN fuel_NN is_VBZ growing_VBG at_IN an_DT alarming_JJ rate_NN as_IN the_DT petroleum_NN reserves_NNS are_VBP becoming_VBG scarce_JJ ._.
+Also_RB there_EX is_VBZ no_DT alternative_NN to_TO petroleum_NN which_WDT is_VBZ environmental_JJ friendly_JJ and_CC economical_JJ ._.
+This_DT will_MD surely_RB reduce_VB the_DT dependence_NN of_IN middle_JJ class_NN on_IN cars_NNS ._.
+The_DT second_JJ reason_NN is_VBZ that_IN today_NN 's_POS cities_NNS are_VBP growing_VBG at_IN a_DT rapid_JJ pace_NN due_JJ to_TO the_DT migration_NN of_IN villagers_NNS to_TO the_DT cities_NNS in_IN search_NN of_IN better_JJR work_NN and_CC living_NN conditions_NNS and_CC also_RB due_JJ to_TO industrialization_NN ._.
+This_DT will_MD increase_VB the_DT time_NN taken_VBN to_TO travel_VB to_TO work_VB and_CC other_JJ places_NNS ._.
+Also_RB there_EX are_VBP traffic_NN jams_NNS which_WDT can_MD further_RB increase_VB the_DT time_NN ._.
+So_IN people_NNS may_MD prefer_VB public_JJ transport_NN like_IN the_DT rapid_JJ transit_NN system_NN which_WDT is_VBZ cheap_JJ and_CC fast_JJ ._.
+This_DT will_MD also_RB help_VB in_IN the_DT government_NN in_IN generating_VBG more_JJR money_NN which_WDT it_PRP can_MD spend_VB for_IN other_JJ useful_JJ purposes_NNS ._.
+The_DT third_JJ reason_NN is_VBZ that_IN there_EX may_MD be_VB a_DT new_JJ invention_NN which_WDT can_MD transport_VB people_NNS quickly_RB and_CC comfortably_RB ._.
+No_DT type_NN of_IN transport_NN was_VBD constantly_RB used_VBN from_IN the_DT time_NN of_IN early_JJ man_NN ._.
+From_IN horses_NNS to_TO automobiles_NNS man_NN has_VBZ come_VBN a_DT long_JJ way_NN in_IN inventing_VBG new_JJ types_NNS of_IN transport_NN ._.
+After_IN such_PDT an_DT invention_NN the_DT car_NN might_MD become_VB a_DT museum_NN exhibit_VBP like_IN the_DT horse_NN drawn_VBN cabins_NNS of_IN the_DT past_NN ._.
+All_PDT these_DT points_NNS can_MD considerably_RB bring_VB down_RP the_DT number_NN of_IN cars_NNS runing_VBG on_IN the_DT roads_NNS ._.
+Finding_VBG out_RP new_JJ forms_NNS of_IN energy_NN which_WDT are_VBP both_DT renewable_JJ and_CC environmental_JJ friendly_JJ should_MD be_VB an_DT important_JJ concern_NN of_IN today_NN 's_POS governments_NNS ._.

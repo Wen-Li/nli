@@ -1,0 +1,11 @@
+I_PRP think_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO learn_VB facts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO undestand_JJ ideas_NNS and_CC concepts_NNS ._.
+My_PRP$ choice_NN is_VBZ based_VBN on_IN two_CD reasons_NNS ._.
+The_DT first_JJ reasons_NNS is_VBZ that_IN ,_, if_IN you_PRP learns_VBZ facts_NNS ,_, you_PRP have_VBP a_DT direct_JJ contact_NN with_IN the_DT reality_NN ._.
+For_IN example_NN ,_, in_IN the_DT university_NN ,_, you_PRP can_MD learn_VB more_JJR skills_NNS if_IN you_PRP follow_VBP a_DT laboratory_NN than_IN you_PRP follow_VBP a_DT lesson_NN of_IN theory_NN ._.
+This_DT is_VBZ a_DT good_JJ way_NN not_RB only_RB for_IN a_DT student_NN ,_, but_CC also_RB for_IN a_DT worker_NN ._.
+In_IN fact_NN ,_, if_IN a_DT worker_NN has_VBZ worked_VBN all_DT of_IN the_DT day_NN ,_, he_PRP or_CC she_PRP learn_VBP more_RBR things_NNS than_IN he_PRP or_CC she_PRP follows_VBZ a_DT lesson_NN of_IN theory_NN ._.
+I_PRP know_VBP my_PRP$ uncle_NN 's_POS experience_NN that_WDT can_MD be_VB taken_VBN as_IN an_DT example_NN ._.
+In_IN fact_NN ,_, he_PRP has_VBZ followed_VBN a_DT course_NN to_TO work_VB in_IN a_DT chemistry_NN industry_NN ,_, but_CC he_PRP has_VBZ learn_VBP the_DT real_JJ way_NN of_IN working_VBG only_RB when_WRB he_PRP has_VBZ started_VBN to_TO work_VB in_IN the_DT chemistry_NN industry_NN ._.
+The_DT second_JJ reason_NN is_VBZ that_IN learning_VBG facts_NNS helps_VBZ a_DT student_NN to_TO understand_VB in_IN a_DT better_JJR way_NN the_DT contest_NN in_IN which_WDT he_PRP or_CC she_PRP is_VBZ studying_VBG ._.
+For_IN example_NN ,_, I_PRP remember_VBP that_IN ,_, when_WRB I_PRP follow_VBP the_DT course_NN in_IN the_DT ``_`` Way_NN of_IN Transport_NN ''_'' ,_, the_DT professor_NN helped_VBD me_PRP to_TO build_VB a_DT naval_JJ motor_NN not_RB spoken_VBN me_PRP of_IN how_WRB a_DT naval_JJ motor_NN is_VBZ composed_VBN but_CC he_PRP did_VBD to_TO see_VB me_PRP the_DT naval_JJ motor_NN and_CC we_PRP built_VBD togheter_NN ._.
+To_TO conclude_VB ,_, I_PRP do_VBP n't_RB agree_VB with_IN the_DT sentence_NN because_IN it_PRP is_VBZ not_RB true_JJ that_IN is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN for_IN them_PRP to_TO learn_VB facts_NNS ._.

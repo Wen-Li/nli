@@ -1,0 +1,9 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN showing_VBG ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ''_'' ._.
+For_IN example_NN ,_, why_WRB do_VBP all_DT of_IN us_PRP deeply_RB study_VB about_IN history_NN ?_.
+This_DT is_VBZ because_IN the_DT knowledge_NN of_IN facts_NNS which_WDT happened_VBD in_IN the_DT past_NN may_MD lead_VB us_PRP to_TO think_VB of_IN how_WRB to_TO think_VB or_CC how_WRB to_TO act_VB ,_, now_RB ,_, and_CC in_IN the_DT future_NN ._.
+There_EX is_VBZ a_DT famous_JJ Japanese_JJ sentence_NN shown_VBN as_IN ``_`` Open_VB your_PRP$ future_NN by_IN learning_VBG from_IN the_DT past_NN ''_'' ._.
+This_DT exactly_RB explains_VBZ why_WRB it_PRP is_VBZ important_JJ to_TO learn_VB facts_NNS ._.
+Furthermore_RB ,_, I_PRP think_VBP that_IN any_DT kind_NN of_IN idea_NN or_CC concept_NN is_VBZ created_VBN by_IN an_DT event_NN or_CC fact_NN which_WDT happened_VBD in_IN the_DT past_NN ._.
+For_IN instance_NN ,_, the_DT idea_NN to_TO launch_VB the_DT United_NNP Union_NNP ,_, involving_VBG all_DT nations_NNS in_IN an_DT organization_NN to_TO build_VB an_DT organization_NN for_IN them_PRP to_TO solve_VB national_JJ conflicts_NNS by_IN preventing_VBG war_NN ,_, was_VBD created_VBN after_IN the_DT big_JJ event_NN ,_, the_DT 2nd_JJ World_NNP War_NNP ._.
+After_IN learning_VBG that_IN this_DT kind_NN of_IN war_NN means_VBZ nothing_NN to_TO whole_NN of_IN the_DT world_NN and_CC all_DT of_IN the_DT population_NN ,_, the_DT genius_NN leaders_NNS had_VBD reached_VBN to_TO this_DT idea_NN ._.
+Therefore_RB ,_, I_PRP think_VBP that_IN it_PRP is_VBZ also_RB very_RB important_JJ for_IN students_NNS to_TO learn_VB facts_NNS as_RB much_RB as_IN understanding_VBG ideas_NNS and_CC concepts_NNS ._.

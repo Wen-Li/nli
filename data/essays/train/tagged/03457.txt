@@ -1,0 +1,10 @@
+I_PRP am_VBP agree_VBP if_IN we_PRP do_VBP not_RB use_VB cars_NNS in_IN twenty_CD years_NNS ,_, but_CC how_WRB ?_.
+that_DT is_VBZ a_DT question_NN ._.
+and_CC also_RB if_IN we_PRP do_VBP not_RB a_DT petrol_NN for_IN the_DT car_NN ._.
+Some_DT country_NN make_VBP car_NN without_IN using_VBG petrol_NN '_'' how_WRB ?_.
+this_DT car_NN use_VB the_DT x_NN ray_NN of_IN the_DT sun_NN ,_, that_WDT will_MD not_RB use_VB a_DT petrol_NN so_IN it_PRP will_MD not_RB be_VB polution_NN in_IN the_DT air_NN and_CC we_PRP keep_VBP the_DT envairoment_NN clear_JJ ._.
+Also_RB there_RB another_DT solution_NN we_PRP can_MD use_VB a_DT car_NN without_IN petrol_NN how_WRB ?_.
+In_IN Germany_NNP in_IN BMW_NNP designed_VBN car_NN by_IN using_VBG water_NN or_CC Haydrogeen_NN ._.
+I_PRP saw_VBD this_DT car_NN ,_, it_PRP 's_VBZ very_RB nice_JJ but_CC expensive_JJ car_NN no_DT problem_NN I_PRP Will_MD not_RB buy_VB one_CD ,_, this_DT car_NN need_NN spcial_JJ station_NN for_IN fill_NN the_DT fule_NN ._.
+but_CC also_RB save_VB envairomental_JJ from_IN polution_NN ._.
+Also_RB some_DT student_NN make_VB a_DT car_NN by_IN using_VBG the_DT air_NN ._.

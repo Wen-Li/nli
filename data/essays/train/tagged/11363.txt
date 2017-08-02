@@ -1,0 +1,13 @@
+In_IN my_PRP$ university_NN ,_, most_JJS of_IN the_DT students_NNS tend_VBP to_TO complete_VB their_PRP$ studies_NNS in_IN the_DT field_NN that_IN they_PRP started_VBD ,_, and_CC they_PRP direct_VBP their_PRP$ minds_NNS into_IN one_CD specific_JJ subject_NN without_IN going_VBG out_RB of_IN it_PRP ._.
+For_IN students_NNS this_DT easy_JJ path_NN always_RB give_VBP many_JJ advantages_NNS on_IN their_PRP$ own_JJ fields_NNS ._.
+However_RB ,_, without_IN any_DT interaction_NN with_IN other_JJ subjects_NNS academic_JJ life_NN might_MD be_VB too_RB mediocre_JJ ._.
+Students_NNS who_WP satisfy_VBP all_PDT the_DT offered_VBN courses_NNS in_IN one_CD subject_NN have_VBP a_DT good_JJ chance_NN to_TO enhance_VB in_IN that_DT subject_NN ,_, and_CC they_PRP can_MD easily_RB follow_VB what_WP is_VBZ required_VBN for_IN them_PRP because_IN the_DT curriculum_NN is_VBZ already_RB determined_VBN for_IN them_PRP ._.
+For_IN example_NN ,_, during_IN the_DT whole_NN of_IN his/her_NN undergraduate_JJ study_NN ,_, a_DT student_NN who_WP studies_VBZ in_IN Department_NNP of_IN Mathematic_NNP must_MD register_VB for_IN a_DT certain_JJ number_NN of_IN credits_NNS or_CC courses_NNS which_WDT are_VBP all_DT related_JJ to_TO mathematics_NNS ._.
+Such_PDT a_DT person_NN whose_WP$ mind_NN is_VBZ full_JJ of_IN mathematical_JJ problems_NNS might_MD be_VB a_DT very_RB reputed_JJ academician_NN or_CC scientist_NN in_IN the_DT future_NN ,_, but_CC he/she_NN loses_VBZ the_DT chance_NN of_IN learning_VBG different_JJ subjects_NNS and_CC relating_VBG and_CC developing_VBG them_PRP ._.
+On_IN the_DT other_JJ hand_NN ,_, one_CD who_WP tries_VBZ to_TO get_VB a_DT broad_JJ knowledge_NN of_IN various_JJ academic_JJ fields_NNS can_MD use_VB those_DT subjects_NNS with_IN each_DT other_JJ ._.
+In_IN other_JJ words_NNS ,_, one_CD specific_JJ subject_NN can_MD help_VB to_TO develop_VB another_DT ._.
+For_IN instance_NN ,_, although_IN I_PRP studied_VBD philosophy_NN at_IN the_DT university_NN ,_, in_IN the_DT second_JJ year_NN of_IN my_PRP$ study_NN I_PRP chose_VBD to_TO register_VB for_IN a_DT minor_JJ program_NN on_IN Architectrue_NNP ._.
+This_DT gave_VBD me_PRP o_NN good_JJ chance_NN to_TO interprete_VB architectural_JJ productions_NNS in_IN a_DT philosophical_JJ way_NN ._.
+I_PRP gained_VBD a_DT chance_NN to_TO investigate_VB architectural_JJ effects_NNS on_IN human_JJ ._.
+In_IN conclusion_NN ,_, even_RB though_IN specializtion_NN on_IN a_DT single_JJ subject_NN might_MD be_VB useful_JJ within_IN that_DT subject_NN ,_, for_IN me_PRP it_PRP is_VBZ more_RBR enjoyable_JJ and_CC interesting_JJ to_TO specialize_VB in_IN avariety_NN of_IN subjects_NNS ._.
+This_DT provides_VBZ me_PRP to_TO create_VB my_PRP$ own_JJ style_NN in_IN the_DT academy_NN ._.

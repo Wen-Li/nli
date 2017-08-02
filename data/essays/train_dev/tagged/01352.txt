@@ -1,0 +1,16 @@
+I_PRP agree_VBP with_IN the_DT given_VBN statement_NN which_WDT states_VBZ that_IN the_DT most_RBS advertisements_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+There_EX are_VBP number_NN of_IN reasons_NNS and_CC examples_NNS that_WDT support_VBP this_DT statement_NN ._.
+The_DT objective_JJ information_NN that_IN most_JJS of_IN the_DT advertisements_NNS show_VBP seem_VBP very_RB attractive_JJ to_TO the_DT public_JJ and_CC in_IN many_JJ cases_NNS that_WDT information_NN might_MD not_RB be_VB necessarily_RB accurate_JJ ._.
+I_PRP can_MD not_RB comment_VB that_IN the_DT information_NN is_VBZ incorrect_JJ ,_, but_CC some_DT details_NNS might_MD be_VB hidden_VBN in_IN the_DT information_NN that_IN they_PRP show_VBP to_TO the_DT public_NN ._.
+The_DT best_JJS example_NN for_IN this_DT is_VBZ the_DT `_`` vehicle_NN fuel_NN economy_NN '_'' numbers_NNS that_IN the_DT auto_NN advertisements_NNS show_VBP ._.
+If_IN the_DT vehicle_NN is_VBZ driven_VBN under_IN specific_JJ conditions_NNS ,_, the_DT stated_VBN fuel_NN economy_NN can_MD be_VB achieved_VBN ._.
+But_CC practically_RB ,_, under_IN normal_JJ driving_NN conditions_NNS ,_, it_PRP is_VBZ simply_RB not_RB possible_JJ ._.
+Another_DT reason_NN is_VBZ that_IN the_DT fine_JJ print_NN in_IN the_DT advertisements_NNS that_IN people_NNS in_IN general_JJ ignore_VBP and_CC would_MD face_VB the_DT consequences_NNS later_RB ._.
+As_IN an_DT example_NN ,_, once_RB I_PRP opened_VBD the_DT home_NN equity_NN line_NN of_IN credit_NN account_NN with_IN a_DT bank_NN because_IN the_DT interest_NN rates_NNS were_VBD lower_JJR ._.
+I_PRP ignored_VBD the_DT fine_JJ print_NN which_WDT says_VBZ that_IN I_PRP need_VBP to_TO pay_VB huge_JJ penalty_NN if_IN I_PRP terminate_VBP the_DT accouint_NN with_IN in_IN 2_CD years_NNS after_IN opening_VBG the_DT account_NN ._.
+Interest_NN rates_NNS went_VBD up_RB soon_RB after_IN opening_VBG the_DT account_NN ,_, and_CC I_PRP had_VBD to_TO pay_VB fairly_RB big_JJ amount_NN to_TO terminate_VB my_PRP$ account_NN with_IN them_PRP ._.
+The_DT reasons_NNS and_CC the_DT examples_NNS explained_VBN here_RB might_MD be_VB specific_JJ ,_, but_CC in_IN general_JJ one_CD way_NN or_CC the_DT other_JJ ,_, the_DT advertisements_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+And_CC ,_, I_PRP believe_VBP that_IN one_CD of_IN the_DT main_JJ purposes_NNS of_IN the_DT advertisements_NNS is_VBZ exactly_RB that_IN ._.
+This_DT is_VBZ one_CD of_IN the_DT business_NN strategies_NNS of_IN most_JJS of_IN the_DT big_JJ companies_NNS to_TO suceed_VB in_IN today_NN 's_POS business_NN environment_NN which_WDT is_VBZ extremely_RB competitive_JJ ._.
+In_IN conclusion_NN ,_, it_PRP is_VBZ very_RB obvious_JJ that_IN most_JJS of_IN the_DT advertisemsnts_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+And_CC as_IN discussed_VBN above_IN ,_, to_TO some_DT extent_NN ,_, it_PRP has_VBZ become_VBN essential_JJ for_IN many_JJ companies_NNS to_TO follow_VB this_DT strategy_NN to_TO succed_VBN in_IN the_DT businees_NNS in_IN current_JJ competetive_JJ environment_NN ._.

@@ -1,0 +1,13 @@
+VBP_advmod_RB
+RB_nmod:npmod_NNS
+NNS_amod_JJ
+VBP_nsubj_PRP
+VBP_xcomp_VB
+VB_dobj_NNS
+NNS_amod_JJ
+NNS_nmod_NN
+NN_case_IN
+VBP_cc_CC
+VBP_conj_VBP
+VBP_advmod_RB
+VBP_nsubj_PRP

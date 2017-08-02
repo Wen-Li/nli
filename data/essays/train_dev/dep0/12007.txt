@@ -1,0 +1,13 @@
+dont_advmod_ago
+ago_nmod:npmod_years
+years_amod_many
+dont_nsubj_we
+dont_xcomp_have
+have_dobj_types
+types_amod_different
+types_nmod_car
+car_case_of
+dont_cc_but
+dont_conj_have
+have_advmod_now
+have_nsubj_we

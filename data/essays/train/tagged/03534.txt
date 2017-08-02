@@ -1,0 +1,17 @@
+Usually_RB students_NNS do_VBP n't_RB really_RB understand_VB why_WRB ideas_NNS and_CC concepts_NNS are_VBP tought_VBN in_IN schools_NNS or_CC universities_NNS rather_RB than_IN facts_NNS ._.
+Which_WDT of_IN these_DT two_CD notions_NNS is_VBZ more_RBR important_JJ ?_.
+Let_VB 's_PRP weigh_VB the_DT pros_NNS and_CC cons_NNS in_IN order_NN to_TO have_VB a_DT clear_JJ opinion_NN on_IN this_DT subject_NN ._.
+I_PRP usually_RB ask_VBP myself_PRP ``_`` what_WP am_VBP I_PRP doing_VBG here_RB ?_. ''_'' while_IN attending_VBG a_DT math_NN course_NN ._.
+Indeed_RB like_IN me_PRP most_JJS of_IN the_DT students_NNS I_PRP do_VBP n't_RB really_RB understand_VB the_DT point_NN of_IN learning_VBG math_NN which_WDT is_VBZ totally_RB absract_JJ ._.
+It_PRP is_VBZ always_RB about_IN numbers_NNS added_VBN to_TO each_DT others_NNS ,_, multiplied_VBN ,_, equations_NNS ,_, solutions_NNS !_.
+I_PRP 'm_VBP not_RB very_RB keen_JJ on_IN this_DT subject_JJ but_CC in_IN this_DT case_NN I_PRP see_VBP no_DT solution_NN ._.
+For_IN instance_NN ,_, we_PRP all_DT know_VBP that_IN becoming_VBG a_DT brilliant_JJ architect_NN or_CC a_DT great_JJ physician_NN is_VBZ impossible_JJ without_IN acquiring_VBG math_NN notions_NNS and_CC knowledge_NN ,_, but_CC how_WRB can_MD this_DT knowledge_NN be_VB useful_JJ when_WRB we_PRP do_VBP n't_RB really_RB understand_VB how_WRB it_PRP can_MD be_VB applied_VBN on_IN our_PRP$ everyday_NN 's_POS life_NN ?_.
+In_IN biology_NN for_IN example_NN we_PRP learn_VBP how_WRB the_DT human_JJ body_NN is_VBZ constructed_VBN ,_, its_PRP$ anatomy_NN ,_, its_PRP$ strengths_NNS and_CC weaknesses_NNS ._.
+These_DT scientifical_JJ facts_NNS are_VBP useful_JJ at_IN any_DT time_NN !_.
+By_IN learning_VBG biology_NN we_PRP are_VBP able_JJ to_TO understand_VB the_DT reasons_NNS of_IN the_DT consequences_NNS :_: how_WRB our_PRP$ brains_NNS command_VBP each_DT and_CC every_DT move_NN of_IN our_PRP$ body_NN ._. .._SYM
+This_DT example_NN also_RB applies_VBZ to_TO physics_NNS as_IN this_DT subject_NN is_VBZ tought_VBN by_IN showing_VBG experimental_JJ works_NNS and_CC displaying_VBG to_TO the_DT students_NNS the_DT reasons_NNS of_IN all_PDT the_DT phenomenons_NNS that_WDT happen_VB on_IN our_PRP$ planet_NN for_IN instance_NN ._.
+Newton_NNP 's_POS falling_VBG apple_NN lead_VBD him_PRP to_TO discover_VB gravity_NN that_WDT lead_VBP to_TO the_DT explanation_NN of_IN other_JJ events_NNS ._.
+But_CC in_IN the_DT end_NN it_PRP is_VBZ always_RB about_IN math_NN !_.
+These_DT eplanations_NNS can_MD only_RB be_VB proved_VBN by_IN this_DT important_JJ science_NN and_CC that_DT 's_VBZ the_DT main_JJ reason_NN why_WRB this_DT subject_NN must_MD be_VB tought_JJ ,_, although_IN its_PRP$ useless_JJ apperance_NN which_WDT veiles_VBZ one_CD of_IN the_DT most_RBS important_JJ aspects_NNS of_IN sciences_NNS ._.
+To_TO put_VB this_DT in_IN a_DT nutshell_NN ,_, it_PRP appears_VBZ that_IN facts_NNS would_MD n't_RB exist_VB whitout_JJ ideas_NNS and_CC concepts_NNS as_IN the_DT proof_NN of_IN a_DT general_JJ fact_NN is_VBZ impossible_JJ whitout_NN demonstrating_VBG hypothesis_NN by_IN experiments_NNS and_CC calculus_NN ._.
+Even_RB if_IN facts_NNS are_VBP closer_RBR to_TO reality_NN than_IN concepts_NNS ,_, these_DT two_CD topics_NNS ca_MD n't_RB be_VB taken_VBN apart_RB ,_, they_PRP depend_VBP on_IN each_DT other_JJ ._.

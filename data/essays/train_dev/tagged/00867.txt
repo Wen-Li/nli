@@ -1,0 +1,23 @@
+Pollution_NNP is_VBZ the_DT majorfactor_NN now_RB a_DT days_NNS ._.
+people_NNS realised_VBD about_IN the_DT importance_NN of_IN protecting_VBG the_DT environment_NN from_IN pollution_NN ._.
+fuels_NNS which_WDT we_PRP use_VBP to_TO run_VB cars_NNS are_VBP non_JJ renewable_JJ sources_NNS ._.
+in_IN twenty_CD years_NNS these_DT fuels_NNS may_MD be_VB less_RBR in_IN available_JJ so_RB iagree_JJ with_IN the_DT statement_NN that_IN usage_NN of_IN cars_NNS will_MD be_VB decreased_VBN in_IN twenty_CD years_NNS ._.
+Firstly_RB environment_NN is_VBZ being_VBG polluted_JJ by_IN burning_NN of_IN fossil_JJ fuels_NNS ._.
+due_JJ to_TO this_DT many_JJ people_NNS are_VBP suffering_VBG from_IN diseases_NNS ._.
+to_TO decrease_VB the_DT pollution_NN the_DT only_JJ way_NN is_VBZ to_TO stop_VB burning_VBG fossil_JJ fuels_NNS ._.
+for_IN this_DT you_PRP need_VBP to_TO stop_VB using_VBG cars_NNS and_CC automobiles_NNS ._.
+for_IN example_NN in_IN chaina_NN the_DT people_NNS started_VBD using_VBG bicycles_NNS insted_VBN of_IN cars_NNS ._.
+this_DT shows_VBZ that_IN how_WRB people_NNS are_VBP realising_VBG the_DT importance_NN of_IN pollution_NN ._.
+people_NNS may_MD alternate_JJ ways_NNS for_IN their_PRP$ transport_NN in_IN feature_NN ._.
+People_NNS are_VBP all_DT ready_JJ realised_VBN and_CC using_VBG bicycles_NNS ._.
+usage_NN of_IN bicycle_NN is_VBZ a_DT form_NN of_IN exercise_NN ._.
+it_PRP helps_VBZ to_TO keeps_VBZ the_DT body_NN fit_NN and_CC healthy_JJ and_CC it_PRP also_RB helps_VBZ to_TO keeps_VBZ fresh_JJ and_CC active_JJ all_PDT the_DT day_NN ._.
+it_PRP is_VBZ also_RB one_CD means_NNS of_IN transport_NN ._.
+i_LS hope_NN usage_NN of_IN bicycles_NNS will_MD helps_VBZ in_IN two_CD ways_NNS one_CD being_VBG healthy_JJ and_CC another_DT one_CD is_VBZ transport_NN ._.
+Cars_NNS use_VBP fossil_JJ fuels_NNS like_IN petrol_NN and_CC diesel_NN to_TO run_VB ._.
+these_DT are_VBP nonrenewable_JJ sourses_NNS ._.
+because_IN of_IN more_JJR usage_NN of_IN cars_NNS now_RB a_DT days_NNS there_RB will_MD be_VB decrease_VB in_IN fossil_JJ fuels_NNS in_IN feature_NN ._.
+because_IN of_IN this_DT the_DT cost_NN of_IN fuels_NNS will_MD increase_VB automatically_RB ._.
+because_IN of_IN increase_NN in_IN cost_NN most_JJS people_NNS of_IN middle_JJ class_NN people_NNS will_MD stop_VB using_VBG cars_NNS ._.
+By_IN consedering_VBG these_DT ,_, many_JJ people_NNS will_MD stop_VB using_VBG cars_NNS in_IN feature_NN ._.
+and_CC i_FW think_VBP people_NNS will_MD try_VB alternative_NN for_IN transport_NN by_IN considering_VBG above_JJ facts_NNS and_CC reasons_NNS i_FW conclude_VBP that_IN usage_NN of_IN cars_NNS will_MD be_VB decreased_VBN in_IN twenty_CD years_NNS ._.

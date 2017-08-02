@@ -1,0 +1,16 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN ideas_NNS and_CC concepts_NNS are_VBP more_RBR important_JJ than_IN facts_NNS for_IN students_NNS ._.
+Actually_RB from_IN my_PRP$ point_NN of_IN view_NN ,_, facts_NNS are_VBP the_DT same_JJ important_JJ just_RB as_IN ideas_NNS and_CC concepts_NNS ._.
+First_RB ,_, without_IN facts_NNS ,_, how_WRB come_VBN the_DT ideas_NNS and_CC concepts_NNS ?_.
+Ideas_NNS and_CC concepts_NNS can_MD not_RB be_VB separated_VBN from_IN facts_NNS ._.
+For_IN example_NN ,_, when_WRB we_PRP learn_VBP the_DT concept_NN of_IN force_NN in_IN physics_NNS ,_, students_NNS need_VBP to_TO do_VB experiments_NNS to_TO be_VB aware_JJ of_IN the_DT fact_NN that_IN there_EX are_VBP different_JJ kinds_NNS of_IN force_NN everywhere_RB in_IN the_DT world_NN ._.
+The_DT teacher_NN will_MD confuse_VB the_DT students_NNS if_IN he_PRP or_CC she_PRP just_RB draw_VBP a_DT simbol_NN and_CC point_NN it_PRP to_TO them_PRP ,_, then_RB say_VB ``_`` Look_VB ,_, it_PRP is_VBZ what_WP we_PRP call_VBP force_NN ''_'' ._.
+By_IN doing_VBG this_DT ,_, the_DT teacher_NN is_VBZ at_IN the_DT rick_NN of_IN being_VBG fired_VBN ._.
+Second_RB ,_, students_NNS should_MD not_RB just_RB get_VB the_DT ideas_NNS and_CC the_DT concepts_NNS but_CC also_RB know_VBP the_DT detail_NN facts_NNS in_IN order_NN to_TO pass_VB the_DT exams_NNS ._.
+For_IN example_NN ,_, in_IN a_DT exam_NN of_IN a_DT biological_JJ course_NN ,_, students_NNS should_MD remember_VB the_DT exact_JJ examples_NNS of_IN animals_NNS in_IN order_NN to_TO describe_VB the_DT progress_NN of_IN reproduction_NN ._.
+I_PRP can_MD not_RB image_NN a_DT person_NN can_MD write_VB down_RP all_PDT the_DT materials_NNS the_DT teacher_NN want_VBP without_IN any_DT facts_NNS ._.
+Although_IN there_EX may_MD some_DT exams_NNS which_WDT allowed_VBD students_NNS to_TO take_VB books_NNS with_IN them_PRP ,_, remembering_VBG the_DT exact_JJ facts_NNS benifits_VBZ the_DT students_NNS pretty_RB much_RB ,_, because_IN ttey_NN can_MD save_VB the_DT time_NN spent_VBN on_IN referring_VBG to_TO the_DT books_NNS ._.
+Third_NNP ,_, students_NNS should_MD learn_VB facts_NNS in_IN order_NN to_TO find_VB a_DT good_JJ job_NN in_IN some_DT cases_NNS ._.
+For_IN example_NN ,_, I_PRP major_JJ in_IN computer_NN science_NN and_CC it_PRP involves_VBZ a_DT lot_NN of_IN programming_NN ._.
+The_DT mathematical_JJ concepts_NNS and_CC ideas_NNS do_VBP help_VB me_PRP learn_VB theories_NNS of_IN computer_NN ._.
+However_RB ,_, It_PRP is_VBZ the_DT time_NN when_WRB I_PRP tried_VBD to_TO find_VB a_DT job_NN that_IN I_PRP realized_VBD that_IN facts_NNS such_JJ as_IN the_DT parameters_NNS of_IN the_DT computers_NNS do_VBP me_PRP a_DT big_JJ favor_NN to_TO find_VB a_DT job_NN as_IN a_DT programmer_NN ._.
+In_IN conclution_NN ,_, while_IN ideas_NNS and_CC concepts_NNS are_VBP important_JJ in_IN learning_VBG ,_, facts_NNS are_VBP of_IN the_DT same_JJ weight_NN to_TO students_NNS ._.

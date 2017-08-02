@@ -1,0 +1,12 @@
+Intd_NNP :_:
+new_JJ things_NNS create_VBP success_NN
+reach_VB goals_NNS
+leads_VBZ invention_NN i_FW agree_VBP with_IN the_DT statement_NN successful_JJ people_NNS try_VBP new_JJ things_NNS ._.
+Because_IN if_IN they_PRP try_VBP the_DT new_JJ things_NNS then_RB only_RB they_PRP will_MD success_NN in_IN life_NN oterwise_NN their_PRP$ life_NN is_VBZ stationary_JJ ._.
+For_IN ex_FW :_: Bill_NNP gates_NNS is_VBZ moel_NN for_IN everyone_NN in_IN computer_NN world_NN ._.
+He_PRP succeeded_VBD by_IN reaching_VBG goals_NNS because_IN he_PRP tried_VBD so_RB many_JJ things_NNS differently_RB ._.
+In_IN my_PRP$ openion_NN trying_VBG new_JJ things_NNS is_VBZ the_DT mother_NN of_IN invention_NN ._.
+So_RB many_JJ scientists_NNS trying_VBG differently_RB and_CC facing_VBG so_RB many_JJ problems_NNS creates_VBZ wonderful_JJ life_NN for_IN us_PRP ._.
+For_IN ex_FW thomas_FW edison_NN invented_VBD florescent_JJ light_NN bulb_NN change_VB our_PRP$ lives_NNS alot_NNS ._.
+after_IN that_DT several_JJ changes_NNS occur_VBP due_JJ to_TO trying_VBG of_IN new_JJ things_NNS If_IN we_PRP want_VBP success_NN and_CC growth_NN in_IN our_PRP$ life_NN or_CC in_IN job_NN definitely_RB we_PRP need_VBP to_TO try_VB new_JJ things_NNS and_CC then_RB only_RB we_PRP will_MD overcross_VB other_JJ competetors_NNS and_CC succeed_VB in_IN life_NN ._.
+so_RB i_FW storngly_FW agree_VBP with_IN the_DT statement_NN all_DT people_NNS succeed_VBP by_IN trying_VBG new_JJ things_NNS in_IN

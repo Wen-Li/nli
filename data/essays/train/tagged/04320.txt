@@ -1,0 +1,20 @@
+It_PRP has_VBZ been_VBN argued_VBN that_IN it_PRP is_VBZ better_JJR to_TO gain_VB wider_JJR knowledge_NN of_IN numerous_JJ academic_JJ subjects_NNS rather_RB than_IN to_TO deeply_RB research_VB one_CD specific_JJ subject_NN ._.
+I_PRP disagree_VBP with_IN this_DT idea_NN because_IN specializing_VBG one_CD particular_JJ subject_JJ brings_VBZ several_JJ advantages_NNS for_IN the_DT following_VBG reasons_NNS ._.
+First_RB ,_, since_IN technology_NN is_VBZ really_RB advanced_JJ nowadays_RB ,_, professinals_NNS ,_, who_WP have_VBP deep_JJ knowledge_NN of_IN one_CD subject_NN ,_, are_VBP more_RBR required_VBN than_IN generalists_NNS who_WP have_VBP broader_JJR knowledge_NN ._.
+For_IN instance_NN ,_, my_PRP$ uncle_NN works_VBZ in_IN Micro_NNP Soft_NNP ._.
+He_PRP told_VBD me_PRP that_IN when_WRB he_PRP started_VBD working_VBG in_IN the_DT company_NN ,_, there_EX were_VBD many_JJ employees_NNS who_WP had_VBD vast_JJ general_JJ knowledges_NNS ._.
+However_RB ,_, since_IN computer_NN technology_NN has_VBZ been_VBN developed_VBN dramatically_RB ,_, the_DT company_NN only_RB hires_VBZ specialists_NNS these_DT days_NNS because_IN more_RBR sophisticated_JJ programmers_NNS are_VBP essential_JJ in_IN order_NN to_TO advance_VB its_PRP$ technology_NN ._.
+This_DT tendency_NN explains_VBZ that_IN it_PRP is_VBZ better_JJR to_TO focus_VB on_IN a_DT specific_JJ subject_NN than_IN to_TO have_VB broad_JJ knowledge_NN of_IN wider_JJR subjects_NNS ._.
+Second_RB ,_, as_IN technology_NN is_VBZ sophisticated_JJ ,_, specialized_JJ knowledge_NN is_VBZ mandatory_JJ to_TO protect_VB it_PRP as_RB well_RB ._.
+For_IN example_NN ,_, PC_NN security_NN and_CC computer_NN hackers_NNS are_VBP one_CD of_IN good_JJ example_NN ._.
+My_PRP$ uncle_NN has_VBZ been_VBN assigned_VBN in_IN a_DT computer_NN security_NN division_NN in_IN Micro_NNP Soft_NNP ._.
+There_EX are_VBP 20_CD core_NN members_NNS in_IN his_PRP$ division_NN ,_, who_WP all_DT have_VBP PhD_NN ,_, including_VBG my_PRP$ uncle_NN ._.
+Hackers_NNS do_VBP like_IN computers_NNS and_CC they_PRP study_VBP computer_NN programs_NNS very_RB deeply_RB ._.
+Thus_RB ,_, the_DT security_NN division_NN must_MD hire_VB people_NNS who_WP are_VBP very_RB specialized_VBN to_TO fight_VB the_DT hackers_NNS ._.
+This_DT example_NN also_RB represents_VBZ that_IN it_PRP is_VBZ better_JJR to_TO gain_VB a_DT specialized_VBN knowledge_NN than_IN broader_JJR knowledge_NN of_IN many_JJ academic_JJ topics_NNS ._.
+Lastly_RB ,_, specialized_VBN knowledge_NN brings_VBZ higher_JJR income_NN ._.
+For_IN instance_NN ,_, my_PRP$ uncle_NN receives_VBZ much_RB higher_JJR salary_NN than_IN his_PRP$ long_JJ time_NN friend_NN who_WP are_VBP a_DT sales_NNS representative_NN in_IN Micro_NNP Soft_NNP ._.
+His_PRP$ friend_NN studied_VBN various_JJ subjects_NNS in_IN his_PRP$ school_NN age_NN and_CC actually_RB regrets_VBZ that_IN he_PRP should_MD have_VB focused_VBN on_IN a_DT particular_JJ subject_NN ._.
+In_IN summary_NN ,_, although_IN some_DT people_NNS insist_VBP that_IN it_PRP is_VBZ better_JJR to_TO develop_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO focus_VB on_IN a_DT particular_JJ subject_NN ,_, I_PRP disagree_VBP with_IN this_DT idea_NN ._.
+This_DT is_VBZ because_IN the_DT latest_JJS sophisticated_JJ technology_NN requires_VBZ specialists_NNS in_IN a_DT particular_JJ subject_NN to_TO develop_VB and_CC protect_VB it_PRP ._.
+Specialized_NNP knowledge_NN also_RB brings_VBZ higher_JJR incomes_NNS ._.

@@ -1,0 +1,10 @@
+VBP_nsubj_PRP
+VBP_iobj_NNS
+NNS_amod_JJ
+NNS_compound_NN
+VBP_dobj_NN
+NN_amod_JJ
+NN_amod_JJ
+VBP_nmod_NNS
+NNS_case_IN
+NNS_amod_JJ

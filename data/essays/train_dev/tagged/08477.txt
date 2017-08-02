@@ -1,0 +1,2 @@
+Advertising_NN is_VBZ a_DT very_RB important_JJ concept_NN in_IN that_DT century_NN because_IN all_DT of_IN the_DT people_NNS have_VBP tandencey_NN to_TO consume_VB more_JJR and_CC more_RBR ._.
+Some_DT of_IN the_DT advertisements_NNS can_MD illustrate_VB the_DT product_NN in_IN the_DT way_NN that_IN it_PRP can_MD seem_VB better_JJR than_IN they_PRP really_RB are_VBP ._.

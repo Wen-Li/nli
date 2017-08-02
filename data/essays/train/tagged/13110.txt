@@ -1,0 +1,14 @@
+Though_IN some_DT people_NNS think_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO learn_VB facts_NNS ,_, I_PRP ,_, personally_RB ,_, perfer_NN that_WDT for_IN students_NNS to_TO understand_VB ideans_NNS and_CC concepts_NNS are_VBP more_RBR important_JJ for_IN the_DT following_VBG reasons_NNS ._.
+First_NNP of_IN all_DT ,_, in_IN the_DT math_NN class_NN ,_, it_PRP has_VBZ a_DT lot_NN of_IN formulas_NNS that_IN we_PRP need_VBP to_TO use_VB when_WRB we_PRP are_VBP solving_VBG the_DT problems_NNS ._.
+Yet_RB ,_, some_DT students_NNS just_RB mermorize_VBP the_DT formulas_NNS and_CC they_PRP do_VBP not_RB really_RB understand_VB why_WRB this_DT formula_NN comes_VBZ out_RP ._.
+Therefore_RB ,_, they_PRP will_MD confuse_VB ,_, when_WRB the_DT questions_NNS change_VBP to_TO which_WDT they_PRP are_VBP not_RB familiar_JJ ._.
+In_IN contract_NN ,_, students_NNS understand_VBP the_DT idea_NN and_CC concept_NN of_IN the_DT formula_NN will_MD help_VB them_PRP easily_RB to_TO solve_VB the_DT questions_NNS ._.
+That_DT is_VBZ why_WRB most_JJS of_IN math_NN teacher_NN spends_VBZ a_DT lot_NN of_IN time_NN on_IN teacing_VBG the_DT concepts_NNS of_IN the_DT formulas_NNS ._.
+Second_RB ,_, students_NNS will_MD easy_RB to_TO forget_VB ,_, while_IN they_PRP only_RB know_VBP the_DT facts_NNS ;_: because_IN they_PRP only_RB mermorize_VBP it_PRP ._.
+They_PRP do_VBP not_RB know_VB the_DT idea_NN or_CC concept_NN of_IN the_DT meaing_NN ._.
+For_IN instance_NN ,_, the_DT computer_NN programming_NN is_VBZ a_DT very_RB hard_JJ course_NN to_TO some_DT people_NNS ,_, and_CC they_PRP memorized_VBD all_PDT the_DT codes_NNS in_IN the_DT programming_NN class_NN and_CC when_WRB they_PRP are_VBP typeing_VBG they_PRP only_RB can_MD type_NN the_DT basic_JJ stuff_NN ._.
+If_IN they_PRP meet_VBP a_DT more_RBR complex_JJ question_NN then_RB they_PRP can_MD not_RB do_VB it_PRP ,_, and_CC they_PRP will_MD forget_VB the_DT code_NN very_RB soon_RB ,_, because_IN they_PRP do_VBP not_RB know_VB how_WRB to_TO use_VB it_PRP ._.
+Last_JJ but_CC not_RB least_JJS ,_, the_DT ideas_NNS and_CC concepts_NNS are_VBP all_DT made_VBN up_RP from_IN people_NNS ._.
+Therefore_RB ,_, we_PRP can_MD not_RB just_RB know_VB the_DT facts_NNS ._.
+Once_RB we_PRP get_VBP the_DT concepts_NNS or_CC ideas_NNS ,_, we_PRP will_MD very_RB easy_RB to_TO know_VB the_DT whole_JJ things_NNS ,_, and_CC we_PRP do_VBP not_RB need_VB to_TO study_VB day_NN and_CC night_NN for_IN memorrizing_VBG whole_JJ books_NNS ._.
+Although_IN ,_, this_DT is_VBZ not_RB to_TO say_VB learning_VBG facts_NNS are_VBP without_IN the_DT merit_NN ,_, I_PRP firmly_RB belive_VBP that_IN it_PRP is_VBZ important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN just_RB learn_VBP facts_NNS ._.

@@ -1,0 +1,15 @@
+As_IN an_DT engineering_NN student_NN I_PRP do_VBP think_VB that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG facts_NNS ._.
+Eventhough_NN sometimes_RB there_EX are_VBP facts_NNS you_PRP must_MD learn_VB in_IN order_NN to_TO understand_VB concepts_NNS ._.
+One_CD cannnot_NN build_VB a_DT boat_NN float_NN if_IN one_CD does_VBZ not_RB know_VB why_WRB it_PRP floats_VBZ and_CC therefore_RB how_WRB much_JJ it_PRP can_MD carries_VBZ before_IN it_PRP sinks_VBZ ._.
+The_DT concepts_NNS of_IN physics_NNS need_VBP to_TO be_VB understood_VBN in_IN order_NN to_TO adapt_VB to_TO every_DT case_NN and_CC make_VB the_DT best_JJS choice_NN in_IN materials_NNS ,_, shape_NN etc_NN ._.
+A_DT historian_NN can_MD not_RB explain_VB a_DT revolution_NN only_RB by_IN facts_NNS ._.
+The_DT understanding_NN of_IN the_DT ideas_NNS shared_VBN by_IN the_DT different_JJ layers_NNS of_IN the_DT society_NN is_VBZ necessary_JJ and_CC a_DT simple_JJ description_NN of_IN events_NNS can_MD not_RB replace_VB the_DT analysis_NN of_IN the_DT historical_JJ situation_NN which_WDT is_VBZ at_IN stake_NN ._.
+However_RB ,_, in_IN order_NN to_TO understand_VB subjects_NNS like_IN biology_NN or_CC chemistry_NN you_PRP need_VBP to_TO learn_VB a_DT certain_JJ amount_NN of_IN facts_NNS ._.
+Which_WDT element_NN is_VBZ to_TO react_VB with_IN an_DT other_JJ one_CD ,_, how_WRB the_DT fast_JJ and_CC how_WRB strong_JJ the_DT reaction_NN is_VBZ ._.
+A_DT doctor_NN must_MD learn_VB where_WRB are_VBP all_PDT the_DT bones_NNS and_CC the_DT muscles_NNS in_IN our_PRP$ body_NN before_IN he_PRP can_MD even_RB learn_VB how_WRB to_TO make_VB a_DT diagnosis_NN ._.
+He_PRP has_VBZ to_TO learn_VB which_WDT drug_NN can_MD cure_VB each_DT illness_NN ._.
+The_DT learning_NN process_NN is_VBZ not_RB just_RB about_IN facts_NNS or_CC ideas_NNS and_CC concepts_NNS ._.
+To_TO understand_VB a_DT concept_NN ,_, a_DT fact_NN can_MD be_VB helpful_JJ because_IN our_PRP$ brain_NN can_MD associate_VB an_DT image_NN to_TO the_DT concept_NN ._.
+And_CC the_DT other_JJ way_NN is_VBZ also_RB true_JJ ,_, learning_VBG the_DT ideas_NNS of_IN romanticism_NN without_IN reading_VBG examples_NNS and_CC facts_NNS is_VBZ not_RB worthy_JJ ._.
+Global_JJ comprehension_NN of_IN a_DT subject_NN can_MD only_RB be_VB reached_VBN once_RB both_DT ideas_NNS and_CC facts_NNS are_VBP learned_VBN ._.
+To_TO introduce_VB a_DT concept_NN ,_, it_PRP is_VBZ a_DT common_JJ easy_JJ way_NN to_TO start_VB with_IN a_DT fact_NN ,_, something_NN that_WDT can_MD be_VB observed_VBN ,_, before_IN the_DT ides_NNS behind_IN can_MD be_VB explained_VBN ._.

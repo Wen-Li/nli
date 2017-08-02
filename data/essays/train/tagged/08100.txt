@@ -1,0 +1,22 @@
+Even_RB if_IN it_PRP always_RB usefull_VBP to_TO know_VB some_DT major_JJ facts_NNS ,_, I_PRP advocate_VBP the_DT fact_NN that_IN it_PRP is_VBZ more_RBR important_JJ ,_, and_CC fundamental_JJ ,_, to_TO understand_VB ideas_NNS and_CC concepts_NNS beyond_IN the_DT facts_NNS ._.
+There_EX are_VBP three_CD reasons_NNS why_WRB I_PRP perfer_VBP to_TO understand_VB concepts_NNS than_IN to_TO learn_VB facts_NNS ._.
+First_RB ,_, to_TO understand_VB the_DT concept_NN may_MD allow_VB you_PRP to_TO find_VB or_CC discover_VB the_DT fact_NN ._.
+For_IN instance_NN ,_, during_IN a_DT biology_NN experiment_NN you_PRP can_MD get_VB the_DT right_JJ conclusions_NNS by_IN reasoning_NN ._.
+Another_DT way_NN to_TO get_VB the_DT result_NN could_MD be_VB to_TO know_VB by_IN heart_NN the_DT answer_NN '_'' ,_, but_CC next_JJ time_NN the_DT result_NN may_MD be_VB totally_RB different_JJ and_CC you_PRP 'll_MD not_RB be_VB able_JJ to_TO explain_VB why_WRB ._.
+So_IN learning_VBG without_IN understanding_NN may_MD drive_VB you_PRP to_TO some_DT dead_JJ ends_NNS ._.
+That_DT also_RB the_DT case_NN in_IN a_DT lot_NN of_IN areas_NNS linked_VBN to_TO mathematics_NNS ._.
+You_PRP can_MD find_VB the_DT most_JJS of_IN the_DT answers_NNS by_IN manipulating_VBG a_DT few_JJ concepts_NNS you_PRP understood_VBD ._.
+In_IN addition_NN ,_, the_DT understanding_NN is_VBZ the_DT basic_JJ of_IN any_DT scientific_JJ domain_NN which_WDT are_VBP ,_, nowadays_RB ,_, so_RB highly_RB valued_VBN ._.
+Second_RB ,_, I_PRP think_VBP that_IN this_DT training_NN of_IN the_DT mind_NN will_MD help_VB you_PRP to_TO adapt_VB easily_RB in_IN new_JJ situations_NNS ._.
+I_PRP learned_VBD Japanese_JJ characters_NNS a_DT few_JJ years_NNS ago_RB ._.
+I_PRP was_VBD in_IN China_NNP a_DT few_JJ months_NNS ago_RB and_CC I_PRP had_VBD no_DT big_JJ troubles_NNS to_TO deduce_VB the_DT meaning_NN of_IN the_DT characters_NNS and_CC find_VB my_PRP$ way_NN in_IN the_DT city_NN of_IN Shanghai_NNP ._.
+Even_RB if_IN the_DT Chinese_JJ characters_NNS are_VBP more_RBR complex_JJ than_IN the_DT Japenese_JJ ones_NNS ,_, you_PRP can_MD still_RB deduce_VB the_DT meaning_NN thanks_NNS to_TO the_DT asociation_NN of_IN the_DT unitary_JJ characters_NNS composing_VBG the_DT bigger_JJR ones_NNS (_RB called_VBN kanjis_FW )_FW
+Last_JJ ,_, I_PRP 'm_VBP sure_JJ it_PRP is_VBZ the_DT best_JJS way_NN to_TO remind_VB things_NNS easily_RB ._.
+For_IN instance_NN If_IN I_PRP ask_VBP you_PRP :_: Do_VBP you_PRP know_VB what_WP are_VBP the_DT main_JJ colors_NNS used_VBN by_IN Miro_NNP in_IN his_PRP$ paintings_NNS ._.
+You_PRP may_MD know_VB it_PRP because_IN you_PRP saw_VBD many_JJ paintings_NNS from_IN this_DT artists_NNS but_CC a_DT very_RB easy_JJ way_NN to_TO remind_VB it_PRP is_VBZ the_DT following_VBG one_CD ._.
+Once_RB you_PRP know_VBP that_IN Miro_NNP used_VBD to_TO live_VB in_IN a_DT small_JJ city_NN called_VBN `_`` Mont_NNP Roich_NNP '_POS ,_, which_WDT is_VBZ a_DT small_JJ city_NN close_NN to_TO the_DT sea_NN ._.
+You_PRP begin_VBP to_TO understand_VB the_DT first_JJ colors_NNS is_VBZ the_DT red_NN ._.
+It_PRP comes_VBZ from_IN Roich_NNP ,_, which_WDT is_VBZ close_JJ to_TO Red_NNP ._.
+The_DT second_JJ color_NN is_VBZ the_DT blue_JJ which_WDT represents_VBZ the_DT sea_NN ._.
+The_DT third_JJ color_NN is_VBZ the_DT green_JJ of_IN a_DT certain_JJ plant_NN `_`` The_DT carroubier_NN '_'' ._.
+And_CC the_DT least_JJS one_CD is_VBZ the_DT color_NN of_IN flower_NN :_: yellow_JJ ._.

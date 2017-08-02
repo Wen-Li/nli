@@ -1,0 +1,15 @@
+Is_VBZ it_PRP more_RBR important_JJ for_IN students_NNS to_TO undersand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ?_.
+Every_DT idea_NN and_CC concept_NN is_VBZ based_VBN on_IN a_DT fact_NN ._.
+Some_DT students_NNS are_VBP smart_JJ and_CC learn_VBP by_IN reading_VBG and_CC understanging_VBG a_DT new_JJ concept_NN ._.
+Some_DT others_NNS take_VBP longer_JJR to_TO undestand_VB it_PRP ._.
+At_IN the_DT end_NN ,_, the_DT slower_JJR student_NN might_MD memorize_VB an_DT idea_NN or_CC a_DT concept_NN ,_, and_CC might_MD get_VB an_DT excellent_JJ scores_NNS in_IN an_DT exam_NN ._.
+But_CC how_WRB will_MD he_PRP apply_VB this_DT new_JJ knowledge_NN to_TO the_DT real_JJ life_NN if_IN he_PRP never_RB undestood_VBD what_WP it_PRP meant_VBD ?_.
+Learning_VBG a_DT concept_NN or_CC an_DT idea_NN first_RB will_MD help_VB you_PRP to_TO use_VB your_PRP$ imagination_NN ._.
+The_DT tutor_NN will_MD tell_VB you_PRP a_DT new_JJ concept_NN to_TO learn_VB ,_, explain_VB you_PRP what_WP it_PRP is_VBZ ,_, and_CC follow_VB up_RP with_IN a_DT given_VBN definition_NN ._.
+However_RB ,_, what_WP will_MD the_DT results_NNS be_VB if_IN you_PRP apply_VBP it_PRP all_PDT the_DT way_NN round_NN ?_.
+What_WP will_MD happen_VB if_IN you_PRP start_VBP by_IN the_DT observing_VBG the_DT facts_NNS (_VBP for_IN example_NN ,_, watching_VBG some_DT chemical_JJ reaction_NN you_PRP 've_VBP never_RB seen_VBN before_IN )_NN ._.
+Once_RB you_PRP observe_VBP it_PRP ,_, you_PRP come_VBP up_RP with_IN a_DT conclusion_NN ,_, you_PRP get_VBP into_IN the_DT class_NN and_CC learn_VBP that_IN what_WP you_PRP have_VBP observed_VBN has_VBZ a_DT name_NN ,_, followed_VBD up_RP by_IN an_DT explanation_NN of_IN it_PRP ,_, so_RB you_PRP expand_VB your_PRP$ reasoning_NN and_CC come_VB up_RP with_IN your_PRP$ own_JJ idea_NN of_IN the_DT concept_NN ._.
+I_PRP believe_VBP reasoning_NN is_VBZ stronger_JJR that_IN memory_NN ._.
+Memory_NN gets_VBZ forgotten_VBN and_CC reasoning_NN stays_NNS ._.
+If_IN so_RB ,_, concepts_NNS and_CC facts_NNS might_MD get_VB forgotten_VBN sooner_RBR than_IN learning_VBG first_RB the_DT fact_NN by_IN experiencing_VBG and_CC understanding_VBG it_PRP ._.
+By_IN learning_VBG the_DT fact_NN first_RB ,_, you_PRP will_MD end_VB up_IN learning_VBG the_DT concept_NN based_VBN on_IN your_PRP$ own_JJ ideas_NNS ._.

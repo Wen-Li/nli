@@ -1,0 +1,12 @@
+I_PRP agree_VBP with_IN the_DT author_NN 's_POS statement_NN ._.
+Since_IN `_`` Knowledge_NN is_VBZ power_NN '_'' says_VBZ a_DT proverb_NN ._.
+So_RB ,_, in_IN today_NN 's_POS competitive_JJ world_NN it_PRP is_VBZ better_JJR to_TO have_VB broader_JJR knowledge_NN of_IN all_DT academic_JJ subjects_NNS ._.
+if_IN we_PRP have_VBP broad_JJ idea_NN of_IN lot_NN of_IN subjects_NNS ,_, then_RB the_DT chances_NNS of_IN oppurtunites_NNS increases_NNS ._.
+If_IN aperson_NN is_VBZ attended_VBN for_IN an_DT interview_NN for_IN a_DT post_NN who_WP is_VBZ having_VBG good_JJ subject_NN in_IN various_JJ fields_NNS will_MD be_VB obviosly_RB selected_VBN rather_RB than_IN a_DT person_NN who_WP is_VBZ specialized_VBN in_IN only_RB one_CD field_NN ,_, more_JJR over_IN the_DT person_NN with_IN diverse_JJ skills_NNS will_MD face_VB the_DT interview_NN with_IN confidence_NN ._.
+The_DT person_NN with_IN broad_JJ knowledge_NN will_MD not_RB essential_JJ requires_VBZ any_DT type_NN of_IN training_NN ._.
+But_CC the_DT person_NN knows_VBZ only_RB one_CD specific_JJ subject_JJ most_RBS probably_RB he_PRP must_MD be_VB trained_VBN and_CC guided_VBN under_IN other_JJ matured_JJ people_NNS in_IN that_DT area_NN ._.
+If_IN the_DT person_NN with_IN broader_JJR view_NN of_IN subject_NN can_MD easily_RB follow_VB the_DT new_JJ trends_NNS in_IN the_DT market_NN rather_RB than_IN a_DT person_NN with_IN a_DT little_JJ knowledge_NN ._.
+Although_IN ,_, a_DT person_NN with_IN specialized_VBN knowledge_NN in_IN one_CD area_NN can_MD perform_VB very_RB well_RB in_IN his_PRP$ field_NN but_CC he_PRP always_RB abondon_VBP from_IN tasks_NNS which_WDT consists_VBZ other_JJ than_IN his_PRP$ subject_JJ knowledge_NN ._.
+A_DT person_NN knows_VBZ only_RB a_DT specific_JJ subjet_NN fails_VBZ to_TO perform_VB well_RB if_IN the_DT boom_NN for_IN that_DT field_NN decreases_VBZ drastically_RB or_CC it_PRP is_VBZ in_IN slum_NN ._.
+But_CC there_EX is_VBZ no_DT such_JJ type_NN of_IN problens_NNS arises_VBZ for_IN the_DT person_NN who_WP is_VBZ good_JJ at_IN myriad_JJ fields_NNS ._.
+Hence_RB I_PRP conclude_VBP that_IN a_DT person_NN with_IN broad_JJ subject_JJ knowledge_NN will_MD always_RB flourish_VB in_IN his_PRP$ field_NN ._.

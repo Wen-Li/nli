@@ -1,0 +1,18 @@
+The_DT issue_NN raised_VBN is_VBZ a_DT very_RB important_JJ issue_NN as_IN it_PRP creates_VBZ a_DT lot_NN of_IN hesitation_NN in_IN the_DT minds_NNS of_IN many_JJ individuals_NNS ._.
+I_PRP strongly_RB agree_VBP it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+I_PRP stick_VBP to_TO this_DT opinion_NN for_IN the_DT following_VBG reasons_NNS ._.
+The_DT first_JJ reason_NN i_FW would_MD prefer_VB having_VBG broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS is_VBZ because_IN it_PRP gives_VBZ an_DT overall_JJ idea_NN to_TO the_DT individual_NN ._.
+For_IN example_NN ,_, a_DT student_NN like_IN mechanical_JJ engineer_NN will_MD learn_VB academic_JJ subjects_NNS like_IN electrical_JJ ,_, electronics_NNS ,_, computers_NNS etc_FW ._. ._.
+other_JJ than_IN his_PRP$ mechanical_JJ specialisation_NN subjects_NNS ._.
+This_DT will_MD dope_NN him_PRP with_IN knowledge_NN when_WRB it_PRP comes_VBZ to_TO design_NN of_IN a_DT product_NN say_VBP a_DT car_NN as_IN it_PRP invloves_VBZ the_DT mechanical_JJ design_NN and_CC the_DT electrical_JJ arrangement_NN ._.
+another_DT reason_NN is_VBZ specialistaion_NN in_IN one_CD subject_JJ poses_VBZ barricades_NNS being_VBG employed_VBN in_IN an_DT organisation_NN where_WRB the_DT organisation_NN needs_VBZ skills_NNS in_IN all_DT round_JJ aspects_NNS of_IN academic_JJ subjects_NNS ._.
+to_TO illustrate_VB this_DT point_NN i_FW explain_VB the_DT desired_VBN qualities_NNS a_DT CNC_NNP lathe_NN operator_NN should_MD possess_VB to_TO seek_VB a_DT job_NN ._.
+For_IN this_DT the_DT operator_NN should_MD have_VB knowledge_NN about_IN the_DT computer_NN programming_NN which_WDT performs_VBZ various_JJ jobs_NNS as_IN programmed_VBN and_CC mechanical_JJ knowledge_NN for_IN assistance_NN ._.
+An_DT organisation_NN prefers_VBZ to_TO hire_VB the_DT operator_NN who_WP has_VBZ knowledge_NN in_IN both_CC fields_NNS of_IN computers_NNS and_CC mechanical_JJ academic_JJ subjects_NNS ._.
+An_DT operator_NN may_MD not_RB be_VB employed_VBN if_IN he_PRP is_VBZ specialised_VBN in_IN only_RB one_CD field_NN without_IN having_VBG any_DT knowledge_NN about_IN other_JJ subjects_NNS ._.
+Finally_RB ,_, specialisation_NN may_MD end_VB up_RP as_IN time_NN consuming_JJ process_NN ._.
+A_DT modern_JJ industry_NN comprises_VBZ of_IN an_DT integrated_VBN methods_NNS of_IN manufacturing_NN and_CC specialisation_NN may_MD delay_VB the_DT overall_JJ manufacturing_NN time_NN in_IN the_DT workstation_NN say_VBP an_DT automotive_JJ industry_NN where_WRB different_JJ components_NNS of_IN the_DT products_NNS are_VBP needed_VBN to_TO be_VB alligned_VBN as_IN one_CD at_IN the_DT end_NN ._.
+Suppose_VB a_DT person_NN is_VBZ specialised_VBN in_IN designing_VBG the_DT product_NN say_VBP the_DT car_NN he_PRP may_MD not_RB know_VB what_WP voltage_NN should_MD be_VB need_MD inorder_RB to_TO iginite_VB the_DT engine_NN ._.
+so_RB he_PRP needs_VBZ to_TO seek_VB the_DT electrical_JJ guy_NN for_IN this_DT which_WDT is_VBZ absolutely_RB time_NN consuming_NN ._.
+If_IN he_PRP would_MD have_VB braod_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS like_IN the_DT electrical_JJ knowlegde_NN ,_, he_PRP can_MD desing_VB the_DT car_NN in_IN a_DT shorter_JJR time_NN ._.
+In_IN conclusion_NN ,_, at_IN the_DT end_NN of_IN the_DT day_NN the_DT bottom_JJ line_NN i_FW pronounce_VBP is_VBZ it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialise_VB in_IN one_CD specific_JJ subject_NN as_IN specialisation_NN in_IN one_CD specific_JJ subject_JJ addresses_NNS complexity_NN ._.

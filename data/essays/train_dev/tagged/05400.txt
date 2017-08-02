@@ -1,0 +1,17 @@
+Advertisements_NNS ,_, The_DT Truth_NN or_CC False_JJ Exaggerations_NNS
+Nowadays_RB advertisements_NNS make_VBP products_NNS seem_VBP perfect_JJ and_CC without_IN any_DT flaws_NNS ._.
+But_CC do_VB these_DT advertiements_NNS actually_RB show_VBP the_DT product_NN 's_POS true_JJ quality_NN and_CC worth_NN ?_.
+Recently_RB I_PRP saw_VBD an_DT andvertisement_NN of_IN a_DT soap_NN product_NN that_WDT said_VBD that_IN the_DT soap_NN would_MD kill_VB millions_NNS more_RBR bacteria_NNS and_CC germs_NNS as_IN compared_VBN to_TO other_JJ soap_NN products_NNS when_WRB used_VBN ._.
+It_PRP stated_VBD that_IN it_PRP contains_VBZ certain_JJ chemicals_NNS ,_, which_WDT had_VBD long_JJ and_CC very_RB ``_`` flashy_JJ ''_'' names_NNS ._.
+Howewer_NNP this_DT was_VBD not_RB an_DT exact_JJ detail_NN ,_, as_IN even_RB sunlight_NN can_MD destroy_VB millions_NNS of_IN germs_NNS and_CC bacteria_NNS ._.
+Later_RB out_IN of_IN curiosity_NN I_PRP checked_VBD the_DT ingredients_NNS on_IN the_DT wrapper_NN ,_, And_CC I_PRP saw_VBD that_IN the_DT ingredients_NNS were_VBD actually_RB the_DT same_JJ in_IN almost_RB every_DT soap_NN product_NN of_IN the_DT similar_JJ type_NN ._.
+Another_DT example_NN is_VBZ present_JJ within_IN a_DT soft_JJ drink_NN company_NN in_IN India_NNP ._.
+Several_JJ official_JJ reports_NNS stated_VBD that_IN the_DT product_NN contained_VBD alarmingly_RB high_JJ levels_NNS of_IN pesticides_NNS ,_, while_IN the_DT company_NN continued_VBD to_TO broadcast_VB an_DT advertisement_NN which_WDT said_VBD that_IN the_DT drink_NN had_VBD 0_CD %_NN pesticides_NNS and_CC was_VBD perfectly_RB safe_JJ for_IN human_JJ consumption_NN ._.
+Another_DT advertisement_NN was_VBD once_RB brodcasted_VBN about_IN a_DT stock_NN market_NN fund_NN ._.
+It_PRP stated_VBD almost_RB nothing_NN about_IN the_DT risks_NNS involved_VBN in_IN the_DT investment_NN ,_, but_CC only_RB a_DT very_RB fine_JJ print_NN at_IN the_DT bottom_JJ saying_VBG ``_`` this_DT investment_NN is_VBZ subject_JJ to_TO market_NN risks_NNS ,_, please_VB read_VB the_DT offer_NN document_NN carefully_RB before_IN investing_VBG ''_'' ._.
+The_DT only_JJ thing_NN it_PRP showed_VBD was_VBD celebrities_NNS saying_VBG that_IN they_PRP would_MD invest_VB in_IN the_DT fund_NN as_IN they_PRP felt_VBD it_PRP right_RB ._.
+This_DT is_VBZ only_RB a_DT few_JJ of_IN of_IN many_JJ examples_NNS that_IN a_DT lot_NN of_IN people_NNS experience_NN ._.
+The_DT truth_NN is_VBZ that_IN the_DT producers_NNS or_CC the_DT advertising_NN Co._NNP only_RB want_VBP their_PRP$ product_NN to_TO be_VB sold_VBN ,_, irrespective_RB of_IN the_DT truth_NN about_IN the_DT product_NN
+Howewer_NNP this_DT does_VBZ no_DT mean_NN that_IN all_DT advertisements_NNS lie_VBP about_IN their_PRP$ products_NNS ._.
+Certain_JJ advertisements_NNS not_RB only_RB state_VBP the_DT plus_CC points_NNS about_IN their_PRP$ products_NNS ,_, but_CC also_RB the_DT negative_JJ things_NNS ,_, such_JJ as_IN side_JJ effects_NNS ,_, risks_NNS etc_FW ._.
+To_TO conclude_VB it_PRP can_MD be_VB said_VBD that_IN ,_, in_IN the_DT end_NN it_PRP only_RB depends_VBZ on_IN the_DT consumer_NN 's_POS judgement_NN to_TO choose_VB the_DT product_NN wisely_RB and_CC not_RB fall_VB for_IN the_DT exaggerations_NNS made_VBN by_IN advertisements_NNS ._.

@@ -1,0 +1,14 @@
+Some_DT people_NNS thinks_VBZ that_IN courses_NNS taught_VBD in_IN universities_NNS are_VBP too_RB theoreticals_NNS and_CC should_MD be_VB more_RBR based_VBN on_IN facts_NNS instead_RB of_IN general_JJ ideas_NNS and_CC concepts_NNS ._.
+I_PRP strongry_VBP disagee_NN with_IN this_DT opinion_NN for_IN several_JJ reasons_NNS ._.
+The_DT first_JJ reason_NN why_WRB I_PRP think_VBP that_IN ideas_NNS and_CC concepts_NNS are_VBP more_RBR important_JJ for_IN student_NN than_IN simply_RB learning_VBG facts_NNS is_VBZ that_IN you_PRP can_MD always_RB learn_VB facts_NNS by_IN yourself_PRP ._.
+Actually_RB ,_, you_PRP do_VBP n't_RB even_RB need_VB to_TO be_VB a_DT student_NN in_IN a_DT classroom_NN to_TO learn_VB them_PRP ._.
+Indeed_RB ,_, most_JJS fact_NN are_VBP just_RB data_NNS that_WDT can_MD be_VB memorized_VBN with_IN no_DT or_CC little_JJ understanding_NN ._.
+But_CC what_WP really_RB matters_VBZ is_VBZ the_DT the_DT underlying_VBG cause_NN of_IN a_DT fact_NN ,_, even_RB if_IN it_PRP is_VBZ very_RB general_JJ ._.
+For_IN example_NN ,_, a_DT fact_NN in_IN finance_NN is_VBZ :_: ``_`` you_PRP should_MD diversify_VB your_PRP$ portfolio_NN in_IN order_NN to_TO lower_VB your_PRP$ risk_NN ''_'' ._.
+But_CC what_WP is_VBZ really_RB important_JJ behind_IN this_DT fact_NN is_VBZ to_TO understand_VB how_WRB the_DT risk_NN can_MD be_VB evaluated_VBN ,_, and_CC what_WP are_VBP the_DT main_JJ factors_NNS that_WDT make_VBP diversification_NN an_DT efficient_JJ investment_NN strategy_NN ._.
+If_IN you_PRP do_VBP n't_RB understand_VB the_DT concept_NN ,_, you_PRP might_MD still_RB be_VB able_JJ to_TO learn_VB the_DT facts_NNS ,_, but_CC it_PRP always_RB will_MD be_VB a_DT limited_JJ basic_JJ understanding_NN ._.
+Secondly_RB ,_, ideas_NNS and_CC concepts_NNS will_MD eventually_RB help_VB you_PRP to_TO understand_VB the_DT facts_NNS and_CC therefore_RB are_VBP more_RBR important_JJ ._.
+For_IN example_NN ,_, you_PRP may_MD be_VB able_JJ to_TO memorize_VB the_DT list_NN of_IN all_PDT the_DT presidents_NNS of_IN the_DT United_NNP States_NNPS ,_, but_CC is_VBZ n't_RB the_DT idea_NN of_IN creating_VBG a_DT democracy_NN in_IN America_NNP more_RBR important_JJ than_IN a_DT list_NN of_IN name_NN ?_.
+Students_NNS do_VBP n't_RB have_VB to_TO become_VB factbooks_NNS or_CC encyclopedias_NNS but_CC should_MD be_VB able_JJ to_TO understand_VB the_DT facts_NNS based_VBN on_IN the_DT concepts_NNS and_CC ideas_NNS that_IN they_PRP have_VBP understood_VBN in_IN class_NN ._.
+It_PRP is_VBZ a_DT deeper_JJR knowledge_NN and_CC probably_RB more_RBR general_JJ but_CC it_PRP is_VBZ also_RB a_DT key_JJ to_TO deal_VB with_IN new_JJ situations_NNS ._.
+In_IN conclusion_NN ,_, the_DT role_NN of_IN a_DT university_NN is_VBZ to_TO make_VB students_NNS become_VB responsible_JJ persons_NNS able_JJ to_TO think_VB by_IN themselves_PRP and_CC to_TO give_VB them_PRP keys_NNS to_TO better_RBR learn_VB and_CC understand_VB facts_NNS :_: ideas_NNS and_CC concepts_NNS ._.

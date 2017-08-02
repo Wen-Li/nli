@@ -1,0 +1,13 @@
+I_PRP do_VBP not_RB agree_VB with_IN this_DT statement_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR usage_NN of_IN cars_NNS than_IN there_EX are_VBP today_NN ._.
+I_PRP dont_VBP agree_VBP with_IN this_DT because_IN ,_, firstly_RB ,_, when_WRB the_DT technology_NN is_VBZ increasing_VBG there_RB will_MD be_VB more_RBR cars_NNS in_IN use_NN than_IN they_PRP are_VBP today_NN ._.
+with_IN the_DT increasing_VBG technology_NN we_PRP can_MD have_VB cars_NNS which_WDT seem_VBP same_JJ as_IN being_VBG in_IN our_PRP$ home_NN ._.
+now-a-days_RB we_PRP are_VBP getting_VBG formula1_NN cars_NNS which_WDT are_VBP the_DT fastest_JJS cars_NNS in_IN the_DT world_NN ._.
+as_IN the_DT saying_VBG goes_VBZ ``_`` increase_NN in_IN technology_NN will_MD increase_VB the_DT world_NN in_IN many_JJ ways_NNS ''_'' .cars_NNS are_VBP also_RB in_IN the_DT same_JJ way_NN ,_, with_IN the_DT increase_NN in_IN technology_NN the_DT technology_NN of_IN cars_NNS will_MD also_RB be_VB increased_VBN rather_RB than_IN becoming_VBG fewer_JJR in_IN coming_VBG years_NNS ._.
+Secondly_RB ,_, now-a-days_JJ each_DT and_CC every_DT person_NN is_VBZ prefering_VBG to_TO have_VB a_DT car_NN because_IN it_PRP is_VBZ a_DT best_RB as_RB well_RB as_IN convinient_JJ way_NN to_TO go_VB in_IN a_DT car_NN rather_RB than_IN going_VBG in_IN buses_NNS and_CC trains_NNS ._.
+because_IN they_PRP may_MD consume_VB a_DT lot_NN of_IN time_NN waiting_VBG for_IN all_PDT the_DT people_NNS who_WP are_VBP travelling_VBG at_IN that_DT time_NN to_TO come_VB ._.
+but_CC when_WRB this_DT is_VBZ compared_VBN to_TO cars_NNS we_PRP dont_VBP need_VB to_TO wait_VB because_IN we_PRP have_VBP our_PRP$ own_JJ car_NN to_TO travel_VB ._.
+Thirdly_RB ,_, as_IN petroleum_NN is_VBZ decreasing_VBG day-by-day_JJ ,_, we_PRP may_MD say_VB that_IN cars_NNS will_MD become_VB fewer_JJR in_IN use_NN than_IN they_PRP are_VBP today_NN ,_, but_CC technology_NN is_VBZ now_RB inventing_VBG cars_NNS which_WDT run_VBP by_IN gases_NNS for_IN example_NN ,_, gases_NNS which_WDT we_PRP use_VBP for_IN cooking_JJ etc_NN ,_, ._.
+by_IN this_DT we_PRP can_MD say_VB that_IN cars_NNS can_MD also_RB be_VB run_VBN without_IN petroleum_NN and_CC can_MD be_VB run_VBN with_IN gases_NNS either_CC ._.
+so_RB this_DT will_MD also_RB not_RB affect_VB for_IN cars_NNS becoming_VBG fewer_JJR in_IN the_DT upcoming_VBG years_NNS ._.
+So_RB i_FW conclude_VBP by_IN saying_VBG that_IN cars_NNS will_MD not_RB become_VB fewer_JJR in_IN use_NN than_IN they_PRP are_VBP today_NN with_IN the_DT above_JJ stated_VBN reasons_NNS ._.
+the_DT usage_NN of_IN cars_NNS will_MD increase_VB rather_RB than_IN decrease_VB in_IN the_DT coming_VBG years_NNS ._.

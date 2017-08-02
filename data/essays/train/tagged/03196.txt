@@ -1,0 +1,10 @@
+Overall_RB ,_, I_PRP agree_VBP with_IN the_DT statement_NN ._.
+Progress_NNP of_IN individuals_NNS and_CC of_IN society_NN as_IN a_DT whole_NN has_VBZ always_RB been_VBN based_VBN on_IN taking_VBG risks_NNS and_CC exploring_VBG new_JJ options_NNS ._.
+Not_RB only_RB would_MD the_DT known_JJ world_NN not_RB include_VBP America_NNP ,_, had_VBD Christopher_NNP Columbus_NNP not_RB taken_VBN the_DT risk_NN of_IN sailing_NN thousands_NNS of_IN miles_NNS in_IN a_DT frail_JJ little_JJ boat_NN ,_, we_PRP would_MD also_RB still_RB be_VB traveling_VBG on_IN foot_NN instead_RB of_IN using_VBG cars_NNS ,_, planes_NNS and_CC submarines_NNS ._.
+While_IN trodden_JJ paths_NNS can_MD tak_VB us_PRP through_IN everyday_JJ situations_NNS ,_, success_NN requires_VBZ us_PRP to_TO see_VB and_CC ,_, more_RBR importantly_RB ,_, use_VBP oppotunities_NNS ._.
+However_RB ,_, the_DT key_NN to_TO success_NN is_VBZ not_RB taking_VBG every_DT possible_JJ risk_NN ,_, but_CC to_TO recognize_VB and_CC take_VB those_DT risks_NNS that_WDT one_PRP can_MD benefit_VB from_IN most_JJS ._.
+A_DT successful_JJ manager_NN will_MD not_RB avoid_VB risks_NNS ,_, but_CC rather_RB weigh_VB them_PRP against_IN their_PRP$ potential_JJ benefit_NN and_CC then_RB decide_VB to_TO his_PRP$ best_JJS knowledge_NN ._.
+A_DT successful_JJ general_NN will_MD not_RB seek_VB to_TO avoid_VB confrontations_NNS but_CC choose_VB a_DT battlefield_NN that_WDT gives_VBZ him_PRP advantage_NN over_IN his_PRP$ enemy_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, someone_NN driving_VBG at_IN night_NN at_IN a_DT high_JJ speed_NN without_IN headlights_NNS takes_VBZ a_DT considerable_JJ risk_NN without_IN apparent_JJ peronal_JJ benefit_NN and_CC might_MD be_VB called_VBN a_DT stupid_JJ rather_RB than_IN a_DT successful_JJ person_NN ._.
+Taken_VBN together_RB ,_, I_PRP think_VBP that_IN an_DT intelligent_JJ balance_NN between_IN risk_NN and_CC benefit_NN distinguishes_VBZ a_DT successful_JJ person_NN from_IN the_DT average_JJ or_CC outright_JJ dumb_JJ ._.
+Simply_RB taking_VBG risks_NNS does_VBZ not_RB ._.

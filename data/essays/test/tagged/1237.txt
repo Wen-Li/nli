@@ -1,0 +1,18 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN ,_, and_CC think_VB travelling_VBG without_IN tour_NN guides_NNS is_VBZ better_RBR ._.
+I_PRP have_VBP travelled_VBN with_IN my_PRP$ friends_NNS a_DT lot_NN ,_, and_CC I_PRP was_VBD in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN for_IN several_JJ times_NNS ,_, and_CC it_PRP have_VBP a_DT number_NN of_IN weak_JJ points_NNS ,_, while_IN travelling_VBG without_IN tour_NN guide_NN have_VBP strong_JJ points_NNS ._.
+There_EX are_VBP two_CD noticeable_JJ weak_JJ points_NNS of_IN travelling_VBG with_IN tour_NN guides_NNS ._.
+First_NNP of_IN all_DT ,_, the_DT quality_NN of_IN explanation_NN of_IN tour_NN guide_NN is_VBZ not_RB good_JJ ._.
+I_PRP compared_VBD the_DT explanation_NN of_IN tour_NN guides_NNS with_IN the_DT explanation_NN of_IN a_DT local_JJ person_NN ,_, and_CC the_DT explantion_NN of_IN the_DT local_JJ person_NN was_VBD more_RBR interesting_JJ and_CC had_VBD more_JJR details_NNS ._.
+Second_RB ,_, tour_NN guides_NNS have_VBP strict_JJ plans_NNS ._.
+While_IN travelling_VBG ,_, we_PRP may_MD have_VB some_DT spots_NNS that_IN we_PRP want_VBP to_TO visit_VB ._.
+However_RB ,_, the_DT tour_NN guide_NN only_RB visits_VBZ some_DT landmarks_NNS of_IN the_DT area_NN ,_, and_CC we_PRP may_MD miss_VB some_DT spots_NNS we_PRP want_VBP to_TO visit_VB ._.
+In_IN contrast_NN to_TO travelling_VBG with_IN tour_NN guides_NNS ,_, travelling_VBG without_IN tour_NN guides_NNS have_VBP two_CD strong_JJ points_NNS ._.
+First_RB ,_, we_PRP may_MD visit_VB where_WRB we_PRP want_VBP ._.
+For_IN example_NN ,_, we_PRP may_MD visit_VB places_NNS that_WDT no_DT tour_NN guides_NNS visit_NN ._.
+Next_RB ,_, travelling_VBG without_IN tour_NN guides_NNS is_VBZ more_RBR likely_JJ to_TO have_VB our_PRP$ own_JJ experience_NN ._.
+If_IN we_PRP use_VBP tour_NN guides_NNS ,_, the_DT experience_NN that_IN we_PRP have_VBP may_MD have_VB several_JJ similarities_NNS to_TO other_JJ people_NNS who_WP have_VBP used_VBN the_DT tour_NN guide_NN ._.
+However_RB ,_, If_IN we_PRP travel_VBP without_IN them_PRP ,_, we_PRP may_MD have_VB our_PRP$ own_JJ unique_JJ experience_NN ._.
+In_IN conclusion_NN ,_, I_PRP travelled_VBD with_IN tour_NN guides_NNS ,_, and_CC they_PRP have_VBP have_VB two_CD weak_JJ points_NNS ,_, while_IN the_DT opposite_JJ case_NN have_VBP two_CD strong_JJ points_NNS ._.
+If_IN we_PRP travel_VBP with_IN tour_NN guides_NNS ,_, we_PRP have_VBP to_TO listen_VB to_TO low_JJ quality_NN explanation_NN ,_, compared_VBN to_TO explantion_NN of_IN a_DT local_JJ person_NN ,_, and_CC we_PRP may_MD miss_VB where_WRB we_PRP want_VBP to_TO visit_VB ._.
+In_IN contrast_NN ,_, if_IN in_IN the_DT opposite_JJ case_NN ,_, we_PRP may_MD visit_VB where_WRB we_PRP want_VBP ,_, and_CC we_PRP may_MD have_VB our_PRP$ own_JJ experiences_NNS ._.
+I_PRP disagree_VBP to_TO the_DT statement_NN for_IN the_DT reasons_NNS above_IN ._.

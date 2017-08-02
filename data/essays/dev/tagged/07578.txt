@@ -1,0 +1,6 @@
+Some_DT people_NNS think_VBP that_IN ,_, it_PRP would_MD be_VB better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN different_JJ academic_JJ subjects_NNS because_IN variations_NNS of_IN subjects_NNS adds_VBZ to_TO human_JJ experience_NN and_CC provides_VBZ possible_JJ solutions_NNS in_IN many_JJ situations_NNS ._.
+Others_NNS think_VBP it_PRP would_MD be_VB better_JJR to_TO concentrate_VB on_IN one_CD topic_NN and_CC go_VB on_IN ._.
+Based_VBN on_IN my_PRP$ experience_NN ,_, both_DT opinion_NN are_VBP helpful_JJ according_VBG to_TO my_PRP$ grade_NN ._.
+When_WRB i_FW was_VBD in_IN under_IN graduate_JJ school_NN ,_, I_PRP was_VBD fond_JJ of_IN reading_NN and_CC attending_VBG different_JJ classes_NNS which_WDT helped_VBD me_PRP to_TO great_JJ extend_VBP to_TO pass_VB my_PRP$ exams_NNS easily_RB and_CC receive_VB high_JJ score_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, when_WRB I_PRP was_VBD in_IN physical_JJ therapy_NN school_NN I_PRP concentrated_VBD on_IN only_RB sports_NNS medicine_NN classes_NNS which_WDT helped_VBD me_PRP to_TO apply_VB for_IN master_NN degree_NN and_CC find_VB convineant_JJ job_NN ._.
+Finally_RB both_DT thoughts_NNS are_VBP important_JJ depend_VB on_IN needs_NNS and_CC goals_NNS ._.

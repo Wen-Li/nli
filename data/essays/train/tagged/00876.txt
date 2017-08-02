@@ -1,0 +1,16 @@
+In_IN my_PRP$ country_NN ,_, there_EX is_VBZ an_DT old_JJ say_NN ;_: to_TO teach_VB the_DT way_NN of_IN take_NN fishes_NNS instead_RB give_VBP fishes_NNS ._.
+It_PRP says_VBZ important_JJ of_IN learing_VBG not_RB only_RB the_DT fact_NN but_CC also_RB the_DT ``_`` the_DT way_NN ''_'' ._.
+But_CC it_PRP highlight_VBP that_IN the_DT important_JJ of_IN the_DT way_NN ._.
+Like_IN this_DT old_JJ say_NN ,_, I_PRP agree_VBP that_IN student_NN to_TO understand_VB ideas_NNS and_CC concets_NNS is_VBZ more_RBR important_JJ than_IN to_TO learn_VB facts_NNS ._.
+First_RB ,_, If_IN students_NNS understand_VBP ideas_NNS and_CC concepts_NNS then_RB they_PRP can_MD understand_VB more_RBR difficult_JJ questions_NNS ._.
+For_IN example_NN ,_, when_WRB I_PRP was_VBD middle_JJ school_NN student_NN ,_, at_IN first_JJ time_NN of_IN math_NN class_NN ,_, I_PRP could_MD n't_RB understand_VB what_WP teacher_NN said_VBD ._.
+But_CC finally_RB understood_VBD the_DT way_NN of_IN solution_NN ,_, I_PRP could_MD solve_VB another_DT math_NN questions_NNS ._.
+Although_IN that_DT question_NN was_VBD more_RBR difficult_JJ ,_, I_PRP understood_VBD the_DT way_NN of_IN solution_NN so_IN I_PRP could_MD do_VB it_PRP ._.
+If_IN I_PRP could_MD n't_RB understnad_VB ,_, I_PRP could_MD n't_RB solve_VB that_IN question_NN ._.
+Sesond_NNP ,_, If_IN student_NN understand_VBP idea_NN and_CC concepts_NNS ,_, they_PRP can_MD imagine_VB more_JJR idea_NN nad_NN concepts_NNS ._.
+I_PRP mean_VBP ,_, for_IN instance_NN ,_, when_WRB I_PRP was_VBD high_JJ school_NN student_NN ,_, I_PRP learnd_VBD about_IN poet_NN ._.
+Most_JJS of_IN people_NNS do_VBP n't_RB like_VB poet_NN because_IN of_IN words_NNS ._.
+That_DT words_NNS were_VBD difficult_JJ to_TO understood_VBN except_IN teacher_NN ._.
+Teacher_NN could_MD understood_VBN all_DT of_IN words_NNS ._.
+That_DT is_VBZ why_WRB that_DT is_VBZ important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB facts_NNS ,_, I_PRP could_MD n't_RB understand_VB because_IN I_PRP did'nt_VBP have_VB any_DT idea_NN ._.
+So_IN I_PRP agree_VBP about_IN that_DT statement_NN ._.

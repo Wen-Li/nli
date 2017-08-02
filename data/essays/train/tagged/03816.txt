@@ -1,0 +1,22 @@
+I_PRP actually_RB live_VBP in_IN Barcelona_NNP ,_, a_DT city_NN with_IN a_DT lot_NN of_IN traffic_NN ._.
+I_PRP have_VBP a_DT car_NN but_CC I_PRP usually_RB go_VBP everywhere_RB by_IN public_JJ transport_NN ._.
+I_PRP only_RB use_VBP the_DT car_NN to_TO go_VB outside_IN the_DT city_NN ._.
+However_RB ,_, nowdays_NNS are_VBP a_DT lot_NN of_IN cars_NNS everywhere_RB and_CC ,_, in_IN general_JJ ,_, we_PRP use_VBP the_DT car_NN for_IN go_VB everywhere_RB ._.
+Consequently_RB ,_, it_PRP 's_VBZ difficult_JJ to_TO imagine_VB a_DT city_NN with_IN fewer_JJR cars_NNS ._.
+I_PRP really_RB think_VBP that_IN in_IN a_DT short_JJ period_NN of_IN time_NN it_PRP will_MD be_VB less_RBR cars_NNS everywhere_RB ._.
+There_EX are_VBP a_DT lot_NN of_IN reasons_NNS for_IN think_VBP like_IN that_DT ._.
+The_DT first_JJ one_CD ,_, is_VBZ that_IN in_IN some_DT years_NNS will_MD be_VB very_RB expensive_JJ use_NN the_DT car_NN ._.
+For_IN example_NN ,_, the_DT petroleum_NN resources_NNS are_VBP finishing_VBG and_CC everyday_JJ the_DT gas_NN price_NN is_VBZ increasing_VBG ._.
+Another_DT example_NN is_VBZ that_IN in_IN Barcelona_NNP in_IN most_JJS of_IN the_DT places_NNS we_PRP have_VBP to_TO pay_VB to_TO park_VB the_DT car_NN ._.
+This_DT reasons_NNS make_VBP public_JJ transport_NN cheaper_JJR in_IN comparation_NN with_IN car_NN 's_POS price_NN ._.
+The_DT second_JJ reason_NN is_VBZ that_IN in_IN the_DT big_JJ cities_NNS is_VBZ faster_RBR go_VB by_IN public_JJ transport_NN everywhere_RB than_IN go_VB by_IN car_NN ._.
+We_PRP have_VBP a_DT very_RB functional_JJ and_CC complete_JJ underway_NN ,_, with_IN a_DT lot_NN of_IN lines_NNS ._.
+It_PRP is_VBZ also_RB very_RB regular_JJ ,_, we_PRP have_VBP one_CD every_DT five_CD or_CC ten_CD minutes_NNS ._.
+Moreover_RB ,_, there_EX are_VBP a_DT lot_NN of_IN underway_NN stations_NNS in_IN the_DT city_NN ._.
+If_IN you_PRP use_VBP this_DT stations_NNS you_PRP do_VBP n't_RB have_VB to_TO spend_VB time_NN looking_VBG for_IN a_DT place_NN to_TO park_VB the_DT car_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT people_NNS who_WP live_VBP outside_IN the_DT city_NN has_VBZ a_DT lot_NN of_IN problems_NNS for_IN use_NN public_JJ transport_NN ._.
+In_IN most_JJS of_IN the_DT little_JJ cities_NNS or_CC towns_NNS ,_, the_DT public_JJ transport_NN only_RB works_VBZ one_CD time_NN in_IN an_DT hour_NN or_CC maybe_RB the_DT station_NN is_VBZ at_IN 30_CD minutes_NNS walking_VBG ._.
+If_IN this_DT happens_VBZ ,_, it_PRP 's_VBZ easier_JJR and_CC faster_RBR go_VB by_IN car_NN than_IN use_VB a_DT public_JJ transport_NN ._.
+In_IN summary_NN ,_, I_PRP think_VBP that_IN the_DT number_NN of_IN cars_NNS will_MD decrease_VB in_IN the_DT big_JJ cities_NNS ,_, with_IN good_JJ public_JJ transport_NN ,_, and_CC it_PRP will_MD be_VB the_DT same_JJ in_IN the_DT litlle_NN cities_NNS and_CC towns_NNS ._.
+Unless_IN the_DT goverment_NN improve_VB the_DT public_JJ transport_NN overthere_NN ._.
+In_IN conclusion_NN I_PRP think_VBP that_IN it_PRP will_MD be_VB fewer_JJR cars_NNS in_IN the_DT future_NN but_CC it_PRP will_MD not_RB happen_VB everywhere_RB ._.

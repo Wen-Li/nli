@@ -1,0 +1,10 @@
+I_PRP disagree_VBP with_IN this_DT statement_NN because_IN in_IN my_PRP$ opinion_NN for_IN the_DT new_JJ work_NN 's_POS world_NN is_VBZ more_RBR important_JJ be_VB specialized_VBN in_IN one_CD specific_JJ subject_NN than_IN in_IN many_JJ academic_JJ subjects_NNS ._.
+I_PRP think_VBP that_IN because_IN in_IN my_PRP$ school_NN I_PRP have_VBP studied_VBN a_DT lot_NN of_IN subjects_NNS but_CC I_PRP admit_VBP saying_VBG many_JJ things_NNS but_CC these_DT subjects_NNS are_VBP n't_RB studied_VBN in_IN a_DT specific_JJ way_NN ._.
+In_IN fact_NN I_PRP have_VBP found_VBN a_DT lot_NN of_IN problems_NNS when_WRB I_PRP came_VBD in_IN my_PRP$ university_NN ,_, where_WRB is_VBZ important_JJ only_RB one_CD specific_JJ subject_NN ._.
+The_DT new_JJ world_NN of_IN the_DT work_NN ,_, in_IN my_PRP$ opinion_NN ,_, requests_NNS a_DT specific_JJ kind_NN of_IN worker_NN ._.
+In_IN fact_NN now_RB there_EX are_VBP many_JJ type_NN of_IN works_NNS and_CC the_DT number_NN of_IN people_NNS who_WP have_VBP broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS are_VBP not_RB increasing_VBG ._.
+I_PRP try_VBP to_TO use_VB an_DT example_NN ._.
+An_DT architect_NN that_WDT creates_VBZ all_DT of_IN the_DT parts_NNS of_IN his_PRP$ project_NN is_VBZ rare_JJ ._.
+We_PRP can_MD find_VB a_DT lot_NN of_IN architects_NNS or_CC designers_NNS that_WDT are_VBP specialized_VBN only_RB in_IN one_CD specific_JJ subject_NN ._.
+It_PRP is_VBZ so_RB because_RB is_VBZ changed_VBN the_DT university_NN and_CC the_DT new_JJ work_NN 's_POS world_NN searches_NNS different_JJ kind_NN of_IN workers_NNS ._.
+So_RB ,_, I_PRP think_VBP that_DT is_VBZ important_JJ study_NN one_CD specific_JJ subject_NN and_CC do_VBP the_DT best_JJS work_NN that_IN I_PRP could_MD make_VB ._.

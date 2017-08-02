@@ -1,0 +1,14 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN for_IN the_DT following_VBG reaons_NNS ._.
+First_RB ,_, I_PRP believe_VBP that_IN the_DT governments_NNS of_IN many_JJ countries_NNS in_IN the_DT world_NN are_VBP recently_RB beginning_VBG to_TO restrict_VB the_DT use_NN of_IN cars_NNS because_IN of_IN their_PRP$ several_JJ serious_JJ problems_NNS ._.
+For_IN example_NN ,_, cars_NNS emit_VBP carbon_NN monoxide_RB when_WRB they_PRP burn_VBP gasoline_NN ,_, which_WDT is_VBZ poisonous_JJ to_TO people_NNS ,_, animals_NNS and_CC plants_NNS ._.
+In_IN addition_NN ,_, cars_NNS also_RB emit_VBP caron_NN dioxide_NN which_WDT is_VBZ responsible_JJ for_IN the_DT greenhouse_NN effect_NN ._.
+Second_RB ,_, the_DT governments_NNS also_RB restrict_VBP the_DT use_NN of_IN vehicles_NNS due_JJ to_TO fear_VB to_TO depletion_NN of_IN natural_JJ resources_NNS ,_, especially_RB petroleum_NN ._.
+That_DT valuable_JJ natural_JJ resource_NN is_VBZ necessary_JJ for_IN vehicles_NNS to_TO move_VB --_: i.e._FW ,_, to_TO burn_VB gasoline_NN ._.
+In_IN addition_NN ,_, it_PRP is_VBZ necessary_JJ to_TO manufacture_VB vehicles_NNS ._.
+For_IN example_NN ,_, the_DT process_NN of_IN manufacturing_VBG cars_NNS needs_VBZ high_JJ temperature_NN which_WDT is_VBZ given_VBN by_IN petroleum_NN ._.
+Moreover_RB ,_, cars_NNS use_VBP plastics_NNS as_IN parts_NNS thereof_RB ,_, and_CC needless_JJ to_TO say_VB ,_, plastics_NNS are_VBP produced_VBN from_IN petroleum_NN ._.
+In_IN addition_NN ,_, according_VBG to_TO medias_NNS and_CC recent_JJ official_JJ reports_NNS by_IN United_NNP Nations_NNPS ,_, the_DT governments_NNS of_IN many_JJ countries_NNS in_IN the_DT world_NN are_VBP not_RB only_RB beginning_VBG to_TO restrict_VB the_DT use_NN of_IN cars_NNS ,_, but_CC also_RB trying_VBG to_TO find_VB alternative_JJ transportaions_NNS which_WDT do_VBP not_RB have_VB problems_NNS which_WDT cars_NNS have_VBP ._.
+For_IN example_NN ,_, in_IN my_PRP$ nation_NN ,_, Japan_NNP ,_, the_DT govenment_NN has_VBZ been_VBN investing_VBG in_IN the_DT research_NN for_IN commercializing_VBG of_IN the_DT ``_`` linear_JJ motor_NN car_NN ''_'' ._.
+It_PRP moves_VBZ by_IN energy_NN of_IN magnetts_NNS ,_, so_RB that_IN does_VBZ not_RB emit_VB any_DT poisonous_JJ gas_NN ._.
+Experts_NNS estimate_VBP that_IN the_DT linear_JJ motor_NN car_NN will_MD be_VB used_VBN more_RBR popurarly_RB in_IN 15_CD years_NNS ._.
+Therefore_RB ,_, I_PRP agree_VBP the_DT opinion_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN used_VBN than_IN there_EX are_VBP today_NN for_IN there_EX reasons_NNS ._.

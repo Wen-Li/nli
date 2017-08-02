@@ -1,0 +1,13 @@
+I_PRP agree_VBP with_IN the_DT statement_NN because_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ to_TO learn_VB facts_NNS ._.
+First_JJ factor_NN is_VBZ the_DT age_NN at_IN this_DT age_NN as_IN student_NN it_PRP is_VBZ better_JJR to_TO learn_VB the_DT concepts_NNS and_CC understand_VB the_DT ideas_NNS because_IN at_IN this_DT age_NN we_PRP should_MD learn_VB about_IN the_DT concepts_NNS which_WDT are_VBP first_JJ step_NN for_IN a_DT student_NN ._.
+At_IN this_DT age_NN student_NN can_MD easily_RB get_VB the_DT point_NN of_IN concepts_NNS ._.
+for_IN example_NN take_VBP a_DT student_NN of_IN 7th_JJ standared_VBN in_IN that_DT class_NN teachers_NNS teach_VBP the_DT basics_NNS of_IN the_DT subject_JJ so_IN it_PRP is_VBZ time_NN for_IN him_PRP learn_VBP the_DT concepts_NNS then_RB facts_NNS ._.
+Second_NNP is_VBZ as_IN the_DT student_NN grows_VBZ older_JJR he_PRP can_MD learn_VB about_IN the_DT facts_NNS ._.
+Any_DT student_NN how_WRB is_VBZ getting_VBG older_JJR can_MD learn_VB from_IN his_PRP$ past_JJ about_IN the_DT facts_NNS ._.
+For_IN example_NN consider_VBP 10_CD th_DT standard_JJ student_NN as_IN he_PRP gets_VBZ older_JJR he_PRP realizes_VBZ the_DT facts_NNS in_IN this_DT world_NN ._.
+So_IN it_PRP is_VBZ better_RBR for_IN him_PRP concertrate_VB on_IN his_PRP$ studies_NNS then_RB knowing_VBG about_IN the_DT facts_NNS ._.
+Third_NNP is_VBZ it_PRP 's_VBZ the_DT time_NN of_IN student_NN to_TO improve_VB his_PRP$ skills_NNS on_IN the_DT studies_NNS because_IN if_IN he_PRP improves_VBZ his_PRP$ skills_NNS in_IN it_PRP then_RB he_PRP is_VBZ automitacially_RB learns_VBZ about_IN the_DT facts_NNS in_IN it_PRP ._.
+For_IN example_NN consider_VBP a_DT student_NN how_WRB is_VBZ studying_VBG 12th_JJ standard_NN he_PRP learns_VBZ from_IN his_PRP$ past_JJ life_NN the_DT facts_NNS in_IN it_PRP ._.
+as_IN he_PRP growsup_VBZ he_PRP knows_VBZ more_RBR about_IN the_DT facts_NNS so_IN it_PRP is_VBZ better_RBR for_IN student_NN to_TO concentrate_VB on_IN understanding_VBG the_DT ideas_NNS and_CC the_DT concepts_NNS ._.
+Forth_NNP at_IN the_DT student_NN age_NN knowing_VBG about_IN the_DT facts_NNS can_MD cause_VB problems_NNS fro_RB example_NN it_PRP is_VBZ not_RB correct_VB for_IN primary_JJ student_NN to_TO know_VB about_IN sex_NN in_IN his_PRP$ childhood_NN it_PRP tends_VBZ to_TO life_NN of_IN that_DT student_NN ._.
+Finally_RB i_FW conclude_VBP that_IN it_PRP is_VBZ better_RBR for_IN students_NNS to_TO understand_VB the_DT ideas_NNS and_CC the_DT concepts_NNS then_RB to_TO learn_VB facts_NNS at_IN this_DT age_NN ._.

@@ -1,0 +1,29 @@
+Cars_NNS destroy_VBP environment_NN ._.
+So_RB there_EX are_VBP many_JJ peoples_NNS that_WDT dont't_VBP like_IN cars_NNS ._.
+And_CC there_EX are_VBP many_JJ other_JJ way_NN to_TO moving_VBG ._.
+Some_DT people_NNS think_VBP that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+But_CC I_PRP disagree_VBP with_IN this_DT idea_NN ._.
+I_PRP have_VBP three_CD reasons_NNS for_IN cars_NNS in_IN use_NN will_MD increase_VB ._.
+Firse_NN is_VBZ by_IN calculating_VBG ,_, Second_NNP is_VBZ by_IN scientists_NNS ._.
+Third_NNP is_VBZ by_IN people_NNS mind_NN ._.
+There_EX are_VBP first_JJ reason_NN ._.
+After_IN cars_NNS made_VBN ,_, cars_NNS in_IN use_NN was_VBD increased_VBN without_IN exapt_NN ._.
+And_CC many_JJ people_NNS who_WP do_VBP n't_RB have_VB a_DT car_NN wants_VBZ buy_VB a_DT car_NN ._.
+In_IN simple_JJ calculate_VBP ,_, we_PRP can_MD imagine_VB that_IN the_DT number_NN of_IN cars_NNS will_MD increase_VB ._.
+Second_JJ reason_NN is_VBZ here_RB ._.
+We_PRP can_MD solve_VB cars-environment_NN problem_NN ._.
+There_EX are_VBP many_JJ scientist_NN that_WDT study_NN about_IN cars-environment_NN problems_NNS ._.
+And_CC they_PRP reported_VBD the_DT way_NN for_IN solve_VB car-environment_JJ problems_NNS ._.
+And_CC nowdays_RB ,_, there_EX are_VBP electric-car_NN and_CC hybernation-car_NN ._.
+Third_NNP ,_, people_NNS wants_VBZ move_NN fast_RB ._.
+And_CC moving_VBG by_IN Car_NN is_VBZ easy_JJ and_CC economy_NN way_NN for_IN move_NN to_TO near_IN place_NN ._.
+For_IN example_NN ,_, when_WRB you_PRP want_VBP to_TO go_VB to_TO friend_NN 's_POS party_NN ,_, and_CC the_DT friend_NN 's_POS house_NN is_VBZ 1_CD Km_NN from_IN your_PRP$ house_NN ._.
+What_WDT way_NN is_VBZ easy_JJ and_CC economy_NN way_NN ?_.
+You_PRP can_MD not_RB use_VB plane_NN for_IN 1Km_NN ._.
+And_CC Ther_NNP are_VBP no_DT terminal_JJ between_IN your_PRP$ house_NN and_CC your_PRP$ friend_NN 's_POS house_NN ._.
+We_PRP discussed_VBD about_IN future_NN of_IN cars_NNS in_IN use_NN ._.
+There_EX are_VBP three_CD reasons_NNS for_IN cars_NNS in_IN use_NN will_MD increase_VB ._.
+first_RB ,_, in_IN past_NN ,_, cars_NNS in_IN use_NN was_VBD increased_VBN ._.
+Second_RB ,_, we_PRP are_VBP solving_VBG cars-environment_NN problems_NNS ._.
+Third_NNP ,_, people_NNS want_VBP move_NN fast_RB ._.
+So_IN we_PRP can_MD think_VB easily_RB that_IN cars_NNS in_IN use_NN will_MD be_VB more_RBR ._.

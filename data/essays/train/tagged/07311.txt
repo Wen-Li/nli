@@ -1,0 +1,17 @@
+The_DT Number_NNP of_IN Cars_NNPS in_IN 20_CD Years_NNS
+Cars_NNS have_VBP been_VBN one_CD of_IN the_DT most_RBS impressive_JJ invents_NNS of_IN last_JJ centuries_NNS ._.
+However_RB ,_, in_IN twenty_CD years_NNS ,_, there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+Declining_VBG oil_NN reserves_NNS and_CC oil_NN prices_NNS and_CC the_DT increasing_VBG level_NN of_IN traffic_NN in_IN the_DT cities_NNS will_MD decrease_VB the_DT amount_NN of_IN cars_NNS in_IN use_NN ._.
+People_NNS will_MD use_VB public_JJ transportation_NN instead_RB of_IN their_PRP$ cars_NNS ._.
+Oil_NN prices_NNS have_VBP increased_VBN dramatically_RB since_IN the_DT invent_VB of_IN cars_NNS and_CC other_JJ vehicles_NNS using_VBG it_PRP ._.
+The_DT amount_NN of_IN oil_NN in_IN the_DT world_NN is_VBZ limited_JJ but_CC on_IN the_DT other_JJ side_NN the_DT need_NN for_IN oil_NN is_VBZ increasing_VBG ._.
+Although_IN the_DT new_JJ explorations_NNS of_IN oil_NN fields_NNS can_MD contribute_VB to_TO get_VB additional_JJ reserves_NNS ,_, the_DT need_NN for_IN oil_NN is_VBZ increasing_VBG more_RBR rapidly_RB than_IN the_DT explorations_NNS ._.
+With_IN the_DT increasing_VBG cost_NN of_IN drilling_NN oil_NN by_IN these_DT exploration_NN the_DT price_NN of_IN oil_NN get_VBP higher_JJR day_NN by_IN day_NN ._.
+The_DT cost_NN of_IN driving_VBG a_DT car_NN is_VBZ really_RB becoming_VBG a_DT big_JJ burden_NN for_IN family_NN and_CC country_NN budgets_NNS ._.
+By_IN the_DT increasing_VBG number_NN of_IN cars_NNS ,_, the_DT traffic_NN in_IN the_DT cities_NNS becomes_VBZ untolerable_JJ ,_, people_NNS start_VBP to_TO complain_VB frequently_RB about_IN the_DT the_DT traffic_NN jam_NN they_PRP are_VBP experiencing_VBG ._.
+You_PRP are_VBP buying_VBG cars_NNS and_CC spending_NN huge_JJ amount_NN of_IN money_NN ,_, but_CC all_DT you_PRP experience_NN is_VBZ getting_VBG tired_VBN in_IN traffic_NN ._.
+Public_NNP transportation_NN is_VBZ improving_VBG ._.
+The_DT comfortable_JJ subways_NNS and_CC nicely_RB organized_VBN services_NNS will_MD persuade_VB the_DT car_NN owners_NNS to_TO get_VB rid_JJ of_IN their_PRP$ cars_NNS ._.
+They_PRP will_MD save_VB money_NN and_CC avoid_VB driving_VBG in_IN traffic_NN jam_NN ._.
+People_NNS will_MD leave_VB their_PRP$ cars_NNS and_CC the_DT number_NN of_IN cars_NNS in_IN use_NN will_MD decline_VB in_IN twenty_CD years_NNS ._.
+Considering_VBG the_DT oil_NN reserves_NNS and_CC oil_NN prices_NNS and_CC the_DT crowded_JJ traffic_NN ,_, they_PRP will_MD substitute_VB to_TO public_JJ transportation_NN for_IN the_DT sake_NN of_IN saving_VBG money_NN and_CC not_RB affecting_VBG by_IN the_DT traffic_NN ._.

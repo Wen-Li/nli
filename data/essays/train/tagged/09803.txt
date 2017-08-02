@@ -1,0 +1,16 @@
+Centuries_NNS ago_RB ,_, a_DT writer_NN could_MD also_RB be_VB a_DT doctor_NN ,_, a_DT scientist_NN and_CC an_DT economist_NN ._.
+People_NNS used_VBN to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjetcs_NNS as_IN it_PRP is_VBZ illustrated_VBN in_IN the_DT book_NN Gargantua_NN by_IN Rabelais_NNP ._.
+Nowadays_RB ,_, people_NNS become_VBP more_RBR and_CC more_RBR specialized_VBN ._.
+Let_VB 's_PRP face_VB it_PRP ,_, our_PRP$ knowledge_NN is_VBZ so_RB huge_JJ in_IN every_DT academic_JJ subjetc_NN that_IN it_PRP is_VBZ impossible_JJ to_TO know_VB everything_NN in_IN every_DT topic_NN ._.
+There_EX is_VBZ a_DT common_JJ joke_NN in_IN Economics_NNP thats_NNS points_VBZ out_RP that_IN every_DT economist_NN gets_VBZ specialized_VBN in_IN a_DT very_RB specific_JJ topic_NN and_CC does_VBZ not_RB know_VB anything_NN about_IN the_DT rest_NN ._.
+It_PRP is_VBZ a_DT consequence_NN of_IN the_DT specialization_NN of_IN people_NNS that_WDT took_VBD place_NN in_IN the_DT nineteenth_JJ century_NN ._.
+Indeed_RB ,_, progress_NN has_VBZ been_VBN made_VBN in_IN many_JJ areas_NNS and_CC the_DT knowledge_NN has_VBZ increased_VBN ._.
+In_IN this_DT respect_NN ,_, medecine_NN is_VBZ a_DT case_NN in_IN point_NN ,_, people_NNS used_VBN to_TO know_VB very_RB little_JJ about_IN the_DT organistation_NN of_IN the_DT human_JJ body_NN but_CC nowadays_RB ,_, the_DT knowledge_NN is_VBZ so_RB broad_JJ that_IN doctors_NNS have_VBP to_TO get_VB specialized_VBN to_TO be_VB efficient_JJ ._.
+Furthermore_RB ,_, the_DT only_JJ doctors_NNS who_WP remain_VBP generalists_NNS ca_MD n't_RB cure_VB everything_NN and_CC they_PRP often_RB send_VBP you_PRP to_TO a_DT specialist_NN to_TO resolve_VB your_PRP$ problem_NN ._.
+However_RB ,_, a_DT bad_JJ consequence_NN of_IN this_DT specialization_NN is_VBZ that_IN people_NNS do_VBP n't_RB know_VB any_DT more_JJR everything_NN about_IN their_PRP$ own_JJ subject_NN ._.
+If_IN you_PRP have_VBP a_DT broken_JJ leg_NN ,_, a_DT neurologist_NN wo_MD n't_RB be_VB able_JJ to_TO do_VB anything_NN to_TO help_VB you_PRP ._.
+But_CC anyway_RB ,_, according_VBG to_TO me_PRP ,_, this_DT evolution_NN towards_IN specialisation_NN is_VBZ useful_JJ and_CC ,_, moreover_RB ,_, ineluctable_JJ ._.
+It_PRP is_VBZ first_JJ ineluctable_JJ because_IN as_IN I_PRP have_VBP said_VBD the_DT knowledge_NN is_VBZ now_RB so_RB broad_JJ that_IN a_DT human_JJ being_VBG ca_MD n't_RB know_VB everything_NN ._.
+Furthermore_RB ,_, it_PRP is_VBZ useful_JJ because_IN it_PRP allows_VBZ us_PRP to_TO better_RBR understand_VB a_DT very_RB specific_JJ point_NN of_IN our_PRP$ subjetc_NN ._.
+For_IN instance_NN ,_, all_PDT the_DT progresses_VBZ that_IN have_VBP been_VBN made_VBN in_IN the_DT research_NN for_IN the_DT cancer_NN would_MD not_RB have_VB been_VBN possible_JJ without_IN this_DT specialization_NN ._.
+To_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjetcs_NNS is_VBZ pleasant_JJ but_CC it_PRP also_RB means_VBZ that_IN this_DT knowledge_NN will_MD remain_VB limited_JJ and_CC it_PRP 's_VBZ why_WRB specialization_NN is_VBZ needed_VBN ._.

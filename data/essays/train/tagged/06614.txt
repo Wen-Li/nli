@@ -1,0 +1,17 @@
+A_DT person_NN starts_VBZ to_TO learn_VB from_IN birth_NN to_TO death_NN ._.
+The_DT amount_NN of_IN knowledge_NN changes_NNS over_IN time_NN during_IN this_DT life_NN perod_NN ._.
+Its_PRP$ contents_NNS become_VBP more_RBR spesific_JJ and_CC detailed_JJ as_RB well_RB ._.
+A_DT baby_NN can_MD say_VB limited_JJ words_NNS until_IN he_PRP learn_VB his_PRP$ mother_NN language_NN ._.
+Therefore_RB ,_, specializing_VBG in_IN one_CD subject_NN is_VBZ in_IN the_DT nature_NN of_IN the_DT human_JJ being_NN ,_, so_IN it_PRP should_MD be_VB prior_RB to_TO having_VBG broad_JJ knowledge_NN in_IN a_DT person_NN 's_POS life_NN ._.
+The_DT school_NN contents_NNS are_VBP being_VBG specialized_VBN as_IN the_DT person_NN grows_VBZ ._.
+For_IN instance_NN ,_, in_IN primary_JJ school_NN ,_, there_EX is_VBZ no_DT majors_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, in_IN high_JJ schools_NNS or_CC universities_NNS ,_, the_DT person_NN chooses_VBZ his_PRP$ department_NN according_VBG to_TO his_PRP$ area_NN of_IN interest_NN ._.
+Moreover_RB ,_, comparing_VBG the_DT bachelor_NN degree_NN ,_, master_NN degree_NN is_VBZ more_RBR spesific_JJ on_IN one_CD subject_NN ._.
+Therefore_RB ,_, specialization_NN is_VBZ an_DT unevitiable_JJ process_NN that_IN we_PRP face_VBP during_IN our_PRP$ early_JJ period_NN of_IN our_PRP$ lives_NNS namely_RB the_DT education_NN period_NN ._.
+However_RB ,_, after_IN this_DT specialization_NN period_NN of_IN the_DT life_NN ,_, general_JJ information_NN becomes_VBZ more_RBR valuable_JJ to_TO the_DT person_NN ._.
+For_IN instance_NN ,_, a_DT computer_NN engineer_NN works_VBZ in_IN the_DT programming_NN department_NN of_IN a_DT company_NN until_IN the_DT age_NN of_IN 35_CD ,_, As_IN a_DT result_NN of_IN the_DT idealistic_JJ instinct_NN of_IN human_JJ being_NN ,_, he_PRP wants_VBZ to_TO get_VB higher_JJR degree_NN in_IN the_DT department_NN ._.
+However_RB ,_, an_DT executive_JJ master_NN degree_NN in_IN business_NN administration_NN is_VBZ required_VBN for_IN such_JJ a_DT position_NN ._.
+Therefore_RB ,_, the_DT person_NN gets_VBZ the_DT degree_NN to_TO reach_VB his_PRP$ goal_NN ._.
+When_WRB the_DT value_NN of_IN specific_JJ knowledge_NN decreases_VBZ ,_, having_VBG broad_JJ knowledge_NN becomes_VBZ more_RBR valuable_JJ ._.
+The_DT life_NN periods_NNS of_IN specialization_NN and_CC having_VBG broad_JJ knowledge_NN is_VBZ in_IN an_DT order_NN which_WDT affects_VBZ the_DT attitudes_NNS of_IN human_JJ towards_IN the_DT types_NNS of_IN knowledge_NN ._.
+Since_IN I_PRP am_VBP a_DT student_NN now_RB ,_, it_PRP is_VBZ better_JJR to_TO speacialize_VB in_IN one_CD spesific_JJ subject_NN ,_, however_RB ;_: when_WRB I_PRP become_VBP in_IN my_PRP$ thirties_NNS ,_, I_PRP will_MD probably_RB to_TO get_VB my_PRP$ knowledge_NN broader_JJR ._.

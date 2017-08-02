@@ -1,0 +1,18 @@
+I_PRP am_VBP agree_VBP with_IN the_DT statement_NN ._.
+Concept_NN is_VBZ nothing_NN but_CC the_DT theme_NN of_IN the_DT topic_NN ._.
+If_IN your_PRP$ concept_NN and_CC ideas_NNS about_IN any_DT particular_JJ topic_NN is_VBZ clear_JJ then_RB you_PRP can_MD add_VB number_NN of_IN facts_NNS for_IN that_DT concept_NN ._.
+Facts_NNS are_VBP nothing_NN but_CC a_DT type_NN of_IN example_NN for_IN any_DT concept_NN ._.
+For_IN example_NN theory_NN of_IN gravitation_NN ,_, Newton_NNP has_VBZ invented_VBN the_DT theory_NN of_IN gravitation_NN ._.
+If_IN your_PRP$ idea_NN and_CC concept_NN about_IN the_DT theroy_NN of_IN gravitation_NN is_VBZ clear_JJ then_RB you_PRP can_MD think_VB about_IN number_NN of_IN facts_NNS based_VBN on_IN this_DT theory_NN ._.
+You_PRP can_MD apply_VB your_PRP$ concept_NN wherever_WRB you_PRP find_VBP suitable_JJ ._.
+But_CC if_IN your_PRP$ ideas_NNS and_CC concept_NN is_VBZ not_RB clear_JJ then_RB you_PRP would_MD not_RB be_VB able_JJ to_TO convey_VB your_PRP$ opinion_NN and_CC facts_NNS ._.
+Students_NNS should_MD have_VB clear_JJ ideas_NNS about_IN the_DT topic_NN that_IN they_PRP are_VBP studying_VBG and_CC also_RB the_DT concept_NN behind_IN topic_NN should_MD be_VB clear_JJ ._.
+If_IN your_PRP$ concept_NN is_VBZ clear_JJ about_IN any_DT topic_NN then_RB you_PRP can_MD remember_VB the_DT topic_NN easily_RB and_CC forever_RB in_IN your_PRP$ mind_NN ._.
+And_CC if_IN you_PRP learn_VBP something_NN based_VBN on_IN facts_NNS rather_RB then_RB basic_JJ concept_NN that_WDT will_MD be_VB harder_JJR to_TO remember_VB ._.
+For_IN example_NN NEWS_NN is_VBZ a_DT simple_JJ english_JJ word_NN but_CC if_IN somebody_NN explain_VBP you_PRP about_IN this_DT word_NN I_PRP mean_VBP how_WRB the_DT word_NN NEWS_NN made_VBN ,_, then_RB it_PRP would_MD be_VB included_VBN in_IN your_PRP$ never-loss-memory_JJ section_NN of_IN your_PRP$ mind_NN ._.
+The_DT NEWS_NN word_NN made_VBD based_VBN on_IN the_DT following_VBG concept_NN :_:
+NEWS_NN =_JJ North_NN +_CC East_NN +_CC West_NN +_CC South_NN
+NEWS_NN word_NN is_VBZ the_DT combination_NN of_IN first_JJ letters_NNS of_IN four_CD words_NNS (_CD North_NNP ,_, East_NNP ,_, West_NNP and_CC South_NNP )_NNP ._.
+So_IN the_DT word_NN itself_PRP contains_VBZ inforamtion_NN about_IN all_DT four_CD directions_NNS and_CC give_VB you_PRP information_NN about_IN all_DT four_CD directions_NNS ._.
+So_RB this_DT is_VBZ the_DT concept_NN behind_IN the_DT word_NN NEWS_NN ._.
+Conclusion_NN ,_, As_IN per_IN as_IN my_PRP$ opinion_NN is_VBZ concerned_VBN about_IN the_DT statement_NN ,_, Ideas_NNS &_CC concept_NN behind_IN any_DT topic_NN or_CC subject_NN should_MD be_VB clear_JJ ,_, so_IN that_IN you_PRP can_MD use_VB that_IN knowldge_NN any_DT time_NN ,_, any_DT where_WRB ,_, and_CC forever_RB ._.

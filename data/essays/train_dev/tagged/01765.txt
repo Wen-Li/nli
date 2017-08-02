@@ -1,0 +1,20 @@
+Some_DT students_NNS think_VBP it_PRP is_VBZ more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN learning_VBG facts_NNS ._.
+I_PRP belong_VBP to_TO this_DT category_NN of_IN student_NN because_IN ideas_NNS and_CC concepts_NNS are_VBP more_RBR general_JJ and_CC easier_JJR to_TO understand_VB ._.
+The_DT first_JJ reason_NN why_WRB I_PRP think_VBP it_PRP 's_VBZ more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS is_VBZ the_DT variety_NN of_IN situation_NN I_PRP can_MD apply_VB the_DT same_JJ concepts_NNS ._.
+Sometimes_RB ,_, during_IN their_PRP$ studies_NNS ,_, people_NNS learn_VBP of_IN lot_NN of_IN different_JJ ideas_NNS from_IN their_PRP$ many_JJ courses_NNS ._.
+At_IN the_DT begining_NN ,_, students_NNS might_MD think_VB that_IN all_PDT the_DT concepts_NNS they_PRP learn_VBP are_VBP only_RB related_JJ to_TO the_DT classe_NN they_PRP are_VBP taking_VBG ._.
+However_RB ,_, students_NNS may_MD be_VB surprised_VBN that_IN a_DT specific_JJ topic_NN can_MD also_RB be_VB apply_VB to_TO other_JJ disciplines_NNS ._.
+For_IN instance_NN ,_, when_WRB I_PRP went_VBD to_TO the_DT University_NNP ,_, I_PRP enrolled_VBD in_IN a_DT seminar_NN of_IN ethical_JJ issues_NNS regarding_VBG medical_JJ interventions_NNS ._.
+At_IN first_RB ,_, I_PRP was_VBD n't_RB very_RB interested_JJ learning_VBG this_DT subject_JJ just_RB because_IN my_PRP$ major_JJ was_VBD in_IN business_NN ._.
+However_RB ,_, the_DT week_NN after_IN the_DT seminar_NN ,_, a_DT dramatic_JJ event_NN happend_NN ._.
+In_IN fact_NN ,_, my_PRP$ father_NN lost_VBD his_PRP$ job_NN without_IN logical_JJ reason_NN and_CC after_IN 25_CD years_NNS in_IN the_DT same_JJ company_NN ._.
+At_IN this_DT point_NN ,_, I_PRP changed_VBD my_PRP$ mind_NN and_CC I_PRP saw_VBD that_IN ethic_NN can_MD also_RB be_VB apply_VB in_IN business_NN management_NN because_IN obviously_RB the_DT company_NN in_IN which_WDT my_PRP$ father_NN worked_VBD had_VBD no_DT ethic_NN ._.
+Moreover_RB ,_, I_PRP think_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG facts_NNS because_IN it_PRP 's_VBZ easier_JJR ._.
+When_WRB people_NNS learn_VBP facts_NNS ,_, it_PRP could_MD be_VB very_RB hard_JJ to_TO understand_VB the_DT main_JJ idea_NN or_CC the_DT conclusion_NN of_IN an_DT event_NN ._.
+Indeed_RB ,_, facts_NNS often_RB involve_VBP different_JJ points_NNS of_IN view_NN and_CC conclusion_NN might_MD differ_VB from_IN a_DT person_NN to_TO another_DT ._.
+Unlike_IN fact_NN ,_, ideas_NNS and_CC concept_NN are_VBP the_DT most_JJS of_IN the_DT time_NN very_RB clear_JJ ._.
+For_IN example_NN ,_, if_IN a_DT student_NN in_IN an_DT economic_JJ class_NN learn_VBP the_DT concept_NN of_IN supply_NN and_CC demand_NN ,_, it_PRP must_MD be_VB very_RB clear_JJ because_IN everybody_NN agree_VBP with_IN this_DT concept_NN ._.
+However_RB ,_, the_DT fact_NN that_IN the_DT price_NN of_IN tomatoes_NNS has_VBZ increased_VBN after_IN a_DT twister_NN because_IN all_DT plantations_NNS were_VBD destoyed_VBN is_VBZ not_RB always_RB obvious_JJ ._.
+In_IN fact_NN ,_, many_JJ other_JJ factos_NNS might_MD be_VB involved_VBN in_IN this_DT phenomenon_NN ._.
+In_IN conclusion_NN ,_, I_PRP deem_VBP that_IN it_PRP 's_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS more_JJR than_IN learning_VBG facts_NNS ._.
+Nevertheless_RB ,_, after_IN having_VBG understand_VB concepts_NNS ,_, students_NNS may_MD have_VB the_DT opportunity_NN to_TO apply_VB these_DT ideas_NNS to_TO some_DT specifics_NNS facts_NNS ._.

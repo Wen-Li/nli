@@ -1,0 +1,21 @@
+Today_NN ,_, the_DT major_JJ means_NNS for_IN transportation_NN is_VBZ automobile_NN ._.
+Especially_RB in_IN Europe_NNP and_CC America_NNP ,_, a_DT family_NN may_MD own_VB up_RP to_TO 4_CD cars_NNS for_IN a_DT household_NN of_IN four_CD people_NNS ._.
+When_WRB added_VBN together_RB ,_, it_PRP makes_VBZ a_DT whole_JJ lot_NN of_IN cars_NNS out_IN there_RB ._.
+But_CC the_DT main_JJ reason_NN behind_IN this_DT is_VBZ that_IN owning_VBG a_DT car_NN is_VBZ the_DT most_RBS convenient_JJ way_NN to_TO get_VB around_RB ,_, and_CC since_IN it_PRP is_VBZ private_JJ property_NN ,_, you_PRP can_MD use_VB it_PRP anytime_RB you_PRP want_VBP ._.
+I_PRP believe_VBP that_IN the_DT number_NN of_IN cars_NNS may_MD decrease_VB in_IN twenty_CD years_NNS '_POS time_NN for_IN some_DT reasons_NNS ._.
+The_DT first_JJ reason_NN is_VBZ more_RBR like_IN sci-fi_NN ._.
+As_IN we_PRP are_VBP introduced_VBN to_TO a_DT new_JJ technology_NN everyday_NN ,_, it_PRP is_VBZ plausible_JJ enough_RB to_TO dream_NN of_IN a_DT different_JJ means_NNS of_IN transportation_NN as_IN convenient_JJ and_CC private_JJ as_IN a_DT car_NN ,_, such_JJ as_IN private_JJ helicopters_NNS ._.
+I_PRP have_VBP to_TO admit_VB twenty_CD years_NNS may_MD not_RB be_VB long_RB enough_RB for_IN scientists_NNS to_TO invent_VB small_JJ enough_JJ helicopters_NNS that_WDT would_MD fit_VB the_DT roofs_NNS of_IN suburban_JJ houses_NNS ._.
+But_CC as_IN I_PRP said_VBD ,_, it_PRP is_VBZ plausible_JJ ,_, at_IN least_JJS to_TO me_PRP ._.
+The_DT more_JJR solid_JJ reasons_NNS why_WRB I_PRP believe_VBP that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN near_JJ future_JJ concern_NN ecological_JJ ,_, demographic_JJ and_CC environmental_JJ issues_NNS ._.
+It_PRP is_VBZ already_RB obvious_JJ that_IN the_DT world_NN is_VBZ becoming_VBG over-populated_JJ ,_, especially_RB at_IN city_NN centers_NNS ._.
+At_IN such_JJ places_NNS ,_, the_DT traffic_NN is_VBZ jammed_VBN more_JJR than_IN anywhere_RB else_RB ._.
+Dangerous_JJ gases_NNS that_WDT cars_NNS produce_VBP not_RB only_RB pollute_VB the_DT air_NN ,_, they_PRP also_RB affect_VBP the_DT course_NN of_IN climates_NNS ,_, changing_VBG ._.
+They_PRP also_RB harm_VBP the_DT health_NN of_IN people_NNS ._.
+It_PRP could_MD be_VB argued_VBN that_IN we_PRP can_MD get_VB rid_JJ of_IN the_DT pollution_NN by_IN using_VBG fuels_NNS other_JJ than_IN gas_NN ,_, but_CC the_DT problem_NN of_IN traffic_NN would_MD still_RB remain_VB ,_, hence_RB it_PRP would_MD not_RB be_VB a_DT complete_JJ solution_NN ._.
+Concerned_JJ scientists_NNS and_CC engineers_NNS are_VBP already_RB thinking_VBG about_IN ways_NNS to_TO lessen_VB the_DT number_NN of_IN cars_NNS ._.
+One_CD good_JJ way_NN to_TO do_VB that_DT is_VBZ to_TO establish_VB better_JJR means_NNS of_IN public_JJ transportation_NN :_: wide_JJ enough_JJ to_TO reach_VB anywhere_RB a_DT person_NN may_MD want_VB to_TO go_VB at_IN all_DT hours_NNS of_IN the_DT day_NN ._.
+Such_PDT a_DT solution_NN would_MD avoid_VB traffic_NN jams_NNS and_CC cause_VB less_JJR air_NN pollution_NN ._.
+With_IN a_DT good_JJ public_NN transportation_NN ,_, especially_RB if_IN it_PRP costs_VBZ cheaper_JJR than_IN gas_NN ,_, people_NNS would_MD be_VB encouraged_VBN to_TO use_VB it_PRP instead_RB of_IN cars_NNS ._.
+Hence_RB ,_, the_DT number_NN of_IN cars_NNS would_MD decrease_VB in_IN near_JJ future_NN ._.
+I_PRP believe_VBP this_DT change_NN will_MD take_VB place_NN in_IN near_JJ future_NN and_CC we_PRP will_MD hopefully_RB see_VB less_JJR cars_NNS on_IN the_DT roads_NNS ._.

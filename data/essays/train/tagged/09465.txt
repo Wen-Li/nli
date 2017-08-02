@@ -1,0 +1,29 @@
+Education_NN is_VBZ most_RBS important_JJ thing_NN for_IN improving_VBG ,_, but_CC education_NN style_NN is_VBZ more_JJR than_IN important_JJ education_NN ._.
+Because_IN ,_, education_NN style_NN effect_NN future_JJ improvement_NN in_IN the_DT science_NN ._.
+How_WRB can_MD we_PRP educate_VB the_DT students_NNS ?_.
+Must_MD students_NNS understand_VB ideas_NNS and_CC concepts_NNS or_CC learn_VB facts_NNS ?_.
+I_PRP agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+First_NNP of_IN all_DT ,_, students_NNS must_MD understand_VB ideas_NNS and_CC concepts_NNS ._.
+Because_IN ,_, If_IN they_PRP do_VBP not_RB understand_VB base_NN of_IN theory_NN ._.
+They_PRP can_MD not_RB improve_VB their_PRP$ information_NN about_IN issues_NNS ._.
+They_PRP only_RB try_VBP to_TO remember_VB everthing_NN which_WDT they_PRP learned_VBD ._.
+So_RB ,_, we_PRP must_MD teach_VB the_DT students_NNS how_WRB they_PRP understand_VBP ideas_NNS and_CC concepts_NNS ._.
+When_WRB a_DT student_NN learn_VBP the_DT idea_NN and_CC concept_NN about_IN something_NN ._.
+They_PRP can_MD understand_VB a_DT lot_NN of_IN thing_NN related_JJ with_IN that_DT issue_NN easily_RB and_CC improve_VB themselves_PRP alone_RB ._.
+For_IN example_NN ,_, a_DT student_NN is_VBZ tring_VBG to_TO learn_VB an_DT issue_NN about_IN mathematic_NN ._.
+If_IN he_PRP does_VBZ not_RB understand_VB ideas_NNS and_CC concepts_NNS related_JJ issue_NN ._.
+He_PRP does_VBZ not_RB learn_VB that_DT issue_NN ._.
+He_PRP will_MD not_RB that_IN course_NN in_IN future_JJ and_CC we_PRP will_MD lose_VB this_DT student_NN ._.
+If_IN we_PRP teach_VBP him_PRP ideas_NNS and_CC concepts_NNS correctly_RB ,_, he_PRP will_MD like_VB that_IN course_NN and_CC we_PRP will_MD not_RB lose_VB this_DT student_NN ._.
+He_PRP will_MD work_VB for_IN science_NN in_IN future_NN ._.
+Learning_NNP facts_NNS is_VBZ other_JJ way_NN of_IN teaching_NN ,_, but_CC I_PRP think_VBP that_IN it_PRP is_VBZ old_JJ way_NN ._.
+when_WRB we_PRP try_VBP to_TO teach_VB students_NNS facts_NNS about_IN something_NN ._.
+They_PRP must_MD remember_VB everything_NN related_JJ that_IN issue_NN ._.
+A_DT lot_NN of_IN student_NN do_VBP not_RB like_VB remember_VB something_NN where_WRB they_PRP come_VBP ._.
+It_PRP is_VBZ diffucult_JJ and_CC boring_JJ for_IN them_PRP ._.
+They_PRP do_VBP not_RB know_VB anything_NN about_IN course_NN ._.
+They_PRP must_MD remember_VB a_DT lot_NN thing_NN ._.
+Maybe_RB ,_, they_PRP will_MD remember_VB everthing_NN which_WDT teacher_NN says_VBZ but_CC ,_, they_PRP will_MD forget_VB everthing_NN ._.
+they_PRP do_VBP not_RB remember_VB anything_NN in_IN future_JJ related_JJ courses_NNS ._.
+Thus_RB ,_, learning_VBG facts_NNS is_VBZ not_RB good_JJ way_NN ._.
+In_IN conclusion_NN ,_, we_PRP must_MD choose_VB teaching_NN how_WRB to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, not_RB chos_NNS

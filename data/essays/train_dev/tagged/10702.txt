@@ -1,0 +1,5 @@
+I_PRP think_VBP that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS than_IN there_EX are_VBP today_NN ._.
+Because_IN scientists_NNS are_VBP researching_VBG a_DT wide_JJ range_NN of_IN new_JJ transfortations_NNS ._.
+Now_RB ,_, humakind_JJ face_NN the_DT cricis_NN of_IN energe_NN lack_NN ,_, so_IN we_PRP need_VBP to_TO invent_VB new_JJ alternative_NN ._.
+If_IN they_PRP invent_VBP environmental_JJ trasportation_NN ,_, the_DT number_NN of_IN cars_NNS will_MD decline_VB ._.
+As_IN a_DT result_NN ,_, I_PRP agree_VBP that_IN cars_NNS in_IN use_NN will_MD be_VB fewer_JJR and_CC fewer_JJR ._.

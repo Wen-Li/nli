@@ -1,0 +1,19 @@
+It_PRP 's_VBZ equally_RB important_JJ for_IN a_DT student_NN to_TO undertand_NN ideas_NNS or_CC concepts_NNS and_CC facts_NNS ._.
+When_WRB students_NNS are_VBP begining_NN with_IN their_PRP$ education_NN ,_, they_PRP just_RB learn_VBP facts_NNS ._.
+For_IN example_NN :_: that_IN 2_CD x_CC 3_CD is_VBZ 6_CD or_CC that_DT balloons_NNS can_MD float_VB in_IN the_DT air_NN ._.
+However_RB ,_, to_TO achive_VB a_DT better_JJR comprehension_NN of_IN that_DT fact_NN ,_, they_PRP need_VBP to_TO know_VB all_PDT the_DT ideas_NNS and_CC concepts_NNS that_WDT are_VBP behind_IN it_PRP ._.
+They_PRP have_VBP to_TO learn_VB the_DT idea_NN about_RB ,_, fo_NN example_NN multiplications_NNS ,_, to_TO be_VB more_RBR efficient_JJ doing_VBG them_PRP and_CC to_TO applicate_VB them_PRP in_IN other_JJ problems_NNS ._.
+About_IN the_DT example_NN of_IN the_DT balloon_NN ,_, when_WRB the_DT students_NNS ,_, finally_RB know_VB that_IN the_DT principle_NN about_IN densities_NNS is_VBZ the_DT responsible_JJ that_IN the_DT balloon_NN to_TO float_VB in_IN the_DT air_NN ,_, they_PRP will_MD understand_VB better_JJR the_DT phenomenon_NN and_CC similar_JJ facts_NNS too_RB ._.
+We_PRP ,_, the_DT people_NNS ,_, create_VB ideas_NNS and_CC concepts_NNS to_TO explain_VB better_JJR all_PDT the_DT facts_NNS that_WDT surrounds_VBZ us_PRP ._.
+A_DT theory_NN or_CC state_NN is_VBZ assigned_VBN when_WRB we_PRP see_VBP a_DT fact_NN ._.
+For_IN example_NN ,_, Galileo_NNP formulated_VBD the_DT theory_NN about_IN the_DT gravity_NN when_WRB he_PRP saw_VBD that_IN an_DT apple_NN dropped_VBD down_RP from_IN a_DT tree_NN and_CC hit_VBD his_PRP$ head_NN ._.
+An_DT idea_NN or_CC concept_NN that_WDT do_VBP n't_RB explain_VB something_NN that_IN we_PRP can_MD see_VB in_IN our_PRP$ surrounding_NN is_VBZ near_IN useless_JJ ._.
+For_IN what_WP does_VBZ we_PRP can_MD use_VB a_DT theory_NN that_WDT does_VBZ n't_RB explain_VB any_DT observable_JJ and_CC measurable_JJ besides_IN nothing_NN ?_.
+But_CC ,_, in_IN the_DT other_JJ hand_NN ,_, some_DT ideas_NNS have_VBP helped_VBN us_PRP to_TO see_VB facts_NNS that_IN we_PRP did_VBD n't_RB saw_VBD before_RB ._.
+For_IN example_NN ,_, the_DT ideas_NNS and_CC concepts_NNS of_IN the_DT early_JJ periodic_JJ table_NN of_IN chemistry_NN ,_, suggested_VBD the_DT presence_NN of_IN new_JJ elements_NNS ._.
+This_DT was_VBD confirmed_VBN with_IN the_DT discover_VBP of_IN oxygen_NN ,_, which_WDT was_VBD n't_RB discovered_VBN till_IN several_JJ studies_NNS of_IN the_DT combustion_NN ._.
+It_PRP 's_VBZ imperative_JJ to_TO remember_VB that_IN the_DT students_NNS will_MD understand_VB the_DT ideas_NNS and_CC concepts_NNS when_WRB they_PRP have_VBP the_DT necessary_JJ knowledge_NN and_CC the_DT mental_JJ abilities_NNS ._.
+It_PRP 's_VBZ really_RB difficult_JJ trying_VBG to_TO teach_VB a_DT kid_NN of_IN 5_CD years_NNS the_DT ideas_NNS and_CC concepts_NNS that_WDT students_NNS graduate_VBP schools_NNS see_VB ._.
+They_PRP will_MD understand_VB the_DT ideas_NNS when_WRB they_PRP reach_VBP the_DT indicated_VBN age_NN ._.
+Finally_RB ,_, not_RB the_DT facts_NNS nor_CC the_DT ideas_NNS are_VBP the_DT most_RBS important_JJ things_NNS that_IN the_DT students_NNS have_VBP to_TO learn_VB ._.
+To_TO achieve_VB a_DT complete_JJ education_NN ,_, they_PRP need_VBP to_TO learn_VB facts_NNS and_CC to_TO understand_VB ideas_NNS in_IN the_DT same_JJ amount_NN ._.

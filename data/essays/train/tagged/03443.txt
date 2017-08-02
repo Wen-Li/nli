@@ -1,0 +1,22 @@
+STUDENTS_NNS SHOULD_MD RELY_VB IN_IN FACTS_NNS
+AND_CC NOT_RB CONCEPTS_NNS
+After_IN I_PRP graduated_VBD from_IN high_JJ school_NN ,_, my_PRP$ physics_NNS teacher_NN taught_VBD me_PRP all_DT kind_NN of_IN concepts_NNS for_IN algorythms_NNS and_CC formulas_NNS ._.
+Later_RB ,_, at_IN the_DT university_NN ,_, when_WRB i_FW was_VBD doing_VBG my_PRP$ internship_NN ,_, I_PRP look_VBP back_RB and_CC asked_VBD myself_PRP ._.
+Why_WRB I_PRP did_VBD not_RB learned_VBN more_RBR didactic_JJ and_CC practical_JJ things_NNS ?_.
+Facts_NNS are_VBP the_DT best_JJS teacher_NN that_IN a_DT person_NN could_MD have_VB in_IN his_PRP$ life_NN ._.
+Concepts_NNS are_VBP good_JJ for_IN the_DT basic_JJ teaching_NN but_CC it_PRP is_VBZ not_RB useful_JJ in_IN the_DT real_JJ life_NN ._.
+Actions_NNS demostrate_VBP ten_CD times_NNS more_JJR than_IN a_DT single_JJ concept_NN ._.
+A_DT good_JJ idea_NN is_VBZ the_DT one_CD that_IN it_PRP is_VBZ made_VBN a_DT reality_NN ._.
+For_IN example_NN ,_, let_VB 's_POS imagine_VB that_IN I_PRP am_VBP an_DT engineer_NN and_CC I_PRP only_RB know_VBP the_DT concept_NN to_TO operate_VB a_DT machine_NN ._.
+Can_MD you_PRP imagine_VB ?_.
+What_WDT am_VBP I_PRP going_VBG to_TO do_VB when_WRB I_PRP will_MD be_VB in_IN front_NN of_IN my_PRP$ boss_NN and_CC tell_VB him_PRP ,_, ``_`` I_PRP only_RB know_VBP the_DT concepts_NNS ._. ''_''
+It_PRP is_VBZ ridiculous_JJ ,_, to_TO learn_VB something_NN without_IN a_DT logical_JJ meaning_NN ._.
+Facts_NNS are_VBP the_DT physical_JJ prove_VBP of_IN a_DT hypothesis_NN or_CC a_DT project._NN a_DT student_NN can_MD not_RB learn_VB just_RB an_DT idea_NN ,_, they_PRP need_VBP to_TO know_VB how_WRB to_TO develop_VB the_DT concept_NN ._.
+In_IN particular_JJ When_WRB I_PRP was_VBD working_VBG in_IN a_DT manufacturing_NN industry_NN ,_, we_PRP had_VBD to_TO give_VB our_PRP$ client_NN his_PRP$ product_NN ._.
+We_PRP could_MD not_RB just_RB tell_VB him_PRP that_IN we_PRP had_VBD the_DT idea_NN of_IN what_WP to_TO do_VB but_CC not_RB how_WRB to_TO do_VB it_PRP ._.
+Thus_RB ,_, it_PRP is_VBZ important_JJ to_TO be_VB awarness_NN of_IN what_WP a_DT student_NN is_VBZ learning_VBG becuase_NN if_IN he_PRP does_VBZ not_RB ,_, it_PRP is_VBZ only_RB an_DT a_DT waste_NN of_IN time_NN ._.
+A_DT student_NN has_VBZ to_TO consider_VB the_DT facts_NNS instead_RB of_IN the_DT ideas_NNS becuase_VBP it_PRP is_VBZ the_DT only_JJ way_NN for_IN the_DT student_NN to_TO understand_VB the_DT purpose_NN of_IN a_DT lesson_NN ._.
+In_IN particular_JJ ,_, I_PRP enjoy_VBP taking_VBG classes_NNS at_IN SECAP_NN because_IN they_PRP give_VBP a_DT few_JJ theorical_JJ classes_NNS and_CC the_DT rest_NN is_VBZ useful_JJ practice_NN which_WDT will_MD help_VB me_PRP in_IN my_PRP$ career_NN ._.
+It_PRP is_VBZ clear_JJ ,_, then_RB that_IN the_DT ideas_NNS are_VBP just_RB a_DT vague_JJ imaginary_JJ actions_NNS that_WDT should_MD be_VB put_VBN into_IN action_NN ._.
+Hence_RB ,_, students_NNS and_CC myself_PRP have_VBP to_TO rely_VB on_IN the_DT facts_NNS of_IN every_DT lesson_NN ,_, for_IN those_DT are_VBP the_DT ones_NNS that_WDT really_RB matter_VBP in_IN our_PRP$ life_NN and_CC society_NN ._.
+Between_IN an_DT idea_NN and_CC action_NN ,_, there_EX is_VBZ a_DT process_NN to_TO work_VB on_IN ._.

@@ -1,0 +1,7 @@
+I_PRP agree_VBP that_IN beeter_NN to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+I_PRP have_VBP a_DT few_JJ reason_NN ._.
+First_NNP ._.
+broad_JJ knowledge_NN is_VBZ making_VBG society_NN association_NN soft_JJ because_IN people_NNS likes_VBZ who_WP know_VBP about_RB many_JJ subject_JJ and_CC is_VBZ possible_JJ havingdiversity_NN friend_NN
+Second_RB ,_, broad_JJ knowledge_NN is_VBZ making_VBG affluence_NN our_PRP$ life_NN
+Third_NNP ,_, To_TO know_VB variety_NN section_NN is_VBZ able_JJ attention_NN to_TO smart_JJ
+In_IN conclusion_NN ,_, I_PRP support_VBP that_IN advantage_NN to_TO have_VB variety_NN knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN

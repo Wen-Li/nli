@@ -1,0 +1,17 @@
+I_PRP totally_RB agree_VBP with_IN the_DT statement_NN ._.
+Because_IN first_JJ of_IN all_DT ,_, as_IN a_DT very_RB practical_JJ example_NN ,_, understanding_VBG ideas_NNS and_CC concepts_NNS requires_VBZ active_JJ participation_NN of_IN students_NNS ._.
+In_IN order_NN to_TO understand_VB an_DT idea_NN or_CC concept_NN student_NN would_MD have_VB to_TO think_VB on_IN that_DT idea_NN or_CC concept_NN ._.
+Without_IN his_PRP$ thinking_NN and_CC using_VBG his_PRP$ previous_JJ knowledge_NN related_VBN with_IN a_DT subject_JJ he_PRP can_MD never_RB comprehend_VB meaning_NN of_IN an_DT idea_NN or_CC a_DT concept_NN ._.
+Naturally_RB when_WRB student_NN becomes_VBZ active_JJ and_CC can_MD link_VB ideas_NNS and_CC concepts_NNS and_CC can_MD see_VB the_DT bigger_JJR picture_NN in_IN his_PRP$ or_CC her_PRP$ mind_NN he_PRP or_CC she_PRP would_MD understand_VB the_DT ideas_NNS and_CC concepts_NNS and_CC will_MD be_VB able_JJ to_TO use_VB them_PRP in_IN future_NN ._.
+However_RB in_IN the_DT case_NN of_IN learning_VBG facts_NNS student_NN may_MD memorize_VB the_DT facts_NNS and_CC may_MD think_VB that_IN he_PRP or_CC she_PRP learned_VBD the_DT fact_NN ._.
+Nevertheless_RB ,_, since_IN without_IN having_VBG understanding_NN of_IN general_JJ concept_NN he_PRP or_CC she_PRP can_MD only_RB remember_VB this_DT fact_NN or_CC piece_NN of_IN information_NN in_IN short_JJ period_NN without_IN being_VBG able_JJ to_TO use_VB it_PRP in_IN real_JJ life_NN and_CC in_IN future_NN ._.
+I_PRP mean_VBP a_DT student_NN can_MD not_RB use_VB facts_NNS without_IN knowing_VBG ideas_NNS and_CC concepts_NNS that_IN this_DT fact_NN is_VBZ related_VBN to_TO ._.
+I_PRP would_MD like_VB to_TO give_VB the_DT example_NN of_IN learning_VBG law_NN ._.
+In_IN the_DT field_NN of_IN law_NN we_PRP can_MD think_VB rules_NNS as_IN facts_NNS ._.
+People_NNS thinks_VBZ that_IN lawyers_NNS know_VBP all_DT rules_NNS implemented_VBD in_IN a_DT country_NN ._.
+Of_IN course_NN they_PRP know_VBP the_DT basic_JJ rules_NNS in_IN the_DT country_NN ,_, however_RB what_WP they_PRP know_VBP in_IN fact_NN is_VBZ general_JJ understanding_NN of_IN the_DT law_NN system_NN of_IN a_DT country_NN and_CC relation_NN of_IN concepts_NNS in_IN legal_JJ system_NN together_RB with_IN knowledge_NN of_IN ideas_NNS behind_IN that_DT formed_VBD an_DT improved_VBN the_DT system_NN ._.
+By_IN knowing_VBG these_DT a_DT lawyer_NN can_MD find_VB the_DT rules_NNS he_PRP or_CC she_PRP is_VBZ looking_VBG for_IN easily_RB and_CC can_MD understand_VB the_DT correlation_NN among_IN them_PRP ._.
+Without_IN knowing_VBG concepts_NNS he_PRP or_CC she_PRP can_MD not_RB even_RB find_VB the_DT rules_NNS he_PRP is_VBZ needs_VBZ among_IN thousands_NNS of_IN rules_NNS ._.
+Thus_RB the_DT key_NN is_VBZ knowing_VBG the_DT concepts_NNS and_CC the_DT ideas_NNS ._.
+By_IN knowing_VBG these_DT a_DT lawyer_NN can_MD produce_VB solutions_NNS ._.
+However_RB by_IN only_RB knowing_VBG the_DT fact_NN meaning_NN rules_NNS he_PRP can_MD not_RB solve_VB any_DT problem_NN

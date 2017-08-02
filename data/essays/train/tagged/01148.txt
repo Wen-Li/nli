@@ -1,0 +1,16 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_IN ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB Ideas_NNS and_CC cocepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ''_'' because_IN understanding_VBG gives_VBZ clarity_NN on_IN the_DT issue_NN ._.
+Understanding_VBG a_DT concept_NN or_CC an_DT idea_NN will_MD help_VB the_DT student_NN in_IN better_JJR implementation_NN ._.
+When_WRB a_DT problem_NN occurs_VBZ during_IN the_DT implementation_NN of_IN concept_NN ,_, It_PRP is_VBZ important_JJ that_IN student_NN knows_VBZ exactly_RB where_WRB to_TO look_VB ._.
+This_DT calrity_NN can_MD be_VB attained_VBN only_RB by_IN understanding_VBG the_DT concept_NN and_CC not_RB by_IN merely_RB learning_VBG it_PRP ._.
+For_IN example_NN ,_, when_WRB a_DT student_NN after_IN his_PRP$ graduation_NN joins_VBZ a_DT software_NN technology_NN firm_NN as_IN a_DT fresher_JJR ,_, he_PRP is_VBZ relatively_RB new_JJ to_TO the_DT real_JJ world_NN ._.
+When_WRB asked_VBN to_TO work_VB on_IN a_DT project_NN ,_, he_PRP would_MD feel_VB comfortable_JJ with_IN it_PRP if_IN he_PRP understands_VBZ the_DT topic_NN ._.
+And_CC in_IN the_DT middle_JJ stages_NNS of_IN implementation_NN ,_, if_IN a_DT problem_NN has_VBZ occured_VBN he_PRP will_MD know_VB exactly_RB where_WRB to_TO look_VB for_IN ._.
+learning_VBG facts_NNS will_MD not_RB help_VB in_IN understanding_VBG complex_JJ tasks_NNS ._.
+There_EX is_VBZ a_DT danger_NN of_IN gettting_VBG stuck_VBN ,_, unable_JJ to_TO find_VB answers_NNS ._.
+And_CC also_RB ,_, Understanding_VBG concepts_NNS and_CC ideas_NNS help_VBP in_IN learnig_NN complex_NN tasks_NNS related_VBN to_TO the_DT topic_NN ._.
+For_IN example_NN ,_, a_DT student_NN who_WP has_VBZ learned_VBN C_NN language_NN in_IN college_NN might_MD find_VB it_PRP difficult_JJ to_TO learn_VB JAVA_NNP ._.
+But_CC ,_, A_DT student_NN who_WP understands_VBZ the_DT concept_NN of_IN C_NN language_NN will_MD find_VB it_PRP easy_JJ to_TO understand_VB JAVA_NNP even_RB though_IN he_PRP might_MD not_RB have_VB taken_VBN C_NN language_NN as_IN a_DT course_NN in_IN college_NN ._.
+After_IN all_DT basics_NNS are_VBP the_DT foundations_NNS for_IN healthy_JJ higher_JJR learning_NN ._.
+This_DT phenomenon_NN can_MD be_VB witnesse_NN from_IN the_DT college_NN level_NN also_RB ._.
+A_DT student_NN who_WP is_VBZ well_RB versed_VBN in_IN the_DT basic_JJ concepts_NNS of_IN high_JJ school_NN education_NN has_VBZ a_DT higher_JJR chance_NN of_IN making_VBG it_PRP to_TO the_DT college_NN than_IN a_DT student_NN who_WP is_VBZ not_RB ._.
+Hence_RB I_PRP conclude_VBP ,_, saying_VBG that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ better_RBR for_IN a_DT student_NN than_IN it_PRP is_VBZ to_TO learn_VB them_PRP just_RB for_IN the_DT sake_NN of_IN learning_NN ._.

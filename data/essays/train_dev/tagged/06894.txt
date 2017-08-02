@@ -1,0 +1,12 @@
+Learning_NNP methods_NNS ,_, nowadays_RB ,_, are_VBP different_JJ ._.
+Students_NNS are_VBP more_RBR able_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS as_IN they_PRP have_VBP more_RBR supports_VBZ ,_, for_IN instance_NN books_NNS ,_, and_CC the_DT ``_`` new_JJ ''_'' one_CD ,_, internet_NN ._. .._SYM
+However_RB ,_, for_IN a_DT student_NN the_DT purpose_NN of_IN the_DT course_NN is_VBZ not_RB always_RB clear_JJ ._.
+In_IN this_DT way_NN ,_, he_PRP can_MD understand_VB more_RBR precisely_RB a_DT concept_NN or_CC an_DT idea_NN by_IN using_VBG the_DT supports_NNS and_CC therefore_RB by_IN increasing_VBG his_PRP$ knowledge_NN by_IN his_PRP$ own_JJ ._.
+In_IN my_PRP$ opinion_NN ,_, a_DT student_NN will_MD be_VB more_RBR interested_JJ in_IN a_DT subject_NN in_IN which_WDT he_PRP knows_VBZ the_DT basis_NN rather_RB than_IN in_IN a_DT subject_NN that_IN he_PRP will_MD only_RB know_VB the_DT facts_NNS ._.
+Understanding_VBG subjects_NNS will_MD be_VB clearer_JJR and_CC easier_JJR for_IN him_PRP to_TO discuss_VB ,_, to_TO argue_VB for_IN and_CC to_TO interpret_VB ._.
+He_PRP will_MD be_VB self-confident_JJ on_IN what_WP he_PRP talks_VBZ about_RB and_CC will_MD be_VB able_JJ to_TO respond_VB to_TO question_NN ,_, as_IN the_DT subject_NN will_MD be_VB appear_VB more_JJR sustainable_JJ for_IN him_PRP ._.
+Learning_NNP facts_NNS is_VBZ not_RB easy_JJ for_IN children_NNS ._.
+It_PRP may_MD seems_VBZ to_TO be_VB a_DT succession_NN of_IN important_JJ things_NNS to_TO know_VB but_CC without_IN meaning_VBG for_IN the_DT children_NNS ._.
+The_DT student_NN must_MD be_VB lost_VBN and_CC confused_VBN on_IN the_DT subject_NN as_IN he_PRP will_MD not_RB understand_VB from_IN where_WRB information_NN come_VBN from_IN ._.
+Moreover_RB ,_, if_IN a_DT student_NN understand_VBP ideas_NNS and_CC concepts_NNS he_PRP will_MD be_VB more_RBR able_JJ to_TO take_VB in_RP mind_NN those_DT things_NNS for_IN a_DT long_JJ time_NN and_CC will_MD be_VB able_JJ to_TO use_VB it_PRP in_IN the_DT future_NN ,_, whereas_IN ,_, if_IN he_PRP only_RB understand_VBP facts_NNS ,_, the_DT subject_NN must_MD stay_VB in_IN mind_NN for_IN a_DT short_JJ term_NN period_NN ._.
+To_TO conclude_VB ,_, from_IN my_PRP$ point_NN of_IN view_NN ,_, learning_VBG facts_NNS is_VBZ the_DT basis_NN of_IN confused_JJ knowledge_NN ,_, whereas_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ the_DT starting_VBG point_NN of_IN a_DT intellectual_JJ culture_NN ._.

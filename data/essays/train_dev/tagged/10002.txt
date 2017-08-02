@@ -1,0 +1,11 @@
+I_PRP have_VBP ever_RB believed_VBN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understands_VBZ concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+First_NNP of_IN all_DT ,_, when_WRB one_CD understands_VBZ something_NN he_PRP or_CC she_PRP probably_RB remeber_VBP this_DT idea_NN for_IN a_DT long_JJ time_NN ._.
+Instead_RB when_WRB one_CD just_RB learn_VBP a_DT fact_NN ,_, probably_RB he_PRP or_CC she_PRP soon_RB forget_VB it_PRP ._.
+Next_RB ,_, when_WRB one_CD understand_VBP an_DT idea_NN ,_, it_PRP is_VBZ possible_JJ to_TO reuse_VB this_DT idea_NN in_IN similar_JJ contexts_NNS that_WDT simetimes_NNS have_VBP to_TO be_VB faced_VBN during_IN one_CD 's_POS life_NN ._.
+As_IN Einstein_NNP said_VBD ,_, ``_`` Imagination_NN is_VBZ more_RBR important_JJ than_IN Knowledge_NN ''_'' ,_, and_CC I_PRP think_VBP that_IN undertanding_VBG effort_NN stimulates_VBZ imagination_NN ,_, as_RB well_RB as_IN the_DT ability_NN to_TO infer_VB ._.
+Moreover_RB ,_, whenever_WRB one_CD understand_VBP a_DT new_JJ difficult_JJ concept_NN ,_, he_PRP or_CC she_PRP feels_VBZ a_DT kind_NN of_IN satisfaction_NN and_CC become_VB a_DT little_RB more_RBR confident_JJ ._.
+I_PRP think_VBP that_IN this_DT is_VBZ important_JJ to_TO find_VB out_RP new_JJ breakthroughs_NNS and_CC the_DT world_NN has_VBZ ever_RB improved_VBN thanks_NNS to_TO new_JJ ideas_NNS and_CC discoveries_NNS ._.
+However_RB ,_, learning_VBG facts_NNS is_VBZ important_JJ too_RB ._.
+For_IN instance_NN I_PRP think_VBP that_IN studying_VBG history_NN is_VBZ helpful_JJ to_TO avoid_VB errors_NNS and_CC mistakes_NNS ._.
+In_IN fact_NN studying_VBG history_NN ,_, students_NNS learn_VBP bad_JJ consequences_NNS of_IN wars_NNS and_CC mistakes_NNS in_IN general_JJ so_IN that_IN they_PRP can_MD do_VB better_JJR in_IN the_DT future_NN ._.
+In_IN conclusion_NN I_PRP think_VBP that_IN that_DT students_NNS should_MD do_VB their_PRP$ best_JJS in_IN order_NN to_TO undertand_VB the_DT more_JJR they_PRP can_MD from_IN teacher_NN 's_POS lectures_VBZ and_CC books_NNS ._.

@@ -1,0 +1,14 @@
+Learing_VBG a_DT fact_NN ,_, we_PRP (_VBP human_JJ )_NN are_VBP always_RB curious_JJ about_IN knowing_VBG a_DT fact_NN ._.
+We_PRP whant_VBP know_VB what_WP happning_NN ,_, what_WP was_VBD a_DT result_NN ._.
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN student_NN learning_NN facts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG concepts_NNS and_CC understand_VB ideas_NNS ._.
+First_NNP of_IN all_DT ,_, the_DT reason_NN why_WRB I_PRP disagree_VBP with_IN the_DT statement_NN is_VBZ because_IN I_PRP strongly_RB believes_VBZ that_IN understanding_VBG ideas_NNS and_CC concepts_NNS leads_VBZ to_TO develope_VB students_NNS thinking_VBG skills_NNS ._.
+Specifically_RB ,_, if_IN a_DT teacher_NN teaches_VBZ about_IN the_DT global_JJ warming_NN ,_, and_CC say_VB just_RB a_DT fact_NN of_IN it_PRP (_RB like_IN ``_`` Global_JJ warming_NN is_VBZ progressing_VBG now_RB badly_RB ,_, and_CC the_DT earth_NN 's_POS temperature_NN is_VBZ increasing_VBG ._. ''_''
+Then_RB how_WRB student_NN will_MD take_VB that_DT teachers_NNS voice_NN ?_.
+Most_JJS student_NN will_MD understand_VB that_IN the_DT global_JJ warming_NN is_VBZ happning_VBG ,_, but_CC they_PRP could_MD not_RB know_VB what_WP elements_NNS are_VBP causeing_VBG the_DT global_JJ warming_NN ,_, because_IN that_DT teacher_NN only_RB did_VBD teach_VB a_DT fact_NN (_NN global_JJ warming_NN is_VBZ happning_VBG )_NN and_CC did_VBD not_RB teach_VB how_WRB and_CC whyhappend_JJ (_CD ideas/concept_NN of_IN global_JJ warming_NN )_NN ._.
+Therefore_RB due_JJ to_TO a_DT lack_NN of_IN key_JJ ideas_NNS and_CC concept_NN of_IN global_JJ warming_NN ,_, students_NNS only_RB knew_VBD about_IN a_DT fact_NN and_CC they_PRP do_VBP not_RB understanding_VBG process_NN (_CD ieas/concept_JJ )_NN of_IN the_DT global_JJ warming_NN ._.
+Only_RB knowing_VBG the_DT fact_NN is_VBZ a_DT big_JJ problem_NN ,_, because_IN if_IN they_PRP do_VBP not_RB have_VB inside_IN story_NN (_CD ideas/concept_JJ )_NN and_CC only_RB knowing_VBG the_DT fact_NN ._.
+Then_RB they_PRP could_MD not_RB evaluate_VB the_DT issue_NN from_IN there_RB ,_, becuaes_NNS they_PRP do_VBP not_RB have_VB data_NNS to_TO estimate_VB the_DT issue_NN ._.
+So_RB ,_, if_IN they_PRP only_RB knew_VBD about_IN the_DT fact_NN ,_, then_RB they_PRP could_MD not_RB solve_VB the_DT global_JJ warming_NN issues_NNS or_CC other_JJ issues_NNS which_WDT happning_VBP on_IN the_DT earth_NN ._.
+From_IN above_JJ reason_NN ,_, I_PRP disagree_VBP whith_IN the_DT statement_NN that_IN teaching_NN student_NN facts_NNS is_VBZ more_RBR important_JJ than_IN teaching_VBG ideas_NNS and_CC concepts_NNS ._.
+More_JJR over_IN ,_, teaching_VBG only_RB fact_NN is_VBZ not_RB ideal_JJ educational_JJ way_NN ._.
+To_TO develop_VB students_NNS thinking_VBG skills_NNS ,_, educator_NN must_MD teach_VB ideas_NNS and_CC concepts_NNS of_IN each_DT issues_NNS to_TO develop_VB students_NNS thinking_VBG ability_NN ._.

@@ -1,0 +1,16 @@
+In_IN my_PRP$ opinion_NN ,_, for_IN a_DT student_NN ,_, it_PRP 's_VBZ far_RB more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN learn_VBP facts_NNS ._.
+In_IN the_DT procedure_NN of_IN teaching_NN there_EX are_VBP two_CD conponments_NNS to_TO establish_VB :_: the_DT fact_NN of_IN learning_VBG itself_PRP and_CC the_DT interpretation_NN the_DT student_NN may_MD give_VB it_PRP to_TO ._.
+At_IN first_RB ,_, a_DT student_NN has_VBZ to_TO learn_VB the_DT basis_NN of_IN a_DT subject_NN ._.
+The_DT teacher_NN 's_POS job_NN is_VBZ to_TO give_VB him_PRP as_IN many_JJ information_NN as_IN he_PRP can_MD ._.
+These_DT informations_NNS have_VBP to_TO be_VB general_JJ ._.
+A_DT teacher_NN is_VBZ not_RB an_DT amateur_JJ (_NN as_IN he_PRP has_VBZ already_RB learned_VBN the_DT subject_NN before_IN )_CD so_RB he_PRP has_VBZ already_RB his_PRP$ on_IN point_NN of_IN view_NN ._.
+The_DT teacher_NN is_VBZ just_RB here_RB to_TO give_VB general_JJ informations_NNS and_CC in_IN any_DT case_NN he_PRP could_MD influence_VB the_DT students_NNS '_POS mind_NN ._.
+So_IN learning_VBG facts_NNS is_VBZ too_RB tuned_VBN on_IN theory_NN and_CC not_RB in_IN practice_NN ._.
+Then_RB ,_, once_IN the_DT student_NN knows_VBZ the_DT basis_NN ,_, the_DT general_JJ facts_NNS ,_, he_PRP has_VBZ to_TO go_VB further_RB from_IN the_DT given-informations_NNS by_IN himself_PRP ,_, in_IN order_NN to_TO understand_VB all_PDT the_DT specifics_NNS of_IN the_DT subject_NN ._.
+I_PRP think_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ something_NN personal_JJ ._.
+It_PRP is_VBZ something_NN made_VBN by_IN oneself_NN ._.
+Nobody_NN would_MD never_RB has_VBZ the_DT same_JJ interpretation_NN of_IN ideas_NNS ._.
+It_PRP depends_VBZ on_IN the_DT experiences_NNS of_IN the_DT student_NN and_CC its_PRP$ possible_JJ story_NN or_CC link_NN to_TO a_DT subject_NN ._.
+For_IN example_NN ,_, in_IN a_DT theorical_JJ course_NN of_IN law_NN ,_, the_DT teacher_NN can_MD teach_VB students_NNS the_DT evolution_NN of_IN something_NN in_IN particular_JJ like_IN the_DT stance_NN of_IN society_NN with_IN the_DT homosexual_JJ marriages_NNS ._.
+But_CC I_PRP think_VBP is_VBZ for_IN more_RBR important_JJ for_IN the_DT students_NNS to_TO understand_VB how_WRB this_DT stance_NN has_VBZ emerged_VBN and_CC learn_VB all_PDT the_DT discourse_NN of_IN both_DT of_IN the_DT people_NNS for_IN or_CC against_IN it_PRP ._.
+thus_RB ,_, the_DT student_NN can_MD make_VB his_PRP$ own_JJ opinion_NN even_RB if_IN it_PRP is_VBZ not_RB the_DT same_JJ as_IN the_DT majority_NN of_IN the_DT population_NN ._.

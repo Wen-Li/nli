@@ -1,0 +1,20 @@
+I_PRP agree_VBP with_IN the_DT statement_NN ,_, ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ''_'' ._.
+Firstly_RB ,_, facts_NNS change_VBP during_IN time_NN ._.
+Secondly_RB ,_, application_NN is_VBZ important_JJ for_IN everyone_NN than_IN memorizing_VBG things_NNS ._.
+Lastly_RB ,_, understanding_VBG ideas_NNS can_MD help_VB people_NNS on_IN different_JJ situations_NNS ._.
+Firstly_RB ,_, facts_NNS change_VBP all_PDT the_DT time_NN ._.
+For_IN example_NN ,_, in_IN the_DT incient_JJ times_NNS ,_, people_NNS thought_VBD that_IN when_WRB the_DT poplulation_NN is_VBZ higher_JJR ,_, the_DT food_NN production_NN will_MD be_VB higher_JJR ;_: and_CC the_DT growth_NN of_IN food_NN is_VBZ slower_JJR than_IN the_DT growth_NN of_IN population_NN ,_, that_WDT leads_VBZ them_PRP to_TO control_VB birth_NN ._.
+However_RB ,_, they_PRP had_VBD not_RB predicted_VBN the_DT development_NN of_IN technology_NN ._.
+Consequently_RB ,_, facts_NNS are_VBP changing_VBG ._.
+Therefore_RB ,_, we_PRP could_MD not_RB learn_VB all_DT of_IN the_DT facts_NNS ._.
+The_DT important_JJ thing_NN is_VBZ we_PRP should_MD understand_VB the_DT ideas_NNS and_CC the_DT concepts_NNS ,_, then_RB we_PRP could_MD apply_VB in_IN different_JJ matters_NNS ._.
+Besides_IN ,_, as_IN I_PRP mentioned_VBD ,_, we_PRP should_MD apply_VB pur_NN knowledge_NN rather_RB than_IN memorize_VB the_DT facts_NNS ._.
+For_IN instance_NN ,_, we_PRP memorize_VBP the_DT GDP_NN of_IN every_DT countries_NNS ,_, but_CC we_PRP have_VBP no_DT idea_NN about_IN the_DT GDP_NN ;_: what_WP affect_VB the_DT GDP_NNP and_CC what_WP does_VBZ it_PRP show_VB us_PRP ._.
+As_IN a_DT result_NN ,_, we_PRP can_MD not_RB learn_VB facts_NNS that_IN we_PRP do_VBP n't_RB understand_VB and_CC we_PRP can_MD n't_RB apply_VB ._.
+If_IN we_PRP can_MD not_RB understand_VB the_DT ideas_NNS of_IN the_DT facts_NNS ,_, the_DT facts_NNS would_MD be_VB useless_JJ ._.
+Therfore_RB ,_, we_PRP have_VBP to_TO be_VB able_JJ to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS than_IN learn_VBP the_DT facts_NNS ._.
+Finally_RB ,_, since_IN we_PRP learn_VBP how_WRB to_TO apply_VB our_PRP$ knowledge_NN from_IN understaning_VBG ideas_NNS and_CC concepts_NNS ._.
+We_PRP can_MD have_VB abilities_NNS to_TO solve_VB problems_NNS because_IN we_PRP have_VBP difficulties_NNS all_PDT the_DT time_NN ._.
+For_IN example_NN ,_, we_PRP can_MD understand_VB the_DT concepts_NNS of_IN developing_VBG films_NNS and_CC printing_NN pictures_NNS ,_, so_RB that_IN we_PRP can_MD adjust_VB the_DT colour_NN ,_, light_NN ,_, or_CC the_DT size_NN we_PRP want_VBP ._.
+By_IN showing_VBG this_DT example_NN ,_, it_PRP can_MD help_VB us_PRP to_TO understand_VB that_IN it_PRP is_VBZ important_JJ for_IN us_PRP to_TO understand_VB and_CC apply_VB through_IN different_JJ circumstances_NNS ._.
+In_IN conclusion_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS because_IN the_DT changes_NNS of_IN facts_NNS ,_, application_NN of_IN knowledge_NN and_CC the_DT advantages_NNS of_IN understanding_VBG ideas_NNS ._.

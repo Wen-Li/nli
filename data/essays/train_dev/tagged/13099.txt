@@ -1,0 +1,17 @@
+The_DT writing_NN is_VBZ about_IN usage_NN of_IN cars_NNS in_IN coming_VBG twenty_CD years_NNS ._.
+This_DT four_CD wheeled_VBD machine_NN is_VBZ widely_RB used_VBN mode_NN of_IN transport_NN all_DT around_IN the_DT world_NN ._.
+The_DT technology_NN is_VBZ evolving_VBG with_IN a_DT zooming_VBG speed_NN that_WDT with_IN we_PRP frequently_RB find_VBP a_DT new_JJ car_NN on_IN roads_NNS that_WDT promises_VBZ more_JJR speed_NN and_CC more_JJR comfort_NN with_IN the_DT best_JJS performance_NN assured_VBN ._.
+With_IN the_DT increasing_VBG usage_NN of_IN cars_NNS even_RB the_DT demand_NN for_IN fuel_NN has_VBZ also_RB increased_VBN ._.
+To_TO counter_VB the_DT scarce_JJ of_IN the_DT fuel_NN cars_NNS are_VBP being_VBG manufactured_VBN with_IN a_DT technology_NN to_TO be_VB driven_VBN with_IN out_JJ use_NN of_IN any_DT petroleum_NN fuel_NN instead_RB can_MD be_VB driven_VBN by_IN electric_JJ power_NN and_CC other_JJ sources_NNS ._.
+For_IN example_NN ,_, Reva_NNP ._.
+We_PRP have_VBP number_NN of_IN manufactures_VBZ like_IN Ferrari_NNP ,_, Lamborgini_NNP ,_, Maybach_NNP ,_, Mercedes_NNP ,_, Hyundai_NNP ,_, Fiat_NNP ,_, Opel_NNP etc._FW are_VBP competing_VBG everyday_JJ in_IN the_DT automobile_NN industry_NN to_TO manufacture_VB or_CC to_TO produce_VB a_DT new_JJ car_NN with_IN all_PDT the_DT amenities_NNS or_CC luxuries_NNS along_IN with_IN the_DT performance_NN ._.
+One_CD who_WP buys_VBZ a_DT car_NN considers_VBZ parameters_NNS such_JJ as_IN speed_NN ,_, performance_NN ,_, comfort_NN ,_, capacity_NN ,_, availability_NN of_IN service_NN centers_NNS etc_FW ._.
+Many_JJ Research_NN and_CC development_NN centers_NNS are_VBP being_VBG developed_VBN to_TO make_VB a_DT car_NN which_WDT is_VBZ different_JJ from_IN the_DT existing_VBG and_CC which_WDT is_VBZ unimaginable_JJ ._.
+There_EX are_VBP many_JJ machine_NN geeks_NNS in_IN this_DT world_NN who_WP love_VBP to_TO own_VB the_DT latest_JJS car_NN which_WDT has_VBZ almost_RB everything_NN that_IN they_PRP always_RB dream_VBP about_RB ._.
+Car_NN are_VBP being_VBG manufactured_VBN considering_VBG the_DT position_NN or_CC status_NN of_IN the_DT people_NNS ._.
+For_IN example_NN ,_, In_IN India_NNP ,_, companies_NNS like_IN Maruthi_NNP motors_NNS ,_, Hyundai_NNP motors_NNS ,_, Tata_NNP motors_NNS etc.have_VBP launched_VBN different_JJ ranges_NNS of_IN car_NN ._.
+Cars_NNS have_VBP become_VBN a_DT part_NN of_IN our_PRP$ day-to-day_JJ life_NN ._.
+For_IN example_NN ,_, in_IN colder_JJR countries_NNS like_IN US_NNP ,_, UK_NNP ,_, Swiss_NNP etc._FW life_NN is_VBZ quite_RB difficult_JJ to_TO travel_VB with_IN out_IN a_DT car_NN ._.
+If_IN time_NN comes_VBZ when_WRB the_DT car_NN can_MD not_RB be_VB driven_VBN easily_RB on_IN the_DT roads_NNS due_JJ to_TO the_DT traffic_NN conjestions_NNS or_CC because_IN of_IN availability_NN any_DT alien_JJ machine_NN which_WDT can_MD replace_VB cars_NNS with_IN its_PRP$ best_JJS features_NNS which_WDT are_VBP not_RB available_JJ with_IN car_NN ._.
+Or_CC ,_, if_IN cost_NN of_IN flying_VBG machine_NN comes_VBZ down_RP then_RB probably_RB we_PRP may_MD possibly_RB take_VB a_DT look_NN at_IN it_PRP ._.
+Therefore_RB ,_, I_PRP disagree_VBP that_IN the_DT usage_NN of_IN cars_NNS could_MD comedown_VB down_RP the_DT lane_NN in_IN coming_VBG twenty_CD years_NNS ._.

@@ -1,0 +1,20 @@
+Joanne_NNP Smith_NNP ,_, who_WP is_VBZ thirteen_CD years_NNS old_JJ in_IN Winfield_NNP ,_, Kansas_NNP ,_, is_VBZ a_DT star_NN in_IN her_PRP$ town_NN because_IN of_IN her_PRP$ astounding_JJ intelligence_NN ._.
+She_PRP received_VBD a_DT countless_JJ number_NN of_IN award_NN from_IN many_JJ state_NN competition_NN like_IN spelling_NN bee_NN ,_, junior_NN invetion_NN festival_NN ,_, and_CC so_RB on_IN ._.
+According_VBG to_TO her_PRP$ mother_NN ,_, Heather_NNP Smith_NNP ,_, her_PRP$ daughter_NN went_VBD to_TO school_NN and_CC learn_VB based_VBN on_IN understanding_VBG the_DT ideas_NNS and_CC concocepts_NNS in_IN science_NN ,_, math_NN ,_, and_CC even_RB Language_NN arts_NNS ._.
+I_PRP agree_VBP with_IN the_DT idea_NN that_IN it_PRP is_VBZ more_RBR essential_JJ for_IN students_NNS to_TO comprehend_VB ideas_NNS and_CC concepts_NNS of_IN the_DT fields_NNS that_IN they_PRP are_VBP learning_VBG because_IN it_PRP helps_VBZ them_PRP correct_JJ misunderstanding_NN problems_NNS and_CC apply_VB to_TO other_JJ subjects_NNS ._.
+First_NNP of_IN all_DT ,_, understanding_VBG ideas_NNS and_CC concepts_NNS helps_VBZ students_NNS prevent_VBP mistakes_NNS ._.
+To_TO be_VB specific_JJ ,_, if_IN students_NNS understand_VBP simple_JJ ideas_NNS and_CC concepts_NNS of_IN mathematic_NN ,_, they_PRP will_MD not_RB repeatedly_RB make_VB mistakes_NNS ._.
+One_CD of_IN the_DT reasons_NNS why_WRB they_PRP get_VBP incorrect_JJ answer_NN is_VBZ that_IN they_PRP only_RB try_VBP to_TO solve_VB the_DT given_VBN problems_NNS rather_RB than_IN understanding_VBG them_PRP ._.
+To_TO illustrate_VB ,_, when_WRB I_PRP took_VBD geometry_NN in_IN my_PRP$ 9th_JJ grade_NN year_NN ,_, it_PRP was_VBD hard_JJ for_IN me_PRP to_TO understand_VB square_JJ root_NN because_IN I_PRP did_VBD not_RB know_VB the_DT meaning_NN of_IN the_DT symbol_NN at_IN all_DT ._.
+I_PRP just_RB guessed_VBD how_WRB it_PRP was_VBD working_VBG by_IN looking_VBG at_IN what_WP my_PRP$ friends_NNS '_POS doing_VBG ._.
+However_RB ,_, everytime_NN I_PRP try_VBP to_TO solve_VB the_DT problems_NNS that_WDT are_VBP related_JJ to_TO square_JJ root_NN myself_PRP ,_, I_PRP alwasy_VBP got_VBD it_PRP wrong_JJ ._.
+After_IN continuous_JJ direction_NN from_IN my_PRP$ teacher_NN ,_, I_PRP was_VBD able_JJ to_TO understand_VB the_DT concept_NN of_IN square_JJ root_NN and_CC never_RB repeat_VB the_DT same_JJ mistake_NN again_RB ._.
+Moreover_RB ,_, if_IN students_NNS fully_RB comprehend_VBP ideas_NNS and_CC concepts_NNS of_IN certain_JJ fields_NNS ,_, they_PRP are_VBP able_JJ to_TO apply_VB the_DT ideas_NNS to_TO other_JJ subject_NN ._.
+Since_IN all_DT fields_NNS are_VBP carefully_RB related_VBN to_TO each_DT other_JJ ,_, it_PRP is_VBZ crucial_JJ to_TO understand_VB what_WP people_NNS are_VBP learning_VBG ._.
+Knowing_VBG one_CD idea_NN can_MD be_VB meant_VBN that_IN they_PRP possibly_RB know_VB millions_NNS of_IN ideas_NNS ._.
+For_IN example_NN ,_, if_IN you_PRP know_VBP the_DT idea_NN of_IN graph_NN ,_, it_PRP can_MD be_VB used_VBN in_IN many_JJ fields_NNS such_JJ as_IN business_NN ,_, biology_NN ,_, and_CC even_RB music_NN ._.
+To_TO elaborate_VB ,_, in_IN business_NN industry_NN ,_, graph_NN is_VBZ used_VBN to_TO research_NN consumers_NNS '_POS preference_NN in_IN current_JJ market_NN ._.
+In_IN biology_NN ,_, it_PRP is_VBZ used_VBN to_TO compare_VB one_CD experiment_NN to_TO another_DT ._.
+Also_RB it_PRP is_VBZ used_VBN to_TO analyze_VB the_DT opinions_NNS of_IN audiences_NNS in_IN musical_JJ field_NN which_WDT helps_VBZ them_PRP pick_VB songs_NNS to_TO bring_VB in_RP more_JJR people_NNS ._.
+Just_RB learning_VBG facts_NNS does_VBZ not_RB improve_VB ,_, it_PRP maintains_VBZ ._.
+Therefore_RB I_PRP believe_VBP that_IN it_PRP is_VBZ extremely_RB important_JJ for_IN students_NNS to_TO understand_VB concepts_NNS and_CC idea_NN because_IN it_PRP corrects_VBZ mistakes_NNS and_CC applies_VBZ to_TO other_JJ fields_NNS ._.

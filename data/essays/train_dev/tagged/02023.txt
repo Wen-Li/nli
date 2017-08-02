@@ -1,0 +1,22 @@
+An_DT advertisement_NN is_VBZ something_NN that_IN present_JJ people_NNS new_JJ products_NNS ._.
+These_DT products_NNS can_MD be_VB cars_NNS ,_, lipsticks_NNS ,_, foods_NNS and_CC many_JJ other_JJ things_NNS ._.
+They_PRP can_MD be_VB seen_VBN in_IN newspapers_NNS ,_, magazines_NNS or_CC on_IN television_NN ._.
+People_NNS ,_, who_WP prepare_VBP them_PRP ,_, give_VB a_DT certain_JJ shape_NN to_TO these_DT new_JJ products_NNS so_IN that_IN they_PRP can_MD be_VB seen_VBN more_RBR attractive_JJ to_TO people_NNS ._.
+Actually_RB ,_, the_DT problem_NN begins_VBZ here_RB because_IN this_DT may_MD lead_VB to_TO the_DT fact_NN that_IN advertisements_NNS may_MD make_VB products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+In_IN order_NN to_TO testify_VB the_DT validity_NN of_IN this_DT argument_NN ,_, it_PRP is_VBZ better_JJR to_TO analyze_VB it_PRP with_IN an_DT example_NN ._.
+A_DT famous_JJ car_NN producer_NN designed_VBN a_DT new_JJ car_NN for_IN people_NNS who_WP are_VBP married_VBN and_CC have_VBP children_NNS ._.
+In_IN order_NN to_TO attract_VB their_PRP$ target_NN market_NN ,_, the_DT car_NN producers_NNS make_VBP a_DT deal_NN with_IN an_DT advertising_NN agent_NN ._.
+The_DT agent_NN prepares_VBZ an_DT advertisement_NN that_WDT will_MD be_VB shown_VBN on_IN TV_NN ._.
+In_IN this_DT advertisement_NN ,_, the_DT most_RBS beautiful_JJ and_CC thin_JJ housewife_NN who_WP gave_VBD birth_NN just_RB two_CD months_NNS ago_RB and_CC his_PRP$ very_RB handsome_JJ husband_NN go_VB into_IN their_PRP$ new_JJ car_NN with_IN their_PRP$ very_JJ cute_JJ children_NNS ._.
+The_DT car_NN ,_, although_IN it_PRP is_VBZ designed_VBN for_IN middle-class_NN families_NNS looks_VBZ like_IN a_DT BMW_NNP in_IN order_NN to_TO emphasize_VB its_PRP$ excellence_NN ._.
+At_IN the_DT end_NN ,_, this_DT wonderful_JJ middle-class_NN family_NN who_WP owns_VBZ this_DT car_NN ,_, which_WDT looks_VBZ like_IN a_DT BMW_NNP ,_, lives_VBZ happily_RB ever_RB after_IN ._.
+This_DT example_NN may_MD sound_VB a_DT bit_NN exaggerated_JJ but_CC this_DT is_VBZ the_DT case_NN that_WDT is_VBZ created_VBN by_IN advertisements_NNS ._.
+In_IN advertisements_NNS usually_RB everything_NN seems_VBZ in_IN their_PRP$ best_JJS shape_NN ._.
+The_DT women_NNS ,_, men_NNS ,_, babies_NNS look_VBP always_RB perfect_JJ ,_, which_WDT can_MD not_RB be_VB realistic_JJ ._.
+I_PRP am_VBP wondering_VBG how_WRB many_JJ women_NNS ,_, who_WP gave_VBD birth_NN just_RB two_CD months_NNS ago_IN can_MD be_VB so_RB thin_JJ as_IN the_DT woman_NN in_IN the_DT advertisement_NN appears_VBZ ._.
+Also_RB ,_, the_DT products_NNS seem_VBP much_RB more_RBR better_JJR than_IN their_PRP$ real_JJ shape_NN ._.
+Most_JJS of_IN the_DT people_NNS who_WP are_VBP attracted_VBN by_IN this_DT car_NN advertisement_NN go_VB to_TO the_DT shops_NNS and_CC think_VB that_IN they_PRP will_MD have_VB a_DT car_NN that_WDT is_VBZ more_RBR luxurious_JJ than_IN it_PRP seems_VBZ ._.
+However_RB ,_, this_DT is_VBZ not_RB the_DT case_NN because_IN when_WRB they_PRP see_VBP the_DT car_NN by_IN themselves_PRP ,_, they_PRP are_VBP disappointed_JJ because_IN the_DT car_NN is_VBZ in_IN reality_NN much_RB more_RBR modest_JJ ._.
+All_DT in_IN all_DT ,_, these_DT do_VBP not_RB mean_VB that_IN advertisements_NNS are_VBP not_RB necessary_JJ ._.
+On_IN the_DT contrary_NN ,_, they_PRP are_VBP very_RB useful_JJ for_IN people_NNS to_TO know_VB new_JJ products_NNS but_CC this_DT should_MD not_RB be_VB in_IN the_DT form_NN of_IN convincing_VBG them_PRP ._.
+Advertisements_NNS should_MD reflect_VB the_DT truth_NN about_IN the_DT products_NNS so_IN that_IN people_NNS are_VBP not_RB disappointed_VBN ._.

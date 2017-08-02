@@ -1,0 +1,10 @@
+It_PRP is_VBZ thought_VBN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+I_PRP agree_VBP with_IN this_DT idea_NN ._.
+DespiteIf_NN students_NNS study_VB hard_RB ,_, they_PRP can_MD not_RB memorize_VB a_DT long_JJ time_NN ;_: if_IN students_NNS learn_VBP just_RB facts_NNS ,_, they_PRP will_MD not_RB memorize_VB what_WP they_PRP learned_VBD ._.
+When_WRB a_DT students_NNS read_VBP a_DT book_NN about_IN their_PRP$ studies_NNS ,_, if_IN the_DT students_NNS just_RB read_VBP all_DT text_NN with_IN out_JJ understanding_NN ,_, the_DT students_NNS can_MD not_RB explain_VB how_WRB was_VBD the_DT book_NN is_VBZ ._.
+If_IN a_DT student_NN have_VBP excellent_JJ memorizing_VBG ability_NN ,_, a_DT student_NN can_MD remember_VB everything_NN without_IN understanding_NN ;_: not_RB only_RB is_VBZ it_PRP hard_JJ for_IN students_NNS to_TO have_VB ,_, but_CC also_RB every_DT people_NNS can_MD not_RB do_VB ._.
+To_TO understand_VB ideas_NNS and_CC concepts_NNS are_VBP provide_VB students_NNS with_IN an_DT opportunity_NN to_TO use_VB information_NN atpprociately_RB that_IN they_PRP lened_VBD in_IN studies_NNS ._.
+Only_RB students_NNS learn_VBP facts_NNS ,_, they_PRP can_MD use_VB information_NN ._.
+But_CC without_IN understanding_NN has_VBZ limit_NN to_TO use_VB ._.
+Students_NNS learn_VBP more_JJR easily_RB if_IN they_PRP undertand_VBD ideas_NNS and_CC conceots_NNS then_RB if_IN they_PRP learn_VBP only_RB facts_NNS ._.
+When_WRB a_DT students_NNS learn_VBP a_DT vocabulary_NN ,_, A_DT which_WDT way_NN is_VBZ more_RBR easy_JJ to_TO use_VB and_CC memorize_VB ?_.

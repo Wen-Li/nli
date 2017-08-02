@@ -1,0 +1,16 @@
+VBP_nsubj_I
+disagree_nsubj_PRP
+JJR_advmod_Becouse
+better_advmod_RB
+JJR_nsubj_communities
+better_nsubj_NNS
+NNS_nmod:poss_our
+communities_nmod:poss_PRP$
+JJR_aux_must
+better_aux_MD
+JJR_cop_be
+better_cop_VB
+JJR_nmod_us
+better_nmod_PRP
+PRP_case_by
+us_case_IN

@@ -1,0 +1,11 @@
+Advertisements_NNS can_MD change_VB consumer_NN 's_POS mind_NN about_IN products_NNS ._.
+So_RB ,_, I_PRP think_VBP that_IN most_JJS products_NNS excessively_RB make_VBP use_NN of_IN their_PRP$ advertisements_NNS that_WDT are_VBP making_VBG products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+For_IN example_NN ,_, during_IN past_JJ summer_NN ,_, I_PRP participated_VBD in_IN western_JJ America_NNP which_WDT are_VBP Lasvegas_NNP ,_, Arizona_NNP ,_, and_CC Los_NNP Angeles_NNP tour_NN program_NN for_IN forigner_NN ._.
+According_VBG to_TO tour_VB company_NN 's_POS advertisements_NNS picture_NN ,_, we_PRP were_VBD supposed_VBN to_TO accomodate_VB in_IN a_DT luxury_NN hotel_NN that_WDT have_VBP a_DT swimming_NN pole_NN ,_, a_DT casino_NN ,_, and_CC diverse_JJ show_NN programs_NNS but_CC it_PRP was_VBD just_RB picture_NN ._.
+We_PRP were_VBD accomotated_VBN in_IN like_IN a_DT motel_NN ._.
+So_RB ,_, this_DT is_VBZ one_CD of_IN advertisements_NNS that_WDT are_VBP exggarated_VBN ._.
+When_WRB we_PRP watch_VBP TV_NN advertisements_NNS ,_, we_PRP propably_RB can_MD not_RB find_VB products_NNS that_WDT looks_VBZ ugly_JJ and_CC can_MD not_RB work_VB well_RB ._.
+However_RB ,_, when_WRB we_PRP use_VBP products_NNS ,_, we_PRP can_MD find_VB the_DT difference_NN of_IN the_DT qualities_NNS ._.
+Therefore_RB ,_, I_PRP think_VBP that_IN most_JJS advertisements_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+Although_IN advertisements_NNS are_VBP very_RB important_JJ to_TO increase_VB selling_NN ,_, consumers_NNS are_VBP not_RB stupid_JJ ._.
+Eventually_RB ,_, they_PRP will_MD chose_VBD the_DT really_RB good_JJ products_NNS not_RB by_IN advertisements_NNS but_CC qualliy_NN ._.

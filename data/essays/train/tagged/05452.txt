@@ -1,0 +1,16 @@
+Yes_UH ,_, I_PRP agree_VBP with_IN the_DT following_VBG statement_NN ._.
+It_PRP is_VBZ more_RBR important_JJ for_IN student_NN to_TO understand_VB ideas_NNS and_CC concept_NN than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Well_RB ,_, I_PRP am_VBP a_DT student_NN ,_, I_PRP study_VBP architecture_NN and_CC for_IN me_PRP is_VBZ very_RB important_JJ to_TO understand_VB that_IN I_PRP study_NN ._.
+Infact_NNP if_IN I_PRP do_VBP not_RB understand_VB I_PRP do_VBP not_RB know_VB how_WRB many_JJ important_JJ things_NNS ._.
+When_WRB my_PRP$ professor_NN talk_NN about_IN a_DT famous_JJ architecture_NN I_PRP like_VBP to_TO listen_VB him_PRP and_CC I_PRP like_VBP dream_NN about_IN this_DT things_NNS ._.
+If_IN a_DT student_NN do_VBP not_RB understand_VB ideas_NNS and_CC concept_NN than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._. .._SYM
+well_RB ,_, he_PRP or_CC she_PRP do_VBP not_RB learn_VB anything_NN ._.
+I_PRP think_VBP that_IN if_IN you_PRP can_MD learn_VB more_RBR things_NNS about_IN you_PRP study_VB or_CC not_RB ,_, your_PRP$ mind_NN can_MD learn_VB much_RB more_RBR ._.
+Well_UH !_.
+I_PRP think_VBP also_RB that_IN if_IN a_DT student_NN do_VBP not_RB have_VB a_DT good_JJ theacher_NN he_PRP or_CC she_PRP do_VBP not_RB like_VB understand_VB that_IN he_PRP or_CC she_PRP study_NN ._.
+However_RB ,_, there_EX is_VBZ must_MD a_DT good_JJ collaboration_NN about_IN a_DT professor_NN and_CC a_DT student_NN ._.
+I_PRP do_VBP not_RB talk_VB about_IN complicity_NN ,_, but_CC I_PRP talk_VBP about_IN a_DT good_JJ abient_NN where_WRB theacher_NN and_CC students_NNS could_MD be_VB to_TO learn_VB ._.
+If_IN a_DT student_NN do_VBP not_RB understand_VB that_IN he_PRP or_CC she_PRP study_NN I_PRP think_VBP that_IN he_PRP or_CC she_PRP do_VBP not_RB have_VB more_RBR things_NNS about_IN tell_VBP ._.
+In_IN conclution_NN ,_, I_PRP think_VBP that_IN If_IN a_DT student_NN have_VBP a_DT good_JJ teacher_NN ,_, he_PRP or_CC she_PRP can_MD understand_VB everything_NN he_PRP or_CC she_PRP want_VBP ._.
+Infact_NNP ,_, I_PRP understand_VBP more_RBR that_IN I_PRP study_VBP because_IN I_PRP love_VBP that_IN I_PRP study_NN ._.
+I_PRP love_VBP architecture_NN and_CC i_FW like_IN see_VB ,_, touch_VB ,_, and_CC talk_VB about_IN it_PRP ._.

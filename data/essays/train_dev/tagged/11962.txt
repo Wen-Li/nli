@@ -1,0 +1,18 @@
+There_EX are_VBP a_DT lot_NN of_IN theories_NNS on_IN the_DT number_NN of_IN cars_NNS that_WDT are_VBP in_IN use_NN now_RB and_CC that_DT would_MD be_VB in_IN use_NN in_IN the_DT next_JJ future_NN ._.
+Experts_NNS have_VBP different_JJ ideas_NNS on_IN this_DT question_NN ,_, and_CC their_PRP$ theories_NNS are_VBP based_VBN principally_RB on_IN the_DT cost_NN of_IN cars_NNS (_RB including_VBG the_DT fuel_NN ,_, the_DT insurance_NN ,_, etc_FW ._. )_SYM
+and_CC of_IN governments_NNS '_POS policies_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, if_IN things_NNS do_VBP not_RB change_VB quickly_RB ,_, in_IN the_DT next_JJ twenty_CD years_NNS in_IN Italy_NNP there_RB would_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN today_NN ._.
+My_PRP$ first_JJ argument_NN is_VBZ that_IN cars_NNS '_POS cost_NN is_VBZ increased_VBN year_NN by_IN year_NN in_IN the_DT last_JJ times_NNS ._.
+Even_RB if_IN cars_NNS '_POS prices_NNS are_VBP not_RB increased_VBN ,_, the_DT cost_NN of_IN the_DT fuel_NN and_CC of_IN insuraces_NNS is_VBZ now_RB at_IN an_DT incredibly_RB high_JJ level_NN ._.
+For_IN example_NN ,_, the_DT last_JJ government_NN 's_POS law_NN ,_, in_IN order_NN to_TO solve_VB the_DT financial_JJ problem_NN of_IN our_PRP$ country_NN ,_, contains_VBZ a_DT special_JJ tax_NN on_IN SUVs_NNS ._.
+Today_NN ,_, a_DT tipical_JJ italian_JJ family_NN can_MD difficulty_NN afford_VB the_DT cost_NN of_IN a_DT car_NN ._.
+In_IN addition_NN ,_, the_DT local_JJ policies_NNS of_IN the_DT cities_NNS are_VBP other_JJ reasons_NNS for_IN not_RB buy_VB a_DT car_NN ._.
+Now_RB in_IN all_PDT the_DT big_JJ cities_NNS there_EX are_VBP traffic_NN limitation_NN ,_, and_CC ,_, in_IN order_NN to_TO try_VB to_TO reduce_VB pollution_NN ,_, in_IN some_DT days_NNS cars_NNS are_VBP not_RB allowed_VBN to_TO move_VB in_IN the_DT cities_NNS ._.
+Furthermore_RB ,_, old_JJ cars_NNS can_MD not_RB circulate_VB at_IN any_DT time_NN during_IN the_DT day_NN ._.
+Also_RB ,_, in_IN the_DT cities_NNS is_VBZ very_RB difficult_JJ to_TO find_VB a_DT parking_NN and_CC ,_, when_WRB one_CD finds_VBZ it_PRP ,_, it_PRP costs_VBZ a_DT lot_NN of_IN money_NN ._.
+Therefore_RB people_NNS prefers_VBZ to_TO go_VB to_TO the_DT cities_NNS with_IN scooters_NNS ,_, that_IN take_VBP less_JJR space_NN ,_, or_CC with_IN public_JJ transports_NNS ,_, which_WDT are_VBP cheaper_JJR ._.
+However_RB ,_, the_DT Italian_JJ government_NN is_VBZ not_RB giving_VBG a_DT real_JJ alternative_NN to_TO the_DT car_NN for_IN people_NNS that_WDT need_VBP to_TO move_VB for_IN work_NN or_CC for_IN other_JJ reasons_NNS ._.
+The_DT public_JJ transports_NNS do_VBP not_RB cover_VB all_DT people_NNS 's_POS necessities_NNS ._.
+For_IN instance_NN ,_, there_EX are_VBP no_DT buses_NNS during_IN the_DT night_NN so_RB ,_, if_IN one_CD wants_VBZ to_TO go_VB out_RP at_IN nightime_JJ ,_, he_PRP or_CC she_PRP has_VBZ to_TO use_VB a_DT private_JJ mean_NN ._.
+In_IN conclusion_NN ,_, because_IN most_JJS families_NNS can_MD not_RB afford_VB a_DT car_NN ,_, and_CC because_IN cars_NNS are_VBP not_RB useful_JJ if_IN one_PRP can_MD not_RB use_VB them_PRP (_RB like_IN it_PRP happens_VBZ with_IN cities_NNS '_POS limitations_NNS )_VBP ,_, I_PRP think_VBP that_IN the_DT number_NN of_IN cars_NNS will_MD decrease_VB in_IN the_DT next_JJ twenty_CD years_NNS ._.
+However_RB ,_, government_NN policy_NN is_VBZ not_RB helping_VBG to_TO resolve_VB the_DT situation_NN in_IN favour_NN of_IN public_JJ transports_NNS ._.

@@ -1,0 +1,16 @@
+Some_DT people_NNS agree_VBP with_IN the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+While_IN other_JJ people_NNS disagree_VBP with_IN the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+I_PRP would_MD personally_RB agree_VB with_IN the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN for_IN the_DT following_VBG reasons_NNS ._.
+First_JJ reason_NN is_VBZ keeping_VBG clean_JJ air_NN ._.
+For_IN example_NN ,_, when_WRB I_PRP was_VBD a_DT university_NN student_NN ,_, I_PRP lived_VBD in_IN Tokyo_NNP ._.
+There_EX were_VBD a_DT lot_NN of_IN car_NN around_IN our_PRP$ university_NN ._.
+I_PRP always_RB went_VBD to_TO school_NN by_IN bus_NN which_WDT went_VBD through_IN big_JJ traffic_NN ._.
+One_CD day_NN ,_, I_PRP was_VBD headache_NN and_CC I_PRP went_VBD to_TO hospital_NN ._.
+In_IN fact_NN ,_, duty_NN air_NN caused_VBD my_PRP$ headache_NN ._.
+Therefore_RB ,_, I_PRP moved_VBD to_TO country-side_NN ,_, village_NN ,_, which_WDT has_VBZ clean_JJ air_NN ._.
+And_CC I_PRP could_MD get_VB good_JJ health_NN ._.
+It_PRP is_VBZ important_JJ for_IN me_PRP to_TO breath_NN fresh_JJ air_NN ._.
+As_IN the_DT above_JJ example_NN demonstrates_VBZ that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+Second_JJ resons_NNS is_VBZ safely_RB to_TO grow_VB up_RP children_NNS ._.
+Many_JJ car_NN is_VBZ very_RB deingerus_JJ for_IN child_NN
+In_IN conclusion_NN ,_, I_PRP definitely_RB agree_VBP with_IN the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN for_IN the_DT following_VBG reasons_NNS ._.

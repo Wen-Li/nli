@@ -1,0 +1,13 @@
+VBP_nsubj_NNS
+NNS_compound_NNP
+VBP_dobj_NN
+VBP_advmod_RBR
+RBR_advcl_VBP
+VBP_mark_IN
+VBP_nsubj_NNS
+NNS_amod_JJR
+VBP_advcl_VBG
+VBG_mark_IN
+VBG_nsubj_PRP
+VBG_dobj_NN
+NN_det_DT

@@ -1,0 +1,19 @@
+Pollution_NNP is_VBZ a_DT today_NN burning_NN issue_NN ._.
+Cars_NNS are_VBP the_DT first_JJ point_NN we_PRP think_VBP of_IN when_WRB we_PRP talk_VBP about_IN this_DT issue_NN ._.
+But_CC ,_, even_RB if_IN there_EX are_VBP more_RBR and_CC more_RBR friendly-environment_JJ policies_NNS which_WDT work_VBP or_CC not_RB ,_, what_WP about_IN cars_NNS using_VBG ?_.
+Will_MD we_PRP use_VB less_RBR our_PRP$ cars_NNS in_IN twenty_CD years_NNS than_IN nowadays_RB ?_.
+Not_RB having_VBG utopic_JJ opinions_NNS ,_, we_PRP are_VBP allowed_VBN to_TO answer_VB this_DT question_NN yes_RB ,_, according_VBG to_TO several_JJ elements_NNS about_IN the_DT changements_NNS which_WDT will_MD occur_VB about_IN using_VBG cars_NNS ._.
+First_RB ,_, even_RB if_IN the_DT lobbies_NNS which_WDT control_VBP petrol_NN production_NN are_VBP among_IN the_DT most_RBS powerful_JJ ,_, the_DT worlwide_JJ reserves_NNS of_IN petrol_NN are_VBP going_VBG decreasing_VBG ._.
+This_DT is_VBZ a_DT well-kown_JJ fact_NN ,_, but_CC as_IN it_PRP is_VBZ ``_`` material_NN ''_'' ,_, nobody_NN can_MD prevent_VB us_PRP from_IN this_DT ._.
+This_DT is_VBZ a_DT non-renewable_JJ resource_NN and_CC we_PRP are_VBP using_VBG a_DT great_JJ part_NN of_IN it_PRP ._.
+So_RB our_PRP$ way_NN to_TO use_VB this_DT resource_NN can_MD not_RB be_VB endless_JJ ;_: the_DT situation_NN will_MD change_VB ._.
+Moreover_RB ,_, we_PRP heard_VBD it_PRP from_IN the_DT news_NN more_RBR and_CC more_RBR ,_, scientists_NNS are_VBP searching_VBG and_CC finding_VBG alternatives_NNS to_TO petrol_NN working_VBG cars_NNS ._.
+Although_IN these_DT solutions_NNS are_VBP often_RB complicated_JJ and_CC remains_VBZ expensive_JJ ,_, all_PDT the_DT works_NNS about_IN this_DT topic_NN are_VBP progressing_VBG ._.
+But_CC ,_, they_PRP are_VBP and_CC will_MD remain_VB a_DT certain_JJ time_NN expensive_JJ alternatives_NNS for_IN the_DT consumer_NN ;_: thus_RB they_PRP appear_VBP as_IN a_DT factor_NN which_WDT will_MD probably_RB reduce_VB the_DT using_VBG of_IN cars_NNS in_IN the_DT coming_VBG years_NNS ._.
+Given_VBN that_IN it_PRP will_MD be_VB the_DT only_JJ solution_NN to_TO use_VB cars_NNS ,_, the_DT number_NN of_IN cars_NNS we_PRP use_VBP nowadays_RB will_MD certainly_RB dercrease_VB ._.
+Third_NNP ,_, to_TO reduce_VB our_PRP$ using_VBG of_IN cars_NNS is_VBZ the_DT first_JJ mean_NN we_PRP have_VBP to_TO reduce_VB pollution_NN ,_, one_CD of_IN the_DT growing-importance_JJ issue_NN of_IN our_PRP$ modern_JJ societies_NNS ._.
+Industrials_NNP pollution_NN are_VBP being_VBG diminished_VBN by_IN laws_NNS ,_, but_CC the_DT next_JJ step_NN is_VBZ a_DT control_NN of_IN using_VBG cars_NNS ,_, as_IN it_PRP is_VBZ done_VBN actually_RB in_IN certain_JJ countries_NNS like_IN France_NNP ._.
+It_PRP is_VBZ the_DT best_JJS way_NN we_PRP have_VBP to_TO fight_VB against_IN pollution_NN and_CC the_DT changes_NNS about_IN climates_NNS which_WDT begin_VBP to_TO occur_VB throughout_IN the_DT world_NN ._.
+In_IN fact_NN ,_, the_DT other_JJ aspect_NN of_IN such_PDT a_DT policy_NN would_MD be_VB a_DT very_RB important_JJ developpement_NN of_IN the_DT collective_JJ transports_NNS already_RB existing_VBG as_IN tubes_NNS ,_, buses_NNS ,_, etc_FW ._. .._SYM
+Transporting_VBG more_JJR people_NNS than_IN cars_NNS ,_, they_PRP are_VBP an_DT advantaging_JJ solution_NN at_IN several_JJ levels_NNS ._.
+As_IN a_DT conclusion_NN ,_, even_RB if_IN it_PRP still_RB sounds_VBZ utopic_JJ to_TO say_VB that_IN it_PRP will_MD have_VB fewer_JJR cars_NNS in_IN twenty_CD years_NNS ,_, several_JJ elements_NNS lead_VBP us_PRP to_TO think_VB this_DT will_MD come_VB true_JJ ._.

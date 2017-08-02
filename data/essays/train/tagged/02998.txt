@@ -1,0 +1,14 @@
+In_IN my_PRP$ opinion_NN ,_, what_WDT expressed_VBN in_IN the_DT statement_NN is_VBZ not_RB completelly_RB true_JJ ._.
+I_PRP think_VBP that_IN the_DT fact_NN that_IN for_IN a_DT student_NN ,_, ideas_NNS or_CC concept_NN are_VBP more_RBR important_JJ than_IN to_TO learn_VB facts_NNS ,_, depends_VBZ on_IN the_DT different_JJ attitude_NN the_DT student_NN has_VBZ ._.
+In_IN my_PRP$ opinion_NN by_IN the_DT way_NN ,_, it_PRP 's_VBZ really_RB more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS behind_IN a_DT fact_NN ._.
+The_DT best_JJS example_NN i_FW can_MD use_VB to_TO add_VB value_NN to_TO my_PRP$ assumption_NN ,_, is_VBZ my_PRP$ own_JJ experience_NN during_IN the_DT university_NN study_NN ._.
+I_PRP 've_VBP studied_VBN engeneering_VBG and_CC for_IN most_JJS of_IN the_DT exams_NNS i_FW did_VBD ,_, to_TO understand_VB concepts_NNS was_VBD the_DT most_RBS important_JJ aspect_NN of_IN the_DT studying_VBG ._.
+Without_IN that_DT it_PRP would_MD have_VB been_VBN very_RB difficult_JJ to_TO pass_VB the_DT exam_NN ._.
+Because_IN you_PRP need_VBP that_IN to_TO approach_VB to_TO a_DT brand_NN new_JJ problem_NN ,_, that_IN you_PRP have_VBP not_RB seen_VBN before_IN ._.
+I_PRP can_MD study_VB the_DT fact_NN that_IN a_DT construction_NN can_MD collapse_VB if_IN some_DT project_NN aspect_NN are_VBP not_RB respected_VBN and_CC i_FW can_MD learn_VB this_DT facts_NNS ._.
+But_CC if_IN I_PRP do_VBP n't_RB understand_VB the_DT concept_NN or_CC ideas_NNS behind_IN structure_NN 's_POS Phisics_NN I_PRP could_MD hardly_RB been_VBN able_JJ to_TO project_VB it_PRP properly_RB ._.
+On_IN the_DT other_JJ hand_NN It_PRP is_VBZ obvious_JJ that_IN for_IN someone_NN else_RB results_VBZ are_VBP more_RBR imoportant_JJ than_IN the_DT cause_NN that_WDT has_VBZ produced_VBN them_PRP ,_, and_CC therefor_RB for_IN those_DT student_NN ,_, facts_NNS should_MD definitely_RB be_VB more_RBR important_JJ than_IN the_DT ideas_NNS behind_IN them_PRP ._.
+I_PRP 'm_VBP reffering_VBG for_IN example_NN to_TO those_DT students_NNS interested_JJ to_TO history_NN subject_NN ._.
+Those_DT students_NNS are_VBP mainly_RB interested_JJ in_IN facts_NNS that_WDT are_VBP the_DT basis_NN of_IN their_PRP$ study_NN field_NN ._.
+But_CC even_RB for_IN them_PRP I_PRP think_VBP schould_NN be_VB important_JJ to_TO know_VB and_CC to_TO understand_VB what_WP was_VBD behind_IN a_DT specific_JJ period_NN or_CC event_NN ._.
+to_TO better_RB rember_VB what_WP happened_VBD due_JJ to_TO a_DT logical_JJ cause-effect_JJ process_NN ._.

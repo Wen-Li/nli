@@ -1,0 +1,7 @@
+Nowdays_NNP people_NNS use_VBP advertisement_NN to_TO show_VB their_PRP$ product_NN ;_: or_CC to_TO commercialize_VB it_PRP ;_: but_CC usualy_RB they_PRP push_VBP much_RB more_RBR on_IN these_DT advertisement_NN ._.
+I_PRP mean_VBP they_PRP show_VBP their_PRP$ item_NN pretier_NN or_CC say_VB something_NN that_WDT 's_VBZ not_RB true_JJ about_IN it_PRP ._.
+I_PRP think_VBP that_DT 's_VBZ abuzing_VBG on_IN costumers_NNS trust_NN ._.
+Example_NN :_: when_WRB you_PRP are_VBP usig_NN a_DT phone_NN card_NN the_DT time_NN remaining_VBG is_VBZ generaly_RB less_JJR than_IN they_PRP said_VBD ._.
+Another_DT example_NN is_VBZ car_NN ;_: the_DT preformance_NN they_PRP said_VBD about_IN it_PRP is_VBZ false_JJ ._.
+So_RB as_IN costumer_NN i_FW agee_FW with_IN the_DT statement_NN ,_, and_CC i_FW think_VBP people_NNS should_MD take_VB time_NN to_TO make_VB a_DT right_JJ choice_NN before_IN buying_VBG their_PRP$ items_NNS ._.
+And_CC campanies_NNS should_MD show_VB the_DT right_JJ side_NN of_IN their_PRP$ productions_NNS ._.

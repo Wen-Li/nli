@@ -1,0 +1,15 @@
+Teaching_NN ,_, learning_VBG ,_, studying_VBG :_: it_PRP 's_VBZ all_PDT a_DT method_NN !_.
+During_IN our_PRP$ school_NN and_CC college_NN years_NNS ,_, we_PRP have_VBP all_DT had_VBD the_DT chance_NN to_TO experience_VB many_JJ teaching_NN methods_NNS throughout_IN our_PRP$ professors_NNS ._.
+When_WRB some_DT teachers_NNS believe_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, other_JJ believe_VBP that_IN what_WP matters_NNS is_VBZ learning_VBG the_DT facts_NNS ._.
+During_IN lectures_VBZ ,_, Professors_NNP try_VBP to_TO pass_VB along_RP a_DT certain_JJ idea_NN or_CC concept_NN to_TO his_PRP$ students_NNS ._.
+Undoubtedly_NNP ,_, lectures_VBZ are_VBP too_RB theoratical_JJ and_CC not_RB too_RB exciting_JJ ,_, but_CC remain_VBP essential_JJ ._.
+What_WP will_MD the_DT student_NN remember_VB on_IN the_DT day_NN of_IN his_PRP$ exam_NN from_IN his_PRP$ lectures_VBZ ?_.
+What_WP is_VBZ he_PRP supposed_VBN to_TO remember_VB ?_.
+I_PRP believe_VBP that_IN part_NN of_IN making_VBG studying_VBG an_DT enjoyable_JJ experience_NN ,_, is_VBZ understanding_VBG the_DT material_NN we_PRP are_VBP studying_VBG ._.
+Once_RB we_PRP have_VBP understood_VBN the_DT material_NN ,_, it_PRP is_VBZ printed_VBN logically_RB in_IN our_PRP$ heads_NNS ._.
+Understanding_VBG a_DT lesson_NN begins_VBZ with_IN understanding_VBG the_DT ideas_NNS and_CC concepts_NNS ,_, as_IN they_PRP form_VBP the_DT essence_NN of_IN the_DT material_NN ._.
+But_CC to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS ,_, especially_RB when_WRB it_PRP comes_VBZ to_TO complex_JJ ideas_NNS and_CC concepts_NNS ,_, it_PRP seems_VBZ useful_JJ to_TO start_VB by_IN learning_VBG the_DT facts_NNS ._.
+Learning_VBG the_DT facts_NNS makes_VBZ you_PRP understand_VBP the_DT ideas_NNS and_CC concepts_NNS more_RBR easily_RB ._.
+For_IN example_NN ,_, if_IN a_DT student_NN wants_VBZ to_TO understand_VB Einsten_NNP 's_POS concept_NN of_IN relativity_NN ,_, a_DT revolutionary_JJ concept_NN in_IN physics_NNS ,_, it_PRP would_MD better_RB to_TO start_VB with_IN the_DT facts_NNS ._.
+Once_RB the_DT student_NN would_MD have_VB understood_VBN the_DT facts_NNS about_IN the_DT relativity_NN concept_NN ,_, he_PRP could_MD be_VB more_RBR capable_JJ of_IN understanding_VBG the_DT concept_NN as_IN a_DT whole_NN ._.
+Therefore_RB ,_, i_FW believe_VBP that_IN it_PRP is_VBZ as_RB important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, as_IN it_PRP is_VBZ to_TO learn_VB facts_NNS :_: the_DT two_CD being_VBG linked_VBN to_TO one_CD another_DT ,_, leading_VBG to_TO a_DT better_JJR understanding_NN of_IN the_DT material_NN ._.

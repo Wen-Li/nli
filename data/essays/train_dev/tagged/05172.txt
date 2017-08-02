@@ -1,0 +1,23 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT statement_NN that_WDT says_VBZ that_IN fewer_JJR cars_NNS will_MD be_VB used_VBN in_IN the_DT future_NN ,_, twenty_CD years_NNS later_RB ._.
+I_PRP would_MD like_VB to_TO exlain_VB three_CD reasons_NNS why_WRB I_PRP think_VBP that_IN there_EX will_MD be_VB still_RB cars_NNS ,_, using_VBG for_IN many_JJ purposes_NNS ,_, as_IN the_DT same_JJ as_IN those_DT of_IN todays_NNS ._.
+As_IN the_DT first_JJ reason_NN ,_, I_PRP would_MD like_VB to_TO point_VB out_RP the_DT advent_NN of_IN new_JJ technology_NN ._.
+It_PRP has_VBZ been_VBN criticized_VBN that_IN using_VBG cars_NNS are_VBP not_RB good_JJ for_IN environment_NN due_JJ to_TO their_PRP$ emission_NN of_IN gas_NN ._.
+Their_PRP$ gas_NN destroy_VB the_DT ozon_NN layer_NN ,_, thus_RB people_NNS argue_VBP that_IN these_DT gas_NN should_MD be_VB reduced_VBN ._.
+As_IN the_DT solusion_NN ,_, for_IN instance_NN ,_, many_JJ countries_NNS sing_VB up_RP in_IN the_DT international_JJ agreement_NN ,_, Kyoto_NNP Convention_NNP ,_, to_TO reduce_VB the_DT emmision_NN of_IN CO2_NN ._.
+For_IN one_CD of_IN the_DT efforts_NNS ,_, some_DT companies_NNS try_VBP to_TO invent_VB new_JJ type_NN of_IN gas_NN ,_, which_WDT is_VBZ less_RBR harmuful_JJ for_IN environment_NN ._.
+If_IN the_DT new_JJ type_NN of_IN gas_NN will_MD be_VB used_VBN in_IN future_JJ cars_NNS ,_, their_PRP$ detrimental_JJ effects_NNS on_IN environment_NN will_MD be_VB reduced_VBN ._.
+Thus_RB ,_, people_NNS 's_POS concerns_NNS about_IN car_NN 's_POS effects_NNS on_IN environment_NN could_MD be_VB reduced_VBN ._.
+In_IN that_DT case_NN ,_, cars_NNS could_MD be_VB used_VBN more_RBR in_IN the_DT future_NN ._.
+For_IN the_DT second_JJ reason_NN ,_, I_PRP would_MD like_VB to_TO refer_VB to_TO the_DT aging_NN society_NN ._.
+Within_IN several_JJ years_NNS ,_, Japan_NNP and_CC some_DT EC_NN countries_NNS will_MD face_VB to_TO the_DT serious_JJ problems_NNS according_VBG to_TO the_DT increase_NN of_IN aging_VBG population_NN ._.
+For_IN elders_NNS ,_, paticuraly_RB living_VBG alone_RB ,_, it_PRP is_VBZ difficult_JJ to_TO go_VB out_RP by_IN theirselves_NNS ._.
+They_PRP sometimes_RB need_VBP the_DT support_NN by_IN others_NNS ._.
+However_RB ,_, the_DT use_NN of_IN cars_NNS for_IN elders_NNS may_MD support_VB their_PRP$ independent_JJ lives_NNS ._.
+For_IN instance_NN ,_, my_PRP$ grandfather_NN often_RB uses_VBZ a_DT car_NN to_TO go_VB shopping_NN ._.
+By_IN using_VBG a_DT car_NN ,_, he_PRP need_MD not_RB to_TO bring_VB heavy_JJ bags_NNS when_WRB he_PRP buys_VBZ many_JJ things_NNS in_IN the_DT supermarket_NN ._.
+Although_IN he_PRP lives_VBZ alone_RB now_RB ,_, he_PRP can_MD go_VB out_RP by_IN himself_PRP by_IN using_VBG a_DT car_NN ._.
+Therefore_RB ,_, for_IN elders_NNS in_IN the_DT aging_NN society_NN ,_, the_DT use_NN of_IN cars_NNS enable_VBP their_PRP$ lives_NNS more_RBR convinient_JJ with_IN less_JJR support_NN by_IN others_NNS ._.
+In_IN counclusion_NN ,_, according_VBG to_TO these_DT three_CD reasons_NNS ,_, I_PRP think_VBP that_IN there_EX will_MD be_VB more_RBR cars_NNS after_IN twenty_CD years_NNS ._.
+If_IN the_DT harmuful_JJ effects_NNS of_IN cars_NNS on_IN environment_NN could_MD be_VB reduced_VBN ,_, I_PRP think_VBP that_IN we_PRP need_VBP not_RB hesitate_VB to_TO use_VB such_JJ efficient_JJ instruments_NNS for_IN improving_VBG our_PRP$ life_NN more_RBR and_CC more_RBR ._.
+The_DT balance_NN between_IN nature_NN and_CC technology_NN can_MD be_VB taken_VBN accrding_VBG to_TO the_DT advent_NN of_IN new_JJ gas_NN ._.
+Moreover_RB ,_, in_IN the_DT aging_NN society_NN ,_, elders_NNS could_MD be_VB more_RBR active_JJ and_CC independent_JJ to_TO use_VB cars_NNS ._.

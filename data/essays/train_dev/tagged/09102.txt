@@ -1,0 +1,14 @@
+Some_DT theories_NNS predict_VBP that_IN in_IN the_DT next_JJ twenty_CD years_NNS there_RB will_MD be_VB a_DT decrease_NN in_IN the_DT number_NN of_IN the_DT car_NN in_IN use_NN ._.
+I_PRP am_VBP not_RB sure_JJ that_IN this_DT will_MD be_VB the_DT future_NN ,_, but_CC there_EX are_VBP many_JJ reasons_NNS that_WDT suggest_VBP me_PRP that_IN it_PRP would_MD be_VB a_DT possible_JJ scenario_NN ._.
+The_DT first_JJ main_JJ raison_NN is_VBZ the_DT energitical_JJ problem_NN ._.
+Everyone_NN knows_VBZ that_IN oil_NN energy_NN ,_, based_VBN on_IN petroleum_NN ,_, might_MD be_VB reduced_VBN in_IN the_DT next_JJ years_NNS and_CC if_IN the_DT fuel_NN for_IN cars_NNS is_VBZ rare_JJ ,_, there_EX will_MD be_VB not_RB cars_NNS ,_, or_CC at_IN least_JJS the_DT cost_NN of_IN petrol_NN will_MD be_VB too_RB high_JJ to_TO mantain_VB a_DT car_NN ._.
+Not_RB everyone_NN who_WP today_NN has_VBZ got_VBN a_DT car_NN ,_, might_MD be_VB able_JJ to_TO afford_VB these_DT high_JJ expense_NN ._.
+The_DT second_JJ point_NN that_WDT indicates_VBZ me_PRP a_DT possible_JJ reduction_NN of_IN cars_NNS is_VBZ related_VBN to_TO the_DT pollution_NN ._.
+I_PRP live_VBP in_IN Milan_NNP ,_, a_DT big_JJ city_NN in_IN the_DT north_NN of_IN Italy_NNP ,_, where_WRB the_DT quality_NN of_IN the_DT air_NN is_VBZ very_RB low_JJ because_IN of_IN cars_NNS ._.
+Thus_RB ,_, it_PRP is_VBZ raisonable_JJ to_TO think_VB that_IN to_TO solve_VB this_DT the_DT government_NN might_MD forbid_VB the_DT circulation_NN of_IN cars_NNS in_IN the_DT city_NN ._.
+If_IN it_PRP is_VBZ happens_VBZ ,_, the_DT number_NN of_IN cars_NNS will_MD ,_, certainly_RB ,_, decrease_NN ._.
+Finally_RB the_DT tecnology_NN evolution_NN allows_VBZ to_TO think_VB that_IN in_IN the_DT next_JJ future_NN the_DT need_NN of_IN cars_NNS will_MD be_VB lower_JJR and_CC lower_JJR ._.
+An_DT example_NN comes_VBZ into_IN mind_NN ._.
+In_IN the_DT past_JJ everyone_NN had_VBD a_DT horse_NN to_TO move_VB ,_, instead_RB now_RB nobody_NN needs_VBZ a_DT horse_NN because_IN there_EX are_VBP cars_NNS ._.
+In_IN the_DT same_JJ way_NN ,_, in_IN twenty_CD years_NNS there_RB will_MD be_VB other_JJ means_NNS of_IN transport_NN faster_RBR than_IN cars_NNS ._.
+In_IN conclusion_NN there_EX are_VBP three_CD good_JJ reasons_NNS to_TO think_VB that_IN the_DT reduction_NN of_IN cars_NNS is_VBZ

@@ -1,0 +1,18 @@
+I_PRP do_VBP neither_DT agree_VBP or_CC disagree_VBP with_IN the_DT statement_NN ._.
+I_PRP think_VBP there_EX must_MD be_VB a_DT combination_NN of_IN both_DT ._.
+A_DT student_NN has_VBZ to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS related_VBN to_TO his_PRP$ career_NN ._.
+He_PRP also_RB has_VBZ to_TO learn_VB facts_NNS about_IN it_PRP ,_, those_DT are_VBP really_RB important_JJ ._.
+The_DT reason_NN I_PRP think_VBP that_IN both_DT are_VBP important_JJ is_VBZ because_IN both_DT are_VBP used_VBN in_IN different_JJ situations_NNS and_CC the_DT student_NN must_MD be_VB prepared_VBN for_IN them_PRP ._.
+A_DT person_NN that_WDT has_VBZ learned_VBN facts_NNS can_MD answer_VB quicker_JJR to_TO a_DT known_JJ situation_NN than_IN a_DT person_NN who_WP only_RB understands_VBZ the_DT ideas_NNS and_CC concepts_NNS ._.
+For_IN example_NN ,_, I_PRP study_VBP computer_NN science_NN ._.
+One_CD of_IN the_DT most_RBS common_JJ problems_NNS in_IN this_DT field_NN is_VBZ sorting_VBG a_DT set_NN of_IN elements_NNS ._.
+Knowing_VBG that_IN you_PRP can_MD not_RB sort_VB a_DT set_VBN in_IN less_JJR than_IN a_DT certain_JJ time_NN allows_VBZ you_PRP to_TO make_VB quick_JJ decisions_NNS like_IN not_RB using_VBG a_DT certain_JJ propossed_JJ approach_NN and_CC looking_VBG for_IN a_DT new_JJ way_NN of_IN solving_VBG the_DT problem_NN ._.
+A_DT person_NN who_WP does_VBZ not_RB know_VB this_DT fact_NN but_CC understands_VBZ the_DT concepts_NNS would_MD take_VB much_JJ time_NN figuring_VBG the_DT answer_NN ._.
+Now_RB ,_, if_IN a_DT person_NN understands_VBZ the_DT concepts_NNS but_CC does_VBZ not_RB know_VB the_DT facts_NNS ,_, he_PRP (_VBD or_CC she_PRP )_RB can_MD not_RB react_VB as_RB quickly_RB as_IN the_DT person_NN that_WDT knows_VBZ them_PRP ._.
+His_PRP$ (_CD or_CC her_PRP$ )_NN advantage_NN is_VBZ that_IN he_PRP (_VBD or_CC she_PRP )_RB is_VBZ able_JJ of_IN creating_VBG new_JJ solutions_NNS ,_, since_IN he_PRP (_VBD or_CC she_PRP )_RB does_VBZ understand_VB how_WRB similar_JJ problems_NNS are_VBP solved_VBN ._.
+In_IN the_DT situation_NN exposed_VBN above_IN ,_, knowing_VBG the_DT facts_NNS allows_VBZ you_PRP to_TO determine_VB fast_RB if_IN a_DT solution_NN is_VBZ the_DT right_JJ one_CD or_CC not_RB ._.
+If_IN you_PRP needed_VBD to_TO build_VB a_DT new_JJ solution_NN ,_, you_PRP would_MD need_VB to_TO understand_VB the_DT concepts_NNS ._.
+The_DT main_JJ point_NN I_PRP am_VBP trying_VBG to_TO express_VB is_VBZ that_IN a_DT combination_NN of_IN both_CC characteristics_NNS is_VBZ important_JJ ._.
+It_PRP depends_VBZ on_IN the_DT kind_NN of_IN work_NN you_PRP are_VBP performing_VBG which_WDT one_CD is_VBZ more_RBR important_JJ ._.
+A_DT good_JJ example_NN is_VBZ if_IN you_PRP are_VBP hired_VBN to_TO correct_VB things_NNS ,_, you_PRP need_VBP to_TO learn_VB many_JJ facts_NNS ,_, you_PRP can_MD not_RB build_VB everything_NN from_IN scratch_NN ._.
+If_IN you_PRP are_VBP hired_VBN to_TO create_VB new_JJ things_NNS ,_, you_PRP need_VBP to_TO fully_RB understand_VB the_DT ideas_NNS behind_IN other_JJ creations_NNS ._.

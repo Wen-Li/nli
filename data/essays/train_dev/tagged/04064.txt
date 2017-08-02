@@ -1,0 +1,23 @@
+Nowaday_NNP ,_, Bill_NNP Gates_NNP is_VBZ the_DT first_JJ wealth_NN on_IN the_DT hearth_NN ._.
+He_PRP has_VBZ constructed_VBN it_PRP on_IN a_DT very_RB famous_JJ firm_NN ,_, Microsoft_NNP ._.
+This_DT latter_JJ month_NN a_DT new_JJ product_NN has_VBZ been_VBN launched_VBN ,_, Windows_NNP Vista_NNP which_WDT is_VBZ a_DT new_JJ software_NN which_WDT enable_VBP every_DT people_NNS to_TO work_VB more_RBR efficenctly_RB with_IN their_PRP$ computer_NN ._.
+What_WP is_VBZ that_IN product_NN ?_.
+Only_RB a_DT old_JJ software_NN which_WDT has_VBZ been_VBN improved_VBN ._.
+This_DT leads_VBZ to_TO my_PRP$ point_NN of_IN view_NN ._.
+According_VBG to_TO me_PRP ,_, successful_JJ people_NNS are_VBP those_DT who_WP develope_VBP products_NNS based_VBN on_IN their_PRP$ previous_JJ experience_NN and_CC knowledge_NN ._.
+If_IN we_PRP spend_VBP so_RB much_JJ time_NN at_IN the_DT university_NN is_VBZ to_TO gather_VB and_CC increase_VB our_PRP$ knowledge_NN to_TO pretend_VB to_TO a_DT good_JJ job_NN ._.
+At_IN the_DT time_NN being_VBG it_PRP is_VBZ almost_RB impossible_JJ to_TO succeed_VB in_IN the_DT unknown_JJ ._.
+Every_DT people_NNS who_WP has_VBZ succeeded_VBN started_VBN with_IN a_DT familliar_NN topic_NN ._.
+How_WRB can_MD we_PRP be_VB good_JJ in_IN something_NN we_PRP do_VBP not_RB know_VB at_IN all_DT ._.
+A_DT business_NN to_TO be_VB launched_VBN needs_NNS strong_JJ basis_NN or_CC it_PRP is_VBZ deemed_VBN to_TO fail_VB ._.
+Once_IN it_PRP is_VBZ properous_JJ then_RB we_PRP can_MD decided_VBD that_IN something_NN new_JJ could_MD be_VB done_VBN ._.
+When_WRB a_DT manager_NN points_VBZ out_RP that_IN the_DT bounds_NNS are_VBP reached_VBN and_CC that_IN the_DT business_NN is_VBZ not_RB growing_VBG anymore_RB ,_, at_IN that_DT time_NN he_PRP can_MD decided_VBD to_TO find_VB a_DT new_JJ strategy_NN or_CC a_DT new_JJ product_NN ._.
+New_NNP investment_NN must_MD be_VB the_DT only_JJ way_NN for_IN a_DT firm_NN to_TO survive_VB the_DT growing_VBG competition_NN ._.
+But_CC it_PRP is_VBZ not_RB necessary_JJ to_TO change_VB completely_RB the_DT product_NN the_DT firm_NN is_VBZ selling_VBG ._.
+Pizza_NNP Hut_NNP for_IN example_NN ,_, to_TO revive_VB the_DT business_NN ,_, invented_VBD the_DT cheezy_JJ crust_NN pasta_NN ._.
+The_DT product_NN is_VBZ still_RB a_DT pizza_NN but_CC that_IN pizza_NN is_VBZ improved_VBN to_TO ``_`` grab_VB ''_'' new_JJ consumers_NNS ,_, increase_VBP the_DT profit_NN and_CC be_VB better_JJR than_IN other_JJ competitors_NNS ._.
+So_RB ,_, successful_JJ people_NNS has_VBZ develope_VB a_DT thing_NN they_PRP were_VBD knowing_VBG very_RB well_RB ,_, improved_VBD it_PRP and_CC then_RB renew_VB that_IN thing_NN when_WRB the_DT time_NN has_VBZ come_VBN to_TO find_VB new_JJ found_VBN by_IN extended_VBN the_DT market_NN ._.
+The_DT subject_NN is_VBZ innovation_NN ._.
+Many_JJ people_NNS who_WP tried_VBD to_TO succeed_VB in_IN something_NN they_PRP do_VBP not_RB know_VB at_IN all_DT were_VBD a_DT lot_NN to_TO fail_VB ._.
+That_DT is_VBZ what_WP we_PRP witnessed_VBD in_IN France_NNP at_IN the_DT begining_NN of_IN 2000_CD ._.
+A_DT lot_NN of_IN new_JJ firms_NNS were_VBD started_VBN on_IN the_DT Internet_NN thing_NN but_CC many_JJ of_IN them_PRP were_VBD completely_RB ignorant_JJ of_IN that_DT totally_RB new_JJ thing_NN and_CC the_DT result_NN was_VBD appaling_VBG ,_, more_JJR than_IN 80_CD percent_NN of_IN those_DT firms_NNS closed_VBD during_IN the_DT first_JJ year_NN ._.

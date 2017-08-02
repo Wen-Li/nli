@@ -1,0 +1,19 @@
+The_DT happiest_JJS period_NN in_IN one_CD 's_POS life_NN is_VBZ young_JJ age_NN ._.
+It_PRP is_VBZ a_DT period_NN of_IN learning_NN ,_, enjoyment_NN ,_, base_NN for_IN future_JJ life_NN ,_, healthier_JJR life_NN ._.
+So_RB i_FW feel_VBP that_IN young_JJ people_NNS enjoy_VBP more_JJR than_IN older_JJR people_NNS ._.
+Firstly_RB young_JJ age_NN is_VBZ the_DT period_NN where_WRB people_NNS learn_VBP a_DT lot_NN ._.
+They_PRP learn_VBP about_IN interaction_NN with_IN others_NNS ._.
+They_PRP learn_VBP about_IN various_JJ subjects_NNS ,_, &_CC of_IN nature_NN ._.
+They_PRP even_RB do_VBP specialisations_NNS in_IN various_JJ fields_NNS which_WDT become_VBP profession_NN to_TO earn_VB money_NN ._.
+This_DT forms_VBZ the_DT base_NN for_IN the_DT future_JJ life_NN ._.
+Because_IN it_PRP is_VBZ the_DT period_NN to_TO earn_VB money_NN for_IN future_NN and_CC for_IN eenjoyment_NN ._.
+This_DT is_VBZ also_RB period_NN to_TO learn_VB other_JJ skills_NNS for_IN relaxation_NN as_RB well_RB as_IN for_IN entertainment_NN ._.
+It_PRP is_VBZ a_DT period_NN of_IN learning_VBG skills_NNS because_IN they_PRP have_VBP good_JJ memory_NN and_CC intelligence_NN ._.
+Secondly_RB ,_, it_PRP is_VBZ a_DT period_NN of_IN enjoyment_NN ._.
+Because_IN people_NNS can_MD spend_VB much_JJ time_NN with_IN friends_NNS ,_, relatives_NNS ,_, family_NN members_NNS ._.
+At_IN this_DT age_NN people_NNS can_MD also_RB move_VB freely_RB to_TO different_JJ placesin_NN search_NN of_IN work_NN ,_, see_VBP different_JJ places_NNS ,_, enjoy_VBP holidays_NNS ._.
+They_PRP can_MD even_RB enjoy_VB by_IN reading_VBG books_NNS ,_, playing_VBG with_IN children_NNS where_WRB as_IN older_JJR people_NNS can_MD not_RB spend_VB time_NN with_IN family_NN members_NNS mostly_RB because_IN of_IN their_PRP$ stay_NN away_RB from_IN them_PRP due_JJ to_TO studies_NNS or_CC work_NN ._.
+Older_JJR people_NNS loss_NN interest_NN in_IN things_NNS as_IN they_PRP grow_VBP older_JJR so_IN they_PRP do_VBP not_RB enjoy_VB every_DT thing_NN surrounding_VBG them_PRP ._.
+Thirdly_RB ,_, young_JJ age_NN is_VBZ the_DT healthy_JJ period_NN in_IN health_NN point_NN of_IN view_NN ._.
+As_IN older_JJR people_NNS face_VBP many_JJ problems_NNS of_IN old_JJ age_NN such_JJ as_IN dementia_NN -_: loss_NN of_IN memory_NN ,_, general_JJ weakness_NN ,_, and_CC various_JJ other_JJ problems_NNS relating_VBG to_TO old_JJ age_NN ._.
+Finally_RB ,_, i_FW conclude_VBP that_IN young_JJ people_NNS enjoy_VBP more_JJR than_IN older_JJR people_NNS because_IN of_IN their_PRP$ intelligence_NN ,_, memory_NN ,_, interest_NN ,_, and_CC lastly_RB support_NN of_IN the_DT health_NN ._.

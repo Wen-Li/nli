@@ -1,0 +1,17 @@
+CITIES_NNS TWENTY_CD YEARS_NNS LATER_NN
+How_WRB will_MD our_PRP$ cities_NNS be_VB in_IN the_DT future_NN ?_.
+How_WRB will_MD people_NNS live_VB twenty_CD years_NNS from_IN now_RB ?_.
+These_DT are_VBP questions_NNS asked_VBD for_IN so_RB many_JJ years_NNS and_CC we_PRP can_MD see_VB many_JJ different_JJ answers_NNS ,_, theories_NNS and_CC approaches_NNS through_IN out_IN history_NN ._.
+When_WRB trying_VBG to_TO answer_VB these_DT questions_NNS ,_, the_DT key_JJ aspects_NNS of_IN cities_NNS such_JJ as_IN traffic_NN and_CC car_NN use_VBP come_VBN into_IN the_DT picture_NN ._.
+I_PRP believe_VBP that_IN ,_, in_IN terms_NNS on_IN car_NN use_NN in_IN the_DT city_NN ,_, there_EX will_MD not_RB be_VB significant_JJ decrease_NN in_IN the_DT number_NN of_IN cars_NNS used_VBN and_CC even_RB more_RBR cars_NNS will_MD be_VB used_VBN in_IN twenty_CD years_NNS ._.
+There_EX are_VBP several_JJ aspects_NNS effecting_VBG the_DT car_NN use_NN today_NN ._.
+The_DT main_JJ element_NN is_VBZ the_DT car-dependent_JJ life_NN style_NN of_IN modern_JJ people_NNS living_VBG in_IN the_DT cities_NNS ._.
+I_PRP believe_VBP that_IN the_DT city_NN life_NN of_IN the_DT near_JJ future_NN will_MD as_IN car_NN dependant_NN as_IN today_NN or_CC even_RB more_RBR ._.
+Cities_NNS evolve_VBP and_CC continue_VBP to_TO get_VB bigger_JJR counting_NN on_IN the_DT mobility_NN of_IN the_DT people_NNS ._.
+As_IN new_JJ suburbs_NNS are_VBP created_VBN and_CC cities_NNS with_IN multiple_JJ city_NN centers_NNS away_RB from_IN each_DT other_JJ ,_, are_VBP developed_VBN ;_: as_IN the_DT current_JJ situation_NN in_IN Istanbul_NNP nowadays_RB more_JJR and_CC more_JJR people_NNS will_MD need_VB to_TO use_VB cars_NNS ._.
+The_DT only_JJ reason_NN for_IN fewer_JJR cars_NNS to_TO be_VB used_VBN in_IN the_DT near_JJ future_NN would_MD be_VB the_DT concept_NN of_IN working_VBG from_IN home_NN using_VBG the_DT internet_NN ._.
+People_NNS can_MD argue_VB that_IN when_WRB people_NNS will_MD have_VB the_DT chance_NN to_TO live_VB and_CC work_VB in_IN one_CD place_NN -_: the_DT home_NN office_NN concept_NN ,_, they_PRP will_MD not_RB need_VB to_TO use_VB cars_NNS ._.
+However_RB the_DT concept_NN of_IN a_DT home_NN ofiice_NN is_VBZ not_RB that_IN new_JJ and_CC in_IN the_DT past_JJ 10_CD or_CC 15_CD years_NNS many_JJ people_NNS tried_VBD to_TO work_VB from_IN home_NN but_CC ended_VBD up_RP going_VBG back_RB to_TO their_PRP$ offices_NNS ._.
+Big_JJ companies_NNS are_VBP not_RB supporting_VBG people_NNS working_VBG from_IN home_NN ,_, on_IN the_DT contrary_NN they_PRP are_VBP trying_VBG to_TO create_VB better_JJR and_CC more_RBR confortable_JJ working_VBG environments_NNS in_IN and_CC around_IN the_DT city_NN ._.
+Based_VBN on_IN what_WP I_PRP see_VBP in_IN my_PRP$ own_JJ country_NN (_CD Turkey_NNP )_NN and_CC many_JJ other_JJ developing_VBG countries_NNS I_PRP can_MD say_VB that_IN more_JJR and_CC a_DT lot_NN of_IN money_NN is_VBZ invested_VBN in_IN the_DT car_NN industry_NN ,_, highways_NNS ,_, tunnels_NNS and_CC bridges_NNS making_VBG it_PRP easier_JJR and_CC necessary_JJ for_IN people_NNS to_TO use_VB cars_NNS ._.
+Therefore_RB I_PRP believe_VBP that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB more_RBR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.

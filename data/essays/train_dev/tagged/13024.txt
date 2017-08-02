@@ -1,0 +1,13 @@
+Ideas_NNS ,_, concepts_NNS ,_, facts_NNS are_VBP three_CD important_JJ methods_NNS to_TO know_VB the_DT topic_NN ,_, this_DT will_MD be_VB there_RB for_IN every_DT aspect_NN ._.
+In_IN somecases_NNS all_DT three_CD are_VBP important_JJ to_TO know_VB the_DT topic_NN in_IN detail_NN ._.
+My_PRP$ opinion_NN about_IN this_DT statement_NN -_: I_PRP am_VBP disagreeing_VBG with_IN following_VBG statement_NN ._.
+each_DT and_CC every_DT method_NN is_VBZ essential_JJ for_IN better_JJR knowing_VBG of_IN the_DT topic_NN ._.
+some_DT aspects_NNS will_MD require_VB any_DT of_IN the_DT method_NN for_IN understanding_NN ._.
+while_IN all_DT some_DT require_VBP all_PDT the_DT three_CD for_IN better_JJR understanding_NN of_IN the_DT topic_NN ._.
+for_IN example_NN if_IN a_DT boy_NN was_VBD thaught_JJ about_IN a_DT topic_NN ,_, and_CC he_PRP is_VBZ thaught_JJ all_PDT the_DT theories_NNS related_VBN to_TO the_DT topic_NN and_CC some_DT reasons_NNS lying_VBG under_IN the_DT subject_NN ,_, the_DT boy_NN will_MD understand_VB partially_RB about_IN the_DT topic_NN ._.
+If_IN he_PRP is_VBZ given_VBN some_DT in_IN examples_NNS where_WRB and_CC when_WRB the_DT topic_NN is_VBZ used_VBN and_CC shows_VBZ how_WRB it_PRP works_VBZ ,_, then_RB the_DT boy_NN understand_VBP the_DT the_DT topic_NN clearly_RB ._.
+However_RB the_DT methods_NNS depend_VBP on_IN the_DT age_NN and_CC in_IN which_WDT grade_NN is_VBZ he_PRP studing_VBG ._.
+If_IN the_DT student_NN is_VBZ in_IN primary_JJ grade_NN all_DT methods_NNS are_VBP not_RB necessary_JJ for_IN him_PRP ,_, moreover_RB he_PRP rather_RB gets_VBZ confused_VBN if_IN he_PRP is_VBZ thaught_JJ ._.
+And_CC the_DT student_NN who_WP is_VBZ doing_VBG graduation_NN or_CC undergraduation_NN ,_, He_PRP requires_VBZ all_PDT the_DT three_CD methods_NNS as_IN he_PRP has_VBZ to_TO submit_VB research_NN papers_NNS on_IN every_DT subject_NN ._.
+in_IN conclusion_NN ,_, I_PRP rather_RB believe_VBP that_IN all_PDT the_DT three_CD methods_NNS are_VBP important_JJ to_TO understand_VB ,_, moreover_RB the_DT main_JJ reason_NN for_IN this_DT is_VBZ the_DT student_NN will_MD be_VB having_VBG no_DT doubts_NNS on_IN the_DT subject_JJ and_CC he_PRP will_MD be_VB familiar_JJ and_CC perfect_JJ with_IN the_DT subject_NN ._.
+I_PRP think_VBP it_PRP is_VBZ better_JJR to_TO know_VB all_DT about_IN the_DT topic_NN ,_, so_IN that_DT will_MD be_VB like_IN ``_`` digging_NN a_DT mine_NN of_IN wisdom_NN ''_'' ._.

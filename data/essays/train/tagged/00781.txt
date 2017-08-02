@@ -1,0 +1,25 @@
+Companies_NNS spend_VBP a_DT considerable_JJ amount_NN of_IN money_NN in_IN marketing_NN of_IN their_PRP$ products_NNS ._.
+The_DT principal_JJ aim_NN of_IN these_DT marketing_NN campaigns_NNS is_VBZ to_TO increase_VB sales_NNS of_IN their_PRP$ products_NNS ._.
+A_DT secondary_JJ desired_VBN effect_NN is_VBZ to_TO strengthen_VB the_DT image_NN of_IN the_DT company_NN and_CC of_IN the_DT product_NN ._.
+Consumer_NNP choices_NNS are_VBP often_RB based_VBN on_IN brand_NN prestige_NN ._.
+In_IN view_NN of_IN these_DT goals_NNS ,_, it_PRP goes_VBZ without_IN saying_VBG that_IN companies_NNS regularly_RB try_VBP to_TO make_VB their_PRP$ products_NNS as_IN attractive_JJ as_IN possible_JJ ._.
+To_TO name_VB just_RB a_DT few_JJ recent_JJ examples_NNS ,_, we_PRP may_MD think_VB about_IN Airbus_NNP 380_CD ,_, Sony_NNP laptops_NNS and_CC AMD_NNP processors_NNS ._.
+Airbus_NNP presented_VBD their_PRP$ new_JJ airplane_NN in_IN a_DT very_RB glamerous_JJ way_NN ,_, highlighting_VBG the_DT exceptional_JJ comfort_NN ,_, high_JJ speed_NN and_CC low_JJ fuel_NN consumption_NN ._.
+Recently_RB we_PRP learnt_VBD that_IN they_PRP knew_VBD about_RB many_JJ major_JJ problems_NNS ,_, in_IN particular_JJ the_DT wiring_NN problem_NN ._.
+Of_IN course_NN they_PRP did_VBD n't_RB mention_VB such_JJ problems_NNS in_IN advertising_NN spots_NNS nor_CC will_MD they_PRP ever_RB do_VBP ._.
+They_PRP had_VBD to_TO admit_VB the_DT problems_NNS because_IN they_PRP were_VBD unable_JJ to_TO deliver_VB the_DT aircrafts_NNS in_IN time_NN ._.
+Moreover_RB for_IN the_DT stock_NN market_NN they_PRP have_VBP to_TO provide_VB some_DT information_NN regularly_RB to_TO their_PRP$ share_NN holders_NNS ._.
+But_CC even_RB then_RB they_PRP did_VBD not_RB really_RB tell_VB the_DT truth_NN ._.
+Another_DT example_NN is_VBZ Sony_NNP ._.
+They_PRP are_VBP producers_NNS of_IN power_NN supply_NN for_IN laptops_NNS ._.
+They_PRP recently_RB found_VBD out_RP that_IN batteries_NNS may_MD explode_VB causing_VBG damages_NNS to_TO objects_NNS and_CC injuries_NNS to_TO persons_NNS which_WDT are_VBP close_JJ to_TO such_JJ notebooks_NNS ._.
+Even_RB if_IN they_PRP now_RB offer_VBP to_TO exchange_VB all_PDT the_DT batteries_NNS ,_, it_PRP do_VBP not_RB expect_VB them_PRP to_TO mention_VB this_DT in_IN TV_NN advertisement_NN spots_NNS ._.
+The_DT story_NN of_IN AMD_NNP is_VBZ somewhat_RB different_JJ ,_, because_IN their_PRP$ product_NN is_VBZ working_VBG as_IN you_PRP may_MD reasonably_RB expect_VB from_IN the_DT TV_NN spots_NNS ._.
+The_DT newest_JJS processors_NNS are_VBP much_JJ faster_JJR and_CC cheaper_JJR than_IN the_DT ones_NNS of_IN previous_JJ generations_NNS ._.
+So_IN where_WRB is_VBZ the_DT flaw_NN in_IN this_DT case_NN ?_.
+The_DT flaw_NN is_VBZ somewhat_RB more_RBR subtle_JJ :_: they_PRP once_RB compared_VBD their_PRP$ products_NNS with_IN the_DT ones_NNS of_IN their_PRP$ strongest_JJS competitor_NN and_CC showed_VBD their_PRP$ superiority_NN in_IN terms_NNS of_IN processing_VBG power_NN and_CC power_NN consumption_NN ._.
+Meanwhile_RB in_IN recent_JJ advertisements_NNS they_PRP do_VBP not_RB mention_VB that_IN Intel_NNP has_VBZ now_RB the_DT better_JJR processors_NNS ._.
+So_IN they_PRP deliberately_RB omitted_VBD that_IN their_PRP$ products_NNS are_VBP now_RB inferior_JJ in_IN many_JJ aspects_NNS ._.
+Their_PRP$ are_VBP many_JJ more_JJR examples_NNS of_IN the_DT style_NN ``_`` By_IN my_PRP$ product_NN and_CC you_PRP will_MD be_VB successfull_JJ ''_'' ._.
+What_WDT successfull_NN is_VBZ depends_VBZ on_IN the_DT product_NN ,_, but_CC many_JJ times_NNS one_CD can_MD spot_VB admiration_NN or_CC other_JJ positive_JJ feadback_NN from_IN friends_NNS and_CC envy_NN from_IN competitors_NNS ._.
+Consequently_RB these_DT examples_NNS give_VBP evidence_NN that_IN companies_NNS are_VBP unwilling_JJ to_TO disclose_VB their_PRP$ weaknesses_NNS in_IN advertisement_NN ._.

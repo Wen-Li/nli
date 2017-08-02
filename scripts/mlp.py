@@ -4,13 +4,13 @@ import pickle
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 
 X_train = np.array(pickle.load(open("../pickles/word2vec_42B_train.pkl", "rb")))
-y_train = np.array(pickle.load(open("../pickles/encoded_training_labels.pkl", "rb")))
+y_train = np.array(pickle.load(open("../pickles/encoded_train_labels.pkl", "rb")))
 X_test = np.array(pickle.load(open("../pickles/word2vec_42B_dev.pkl", "rb")))
 y_test = np.array(pickle.load(open("../pickles/encoded_test_labels.pkl", "rb")))
 
 print(X_train.shape, y_train.shape, X_test.shape, y_test.shape)
 
-clf = MLPClassifier(hidden_layer_sizes=(300, 50))
+clf = MLPClassifier(hidden_layer_sizes=(100))
 
 print("Started training ...")
 clf.fit(X_train, y_train)

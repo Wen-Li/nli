@@ -1,0 +1,11 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understatnd_NN ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS for_IN the_DT following_VBG reasons_NNS ._.
+For_IN the_DT first_JJ ,_, it_PRP is_VBZ necessary_JJ for_IN the_DT students_NNS to_TO learn_VB the_DT facts_NNS to_TO feel_VB wonder_NN and_CC interestrd_NN in_IN the_DT subjects_NNS ._.
+When_WRB I_PRP was_VBD a_DT juninor_NN high_JJ school_NN student_NN ,_, I_PRP had_VBD many_JJ experiment_NN in_IN the_DT chemical_NN class_NN ._.
+At_IN first_RB ,_, I_PRP was_VBD just_RB surprised_VBN to_TO find_VB the_DT each_DT chemical_NN reactions_NNS ,_, like_IN chnagin_NN the_DT color_NN or_CC making_VBG fiber_NN from_IN the_DT liquid_NN ,_, becasue_NN they_PRP were_VBD hardly_RB seen_VBN in_IN the_DT daily_JJ life_NN ._.
+After_IN I_PRP had_VBD experiment_NN ,_, I_PRP was_VBD very_RB interested_JJ in_IN the_DT reasons_NNS and_CC learned_VBD them_PRP in_IN the_DT text_NN book_NN as_IN what_WP kind_NN of_IN the_DT concepts_NNS were_VBD ._.
+Also_RB ,_, in_IN the_DT mathematics_NN class_NN ,_, my_PRP$ teacher_NN taught_VBD us_PRP many_JJ facts_NNS and_CC suggested_VBD the_DT ideas_NNS to_TO lead_VB the_DT mathematical_JJ rules_NNS ._.
+Instead_RB of_IN just_RB teaching_VBG the_DT ideas_NNS ot_NN concept_NN ,_, I_PRP was_VBD very_RB interested_JJ in_IN the_DT subjects_NNS throught_IN the_DT fact_NN in_IN the_DT experiment_NN ,_, I_PRP could_MD enjoy_VB studing_VBG at_IN the_DT class_NN and_CC read_VB the_DT related_JJ articles_NNS by_IN myself_PRP ._.
+Secondly_RB ,_, it_PRP is_VBZ importnat_JJ for_IN the_DT students_NNS to_TO think_VB about_IN why_WRB and_CC looking_VBG for_IN the_DT answer_NN by_IN themselves_PRP ._.
+Threfore_NNP ,_, learning_VBG the_DT facts_NNS will_MD enable_VB students_NNS to_TO feel_VB wonder_NN and_CC interested_JJ in_IN the_DT subjects_NNS ._.
+Also_RB ,_, it_PRP enabels_VBZ the_DT students_NNS to_TO think_VB themselves_PRP ._.
+Therefore_RB ,_, for_IN the_DT reasons_NNS mentioned_VBN above_IN ,_, I_PRP certainly_RB disagree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.

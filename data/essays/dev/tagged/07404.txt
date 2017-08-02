@@ -1,0 +1,17 @@
+I_PRP agree_VBP with_IN the_DT statement_NN mentioned_VBD that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+If_IN students_NNS learn_VBP only_RB facts_NNS then_RB they_PRP do_VBP n't_RB have_VB conceptual_JJ knowledge_NN or_CC idea_NN that_IN where_WRB and_CC how_WRB to_TO use_VB in_IN practical_JJ ._.
+For_IN example_NN ,_, a_DT maths_NNS teacher_NN taught_VBD one_CD problem_NN and_CC solved_VBD without_IN giving_VBG the_DT concept_NN of_IN that_DT problem_NN like_IN formula_NN ,_, method_NN or_CC steps_NNS to_TO perform_VB to_TO solve_VB the_DT problem_NN ._.
+This_DT will_MD be_VB difficult_JJ for_IN the_DT students_NNS ,_, if_IN the_DT problem_NN is_VBZ twisted_VBN or_CC another_DT problem_NN is_VBZ given_VBN in_IN the_DT textbook_NN or_CC may_MD be_VB in_IN the_DT examination_NN ._.
+They_PRP can_MD not_RB solve_VB the_DT problem_NN as_IN they_PRP do_VBP n't_RB know_VB the_DT concept_NN of_IN the_DT problem_NN given_VBN ._.
+So_IN a_DT maths_NNS teacher_NN should_MD teach_VB the_DT concept_NN of_IN a_DT particular_JJ problem_NN initially_RB and_CC based_VBN on_IN that_DT idea_NN a_DT problem_NN should_MD be_VB solved_VBN by_IN the_DT teacher_NN and_CC then_RB the_DT students_NNS keep_VBP the_DT concept_NN remembered_VBD ,_, so_RB that_IN they_PRP can_MD easily_RB solve_VB the_DT any_DT problems_NNS based_VBN on_IN that_DT concept_NN ._.
+For_IN every_DT problem_NN there_EX will_MD be_VB a_DT concept_NN behind_IN to_TO solve_VB it_PRP ._.
+Another_DT example_NN as_IN ,_, if_IN we_PRP see_VBP the_DT physics_NN book_NN there_EX will_MD be_VB lots_NNS of_IN concepts_NNS for_IN each_DT and_CC every_DT chapter_NN ._.
+In_IN that_DT there_EX is_VBZ a_DT chapter_NN calle_FW ``_`` GRAVITATION_NNP ''_'' ._.
+In_IN this_DT the_DT idea_NN is_VBZ about_IN the_DT Earth_NNP 's_POS gravitation_NN ._.
+Due_JJ to_TO gravity_NN whatever_WDT the_DT things_NNS thrown_VBN in_IN the_DT air_NN from_IN earth_NN 's_POS surface_NN it_PRP will_MD fall_VB on_IN the_DT earth_NN again_RB because_IN of_IN gravitational_JJ pull_NN of_IN the_DT earth_NN ._.
+If_IN we_PRP say_VBP to_TO the_DT students_NNS that_IN the_DT things_NNS which_WDT were_VBD thrown_VBN in_IN the_DT air_NN from_IN earth_NN will_MD fall_VB back_RB to_TO the_DT earth_NN 's_POS surface_NN ,_, then_RB they_PRP just_RB learn_VBP the_DT fact_NN ._.
+They_PRP do_VBP n't_RB know_VB the_DT reason_NN ._.
+Due_JJ to_TO this_DT type_NN of_IN learning_VBG none_NN of_IN the_DT students_NNS will_MD not_RB become_VB good_JJ engineers_NNS or_CC any_DT other_JJ professionals_NNS ._.
+Because_IN lack_NN of_IN concepts_NNS and_CC practical_JJ knowledge_NN ._.
+Even_RB if_IN we_PRP take_VBP a_DT civil_JJ engineer_NN student_NN who_WP do_VBP n't_RB know_VB how_WRB to_TO build_VB the_DT building_NN and_CC where_WRB to_TO build_VB then_RB definitely_RB the_DT building_NN will_MD be_VB collapse_NN ._.
+That_DT is_VBZ why_WRB ,_, it_PRP is_VBZ important_JJ for_IN the_DT students_NNS to_TO learn_VB concepts_NNS and_CC understand_VB the_DT ideas_NNS rather_RB than_IN to_TO learn_VB facts_NNS ._.

@@ -1,0 +1,20 @@
+Althogh_NNP ,_, some_DT people_NNS think_VBP that_IN students_NNS need_VBP only_RB to_TO learn_VB the_DT facts_NNS ,_, I_PRP totally_RB to_TO agree_VB with_IN understanding_VBG the_DT concept_NN and_CC the_DT ideas_NNS ._.
+There_EX are_VBP many_JJ reasons_NNS for_IN which_WDT students_NNS need_VBP to_TO understand_VB the_DT basic_JJ idea_NN ._.
+One_CD of_IN the_DT reasons_NNS is_VBZ that_IN the_DT students_NNS will_MD only_RB use_VB the_DT concept_NN and_CC the_DT ideas_NNS from_IN which_WDT they_PRP have_VBP been_VBN taught_VBN ._.
+Understanding_VBG the_DT concept_NN is_VBZ more_RBR important_JJ than_IN the_DT facts_NNS in_IN that_IN the_DT concept_NN can_MD be_VB involved_VBN in_IN any_DT suitable_JJ application_NN ._.
+For_IN example_NN ,_, a_DT student_NN in_IN a_DT physics_NN class_NN will_MD propably_RB need_VB to_TO understand_VB the_DT formula_NN before_IN he_PRP or_CC she_PRP wil_RB be_VB able_JJ to_TO solve_VB the_DT problems_NNS ._.
+Another_DT reason_NN is_VBZ that_IN when_WRB the_DT students_NNS learn_VBP some_DT facts_NNS ,_, it_PRP is_VBZ easy_JJ to_TO forget_VB them_PRP ._.
+This_DT is_VBZ beacuse_NN they_PRP need_VBP to_TO be_VB memorized_VBN ._.
+Also_RB ,_, every_DT information_NN that_WDT is_VBZ stored_VBN in_IN the_DT brain_NN can_MD be_VB lost_VBN if_IN it_PRP is_VBZ not_RB used_VBN repeatedly_RB ._.
+Therefore_RB ,_, understanding_NN is_VBZ much_RB easier_JJR than_IN memorizing_VBG ._.
+An_DT Aditional_JJ reason_NN is_VBZ that_IN understanding_NN is_VBZ more_RBR effective_JJ in_IN developing_VBG new_JJ thing_NN than_IN learning_VBG facts_NNS ._.
+To_TO illustrate_VB that_IN ,_, supposed_VBN a_DT student_NN in_IN a_DT physics_NN college_NN tried_VBD to_TO memorize_VB the_DT content_NN of_IN the_DT course_NN without_IN giving_VBG any_DT care_NN to_TO understanding_VBG it_PRP ._.
+The_DT student_NN surely_RB will_MD find_VB a_DT lot_NN of_IN troubles_NNS in_IN his_PRP$ life_NN if_IN he_PRP or_CC she_PRP tries_VBZ to_TO prove_VB a_DT new_JJ theory_NN realtive_NN to_TO the_DT information_NN that_WDT have_VBP been_VBN taught_VBN ._.
+Hence_RB ,_, If_IN the_DT student_NN understood_VBD the_DT courses_NNS without_IN memorizing_VBG the_DT content_NN ,_, the_DT student_NN will_MD be_VB able_JJ comperhend_NN with_IN the_DT life_NN challenges_NNS ._.
+One_CD final_JJ reason_NN is_VBZ that_IN facts_NNS does_VBZ not_RB provide_VB any_DT thinking_NN ._.
+It_PRP is_VBZ either_RB right_JJ or_CC wrong_JJ ._.
+On_IN the_DT other_JJ hand_NN ,_, understanding_VBG the_DT concept_NN can_MD be_VB duplicated_JJ to_TO obtain_VB some_DT other_JJ new_JJ concepts_NNS ._.
+For_IN example_NN ,_, the_DT conflict_NN between_IN the_DT relativity_NN and_CC the_DT laws_NNS of_IN motions_NNS can_MD not_RB be_VB solved_VBN unless_IN both_DT of_IN them_PRP are_VBP understood_VBN ._.
+Once_RB the_DT concept_NN is_VBZ understood_VBN ,_, the_DT solution_NN for_IN such_JJ a_DT conflict_NN can_MD be_VB solved_VBN ._.
+Which_WDT gave_VBD rise_NN into_IN a_DT new_JJ concept_NN called_VBN ``_`` The_DT String_NNP Theory_NNP ''_'' ._.
+In_IN conclusion_NN ,_, understanding_VBG the_DT ideas_NNS is_VBZ much_RB easier_JJR than_IN just_RB memorizing_VBG the_DT facts_NNS that_WDT are_VBP concret_NN and_CC non-negotiable_JJ ._.

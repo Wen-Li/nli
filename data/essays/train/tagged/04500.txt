@@ -1,0 +1,17 @@
+I_PRP agree_VBP that_IN to_TO have_VB broad_JJ knowlege_NN of_IN many_JJ academic_JJ is_VBZ better_JJR than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+I_PRP have_VBP two_CD reason_NN why_WRB I_PRP agree_VBP this_DT opinion_NN :_: the_DT goal_NN of_IN education_NN and_CC feature_NN of_IN modern_JJ society_NN ._.
+First_NNP of_IN all_DT ,_, the_DT goal_NN of_IN education_NN makes_VBZ a_DT good_JJ person_NN who_WP is_VBZ adapted_VBN the_DT society_NN ._.
+To_TO make_VB a_DT good_JJ person_NN ,_, the_DT school_NN teaches_VBZ many_JJ academic_JJ subjects_NNS ._.
+Because_IN the_DT person_NN must_MD study_VB the_DT many_JJ academic_JJ subjects_NNS ,_, he_PRP would_MD be_VB adapted_VBN the_DT society_NN ._.
+For_IN example_NN ,_, two_CD high_JJ schools_NNS in_IN Korea_NNP had_VBD another_DT curiculums_NNS ._.
+The_DT one_CD had_VBD many_JJ academic_JJ subject_NN in_IN curiculum_NN ,_, and_CC the_DT other_JJ high_JJ school_NN had_VBD a_DT one_CD specifiec_NN subject_NN in_IN curiculum_NN ._.
+Which_WDT high_JJ school_NN 's_POS students_NNS were_VBD succeeded_VBN ?_.
+Answer_NN is_VBZ the_DT former_JJ ._.
+Also_RB ,_, the_DT modern_JJ society_NN wants_VBZ to_TO multipalyer_VB who_WP performs_VBZ various_JJ tasks_NNS ._.
+As_IN one_NN might_MD expected_VBN ,_, to_TO specilize_VB in_IN one_CD specific_JJ skill_NN is_VBZ better_JJR than_IN to_TO have_VB broad_JJ skill_NN of_IN various_JJ field_NN ._.
+However_RB ,_, this_DT society_NN make_VB a_DT multiplayer_NN ._.
+In_IN my_PRP$ experience_NN ,_, I_PRP work_VBP my_PRP$ company_NN which_WDT has_VBZ many_JJ tasks_NNS ._.
+Because_IN I_PRP do_VBP n't_RB have_VB no_DT various_JJ academic_JJ knowledge_NN ,_, I_PRP can_MD not_RB promote_VB the_DT manger_NN first_JJ time_NN ._.
+It_PRP is_VBZ commly_RB belived_VBN that_IN to_TO specilize_VB in_IN specific_JJ subject_NN is_VBZ better_JJR than_IN to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+But_CC ,_, this_DT opnion_NN is_VBZ not_RB available_JJ nowadays_RB ._.
+To_TO know_VB many_JJ things_NNS is_VBZ allowed_VBN to_TO victory_NN the_DT competitions_NNS ._.

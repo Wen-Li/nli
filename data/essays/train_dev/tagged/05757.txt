@@ -1,0 +1,19 @@
+I_PRP agree_VBP on_IN the_DT statment_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+I_PRP support_VBP this_DT statment_NN by_IN giving_VBG reasons_NNS and_CC examples_NNS in_IN the_DT following_VBG paragraphs_NNS ._.
+firstly_RB ,_, students_NNS should_MD understand_VB ideas_NNS and_CC concepts_NNS because_IN it_PRP makes_VBZ them_PRP to_TO understand_VB clearly_RB and_CC accurately_RB ._.
+Understanding_VBG ideas_NNS and_CC concepts_NNS of_IN a_DT particular_JJ topic_NN makes_VBZ their_PRP$ work_NN fast_RB and_CC perfectly_RB ._.
+For_IN example_NN suppose_VBP a_DT student_NN wants_VBZ give_VB a_DT seminar_NN on_IN the_DT topic_NN spacecraft_NN he_PRP or_CC she_PRP must_MD know_VB the_DT concept_NN of_IN the_DT seminar_NN clearly_RB and_CC throughly_RB ._.
+So_RB that_IN he_PRP or_CC she_PRP can_MD generate_VB more_JJR ways_NNS of_IN elaborating_VBG the_DT topic_NN which_WDT can_MD be_VB helpfull_JJ during_IN the_DT seminar_NN ._.
+Secondly_RB ,_, learning_VBG the_DT concepts_NNS makes_VBZ a_DT person_NN more_RBR perfect_JJ in_IN the_DT topic_NN which_WDT he_PRP is_VBZ about_IN to_TO work_VB ._.
+so_RB that_IN he_PRP can_MD generate_VB new_JJ ways_NNS and_CC methods_NNS ._.
+for_IN example_NN during_IN the_DT preparation_NN of_IN an_DT experiment_NN the_DT scientist_NN should_MD know_VB the_DT concept_NN of_IN the_DT experiment_NN so_IN the_DT he_PRP can_MD work_VB well_RB and_CC aviod_NN risks_NNS and_CC harmfull_JJ effects_NNS ._.
+Buy_VB understanding_VBG the_DT concepts_NNS and_CC ideas_NNS clearly_RB and_CC correctly_RB one_CD devolop_NN more_RBR knoweldge_JJ and_CC data_NNS regarding_VBG the_DT topic_NN rather_RB than_IN learning_VBG facts_NNS ._.
+Thirdly_RB ,_, facts_NNS are_VBP the_DT material_NN which_WDT have_VBP been_VBN devoloped_VBN already_RB which_WDT can_MD not_RB be_VB developed_VBN further_RB ._.
+but_CC understanding_VBG an_DT idea_NN and_CC concepts_NNS we_PRP can_MD futher_RBR discover_VB and_CC invent_VB new_JJ ideas_NNS from_IN the_DT idea_NN we_PRP have_VBP ._.
+for_IN example_NN using_VBG the_DT water_NN and_CC its_PRP$ properties_NNS scientist_NN have_VBP developed_VBN the_DT steamengine_NN ._.
+Famous_NNP scientists_NNS who_WP had_VBD devoloped_VBN the_DT concept_NN of_IN numbersystem_NN was_VBD clearly_RB understood_VBN by_IN aryabatta_NN has_VBZ discovered_VBN the_DT algebra_NN using_VBG the_DT numbersystem_NN ._.
+students_NNS should_MD understand_VB main_JJ idea_NN of_IN the_DT english_JJ reading_NN passage_NN so_IN that_IN they_PRP can_MD answer_VB the_DT questions_NNS in_IN the_DT questionpaper_NN ._.
+facts_NNS may_MD not_RB develop_VB and_CC increase_VB the_DT student_NN knowledge_NN ._.
+so_RB one_CD should_MD understand_VB concepts_NNS and_CC ideas_NNS of_IN the_DT material_NN and_CC topics_NNS what_WP they_PRP learn_VBP in_IN the_DT class_NN ._.
+quiz_NN questions_NNS can_MD be_VB answered_VBN correctly_RB by_IN the_DT students_NNS if_IN they_PRP understand_VBP the_DT given_VBN topic_NN for_IN the_DT quiz_NN to_TO be_VB conducted_VBN ._.
+Lastly_RB ,_, i_FW conclude_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN the_DT students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.

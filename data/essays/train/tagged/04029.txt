@@ -1,0 +1,6 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+First_RB ,_, people_NNS in_IN Japan_NNP study_VB a_DT lot_NN of_IN facts_NNS ,_, such_JJ as_IN History_NN and_CC Math_NNP instead_RB of_IN idea_NN and_CC concept_NN class_NN when_WRB they_PRP were_VBD in_IN elementary_JJ school_NN ,_, junior_NN high_JJ school_NN and_CC high_JJ school_NN ._.
+It_PRP is_VBZ too_RB much_JJ time_NN to_TO learn_VB facts_NNS ._.
+they_PRP should_MD study_VB class_NN which_WDT understand_VBP ideas_NNS and_CC concepts_NNS ._.
+Second_RB ,_, almost_RB people_NNS have_VBP PC_NN ,_, TV_NN ,_, TV_NN game_NN and_CC cell_NN phone_NN ,_, so_IN they_PRP do_VBP n't_RB like_VB thinking_VBG something_NN ._.
+Children_NNS often_RB play_VBP the_DT TV_NN game_NN in_IN their_PRP$ house_NN ,_, instead_RB of_IN go_VB out_RP with_IN their_PRP$ friend_NN ._.

@@ -1,0 +1,14 @@
+Nowadays_RB ,_, in_IN Europe_NNP and_CC North_NNP America_NNP ,_, almost_RB each_DT family_NN owns_VBZ at_IN least_JJS one_CD car_NN ._.
+However_RB ,_, a_DT few_JJ current_JJ issues_NNS raise_VBP the_DT question_NN of_IN the_DT number_NN of_IN cars_NNS there_RB will_MD be_VB in_IN the_DT next_JJ twenty_CD years_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, there_EX will_MD be_VB more_RBR car_NN in_IN use_NN in_IN twenty_CD years_NNS than_IN today_NN ._.
+First_NNP of_IN all_DT ,_, it_PRP is_VBZ obvious_JJ that_IN the_DT world_NN 's_POS population_NN keeps_VBZ increasing_VBG ,_, which_WDT means_VBZ that_IN more_JJR people_NNS are_VBP going_VBG to_TO need_VB a_DT car_NN within_IN the_DT next_JJ two_CD sdecade_NN ._.
+Moreover_RB ,_, in_IN important_JJ demographic_JJ regions_NNS such_JJ as_IN China_NNP or_CC India_NNP ,_, more_RBR and_CC more_RBR inhabitants_NNS buy_VBP a_DT car_NN ._.
+What_WP 's_VBZ more_JJR ,_, one_CD reason_NN for_IN which_WDT there_EX could_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS would_MD be_VB the_DT lack_NN of_IN oil_NN ._.
+Nonetheless_RB ,_, according_VBG to_TO scientists_NNS this_DT should_MD not_RB happen_VB before_IN the_DT year_NN 2050_CD ._.
+Besides_IN ,_, in_IN order_NN to_TO fight_VB against_IN the_DT air_NN pollution_NN issue_NN mainly_RB due_JJ to_TO the_DT car_NN 's_POS traffic_NN ,_, scientists_NNS try_VBP to_TO find_VB out_RP solutions_NNS ,_, and_CC work_NN on_IN other_JJ energy_NN ressources_NNS such_JJ as_IN solar_JJ energy_NN ,_, or_CC even_RB hydrogen_NN energy_NN ._.
+Then_RB ,_, if_IN they_PRP eventually_RB manage_VBP to_TO create_VB a_DT new_JJ type_NN of_IN car_NN which_WDT would_MD not_RB pollute_VB the_DT air_NN ,_, driving_VBG a_DT car_NN would_MD not_RB be_VB a_DT problem_NN anymore_RB for_IN the_DT atmosphere_NN ._.
+Hence_RB ,_, the_DT number_NN of_IN cars_NNS would_MD be_VB likely_JJ to_TO increase_VB ._.
+Another_DT reason_NN is_VBZ that_IN people_NNS tend_VBP to_TO communicate_VB more_JJR and_CC more_RBR ,_, and_CC the_DT road_NN network_NN is_VBZ getting_VBG wider_JJR and_CC wider_JJR ._.
+Then_RB ,_, people_NNS really_RB enjoy_VBP travelling_VBG with_IN their_PRP$ own_JJ car_NN in_IN order_NN to_TO be_VB able_JJ to_TO meet_VB whoever_WP you_PRP want_VBP wherever_WRB you_PRP want_VBP ._.
+Indeed_RB ,_, having_VBG a_DT car_NN provides_VBZ me_PRP with_IN a_DT lot_NN of_IN autonomy_NN ._.
+For_IN instance_NN ,_, if_IN I_PRP intend_VBP to_TO go_VB from_IN one_CD side_NN of_IN the_DT country_NN to_TO another_DT its_PRP$ is_VBZ much_RB more_RBR easier_JJR to_TO drive_VB my_PRP$ own_JJ car_NN than_IN to_TO take_VB the_DT plane_NN or_CC the_DT train_NN ,_, if_IN the_DT place_NN I_PRP want_VBP to_TO go_VB is_VBZ far_RB from_IN the_DT airport_NN or_CC the_DT train_NN station_NN ._.

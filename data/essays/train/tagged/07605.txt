@@ -1,0 +1,24 @@
+I_PRP agree_VBP w_NN ?_.
+th_DT the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+The_DT facts_NNS are_VBP forgetten_VBN easily_RB but_CC concepts_NNS and_CC ideas_NNS are_VBP more_RBR permanent_JJ than_IN facts_NNS ._.
+When_WRB I_PRP was_VBD at_IN high_JJ school_NN I_PRP took_VBD lots_NNS of_IN lectures_VBZ that_DT are_VBP h_NN ?_.
+story_NN ,_, geography_NN ,_, maths_NNS ,_, biology_NN and_CC etc_NN ._.
+I_PRP was_VBD actually_RB a_DT successful_JJ student_NN and_CC all_DT my_PRP$ exam_NN grades_NNS were_VBD really_RB high_JJ ._.
+however_RB there_EX was_VBD a_DT problem_NN ._.
+When_WRB I_PRP did_VBD not_RB attend_VB to_TO the_DT class_NN I_PRP was_VBD stud_NN ?_.
+ng_NN before_IN the_DT exam_NN ,_, Actually_RB I_PRP d_NN ?_.
+d_NN not_RB learn_VBP subjects_NNS in_IN detail_NN just_RB knew_VBD what_WP they_PRP were_VBD ._.
+Thus_RB I_PRP passed_VBD all_PDT the_DT classes_NNS with_IN high_JJ grades_NNS ._.
+When_WRB I_PRP came_VBD to_TO university_NN I_PRP recognized_VBD that_IN I_PRP d_NN ?_.
+d_NN not_RB understand_VB many_JJ concepts_NNS well_RB ._.
+I_PRP have_VBP just_RB known_VBN the_DT names_NNS or_CC dates_NNS but_CC why_WRB they_PRP are_VBP important_JJ is_VBZ a_DT question_NN in_IN my_PRP$ mind_NN ._.
+Somet_NNP ?_.
+mes_NNS ?_.
+n_NN class_NN teacher_NN asks_VBZ someth_NN ?_.
+ng_NN that_WDT must_MD be_VB learned_VBN before_IN but_CC I_PRP can_MD not_RB remember_VB even_RB the_DT main_JJ points_NNS ._.
+The_DT only_JJ lesson_NN that_IN I_PRP am_VBP favor_VB ?_.
+n_NN ?_.
+s_NNS maths_NNS which_WDT I_PRP really_RB worked_VBD hard_JJ and_CC examined_VBD many_JJ hypothesis_NN and_CC concepts_NNS deeply_RB during_IN high_JJ school_NN ._.
+In_IN many_JJ lectures_VBZ I_PRP benefit_VBP from_IN my_PRP$ knowlodge_NN related_JJ to_TO maths_NNS ,_, so_IN I_PRP am_VBP pleased_JJ to_TO learn_VB the_DT maths_NNS well_RB in_IN the_DT past_NN ._.
+Furthermore_RB it_PRP proves_VBZ the_DT importance_NN of_IN understanding_VBG ideas_NNS and_CC concepts_NNS when_WRB working_VBG on_IN something_NN ._.
+Students_NNS can_MD not_RB understand_VB the_DT importance_NN of_IN this_DT matter_NN themselves_PRP ,_, so_RB instructions_NNS should_MD be_VB responsible_JJ for_IN teaching_VBG something_NN in_IN an_DT understanting_NN way_NN ._.

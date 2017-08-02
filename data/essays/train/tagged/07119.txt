@@ -1,0 +1,14 @@
+Yes_UH ,_, it_PRP is_VBZ ._.
+They_PRP can_MD not_RB learn_VB facts_NNS without_IN understanding_VBG ideas_NNS and_CC concepts_NNS ._.
+I_PRP
+t_NN 's_POS the_DT logical_JJ order_NN ._.
+Because_IN ,_, facts_NNS will_MD be_VB modified_VBN and_CC depend_VB to_TO the_DT concepts_NNS ._.
+For_IN exemple_NN ,_, in_IN Science_NNP ,_, physically_RB scientists_NNS ca_MD n't_RB do_VB a_DT new_JJ investigation_NN if_IN they_PRP do_VBP n't_RB know_VB the_DT rules_NNS ,_, of_IN the_DT fonction_NN ,_, of_IN human_JJ bodies_NNS ._.
+When_WRB they_PRP get_VBP the_DT necessary_JJ theories_NNS ,_, they_PRP can_MD establish_VB a_DT hypothese_NN and_CC bring_VB a_DT proximative_JJ conclusion_NN that_IN they_PRP expected_VBD ._.
+It_PRP 's_VBZ like_IN as_IN we_PRP see_VBP the_DT examination_NN treated_VBN with_IN mouthes_NNS ._.
+If_IN they_PRP seek_VBP a_DT new_JJ drugs_NNS for_IN certain_JJ sickness_NN ,_, before_IN testing_VBG inventing_VBG drugs_NNS directly_RB on_IN the_DT humain_NN bodies_NNS ,_, they_PRP will_MD test_VB on_IN another_DT animals_NNS ,_, like_IN mouthes_NNS ._.
+And_CC before_IN the_DT execution_NN ,_, they_PRP need_VBP to_TO study_VB on_IN the_DT natural_JJ function_NN and_CC caracteristics_NNS of_IN this_DT animal_NN ,_, comparing_VBG with_IN its_PRP$ of_IN humain_NN beings_NNS and_CC on_IN the_DT base_NN of_IN that_DT ,_, they_PRP intend_VBP to_TO do_VB pass_VB to_TO the_DT next_JJ step_NN for_IN gain_NN the_DT best_JJS conclisions_NNS that_IN they_PRP expect_VBP ._.
+If_IN you_PRP change_VBP the_DT order_NN they_PRP can_MD not_RB noticifie_VB of_IN their_PRP$ failors_NNS ,_, if_IN they_PRP fail_VBP ,_, or_CC in_IN the_DT same_JJ time_NN ,_, they_PRP canot_VBP be_VB sure_JJ that_IN they_PRP will_MD get_VB the_DT this_DT conclusion_NN in_IN which_WDT way_NN and_CC for_IN what_WP cause_NN ._.
+For_IN exemple_NN ,_, imagin_NN that_IN they_PRP invented_VBD a_DT drug_NN for_IN the_DT cancer_NN ,_, they_PRP test_VBP it_PRP on_IN a_DT suffer_VBP ._.
+The_DT cancer_NN stopped_VBD to_TO spread_VB in_IN his_PRP$ body_NN ._.
+Why_WRB ?_.

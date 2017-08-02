@@ -1,0 +1,19 @@
+Personally_RB ,_, I_PRP agree_VBP to_TO the_DT following_VBG statement_NN :_: It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Many_JJ students_NNS tend_VBP to_TO only_RB memorize_VB the_DT facts_NNS and_CC formulas_NNS when_WRB they_PRP study_VBP for_IN a_DT test_NN and_CC do_VBP not_RB try_VB to_TO go_VB more_RBR in_IN depth_NN to_TO understand_VB the_DT meaning_NN behind_IN it_PRP ._.
+However_RB ,_, memorization_NN of_IN facts_NNS only_RB limits_VBZ that_IN person_NN 's_POS knowledge_NN ._.
+Although_IN to_TO learn_VB the_DT facts_NNS of_IN a_DT particular_JJ lesson_NN is_VBZ very_RB important_JJ ,_, a_DT student_NN needs_VBZ to_TO realize_VB the_DT greater_JJR importance_NN of_IN fully_RB understanding_VBG the_DT ideas_NNS and_CC the_DT concepts_NNS ._.
+For_IN example_NN ,_, when_WRB a_DT student_NN learns_VBZ new_JJ formulas_NNS in_IN his/her_JJ math_NN class_NN ,_, usually_RB he/she_VBP undergoes_VBZ a_DT process_NN where_WRB the_DT teacher_NN explains_VBZ how_WRB these_DT formulas_NNS work_VBP ._.
+If_IN the_DT student_NN is_VBZ only_RB taught_VBN to_TO memorize_VB the_DT Pythagorean_NNP Theorem_NNP ,_, he/she_NNP will_MD be_VB missing_VBG the_DT important_JJ value_NN about_IN the_DT theorem_NN ._.
+It_PRP is_VBZ after_IN the_DT teacher_NN has_VBZ fully_RB explained_VBN on_IN how_WRB Pythagoras_NNP discovered_VBD his_PRP$ theory_NN when_WRB the_DT students_NNS are_VBP able_JJ to_TO understand_VB the_DT value_NN and_CC the_DT use_NN of_IN it_PRP ._.
+They_PRP also_RB will_MD able_JJ to_TO understand_VB the_DT ``_`` why_WRB ''_'' question_NN ._.
+Without_IN the_DT knowledge_NN of_IN why_WRB mathematicians_NNS use_VBP this_DT formula_NN ,_, many_JJ of_IN the_DT students_NNS will_MD not_RB be_VB able_JJ to_TO distinguish_VB when_WRB to_TO use_VB these_DT formulas_NNS on_IN a_DT test_NN or_CC on_IN a_DT problem_NN ._.
+This_DT is_VBZ not_RB only_RB a_DT case_NN in_IN a_DT math_NN class_NN ._.
+In_IN many_JJ of_IN the_DT science_NN books_NNS ,_, students_NNS are_VBP taught_VBN vast_JJ amounts_NNS of_IN scientific_JJ facts_NNS such_JJ as_IN friction_NN ,_, gravity_NN ,_, and_CC light_NN ._.
+However_RB ,_, to_TO fully_RB understand_VB what_WP these_DT facts_NNS mean_VBP ,_, they_PRP must_MD understand_VB the_DT concept_NN of_IN it_PRP ._.
+It_PRP is_VBZ best_RB for_IN the_DT student_NN to_TO understand_VB why_WRB friction_NN occurs_VBZ and_CC how_WRB it_PRP happens_VBZ rather_RB than_IN learning_VBG what_WP is_VBZ is_VBZ ._.
+By_IN learning_VBG facts_NNS ,_, the_DT students_NNS can_MD learn_VB the_DT concerte_NN ,_, objective_JJ portion_NN of_IN the_DT subject_NN ._.
+However_RB ,_, through_IN ideas_NNS and_CC concepts_NNS ,_, they_PRP are_VBP able_JJ to_TO further_JJ learn_VBP about_IN other_JJ possible_JJ solutions_NNS and_CC perspectives_NNS ._.
+When_WRB a_DT student_NN fully_RB understands_VBZ the_DT knowledge_NN and_CC the_DT concept_NN of_IN it_PRP ,_, he/she_NN can_MD use_VB this_DT new_JJ knowledge_NN in_IN other_JJ fields_NNS ._.
+For_IN example_NN ,_, just_RB memorizing_VBG the_DT facts_NNS of_IN sine_NN ,_, cosine_NN ,_, and_CC tangent_NN formulas_NNS does_VBZ not_RB help_VB the_DT student_NN to_TO answer_VB some_DT of_IN the_DT physics_NN questions_NNS about_IN angles_NNS of_IN light_JJ incident_NN and_CC refraction_NN ._.
+Learning_VBG the_DT facts_NNS only_RB give_VBP shallow_JJ knowledges_NNS ._.
+When_WRB the_DT students_NNS understand_VBP the_DT ideas_NNS and_CC concepts_NNS on_IN how_WRB scientists_NNS and_CC researchers_NNS came_VBD up_RP with_IN the_DT facts_NNS ,_, it_PRP means_VBZ that_IN they_PRP are_VBP truly_RB learning_VBG ._.

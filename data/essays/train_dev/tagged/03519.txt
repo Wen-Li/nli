@@ -1,0 +1,24 @@
+Thesedays_NNP ,_, a_DT lot_NN of_IN cars_NNS are_VBP made_VBN in_IN whole_JJ world_NN ._.
+Many_JJ people_NNS use_VBP a_DT car_NN for_IN everything_NN ._.
+I_PRP do_VBP n't_RB agree_VB in_IN the_DT twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+It_PRP is_VBZ because_IN moer_JJR people_NNS need_VBP to_TO use_VB a_DT car_NN ._.
+we_PRP always_RB usea_VBP cars_NNS ._.
+If_IN you_PRP go_VBP to_TO school_NN or_CC working_VBG place_NN ,_, you_PRP must_MD take_VB a_DT car_NN ._.
+Car_NN is_VBZ comfortable_JJ and_CC fast_JJ ._.
+Also_RB ,_, I_PRP want_VBP a_DT car_NN because_IN my_PRP$ school_NN is_VBZ so_RB far_RB ,_, I_PRP can_MD not_RB go_VB to_TO walk_VB my_PRP$ shcool_NN ._.
+More_JJR developing_VBG cars_NNS make_VBP more_JJR safe_JJ and_CC comfortable_JJ and_CC fast_JJ for_IN people_NNS ._.
+For_IN example_NN ,_, BMW_NNP 's_POS car_NN is_VBZ atomatically_RB turn_VB on_IN the_DT light_NN at_IN night_NN ._.
+We_PRP can_MD go_VB anywhere_RB take_VB a_DT car_NN in_IN the_DT world_NN ._.
+Some_DT people_NNS like_IN to_TO tavelling_JJ by_IN car_NN ._.
+Moreover_RB ,_, many_JJ car_NN cmopanies_NNS are_VBP inventing_VBG a_DT water_NN car_NN becase_IN of_IN environment_NN pollution_NN and_CC fossil_NN fule_NN ._.
+They_PRP are_VBP tring_VBG to_TO find_VB new_JJ enegy_NN such_JJ as_IN solar_JJ ,_, water_NN ._.
+These_DT are_VBP wherever_WRB we_PRP can_MD save_VB easily_RB ._.
+After_IN few_JJ years_NNS ,_, we_PRP can_MD see_VB a_DT solar_JJ car_NN or_CC water_NN car_NN and_CC than_IN also_RB see_VBP a_DT flight_NN car_NN like_IN movies_NNS ._.
+Moreover_RB ,_, many_JJ car_NN cmopanies_NNS are_VBP inventing_VBG a_DT water_NN car_NN becase_IN of_IN environment_NN pollution_NN and_CC fossil_NN fule_NN ._.
+They_PRP are_VBP tring_VBG to_TO find_VB new_JJ enegy_NN such_JJ as_IN solar_JJ ,_, water_NN ._.
+These_DT are_VBP wherever_WRB we_PRP can_MD save_VB easily_RB ._.
+After_IN few_JJ years_NNS ,_, we_PRP can_MD see_VB a_DT solar_JJ car_NN or_CC water_NN car_NN and_CC than_IN also_RB see_VBP a_DT flight_NN car_NN like_IN movies_NNS ._.
+Moreover_RB ,_, many_JJ car_NN cmopanies_NNS are_VBP inventing_VBG a_DT water_NN car_NN becase_IN of_IN environment_NN pollution_NN and_CC fossil_NN fule_NN ._.
+They_PRP are_VBP tring_VBG to_TO find_VB new_JJ enegy_NN such_JJ as_IN solar_JJ ,_, water_NN ._.
+These_DT are_VBP wherever_WRB we_PRP can_MD save_VB easily_RB ._.
+After_IN few_JJ years_NNS ,_, we_PRP can_MD see_VB a_DT solar_JJ car_NN or_CC water_NN car_NN and_CC than_IN also_RB see_VBP a_DT flight_NN car_NN like_IN movies_NNS ._.

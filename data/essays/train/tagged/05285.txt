@@ -1,0 +1,5 @@
+I_PRP agree_VBP with_IN the_DT statement_NN ,_, which_WDT says_VBZ its_PRP$ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+well_RB first_RB of_IN all_DT when_WRB students_NNS understand_VBP the_DT ideas_NNS and_CC concepts_NNS of_IN a_DT topic_NN or_CC something_NN ._.
+For_IN example_NN ,_, Histore_NN class_NN my_PRP$ opinion_NN is_VBZ students_NNS must_MD undrstand_VB the_DT ideas_NNS and_CC concpts_NNS ,_, because_IN it_PRP gives_VBZ them_PRP more_JJR information_NN than_IN learning_VBG the_DT facts_NNS ._.
+inaddtion_NN ,_, it_PRP is_VBZ helpfull_RB in_IN so_RB many_JJ ways_NNS for_IN example_NN ,_, in_IN a_DT regulation_NN or_CC rules_NNS of_IN a_DT Universty_NNP is_VBZ to_TO show_VB them_PRP the_DT ideas_NNS and_CC the_DT concepts_NNS ._.
+Moreover_RB ,_, understanding_VBG ideas_NNS and_CC concept_NN for_IN students_NNS

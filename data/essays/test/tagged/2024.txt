@@ -1,0 +1,3 @@
+I_PRP agree_VBP with_IN a_DT idea_NN that_IN to_TO understand_VB ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN to_TO learn_VB facts_NNS ._.
+Without_IN a_DT ideas_NNS and_CC concepts_NNS ,_, facts_NNS mean_VBP nothing_NN ._.
+Ideas_NNS

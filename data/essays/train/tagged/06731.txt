@@ -1,0 +1,10 @@
+Crowed_VBN is_VBZ very_RB noisy_JJ and_CC let_VB some_DT people_NNS angry_JJ and_CC do_VBP something_NN bad_JJ ._.
+For_IN example_NN crowed_VBD of_IN car_NN now_RB adays_VBZ ._.
+Some_DT people_NNS say_VBP that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+actually_RB ,_, I_PRP disagree_VBP with_IN this_DT because_IN I_PRP think_VBP it_PRP is_VBZ impossible_JJ to_TO happen_VB for_IN many_JJ reasons_NNS first_RB of_IN all_DT people_NNS in_IN the_DT world_NN are_VBP increasing_VBG ._.
+Second_RB ,_, cars_NNS is_VBZ the_DT fastest_JJS way_NN to_TO go_VB from_IN one_CD place_NN to_TO onother_NN ._.
+Also_RB the_DT shape_NN and_CC the_DT new_JJ styles_NNS of_IN cars_NNS push_VBP people_NNS to_TO buy_VB new_JJ and_CC new_JJ cars_NNS ._.
+actually_RB ,_, there_EX are_VBP a_DT lot_NN of_IN counties_NNS have_VBP very_RB hot_JJ weather_NN so_IN they_PRP use_VBP cars_NNS because_IN they_PRP have_VBP air_NN condition_NN also_RB the_DT countries_NNS that_WDT have_VBP cold_JJ weather_NN they_PRP prefer_VBP to_TO use_VB cars_NNS because_IN it_PRP prevent_VBP them_PRP from_IN raining_VBG or_CC from_IN the_DT snow_NN ._.
+In_IN fact_NN even_RB for_IN the_DT handicapped_JJ people_NNS ,_, for_IN example_NN who_WP have_VBP only_RB one_CD leg_NN they_PRP can_MD drive_VB car_NN but_CC they_PRP can_MD not_RB ride_VB a_DT bycicle_NN or_CC even_RB blind_JJ people_NNS they_PRP can_MD use_VB a_DT driver_NN to_TO drive_VB a_DT car_NN ._.
+Also_RB now_RB adays_VBZ the_DT design_NN os_VBZ the_DT cars_NNS make_VBP you_PRP feel_VB comfortable_JJ not_RB only_RB car_NN bring_VB where_WRB you_PRP want_VBP ._.
+Finaly_NNP ,_, There_EX are_VBP a_DT lot_NN of_IN reasons_NNS that_WDT makes_VBZ people_NNS buy_VB more_JJR and_CC more_JJR cars_NNS and_CC I_PRP dont_VBP think_VB the_DT cars_NNS will_MD be_VB fewer_JJR even_RB with_IN this_DT crowed_VBN today_NN ._.

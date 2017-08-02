@@ -1,0 +1,17 @@
+I_PRP completly_RB agree_VBP with_IN the_DT sentence_NN ._.
+I_PRP 'm_VBP a_DT student_NN and_CC I_PRP think_VBP that_DT is_VBZ more_RBR important_JJ to_TO understand_VB all_PDT the_DT concepts_NNS and_CC all_DT ideas_NNS ._.
+Basing_VBG on_IN my_PRP$ experience_NN I_PRP think_VBP that_DT is_VBZ more_RBR important_JJ understand_VBP all_PDT the_DT ideas_NNS and_CC all_PDT the_DT concepts_NNS of_IN a_DT topic_NN or_CC of_IN a_DT lecture_NN ._.
+In_IN my_PRP$ opinion_NN if_IN something_NN is_VBZ over_IN your_PRP$ head_NN it_PRP is_VBZ important_JJ ask_VB a_DT questions_NNS ,_, to_TO understand_VB anything_NN ._.
+A_DT mounth_NN ago_RB ,_, i_FW was_VBD in_IN an_DT antropology_JJ class_NN and_CC my_PRP$ professor_NN was_VBD discuss_VB a_DT topic_NN ._.
+This_DT topic_NN was_VBD over_IN my_PRP$ head_NN and_CC i_FW did_VBD n't_RB understand_VB nothing_NN ._.
+At_IN home_NN I_PRP studied_VBD my_PRP$ notes_NNS and_CC at_IN the_DT next_JJ lessons_NNS I_PRP asked_VBD to_TO my_PRP$ professor_NN to_TO explain_VB me_PRP the_DT point_NN that_WDT i_FW was_VBD n't_RB understand_VB ._.
+I_PRP think_VBP that_IN ,_, in_IN the_DT university_NN world_NN ,_, there_EX are_VBP a_DT different_JJ way_NN to_TO ask_VB something_NN to_TO a_DT professor_NN ._.
+In_IN my_PRP$ university_NN all_DT students_NNS can_MD contact_VB their_PRP$ professor_NN by_IN e-mail_NN ,_, by_IN phone_NN or_CC apply_VB for_IN an_DT appointment_NN ._.
+Another_DT thing_NN that_WDT is_VBZ very_RB important_JJ for_IN my_PRP$ experince_NN is_VBZ understand_VB the_DT reason_NN of_IN wich_NN i_FW study_NN something_NN ._.
+In_IN all_PDT the_DT lectures_VBZ of_IN the_DT university_NN professors_NNS these_DT professor_NN must_MD explain_VB all_PDT the_DT reason_NN of_IN wich_NN the_DT students_NNS study_VB the_DT topics_NNS of_IN the_DT lectures_VBZ ._.
+In_IN a_DT Human_JJ factor_NN Design_NN course_NN my_PRP$ professor_NN say_VBP that_IN we_PRP wil_VBP study_NN antrophometry_NN ,_, human_JJ behaviour_NN ,_, human_JJ computer_NN interaction_NN and_CC human_JJ machine_NN interaction_NN ._.
+So_IN we_PRP will_MD be_VB able_JJ to_TO use_VB the_DT information_NN of_IN these_DT sciences_NNS to_TO design_VB a_DT good_JJ object_NN ,_, good_JJ space_NN and_CC good_JJ buildings_NNS ._.
+I_PRP think_VBP that_DT is_VBZ more_RBR important_JJ study_NN anithigs_NNS ._.
+I_PRP think_VBP that_DT is_VBZ more_RBR important_JJ ask_VB if_IN we_PRP do_VBP n't_RB understand_VB something_NN ._.
+We_PRP can_MD use_VB e-mail_NN ,_, phone_NN and_CC all_PDT the_DT tecnology_NN that_IN we_PRP know_VBP ._.
+Also_RB I_PRP think_VBP that_DT is_VBZ more_RBR important_JJ understand_VBP why_WRB we_PRP are_VBP going_VBG to_TO study_VB something_NN ._.

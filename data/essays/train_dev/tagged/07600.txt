@@ -1,0 +1,20 @@
+I_PRP agree_VBP with_IN the_DT statement_NN given_VBN ._.
+There_EX will_MD be_VB decrease_VB in_IN the_DT number_NN of_IN cars_NNS in_IN use_NN over_IN the_DT next_JJ twenty_CD years_NNS ._.
+This_DT is_VBZ because_IN of_IN several_JJ contributing_VBG reasons_NNS which_WDT include_VBP growing_VBG traffic_NN problems_NNS ,_, depleting_VBG petroleum_NN resources_NNS ,_, invention_NN of_IN newer_JJR modes_NNS of_IN transport_NN ,_, and_CC several_JJ other_JJ reasons_NNS ._.
+Firstly_RB ,_, the_DT traffic_NN problems_NNS in_IN today_NN 's_POS roadways_NNS is_VBZ a_DT major_JJ contributing_JJ factor_NN ._.
+The_DT remedies_NNS for_IN such_JJ problems_NNS would_MD prove_VB more_RBR costly_JJ than_IN inventing_VBG a_DT new_JJ transport_NN method_NN or_CC developing_VBG an_DT alternate_JJ transport_NN method_NN ._.
+The_DT possible_JJ cures_NNS for_IN today_NN 's_POS traffic_NN hazards_NNS and_CC traffic_NN jams_NNS could_MD be_VB building_VBG more_JJR overhead_JJ bridges_NNS ._.
+The_DT building_NN of_IN bridges_NNS in_IN existing_VBG city_NN premises_NNS need_VBP a_DT lot_NN of_IN funds_NNS and_CC planning_NN ._.
+On_IN the_DT other_JJ hand_NN if_IN these_DT efforts_NNS were_VBD made_VBN in_IN the_DT direction_NN of_IN improving_VBG railway_NN commuting_VBG facility_NN or_CC metro_NN train_NN facilities_NNS ,_, it_PRP would_MD be_VB more_RBR fruitful_JJ ._.
+The_DT invention_NN newer_JJR modes_NNS of_IN transport_NN like_IN small_JJ range_NN air_NN vehicles_NNS or_CC helicopters_NNS for_IN transport_NN in_IN the_DT city_NN would_MD facilitate_VB easy_JJ as_RB well_RB as_IN faster_JJR solutions_NNS to_TO such_JJ traffic_NN problems_NNS ._.
+Depletion_NN of_IN petroleum_NN resources_NNS also_RB has_VBZ a_DT major_JJ role_NN to_TO play_VB in_IN retarding_VBG the_DT manufacture_NN of_IN cars_NNS at_IN this_DT rate_NN ._.
+Petroleum_NNP goods_NNS are_VBP used_VBN for_IN various_JJ other_JJ purposes_NNS like_IN industrial_JJ usages_NNS and_CC cooking_JJ etc_NN ._.
+But_CC today_NN most_JJS of_IN the_DT petroleum_NN resources_NNS are_VBP used_VBN up_RP in_IN automobile_NN industry_NN ._.
+To_TO change_VB this_DT scenario_NN ,_, the_DT number_NN of_IN cars_NNS would_MD have_VB to_TO be_VB drastically_RB reduced_VBN ._.
+Alternate_JJ energy_NN sources_NNS like_IN hydrogen_NN fuel_NN cell_NN cars_NNS ,_, electric_JJ battery_NN cars_NNS have_VBP not_RB been_VBN very_RB successful_JJ ._.
+Therefore_RB the_DT number_NN of_IN cars_NNS after_IN twenty_CD years_NNS would_MD certainly_RB be_VB a_DT small_JJ fraction_NN of_IN the_DT present_JJ number_NN ._.
+The_DT technology_NN and_CC developments_NNS which_WDT enhance_VBP the_DT efficiency_NN of_IN cars_NNS has_VBZ almost_RB come_VBN to_TO a_DT point_NN of_IN saturation_NN ._.
+Cars_NNS now_RB are_VBP bought_VBN more_RBR because_IN of_IN their_PRP$ beauty_NN in_IN design_NN or_CC brand_NN of_IN the_DT maker_NN ,_, rather_RB than_IN because_IN of_IN their_PRP$ efficiency_NN ._.
+Even_RB this_DT supports_VBZ that_IN if_IN there_EX are_VBP newer_JJR and_CC more_RBR fashionable_JJ modes_NNS of_IN public_JJ transport_NN ,_, more_JJR and_CC more_JJR people_NNS will_MD want_VB to_TO commute_NN by_IN those_DT vehicles_NNS ._.
+Therefore_RB by_IN looking_VBG at_IN the_DT present_JJ trends_NNS of_IN car_NN design_NN and_CC keeping_VBG in_IN mind_NN the_DT depleting_VBG resources_NNS ,_, i_FW strongly_RB feel_VBP that_IN the_DT number_NN of_IN cars_NNS in_IN use_NN after_IN twenty_CD years_NNS from_IN now_RB would_MD be_VB very_RB few_JJ ._.
+New_NNP inventions_NNS could_MD easily_RB substitute_VB the_DT automobiles_NNS in_IN the_DT near_JJ future_NN ._.

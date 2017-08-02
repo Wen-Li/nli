@@ -1,0 +1,9 @@
+At_IN school_NN ,_, in_IN each_DT subject_NN ,_, we_PRP learn_VBP different_JJ things_NNS and_CC the_DT way_NN to_TO learn_VB it_PRP can_MD be_VB different_JJ ._.
+In_IN History_NN ,_, for_IN instance_NN ,_, we_PRP learn_VBP more_RBR facts_NNS than_IN we_PRP have_VBP to_TO understand_VB some_DT process_NN whereas_IN in_IN biology_NN understanding_NN ideas_NNS and_CC concepts_NNS is_VBZ the_DT base_NN of_IN the_DT course_NN ._.
+I_PRP am_VBP convinced_VBN that_DT is_VBZ important_JJ and_CC more_RBR interesting_JJ to_TO understand_VB some_DT ideas_NNS and_CC concepts_NNS but_CC I_PRP think_VBP that_DT is_VBZ equally_RB important_JJ to_TO learn_VB facts_NNS ._.
+First_NNP of_IN all_DT ,_, I_PRP think_VBP that_DT is_VBZ interesting_JJ and_CC challenging_JJ to_TO understand_VB some_DT ideas_NNS and_CC concepts_NNS We_PRP may_MD provide_VB a_DT considerable_JJ concentration_NN and_CC it_PRP may_MD take_VB a_DT long_JJ time_NN we_PRP should_MD have_VB some_DT difficulties_NNS As_IN the_DT result_NN when_WRB we_PRP understand_VBP it_PRP ,_, it_PRP providde_VBD some_DT satisfaction_NN ._.
+For_IN example_NN ,_, I_PRP remember_VBP when_WRB I_PRP was_VBD at_IN High_NNP School_NNP in_IN a_DT chemistry_NN class_NN ,_, we_PRP had_VBD to_TO analyse_VB and_CC understand_VB how_WRB plants_NNS can_MD do_VB the_DT photosynthesis_NN ._.
+It_PRP appeared_VBD difficult_JJ but_CC it_PRP was_VBD interesting_JJ and_CC it_PRP motivated_VBD me_PRP to_TO find_VB this_DT process_NN ._.
+When_WRB I_PRP understood_VBD it_PRP ,_, I_PRP was_VBD satisfactioned_VBN ._.
+Although_IN it_PRP seems_VBZ to_TO be_VB very_RB interesting_JJ ,_, it_PRP is_VBZ also_RB important_JJ to_TO leran_JJ facts_NNS even_RB if_IN it_PRP could_MD be_VB boring_JJ ._.
+In_IN a_DT nutshell_NN ,_, it_PRP 's_VBZ equally_RB important_JJ to_TO learn_VB facts_NNS and_CC to_TO understand_VB ideas_NNS ._.

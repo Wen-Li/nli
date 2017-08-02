@@ -1,0 +1,15 @@
+Students_NNS who_WP learn_VBP to_TO understand_VB the_DT methology_NN of_IN a_DT certain_JJ process_NN have_VBP enough_JJ capacity_NN to_TO quickly_RB identify_VB and_CC solve_VB a_DT problem_NN ,_, eventhough_JJ changes_NNS were_VBD done_VBN in_IN the_DT examples_NNS used_VBN to_TO explain_VB the_DT new_JJ topic_NN ._.
+I_PRP agree_VBP with_IN the_DT fact_NN that_IN states_NNS that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+It_PRP is_VBZ more_RBR relevant_JJ when_WRB a_DT person_NN solves_VBZ a_DT problem_NN by_IN understaning_VBG every_DT step_NN done_VBN ,_, than_IN by_IN following_VBG all_PDT the_DT process_NN by_IN memorization_NN ._.
+For_IN example_NN ,_, a_DT mechanical_JJ engineer_NN student_NN who_WP is_VBZ taking_VBG the_DT course_NN of_IN Statics_NNP has_VBZ a_DT better_JJR probability_NN of_IN getting_VBG better_JJR grades_NNS if_IN he_PRP understands_VBZ all_PDT the_DT main_JJ concepts_NNS of_IN the_DT class_NN ._.
+Teachers_NNPS explain_VBP the_DT theory_NN in_IN problems_NNS very_RB different_JJ from_IN the_DT ones_NNS utilized_VBN on_IN tests_NNS ._.
+So_RB ,_, when_WRB a_DT student_NN only_RB learns_VBZ the_DT facts_NNS about_IN the_DT stresses_NNS applied_VBD to_TO an_DT object_NN with_IN certain_JJ geometry_NN ,_, he_PRP will_MD not_RB be_VB able_JJ to_TO answer_VB the_DT problem_NN if_IN the_DT teacher_NN changes_VBZ the_DT geometry_NN of_IN the_DT object_NN on_IN the_DT test_NN ._.
+The_DT student_NN should_MD be_VB able_JJ to_TO understand_VB how_WRB to_TO apply_VB the_DT related_JJ concepts_NNS in_IN any_DT given_VBN situation_NN ._.
+In_IN my_PRP$ own_JJ experience_NN ,_, I_PRP can_MD apply_VB this_DT statement_NN to_TO one_CD of_IN my_PRP$ hobbies_NNS ,_, playing_VBG golf_NN ._.
+Two_CD years_NNS ago_RB when_WRB I_PRP started_VBD practicing_VBG this_DT tricky_JJ but_CC fun_NN sport_NN ,_, I_PRP needed_VBD two_CD take_VBP classes_NNS every_DT week_NN ._.
+My_PRP$ teacher_NN always_RB remembered_VBD me_PRP about_IN the_DT importance_NN of_IN doing_VBG the_DT movement_NN ,_, ``_`` swing_NN ''_'' ,_, thinking_VBG on_IN it_PRP ,_, not_RB just_RB doing_VBG it_PRP automatically_RB ._.
+This_DT concept_NN helped_VBD me_PRP a_DT lot_NN to_TO understand_VB my_PRP$ mistakes_NNS during_IN the_DT swing_NN ._.
+So_RB ,_, this_DT left_VBD me_PRP the_DT reflection_NN about_IN understanding_VBG every_DT step_NN of_IN the_DT movement_NN and_CC not_RB just_RB doing_VBG it_PRP mechanically_RB ._.
+After_IN some_DT time_NN of_IN playing_VBG golf_NN ,_, I_PRP learned_VBD that_IN when_WRB you_PRP just_RB learn_VBP the_DT facts_NNS and_CC do_VBP not_RB analyze_VB them_PRP ,_, you_PRP start_VBP repeating_VBG the_DT same_JJ errors_NNS without_IN identifying_VBG them_PRP ._.
+As_IN a_DT conclusion_NN ,_, this_DT two_CD examples_NNS showed_VBD the_DT importance_NN of_IN understaning_VBG ideas_NNS and_CC concepts_NNS over_IN just_RB learning_VBG the_DT facts_NNS ._.
+Understanding_VBG the_DT concept_NN give_VB you_PRP the_DT ability_NN to_TO easily_RB recognize_VB any_DT error_NN ._.

@@ -1,0 +1,20 @@
+In_IN whatever_WDT lesson_NN ,_, we_PRP learn_VBP ideas_NNS ,_, concepts_NNS and_CC facts_NNS ._.
+Ideas_NNS present_VBP the_DT topic_NN and_CC facts_NNS are_VBP an_DT application_NN of_IN these_DT ideas_NNS ._.
+I_PRP think_VBP it_PRP 's_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP 's_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+The_DT way_NN to_TO understand_VB well_RB a_DT lesson_NN is_VBZ ,_, first_RB of_IN all_DT ,_, to_TO understand_VB ideas_NNS and_CC concepts_NNS and_CC then_RB ,_, understand_VBP facts_NNS ._.
+It_PRP 's_VBZ not_RB reversible_JJ ._.
+For_IN example_NN ,_, in_IN history_NN class_NN about_IN World_NNP War_NNP One_CD ,_, you_PRP have_VBP to_TO understand_VB why_WRB this_DT war_NN took_VBD place_NN and_CC why_WRB all_PDT the_DT countries_NNS were_VBD involved_VBN in_IN this_DT fight_NN before_IN learning_VBG facts_NNS :_: battles_NNS ,_, events_NNS ,_, great_JJ names_NNS ,_, famous_JJ days_NNS ._. .._SYM
+Another_DT example_NN happens_VBZ in_IN mathematics_NNS class_NN ,_, you_PRP see_VBP that_IN a_DT theorem_NN can_MD be_VB applied_VBN to_TO particular_JJ cases_NNS but_CC you_PRP should_MD have_VB understod_NN before_IN all_PDT the_DT concepts_NNS which_WDT are_VBP used_VBN in_IN the_DT theorem_NN ._.
+Secondly_RB ,_, I_PRP think_VBP that_IN ,_, in_IN a_DT lesson_NN ,_, ideas_NNS and_CC concepts_NNS are_VBP more_RBR significant_JJ than_IN simple_JJ facts_NNS ._.
+Indeed_RB ,_, facts_NNS are_VBP just_RB applications_NNS of_IN ideas_NNS ._.
+I_PRP mean_VBP that_IN without_IN ideas_NNS and_CC concepts_NNS ,_, you_PRP ca_MD n't_RB totaly_RB understand_VB a_DT lesson_NN ._.
+You_PRP can_MD partially_RB ,_, of_IN course_NN ,_, but_CC it_PRP 's_VBZ not_RB the_DT same_JJ ._.
+I_PRP ca_MD n't_RB really_RB explain_VB it_PRP but_CC you_PRP feel_VBP differently_RB when_WRB you_PRP 've_VBP understood_VBN all_DT ._.
+I_PRP feel_VBP kind_NN of_IN victorious_JJ when_WRB all_DT is_VBZ clear_JJ in_IN my_PRP$ head_NN ._.
+You_PRP ca_MD n't_RB get_VB all_PDT the_DT details_NNS explained_VBD if_IN you_PRP 've_VBP just_RB learnt_VBN facts_NNS because_IN they_PRP are_VBP not_RB enough_RB to_TO get_VB to_TO the_DT heart_NN of_IN a_DT topic_NN ._.
+At_IN last_JJ ,_, what_WP is_VBZ the_DT point_NN of_IN a_DT lecture_NN or_CC a_DT lesson_NN if_IN you_PRP just_RB remember_VBP facts_NNS ?_.
+Facts_NNS ca_MD n't_RB exist_VB without_IN ideas_NNS or_CC concepts_NNS whereas_IN ideas_NNS and_CC concepts_NNS do_VBP n't_RB have_VB to_TO be_VB related_VBN to_TO facts_NNS to_TO exist_VB ._.
+I_PRP know_VBP it_PRP sounds_VBZ weird_JJ but_CC some_DT fields_NNS of_IN knowledge_NN such_JJ as_IN metaphysics_NNS do_VBP n't_RB really_RB have_VB any_DT applications_NNS ._.
+However_RB ,_, they_PRP exist_VBP ._.
+Besides_IN ,_, we_PRP always_RB can_MD extract_VB an_DT idea_NN from_IN a_DT fact_NN ,_, whereas_IN the_DT opposite_NN is_VBZ n't_RB as_RB easy_JJ as_IN we_PRP think_VBP ._.
+For_IN all_PDT these_DT reasons_NNS ,_, I_PRP think_VBP that_IN students_NNS should_MD understand_VB ideas_NNS and_CC concepts_NNS before_IN learning_VBG facts_NNS ._.

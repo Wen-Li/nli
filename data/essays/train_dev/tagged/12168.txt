@@ -1,0 +1,14 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT question_NN ._.
+The_DT major_JJ reason_NN that_WDT brought_VBD me_PRP to_TO this_DT conclusion_NN is_VBZ ,_, that_IN only_RB specialisation_NN makes_VBZ perfect_JJ ._.
+That_DT means_VBZ if_IN you_PRP want_VBP to_TO work_VB in_IN a_DT certain_JJ field_NN ,_, you_PRP have_VBP to_TO specialize_VB ._.
+Because_IN you_PRP have_VBP to_TO know_VB as_RB much_JJ as_IN possible_JJ about_IN this_DT certain_JJ field_NN ,_, in_IN order_NN to_TO work_VB on_IN a_DT highly_RB professional_JJ level_NN ._.
+For_IN example_NN ,_, if_IN you_PRP are_VBP a_DT doctor_NN ,_, you_PRP should_MD learn_VB everything_NN about_IN medicine_NN ,_, the_DT human_JJ body_NN and_CC how_WRB to_TO treat_VB sicknisses_NNS ._.
+If_IN you_PRP only_RB know_VBP how_WRB to_TO treat_VB a_DT cold_JJ and_CC how_WRB to_TO measure_VB the_DT blood_NN pressure_NN ,_, you_PRP can_MD not_RB work_VB on_IN a_DT high_JJ level_NN ._.
+To_TO give_VB another_DT example_NN ;_: If_IN a_DT programmer_NN would_MD not_RB specialize_VB ,_, he_PRP or_CC she_PRP will_MD never_RB find_VB a_DT job_NN ._.
+Because_IN there_EX is_VBZ such_JJ a_DT great_JJ variety_NN of_IN programming_NN languages_NNS ,_, that_IN only_RB specialisation_NN will_MD make_VB it_PRP possible_JJ to_TO work_VB in_IN a_DT certain_JJ field_NN ._.
+There_EX is_VBZ no_DT general_JJ programming_NN !_.
+A_DT programmer_NN has_VBZ to_TO choose_VB one_CD field_NN to_TO work_VB in_IN ,_, maybe_RB web-designe_JJ ,_, than_IN he_PRP or_CC she_PRP has_VBZ to_TO studie_VB a_DT lot_NN in_IN order_NN to_TO get_VB a_DT good_JJ overview_NN about_IN this_DT particular_JJ working_NN field_NN ._.
+I_PRP think_VBP you_PRP can_MD transfer_VB this_DT to_TO every_DT kind_NN of_IN academic_JJ subject_NN ._.
+Only_RB specialisation_NN makes_VBZ perfect_JJ ._.
+But_CC it_PRP is_VBZ also_RB my_PRP$ opinion_NN ,_, that_IN people_NNS should_MD have_VB a_DT broad_JJ knowledge_NN of_IN many_JJ different_JJ subjects_NNS ._.
+Not_RB especially_RB on_IN academic_JJ level_NN ,_, but_CC a_DT good_JJ general_JJ knowledge_NN is_VBZ important_JJ as_RB well_RB ._.

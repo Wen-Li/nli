@@ -1,0 +1,16 @@
+I_PRP agree_VBP to_TO the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Eventhough_NNP it_PRP is_VBZ also_RB important_JJ to_TO learn_VB facts_NNS ,_, it_PRP is_VBZ more_RBR valueable_JJ to_TO get_VB the_DT ideas_NNS or_CC concepts_NNS of_IN everything_NN for_IN several_JJ reasons_NNS ._.
+First_NNP of_IN all_DT ,_, it_PRP is_VBZ easy_JJ to_TO know_VB facts_NNS everytime_RB after_IN you_PRP get_VBP older_JJR ._.
+In_IN contrast_NN ,_, it_PRP is_VBZ harder_JJR to_TO understand_VB the_DT concept_NN of_IN some_DT fundamental_JJ things_NNS ._.
+Ideas_NNS and_CC concepts_NNS should_MD be_VB obtained_VBN in_IN your_PRP$ young_JJ age_NN to_TO contract_VB the_DT right_JJ way_NN of_IN thinking_NN ._.
+For_IN example_NN there_EX is_VBZ quite_RB a_DT lot_NN of_IN lows_NNS that_WDT constrain_VBP people_NNS 's_POS behavior_NN such_JJ as_IN that_IN people_NNS can_MD not_RB kill_VB the_DT other_JJ people_NNS ._.
+It_PRP is_VBZ quite_RB easy_JJ to_TO know_VB the_DT facts_NNS ,_, but_CC the_DT most_RBS important_JJ thing_NN a_DT person_NN should_MD know_VB is_VBZ why_WRB there_EX are_VBP such_JJ lows_NNS and_CC understand_VB correctly_RB the_DT concept_NN of_IN them_PRP ._.
+Secondly_RB ,_, the_DT important_JJ thing_NN for_IN people_NNS is_VBZ to_TO apply_VB the_DT ideas_NNS to_TO the_DT other_JJ situations_NNS ._.
+Even_RB if_IN you_PRP learned_VBD facts_NNS ,_, it_PRP is_VBZ worhless_JJ unless_IN you_PRP understand_VBP the_DT concept_NN behind_IN the_DT facts_NNS ._.
+For_IN an_DT instance_NN ,_, you_PRP learn_VBP a_DT new_JJ formula_NN in_IN Math_NNP class_NN ._.
+The_DT formula_NN is_VBZ a_DT ``_`` fact_NN ''_'' in_IN this_DT case_NN ._.
+You_PRP can_MD solve_VB a_DT simple_JJ question_NN using_VBG it_PRP ,_, however_RB ,_, it_PRP is_VBZ hard_JJ to_TO solve_VB difficult_JJ or_CC complicated_JJ questions_NNS for_IN you_PRP if_IN you_PRP do_VBP n't_RB understand_VB the_DT basic_JJ idea_NN of_IN the_DT formula_NN ._.
+In_IN the_DT real_JJ world_NN ,_, people_NNS will_MD meet_VB several_JJ difficult_JJ problems_NNS ._.
+To_TO solve_VB them_PRP ,_, people_NNS need_VBP to_TO apply_VB what_WP they_PRP learned_VBD into_IN the_DT completely_RB different_JJ situations_NNS ._.
+The_DT facts_NNS will_MD not_RB help_VB them_PRP at_IN that_DT time_NN ._.
+Therefore_RB I_PRP recommend_VBP students_NNS to_TO understand_VB the_DT ideas_NNS or_CC the_DT concept_NN than_IN to_TO acknowledge_VB only_RB the_DT facts_NNS ._.

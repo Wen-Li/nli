@@ -1,0 +1,19 @@
+Transportation_NN is_VBZ very_RB important_JJ issue_NN of_IN not_RB only_RB our_PRP$ century_NN but_CC also_RB future_NN ._.
+Most_JJS known_VBN and_CC used_VBN way_NN of_IN transportation_NN is_VBZ using_VBG car_NN ._.
+However_RB ,_, some_DT factors_NNS like_IN scarce_JJ energy_NN resources_NNS ,_, increasing_VBG number_NN of_IN car_NN accidents_NNS and_CC environmental_JJ pollution_NN will_MD decrease_VB usage_NN of_IN cars_NNS ._.
+As_IN an_DT inevatible_JJ result_NN of_IN these_DT facts_NNS ,_, in_IN twenty_CD years_NNS will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+Firstly_RB ,_, world_NN stock_NN of_IN energy_NN resources_NNS decrease_VBP everyday_JJ ._.
+When_WRB a_DT resource_NN will_MD become_VB more_RBR scare_NN ,_, it_PRP will_MD be_VB more_RBR expensive_JJ in_IN future_NN ._.
+As_IN a_DT result_NN of_IN this_DT economic_JJ condition_NN ,_, people_NNS will_MD prefer_VB public_JJ transporatation_NN like_IN busses_NNS and_CC trains_NNS for_IN cost_NN saving_NN ._.
+That_DT is_VBZ to_TO say_VB many_JJ people_NNS will_MD give_VB up_RP their_PRP$ personal_JJ cars_NNS ._.
+Second_RB important_JJ point_NN to_TO consider_VB about_IN this_DT issue_NN that_WDT car_NN accidents_NNS cause_VBP many_JJ innocent_JJ deads_NNS more_RBR than_IN wars_NNS ._.
+Using_VBG car_NN will_MD be_VB more_RBR unsecure_JJ due_JJ primarily_RB to_TO increasing_VBG number_NN of_IN fatal_JJ car_NN accidents_NNS ._.
+Statistical_JJ data_NNS show_VBP that_IN possibility_NN of_IN occurance_NN an_DT accident_NN or_CC dead_JJ from_IN an_DT accident_NN is_VBZ much_RB lower_JJR for_IN trains_NNS and_CC airplanes_NNS than_IN car_NN ,_, so_RB ,_, other_JJ ways_NNS of_IN transporatiton_NN like_IN trains_NNS ,_, airplanes_NNS are_VBP more_RBR secure_JJ ._.
+As_IN above_JJ montioned_JJ there_EX are_VBP two_CD sides_NNS of_IN this_DT issue_NN ._.
+First_RB ,_, people_NNS will_MD give_VB up_RP car_NN usage_NN for_IN their_PRP$ life_NN security_NN ._.
+Second_RB ,_, people_NNS will_MD afraid_JJ from_IN being_VBG responsible_JJ from_IN dead_JJ of_IN others_NNS ._.
+Environmental_JJ pollution_NN is_VBZ another_DT reason_NN to_TO decrease_VB usage_NN of_IN cars_NNS in_IN future_NN ._.
+Every_DT car_NN release_NN much_RB of_IN gasses_NNS which_WDT damage_VBP environment_NN ._.
+Today_NN many_JJ governments_NNS and_CC NGOs_NNS begin_VBP to_TO attack_VB pollution_NN caused_VBN from_IN car_NN usage_NN ._. ._.
+All_DT in_IN all_DT ,_, world_NN 's_POS scarce_JJ energy_NN stock_NN ,_, car_NN accidents_NNS and_CC environmental_JJ issues_NNS will_MD decrease_VB number_NN of_IN cars_NNS in_IN use_NN ._.
+That_DT is_VBZ to_TO say_VB ,_, in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.

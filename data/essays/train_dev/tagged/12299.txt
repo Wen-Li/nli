@@ -1,0 +1,17 @@
+There_EX are_VBP some_DT problems_NNS of_IN cars_NNS ._.
+For_IN example_NN I_PRP believe_VBP that_IN car_NN use_NN will_MD be_VB increase_NN in_IN twenty_CD years_NNS ._.
+The_DT first_JJ reason_NN is_VBZ that_IN cars_NNS are_VBP appropriate_JJ transportation_NN for_IN travelling_VBG ._.
+As_IN people_NNS who_WP want_VBP to_TO trip_NN by_IN themselves_PRP increases_VBZ ,_, people_NNS will_MD long_RB for_IN their_PRP$ own_JJ cars_NNS ._.
+Nowadays_RB people_NNS have_VBP more_RBR leisure_NN time_NN ._.
+And_CC the_DT most_RBS popular_JJ way_NN to_TO spend_VB their_PRP$ pastime_NN seens_VBZ to_TO be_VB traveling_VBG according_VBG to_TO a_DT recent_JJ research_NN done_VBN by_IN KBS_NNP ._.
+Cars_NNS have_VBP the_DT most_RBS attractive_JJ features_NNS for_IN frequant_JJ travelers_NNS compared_VBN to_TO other_JJ transporations_NNS popularly_RB used_VBN ._.
+When_WRB compared_VBN to_TO the_DT airplane_NN ,_, cars_NNS have_VBP economical_JJ benefits_NNS ._.
+What_WP about_IN comparison_NN to_TO a_DT train_NN ?_.
+Cars_NNS are_VBP private_JJ transportation_NN that_WDT can_MD go_VB anywhere_RB the_DT owner_NN wants_VBZ to_TO go_VB ._.
+Compared_VBN to_TO motorcycle_NN ,_, cars_NNS are_VBP safer_JJR and_CC comfortable_JJ to_TO move_VB long_RB distances_NNS ._.
+As_IN far_RB as_IN people_NNS wants_VBZ to_TO go_VB on_IN a_DT trip_NN more_RBR and_CC more_RBR ,_, cars_NNS will_MD be_VB consumed_VBN more_RBR by_IN them_PRP ._.
+There_EX might_MD be_VB a_DT opponents_NNS that_IN the_DT defect_NN of_IN car_NN may_MD reduce_VB the_DT car_NN use_NN and_CC replace_VB by_IN another_DT transportation_NN ._.
+But_CC since_IN a_DT car_NN is_VBZ a_DT symbol_NN of_IN convenient_JJ transportation_NN ,_, it_PRP will_MD never_RB lose_VB its_PRP$ stable_JJ poplularity_NN ._.
+Though_IN the_DT development_NN of_IN transportation_NN ,_, there_EX can_MD be_VB possibility_NN that_IN new_JJ transportation_NN thatcan_NN cover_VBP the_DT shortcomings_NNS of_IN cars_NNS can_MD be_VB created_VBN ._.
+But_CC according_VBG to_TO the_DT ``_`` path_NN dependency_NN ''_'' people_NNS will_MD not_RB replace_VB their_PRP$ cars_NNS into_IN other_JJ transportation_NN as_IN their_PRP$ owns_VBZ ._.
+Since_IN people_NNS are_VBP familiar_JJ with_IN the_DT car_NN manipulation_NN and_CC infrastructures_NNS are_VBP for_IN completed_VBN for_IN cars_NNS ,_, people_NNS will_MD not_RB replace_VB cars_NNS to_TO another_DT transportation_NN By_IN these_DT two_CD reasons_NNS I_PRP believe_VBP that_IN car_NN use_NN will_MD be_VB increase_NN in_IN twenty_CD years_NNS ._.

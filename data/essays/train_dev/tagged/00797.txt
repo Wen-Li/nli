@@ -1,0 +1,20 @@
+Nowdays_NNP ,_, more_RBR and_CC more_RBR students_NNS sucess_VBP their_PRP$ baccalaureat_NN ._.
+However_RB ,_, it_PRP appears_VBZ that_IN their_PRP$ knowledge_NN are_VBP not_RB very_RB good_JJ ._.
+Therefore_RB ,_, some_DT people_NNS think_VBP that_IN we_PRP have_VBP to_TO re-organize_VB the_DT educational_JJ system_NN ._.
+So_RB ,_, is_VBZ it_PRP more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ?_.
+First_RB ,_, the_DT comprehension_NN of_IN something_NN begins_VBZ in_IN observing_VBG facts_NNS ._.
+For_IN example_NN ,_, in_IN chemistry_NN ,_, we_PRP can_MD do_VB an_DT experience_NN ,_, observe_VBP its_PRP$ ,_, and_CC then_RB we_PRP have_VBP to_TO understand_VB the_DT reaction_NN ._.
+So_RB ,_, I_PRP think_VBP that_IN it_PRP is_VBZ really_RB important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+It_PRP is_VBZ the_DT first_JJ step_NN of_IN the_DT knowledge_NN ._.
+It_PRP is_VBZ the_DT minimum_NN ._.
+next_RB ,_, if_IN we_PRP forget_VBP this_DT ideas_NNS and_CC concepts_NNS ,_, it_PRP is_VBZ not_RB important_JJ to_TO understand_VB it_PRP !_.
+But_CC education_NN can_MD not_RB stop_VB here_RB ._.
+If_IN we_PRP only_RB understand_VBP ideas_NNS and_CC concept_NN ,_, we_PRP do_VBP not_RB have_VB enough_JJ knowledge_NN to_TO understand_VB other_JJ things_NNS ._.
+To_TO improve_VB its_PRP$ knowledge_NN ,_, we_PRP have_VBP to_TO learn_VB facts_NNS ._.
+Indeed_RB ,_, learn_VBP facts_NNS equals_VBZ get_VB experience_NN ._.
+In_IN the_DT schorlarship_NN ,_, learn_VBP facts_NNS must_MD mixt_VB with_IN ``_`` understand_VB ideas_NNS and_CC concepts_NNS ''_'' ._.
+In_IN one_CD time_NN ,_, students_NNS only_RB learnt_VBD courses_NNS by_IN heart_NN and_CC sometimes_RB they_PRP did_VBD not_RB understand_VB ._.
+Thus_RB ,_, if_IN students_NNS only_RB learn_VBP lessons_NNS ,_, it_PRP is_VBZ not_RB enough_RB ._.
+In_IN my_PRP$ opinion_NN ,_, a_DT good_JJ educational_JJ sytem_NN is_VBZ not_RB only_RB a_DT system_NN where_WRB students_NNS just_RB learn_VBP facts_NNS ._.
+They_PRP olso_VBP have_VBP to_TO understand_VB ideas_NNS and_CC concepts_NNS :_: it_PRP is_VBZ not_RB more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+We_PRP can_MD not_RB done_VBN a_DT difference_NN between_IN this_DT two_CD system_NN ._.

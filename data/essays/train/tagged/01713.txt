@@ -1,0 +1,13 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+As_IN cars_NNS become_VBP cheaper_JJR ,_, safer_JJR and_CC more_RBR user-friendly_JJ ,_, more_JJR people_NNS will_MD choose_VB cars_NNS as_IN their_PRP$ main_JJ means_NNS of_IN transportation_NN ._.
+Some_DT people_NNS may_MD argue_VB that_IN technological_JJ advances_NNS in_IN telecommunications_NNS may_MD reduce_VB the_DT need_NN for_IN transportation_NN ._.
+I_PRP think_VBP that_IN ,_, while_IN it_PRP is_VBZ true_JJ that_IN there_EX has_VBZ already_RB been_VBN a_DT general_JJ decrease_NN in_IN business_NN trips_NNS ,_, the_DT use_NN of_IN cars_NNS for_IN private_JJ transportation_NN will_MD continue_VB to_TO increase_VB in_IN the_DT future_NN ._.
+Others_NNS may_MD argue_VB that_IN more_RBR efficient_JJ public_JJ transportation_NN will_MD render_VB cars_NNS obsolete_JJ ._.
+However_RB ,_, I_PRP believe_VBP that_IN although_IN public_JJ transportation_NN is_VBZ a_DT key_JJ factor_NN in_IN development_NN ,_, it_PRP will_MD never_RB substitute_VB cars_NNS because_IN of_IN its_PRP$ inherent_JJ limitations_NNS ._.
+The_DT cost_NN of_IN producing_VBG a_DT car_NN has_VBZ been_VBN greatly_RB reduced_VBN in_IN recent_JJ years_NNS whereas_IN their_PRP$ convenience_NN and_CC performance_NN continues_VBZ to_TO increase_VB ._.
+Nowadays_RB fully_RB equiped_JJ cars_NNS such_JJ as_IN the_DT Renault_NNP Logan_NNP or_CC the_DT Subaru_NNP Pleo_NNP cost_VBD around_IN three_CD thousand_CD dollars_NNS to_TO produce_VB and_CC are_VBP sold_VBN for_IN aroudn_NN five_CD thousand_CD ._.
+Another_DT important_JJ factor_NN is_VBZ the_DT rapid_JJ growth_NN of_IN the_DT automotive_JJ markets_NNS in_IN developing_VBG countries_NNS such_JJ as_IN India_NNP ,_, China_NNP or_CC Brazil_NNP ._.
+In_IN these_DT countries_NNS still_RB relatively_RB few_JJ people_NNS own_VBP a_DT car_NN but_CC there_EX is_VBZ a_DT great_JJ potential_JJ for_IN growth_NN ._.
+In_IN China_NNP ,_, for_IN example_NN ,_, last_JJ year_NN saw_VBD a_DT twenty_CD percent_NN increase_NN in_IN units_NNS sold_VBN ._.
+Following_VBG this_DT trend_NN ,_, many_JJ car_NN manufacturers_NNS are_VBP launching_VBG low_JJ cost_NN BRIC_NN (_CD which_WDT stands_VBZ for_IN Brazil_NNP ,_, Russia_NNP ,_, India_NNP ,_, China_NNP )_CD product_NN lines_NNS designed_VBN to_TO meet_VB these_DT market_NN 's_POS demands_NNS ._.
+In_IN conclusion_NN ,_, although_IN it_PRP is_VBZ true_JJ that_IN the_DT use_NN of_IN cars_NNS may_MD be_VB reduced_VBN in_IN specific_JJ situations_NNS ,_, I_PRP believe_VBP that_IN in_IN general_JJ the_DT number_NN of_IN cars_NNS will_MD continue_VB increasing_VBG ._.

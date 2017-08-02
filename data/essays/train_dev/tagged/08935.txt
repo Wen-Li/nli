@@ -1,0 +1,12 @@
+Without_IN question_NN ,_, I_PRP disagree_VBP this_DT statement_NN ._.
+there_EX are_VBP two_CD reasons_NNS :_: dvelpoping_VBG countries_NNS and_CC the_DT evorution_NN of_IN cars_NNS ._.
+First_RB ,_, the_DT people_NNS who_WP need_VBP car_NN become_VB more_RBR larger_JJR in_IN these_DT twenty_CD years_NNS than_IN today_NN ._.
+because_IN in_IN most_JJS of_IN the_DT developing_VBG countries_NNS ,_, the_DT population_NN are_VBP becoming_VBG larger_JJR and_CC larger_JJR ,_, and_CC in_IN such_JJ coutry_JJ people_NNS want_VBP to_TO have_VB cars_NNS as_IN they_PRP become_VBP rich_JJ ._.
+For_IN example_NN ,_, in_IN China_NNP there_EX were_VBD many_JJ people_NNS who_WP only_RB have_VBP bike_NN in_IN ten_CD years_NNS ago_RB ,_, but_CC today_NN many_JJ chinese_JJ come_VBN to_TO rich_JJ and_CC bigin_NN to_TO buy_VB cars_NNS ._.
+Thus_RB ,_, as_IN developing_VBG countries_NNS grow_VB in_IN economically_RB ,_, needs_VBZ for_IN cars_NNS is_VBZ increasing_VBG ._.
+Second_RB ,_, in_IN these_DT days_NNS ,_, cars_NNS become_VBP more_RBR harmless_JJ for_IN environments_NNS because_IN of_IN the_DT evorution_NN of_IN their_PRP$ tecnology_NN ._.
+For_IN example_NN ,_, soler_NN cars_NNS only_RB uses_VBZ sunlight_NN and_CC dose_NN not_RB contaminate_VB air_NN ._.
+If_IN these_DT cars_NNS become_VBP more_RBR cheeper_NN ,_, people_NNS who_WP care_VBP about_IN environments_NNS could_MD use_VB cars_NNS ._.
+Thus_RB in_IN developed_JJ countories_NNS ,_, the_DT needs_NNS for_IN cars_NNS may_MD not_RB decline_VB ._.
+All_DT in_IN all_DT ,_, I_PRP can_MD not_RB agree_VB with_IN that_DT in_IN twenty_CD years_NNS there_RB willbe_VBP fewer_JJR cars_NNS in_IN use_NN ._.
+Because_IN this_DT opinion_NN dose_NN not_RB concern_NN about_IN needs_NNS in_IN developing_VBG countries_NNS and_CC evorution_NN of_IN tecnology_NN ._.

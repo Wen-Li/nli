@@ -1,0 +1,18 @@
+No_DT ,_, I_PRP not_RB really_RB agree_VB about_IN this_DT statement_NN ._.
+I_PRP think_VBP that_IN ,_, in_IN twenty_CD years_NNS ,_, the_DT number_NN of_IN cars_NNS in_IN use_NN will_MD be_VB increase_NN in_IN the_DT world_NN ._.
+But_CC I_PRP think_VBP the_DT increase_NN will_MD be_VB less_RBR important_JJ in_IN the_DT developped_VBN countries_NNS ._.
+In_IN fact_NN ,_, in_IN each_DT developed_VBN country_NN ,_, the_DT increase_NN of_IN cars_NNS is_VBZ already_RB done_VBN ._. .._SYM
+For_IN exemple_NN ,_, in_IN France_NNP ,_, it_PRP was_VBD during_IN the_DT 70s_CD ,_, with_IN the_DT background_NN of_IN the_DT economic_JJ increase_NN ,_, the_DT unemployement_JJ rate_NN was_VBD very_RB down_RB ._.
+The_DT French_JJ people_NNS bought_VBD a_DT lot_NN of_IN cars_NNS during_IN this_DT period_NN ._.
+Almost_RB 40_CD years_NNS later_RB ,_, french_JJ people_NNS buy_VBP still_RB cars_NNS ._. .._SYM
+but_CC in_IN general_JJ ,_, it_PRP s_VBZ to_TO replace_VB the_DT oldest_JJS ._.
+They_PRP just_RB change_VBP the_DT model_NN of_IN their_PRP$ car_NN ._.
+Now_RB ,_, each_DT member_NN of_IN the_DT family_NN had_VBD his_PRP$ car_NN ._. .._SYM
+the_DT wife_NN and_CC the_DT husband_NN ,_, the_DT young_JJ adult_JJ boy_NN or_CC girl_NN ._. .._SYM
+It_PRP s_VBZ the_DT same_JJ in_IN America_NNP ,_, in_IN Great_NNP Britain_NNP ,_, ..._:
+in_IN the_DT developped_VBN countries_NNS ._.
+So_RB ,_, in_IN fact_NN ,_, in_IN twenty_CD years_NNS ,_, I_PRP think_VBP that_IN in_IN the_DT developped_VBN countries_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN tere_NN are_VBP today_NN ._.
+But_CC in_IN the_DT other_JJ countries_NNS of_IN the_DT world_NN ,_, it_PRP s_VBZ not_RB the_DT same_JJ situation_NN ._.
+I_PRP think_VBP that_IN in_IN the_DT countries_NNS on_IN the_DT way_NN of_IN the_DT economic_JJ increase_NN ,_, the_DT number_NN of_IN cars_NNS will_MD strongly_RB increase_VB ._.
+For_IN exemple_NN ,_, China_NNP ,_, the_DT country_NN that_WDT everybody_NN is_VBZ talking_VBG about_RB and_CC which_WDT is_VBZ going_VBG to_TO become_VB one_CD of_IN the_DT most_RBS important_JJ enconomic_JJ country_NN in_IN the_DT world_NN in_IN a_DT very_RB short_JJ moment_NN ._.
+The_DT actuel_JJ economic_JJ increase_NN in_IN China_NNP

@@ -1,0 +1,5 @@
+I_PRP do_VBP not_RB agree_VB with_IN this_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+But_CC it_PRP is_VBZ depends_VBZ on_IN what_WP the_DT concept_NN is_VBZ ,_, because_IN if_IN it_PRP is_VBZ about_IN really_RB serious_JJ topic_NN and_CC the_DT informations_NNS that_WDT students_NNS need_VBP to_TO know_VB ,_, students_NNS should_MD know_VB and_CC learn_VB about_IN it_PRP ._.
+especially_RB ,_, if_IN it_PRP is_VBZ about_IN the_DT nations_NNS and_CC world_NN ._.
+students_NNS should_MD know_VB what_WP happens_VBZ in_IN the_DT world_NN ._.
+But_CC sometimes_RB ,_, there_EX is_VBZ a_DT information_NN that_IN they_PRP do_VBP not_RB need_VB to_TO know_VB the_DT fact_NN

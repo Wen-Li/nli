@@ -1,0 +1,20 @@
+The_DT question_NN at_IN hand_NN is_VBZ what_WP helps_VBZ students_NNS more_RBR -_: understanding_VBG ideas_NNS and_CC concept_NN or_CC learning_VBG the_DT facts_NNS ._.
+Though_IN I_PRP agree_VBP that_IN mostly_RB learning_VBG a_DT theory_NN is_VBZ crucial_JJ to_TO gain_VB insights_NNS about_IN any_DT topic_NN ,_, however_RB if_IN it_PRP is_VBZ supported_VBN by_IN the_DT facts_NNS ,_, it_PRP expedites_VBZ the_DT process_NN of_IN learning_NN ._.
+To_TO start_VB with_IN ,_, in_IN many_JJ cases_NNS a_DT student_NN can_MD not_RB visualize_VB a_DT concept_NN unless_IN a_DT physical_JJ fact_NN accomponies_NNS with_IN it_PRP ._.
+Imagine_VB how_WRB easy_JJ it_PRP is_VBZ to_TO explain_VB a_DT kid_NN gravity_NN by_IN showing_VBG its_PRP$ example_NN compared_VBN to_TO explaning_VBG it_PRP just_RB in_IN theory_NN ._.
+So_IN a_DT thoery_NN with_IN a_DT fact_NN is_VBZ sometimes_RB easier_JJR to_TO grasp_VB for_IN a_DT student_NN ._.
+Another_DT example_NN is_VBZ subjects_NNS like_IN physics_NNS and_CC chemistry_NN ._.
+One_PRP can_MD not_RB learn_VB these_DT subjects_NNS just_RB by_IN reading_VBG books_NNS ._.
+This_DT is_VBZ reason_NN all_DT schools_NNS provide_VBP practical_JJ classes_NNS along_IN with_IN lectures_VBZ for_IN these_DT subjects_NNS ._.
+Also_RB ,_, sometimes_RB just_RB knowing_VBG a_DT concept_NN does_VBZ not_RB help_VB to_TO gain_VB the_DT complete_JJ understanding_NN ,_, facts_NNS are_VBP required_VBN to_TO complete_VB them_PRP ._.
+In_IN addition_NN ,_, in_IN certain_JJ subjects_NNS ,_, facts_NNS play_VBP a_DT bigger_JJR role_NN than_IN the_DT theory_NN ._.
+For_IN instance_NN archeology_NN ,_, history_NN and_CC upto_VB some_DT extent_NN geography_NN too_RB ._.
+Archaelogy_NNP is_VBZ nothing_NN but_CC facts_NNS ._.
+History_NN can_MD not_RB be_VB explained_VBN just_RB in_IN theory_NN ._.
+Moreoever_NNP ,_, if_IN we_PRP go_VBP to_TO the_DT root_NN of_IN it_PRP ,_, all_DT ideas_NNS and_CC concepts_NNS have_VBP been_VBN driven_VBN by_IN facts_NNS only_RB ._.
+Each_DT theory_NN has_VBZ been_VBN invented_VBN to_TO explain_VB a_DT fact_NN ._.
+So_RB in_IN order_NN to_TO make_VB students_NNS think_VB beyond_IN textbooks_NNS ,_, it_PRP is_VBZ almost_RB mandatory_JJ to_TO learn_VB about_IN facts_NNS ._.
+Also_RB ,_, facts_NNS motivate_VBP students_NNS to_TO find_VB their_PRP$ interests_NNS ._.
+For_IN example_NN ,_, just_RB looking_VBG at_IN stars_NNS triggers_VBZ some_DT people_NNS to_TO choose_VB their_PRP$ profession_NN as_IN astronomy_NN ._.
+In_IN summary_NN ,_, I_PRP disagree_VBP with_IN the_DT opinion_NN that_IN learning_VBG ideas_NNS and_CC concepts_NNS has_VBZ more_JJR value_NN for_IN the_DT students_NNS than_IN knowing_VBG facts_NNS ._.
+To_TO keep_VB their_PRP$ thinking_VBG broad_JJ and_CC comprehensive_JJ ,_, students_NNS need_VBP to_TO be_VB taught_VBN both_CC in_IN balance_NN ._.

@@ -1,0 +1,19 @@
+I_PRP read_VBP ,_, I_PRP forget_VBP ._.
+I_PRP learn_VBP ,_, I_PRP still_RB forget_VB ._.
+I_PRP understand_VBP ,_, I_PRP remember_VBP ._.
+This_DT translation_NN of_IN a_DT Chinese_JJ proverb_NN says_VBZ it_PRP all_DT ._.
+A_DT strong_JJ and_CC sturdy_JJ base_NN is_VBZ mandatory_JJ for_IN every_DT building_NN to_TO stand_VB tall_JJ ._.
+An_DT understanding_NN of_IN things_NNS is_VBZ like_IN a_DT base_NN to_TO a_DT human_JJ being_VBG in_IN the_DT building_NN of_IN his_PRP$ life_NN ._.
+It_PRP is_VBZ obviously_RB more_RBR important_JJ to_TO understand_VB things_NNS that_IN it_PRP is_VBZ to_TO learn_VB facts_NNS about_IN them_PRP ._.
+It_PRP is_VBZ this_DT understanding_NN of_IN a_DT particular_JJ topic_NN or_CC a_DT phenomenon_NN which_WDT encourages_VBZ an_DT individual_JJ to_TO analyse_VB things_NNS occuring_VBG around_IN him_PRP or_CC her_PRP ._.
+This_DT can_MD be_VB clarified_VBN better_RBR as_IN we_PRP take_VBP a_DT look_NN at_IN the_DT following_VBG examples_NNS :_:
+For_IN instance_NN ,_, we_PRP consider_VBP the_DT example_NN of_IN an_DT electrical_JJ engineer_NN ._.
+He_PRP has_VBZ learnt_VBN from_IN the_DT book_NN facts_NNS about_IN domestic_JJ power_NN supply_NN ._.
+But_CC he_PRP has_VBZ not_RB understood_VBN how_WRB the_DT process_NN of_IN delivering_VBG power_NN is_VBZ taking_VBG place_NN ._.
+In_IN case_NN of_IN an_DT emergency_NN ,_, if_IN he_PRP is_VBZ required_VBN to_TO tackle_VB some_DT power_NN problem_NN ,_, he_PRP would_MD n't_RB be_VB able_JJ to_TO repair_VB it_PRP ,_, or_CC trying_VBG to_TO troubleshoot_VB it_PRP might_MD even_RB prove_VB fatal_JJ to_TO him_PRP ,_, if_IN he_PRP does_VBZ not_RB have_VB an_DT understanding_NN of_IN the_DT fundamental_JJ ._.
+Considering_VBG the_DT example_NN of_IN swimming_NN would_MD not_RB be_VB difficult_JJ ._.
+If_IN a_DT person_NN has_VBZ learnt_VBN the_DT Archimedes_NNP '_POS principle_NN of_IN buoyancy_NN ,_, it_PRP obviously_RB would_MD not_RB help_VB him_PRP swim_VBP ._.
+But_CC it_PRP would_MD only_RB be_VB possible_JJ if_IN a_DT person_NN understands_VBZ how_WRB to_TO swim_VB under_IN proper_JJ guidance_NN ._.
+All_PDT the_DT research_NN experts_NNS and_CC scientists_NNS around_IN the_DT globe_NN are_VBP responsible_JJ for_IN new_JJ innovations_NNS not_RB because_IN they_PRP have_VBP mugged_VBN up_RP facts_NNS and_CC figures_NNS relating_VBG to_TO their_PRP$ area_NN ,_, but_CC because_IN they_PRP have_VBP created_VBN their_PRP$ own_JJ facts_NNS and_CC laws_NNS using_VBG their_PRP$ understanding_NN of_IN the_DT subject_NN ._.
+Considering_VBG the_DT above_JJ examples_NNS and_CC illustrations_NNS it_PRP can_MD be_VB very_RB well_RB said_VBD that_IN -_: It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+For_IN only_RB this_DT would_MD bring_VB them_PRP up_RP as_RB better_JJR individuals_NNS and_CC better_JJR thinkers_NNS who_WP would_MD help_VB in_IN development_NN of_IN their_PRP$ country_NN

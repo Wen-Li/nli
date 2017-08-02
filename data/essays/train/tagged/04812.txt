@@ -1,0 +1,19 @@
+``_`` Old_NNP is_VBZ gold_NN ''_'' goes_VBZ a_DT famous_JJ quote_NN ._.
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN ``_`` young_JJ people_NNS enjoy_VBP life_NN more_JJR than_IN older_JJR people_NNS do_VBP ''_'' ._.
+Young_JJ people_NNS are_VBP always_RB busy_JJ with_IN something_NN or_CC the_DT other_JJ ,_, like_IN completing_VBG assignments_NNS ,_, heading_VBG for_IN meetings_NNS etc_FW etc_FW ._.
+Where_WRB as_IN the_DT older_JJR people_NNS ,_, they_PRP completed_VBD every_DT thing_NN and_CC now_RB relaxed_VBN ._.
+For_IN them_PRP there_EX are_VBP no_DT assignments_NNS to_TO be_VB finished_VBN or_CC meetings_NNS to_TO be_VB attended_VBN ._.
+For_IN example_NN lets_VBZ consider_VB a_DT young_JJ man_NN and_CC an_DT old_JJ man_NN ._.
+We_PRP will_MD consider_VB some_DT of_IN their_PRP$ daily_JJ routine_NN ._.
+Young_JJ man_NN needs_VBZ to_TO wake_VB up_RB early_RB like_IN 5.00am_NN in_IN the_DT morning_NN go_VB for_IN a_DT gym_NN or_CC jog_NN to_TO maintain_VB his_PRP$ body_NN ._.
+He_PRP should_MD again_RB rush_VB to_TO his_PRP$ home_NN as_IN he_PRP must_MD get_VB ready_JJ to_TO attend_VB his_PRP$ office_NN or_CC university_NN ._.
+Its_PRP$ a_DT tight_JJ schedule_NN ._.
+Where_WRB as_IN an_DT old_JJ man_NN ,_, he_PRP can_MD wake_VB up_RP whenever_WRB he_PRP wants_VBZ ,_, can_MD go_VB for_IN a_DT walk_NN whenever_WRB he_PRP wants_VBZ and_CC can_MD return_VB leisurely_JJ ._.
+So_RB who_WP is_VBZ enjoying_VBG life_NN ?_.
+old_JJ man_NN ._.
+Now_RB we_PRP will_MD consider_VB and_CC old_JJ woman_NN and_CC a_DT young_JJ woman_NN ._.
+Young_NNP woman._NNP ,_, she_PRP must_MD also_RB wake_VB up_RB early_RB to_TO go_VB for_IN a_DT jog_NN or_CC a_DT walk_NN to_TO remain_VB fit_JJ and_CC return_NN to_TO home_NN quickly_RB as_IN she_PRP must_MD go_VB for_IN an_DT university_NN or_CC office_NN ,_, ofcourse_NN there_EX is_VBZ an_DT exception_NN for_IN housewives_NNS but_CC if_IN the_DT housewives_NNS have_VBP children_NNS then_RB again_RB she_PRP is_VBZ responsible_JJ for_IN the_DT child_NN 's_POS upbringing_NN ._.
+On_IN the_DT other_JJ hand_NN the_DT older_JJR woman_NN can_MD wake_VB up_RP whenever_WRB she_PRP wants_VBZ and_CC do_VBP whatever_WDT she_PRP wants_VBZ as_IN she_PRP has_VBZ lot_NN of_IN time_NN with_IN her_PRP ._.
+Some_DT woman_NN enjoy_VB cooking_NN so_IN the_DT old_JJ woman_NN can_MD try_VB new_JJ dishes_NNS or_CC she_PRP can_MD write_VB peoms_NNS do_VBP whatever_WDT she_PRP wants_VBZ ._.
+So_RB i_FW strongly_RB feel_VBP that_IN older_JJR people_NNS enjoy_VBP life_NN more_JJR than_IN younger_JJR people_NNS ._.
+Younger_JJR people_NNS are_VBP always_RB associated_VBN with_IN more_JJR responsibilities_NNS than_IN older_JJR people_NNS ,_, building_VBG up_RP their_PRP$ career_NN etc_FW etc_FW ._.

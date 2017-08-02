@@ -1,0 +1,12 @@
+VBG_dep_UH
+UH_dep_IN
+VBG_nsubj_PRP
+VBG_aux_VBP
+VBG_advmod_RB
+VBG_cc_CC
+VBG_conj_VBP
+VBP_nsubj_PRP
+VBP_nmod_NNS
+NNS_case_IN
+NNS_cc_CC
+NNS_conj_NNS

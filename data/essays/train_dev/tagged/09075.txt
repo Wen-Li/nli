@@ -1,0 +1,19 @@
+I_PRP agree_VBP with_IN the_DT statement_NN provided_VBD that_IN the_DT word_NN in_IN the_DT statement_NN ``_`` cars_NNS ''_'' is_VBZ qualified_VBN to_TO mean_VB only_RB ``_`` road-cars_NNS ''_'' ._.
+This_DT is_VBZ to_TO distinguish_VB road-cars_NNS from_IN other_JJ automotives_NNS ,_, like_IN space-cars_NNS ,_, which_WDT may_MD be_VB a_DT thing_NN of_IN the_DT future_NN ._.
+I_PRP will_MD hence-forth_VB call_VB such_JJ automobiles_NNS as_IN personal-flights_NNS ,_, to_TO distinguish_VB them_PRP from_IN ``_`` road-cars_NNS ''_'' ._.
+As_IN a_DT science_NN student_NN ,_, I_PRP am_VBP totally_RB convinced_VBN that_IN twenty_CD years_NNS is_VBZ sufficient_JJ for_IN technological_JJ advancements_NNS to_TO progress_VB to_TO such_PDT an_DT extent_NN ,_, so_RB as_IN to_TO enable_VB the_DT the_DT usage_NN of_IN personal_JJ flights_NNS by_IN many_JJ people_NNS ._.
+In_IN those_DT years_NNS ,_, people_NNS will_MD be_VB able_JJ to_TO purchase_VB personal-flights_NNS ,_, and_CC hence_RB the_DT usage_NN of_IN road_NN cars_NNS will_MD become_VB outmoded_JJ ._.
+Twenty_CD years_NNS may_MD be_VB short_JJ to_TO produce_VB such_JJ personal-flights_NNS at_IN low_JJ rates_NNS ._.
+However_RB although_IN all_DT people_NNS may_MD not_RB have_VB luxuries_NNS to_TO such_JJ high_JJ end_NN automobiles_NNS ,_, a_DT significant_JJ portion_NN of_IN the_DT population_NN ,_, especially_RB in_IN developed_JJ countries_NNS may_MD start_VB using_VBG them_PRP regularly_RB ._.
+Besides_IN ,_, the_DT government_NN of_IN those_DT days_NNS might_MD introduce_VB other_JJ sophisticated_JJ public_JJ transport_NN systems_NNS ,_, like_IN space_NN buses_NNS or_CC space_NN trains_NNS ._.
+Considering_VBG the_DT heavy_JJ pollution_NN that_WDT is_VBZ caused_VBN by_IN the_DT today_NN 's_POS cars_NNS and_CC the_DT great_JJ commotion_NN caused_VBN in_IN today_NN 's_POS roads_NNS because_IN of_IN these_DT cars_NNS ,_, people_NNS then_RB may_MD start_VB exploring_VBG other_JJ options_NNS ,_, such_JJ as_IN space_NN -_: buses_NNS ._.
+That_DT would_MD not_RB only_RB be_VB convenient_JJ to_TO most_JJS people_NNS ,_, but_CC also_RB be_VB environment_NN friendly_JJ ._.
+In_IN fact_NN ,_, some_DT environment_NN friendly_JJ countries_NNS ,_, might_MD totally_RB abandon_VB the_DT usage_NN of_IN powered_VBN vehicles_NNS on_IN roads_NNS of_IN that_DT day_NN ._.
+People_NNS who_WP wish_VBP to_TO go_VB on_IN roads_NNS on_IN those_DT days_NNS might_MD go_VB on_IN cycles_NNS ,_, and_CC it_PRP is_VBZ entirely_RB possible_JJ that_IN cycles_NNS might_MD be_VB in_IN vogue_NN then_RB ._.
+The_DT usage_NN of_IN road-cars_NNS may_MD be_VB restricted_JJ to_TO luxury_NN sports_NNS like_IN Formula_NN 1_CD ,_, Nascar_NNP etc_FW ._.
+The_DT other_JJ important_JJ factor_NN that_WDT may_MD influence_VB people_NNS to_TO consider_VB other_JJ attractive_JJ alternate_JJ means_NNS of_IN transport_NN is_VBZ petrol_NN and_CC other_JJ gas_NN reserves_NNS ._.
+The_DT acute_JJ shortage_NN of_IN petrol_NN ,_, diesel_NN etc_NN in_IN coming_VBG years_NNS may_MD increase_VB their_PRP$ prices_NNS so_RB much_RB that_IN people_NNS wil_VBP start_NN abandoning_VBG road-cars_NNS ._.
+Even_RB as_IN of_IN today_NN ,_, trains_NNS in_IN Japan_NNP and_CC in_IN few_JJ other_JJ countries_NNS can_MD move_VB almost_RB on_IN the_DT air_NN ,_, enabling_VBG them_PRP to_TO travel_VB as_RB fast_RB as_IN sound_NN ._.
+Current_JJ research_NN indicates_VBZ that_IN space_NN cars_NNS may_MD be_VB manufactured_VBN without_IN the_DT usage_NN of_IN petrol_NN ._.
+They_PRP also_RB do_VBP not_RB cause_VB enviroment_NN problems_NNS ,_, and_CC traffic_NN jams_NNS will_MD be_VB a_DT thing_NN of_IN past_NN ._.
+In_IN twenty_CD years_NNS ,_, the_DT advent_NN of_IN space_NN cars_NNS and_CC space_NN buses_NNS is_VBZ looking_VBG highly_RB possible_JJ ._.

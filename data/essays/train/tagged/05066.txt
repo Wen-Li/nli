@@ -1,0 +1,20 @@
+The_DT claim_NN of_IN the_DT question_NN is_VBZ that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+I_PRP strongly_RB agree_VBP with_IN the_DT claim_NN since_IN the_DT following_VBG reasons_NNS ._.
+To_TO begin_VB with_IN ,_, the_DT government_NN has_VBZ begun_VBN to_TO develop_VB some_DT rules_NNS and_CC laws_NNS to_TO encourage_VB people_NNS to_TO use_VB mass_NN transportation_NN ._.
+The_DT government_NN has_VBZ some_DT advertisements_NNS on_IN TV_NN to_TO promote_VB usage_NN of_IN mass_NN transportation_NN ._.
+Through_IN the_DT activities_NNS ,_, people_NNS would_MD change_VB their_PRP$ minds_NNS ._.
+Besides_IN ,_, the_DT government_NN has_VBZ raised_VBN taxed_VBN for_IN people_NNS who_WP own_VBP cars_NNS and_CC increased_VBD the_DT burdens_NNS of_IN these_DT car_NN owners_NNS ._.
+For_IN example_NN ,_, in_IN Taiwan_NNP there_RB has_VBZ some_DT laws_NNS to_TO raise_VB taxes_NNS of_IN car_NN owners_NNS ._.
+Second_RB ,_, it_PRP is_VBZ harder_JJR to_TO find_VB parking_NN spaces_NNS for_IN car_NN owners_NNS ,_, especially_RB when_WRB people_NNS live_VBP in_IN a_DT big_JJ city_NN ._.
+Besides_IN ,_, it_PRP is_VBZ expensive_JJ to_TO rent_VB a_DT parking_NN space_NN in_IN a_DT big_JJ city_NN ._.
+Let_VB me_PRP take_VB Taipei_NNP as_IN an_DT example_NN ,_, the_DT car_NN owner_NN should_MD pay_VB at_IN least_JJS 6,000_CD NTD_NN to_TO rent_VB a_DT parking_NN space_NN a_DT month_NN ._.
+Some_DT people_NNS may_MD argue_VB that_IN they_PRP can_MD affort_VB to_TO pay_VB the_DT money_NN ._.
+However_RB ,_, some_DT people_NNS jsut_NN can_MD not_RB find_VB a_DT good_JJ parking_NN space_NN even_RB they_PRP want_VBP to_TO pay_VB the_DT money_NN ._.
+Since_IN the_DT all_DT parking_NN spaces_NNS in_IN Taipei_NNP are_VBP not_RB enough_RB for_IN all_DT cars_NNS ._.
+Hence_RB many_JJ car_NN owners_NNS begin_VBP to_TO consider_VB the_DT mass_NN transportations_NNS ,_, such_JJ as_IN bus_NN ,_, taxi_NN ,_, and_CC subway_NN ,_,
+Third_NNP ,_, people_NNS have_VBP concensus_NN that_WDT too_RB much_JJ cars_NNS would_MD pollute_VB our_PRP$ environment_NN ._.
+Now_RB some_DT families_NNS may_MD own_VB more_JJR than_IN one_CD car_NN ,_, but_CC actually_RB they_PRP just_RB need_VBP one_CD car_NN ._.
+Under_IN the_DT strongly_RB environmental_JJ pressures_NNS ,_, people_NNS start_VBP to_TO know_VB the_DT importance_NN of_IN environmental_JJ protection_NN ._.
+Too_RB much_JJ cars_NNS will_MD pollute_VB the_DT earth_NN and_CC endanger_VB the_DT existence_NN of_IN human_JJ beings_NNS ._.
+Therefore_RB ,_, it_PRP can_MD be_VB predicted_VBN that_IN more_JJR countries_NNS would_MD cooperate_VB to_TO decrease_VB the_DT pollutions_NNS through_IN some_DT contracts_NNS or_CC rules_NNS that_WDT limit_VBP the_DT cars_NNS owned_VBN by_IN each_DT country_NN ._.
+In_IN summary_NN ,_, considering_VBG the_DT aforementioned_JJ reasons_NNS ,_, I_PRP strongly_RB agree_VBP with_IN the_DT claim_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ,_, since_IN the_DT environmental_JJ issues_NNS and_CC the_DT efforts_NNS from_IN the_DT government_NN to_TO limit_VB the_DT quantity_NN of_IN cars_NNS ._.

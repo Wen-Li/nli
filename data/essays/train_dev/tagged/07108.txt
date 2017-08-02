@@ -1,0 +1,16 @@
+In_IN my_PRP$ point_NN of_IN view_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ to_TO learn_VB facts_NNS ._.
+A_DT general_JJ concept_NN or_CC idea_NN is_VBZ made_VBN of_IN facts_NNS ,_, which_WDT are_VBP statements_NNS found_VBN in_IN textbooks_NNS or_CC encyclopedias_NNS ._.
+Nevertheless_RB ,_, it_PRP is_VBZ clear_JJ to_TO me_PRP that_IN the_DT importance_NN of_IN facts_NNS ca_MD n't_RB be_VB decreased_VBN ,_, because_IN in_IN certain_JJ fields_NNS of_IN study_NN such_JJ as_IN history_NN ,_, facts_NNS are_VBP extremely_RB relevant_JJ ._.
+But_CC in_IN most_JJS fields_NNS of_IN study_NN ,_, without_IN a_DT general_JJ understanding_NN of_IN the_DT concept_NN ,_, facts_NNS appear_VBP worthless_JJ ._.
+On_IN one_CD hand_NN ,_, concepts_NNS and_CC ideas_NNS have_VBP an_DT importance_NN that_WDT ca_MD n't_RB be_VB diminished_VBN ,_, because_IN those_DT are_VBP the_DT elements_NNS that_WDT will_MD help_VB one_CD to_TO learn_VB the_DT facts_NNS ._.
+Without_IN understanding_VBG the_DT concept_NN or_CC the_DT idea_NN ,_, a_DT student_NN will_MD not_RB be_VB able_JJ to_TO learn_VB but_CC more_RBR importantly_RB to_TO remember_VB for_IN a_DT long_JJ period_NN of_IN time_NN the_DT facts_NNS related_VBN to_TO the_DT concept_NN or_CC idea_NN ._.
+For_IN example_NN ,_, in_IN an_DT astronomy_NN class_NN ,_, the_DT concept_NN of_IN how_WRB the_DT planets_NNS evolve_VBP is_VBZ more_RBR important_JJ to_TO understand_VB than_IN to_TO know_VB the_DT exact_JJ figures_NNS or_CC paths_NNS constituting_VBG the_DT planet_NN 's_POS movement_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, concepts_NNS and_CC ideas_NNS are_VBP what_WP help_VB a_DT student_NN in_IN his_PRP$ future_JJ professional_JJ life_NN ._.
+The_DT facts_NNS can_MD easily_RB be_VB found_VBN again_RB in_IN a_DT textbook_NN ,_, on_IN the_DT internet_NN or_CC in_IN any_DT database_NN ._.
+But_CC if_IN the_DT concept_NN made_VBN by_IN these_DT facts_NNS is_VBZ not_RB understood_VBN ,_, the_DT student_NN will_MD not_RB be_VB able_JJ to_TO use_VB the_DT facts_NNS properly_RB ._.
+For_IN instance_NN ,_, a_DT law_NN student_NN ,_, as_IN myself_PRP ,_, has_VBZ to_TO learn_VB a_DT lot_NN of_IN facts_NNS and_CC regulations_NNS ._.
+However_RB ,_, those_DT facts_NNS or_CC rules_NNS wo_MD n't_RB be_VB useful_JJ if_IN the_DT concept_NN is_VBZ not_RB understood_VBN ._.
+When_WRB ,_, in_IN the_DT future_NN ,_, this_DT law_NN student_NN who_WP became_VBD a_DT lawyer_NN is_VBZ confronted_VBN to_TO a_DT tough_JJ case_NN ,_, the_DT general_JJ idea_NN of_IN how_WRB the_DT law_NN regulates_VBZ on_IN that_DT matter_NN will_MD help_VB him_PRP solve_VB the_DT case_NN ,_, whereas_IN the_DT only_JJ regulation_NN ,_, if_IN not_RB understood_VBN ,_, wo_MD n't_RB ._.
+In_IN that_DT example_NN ,_, the_DT everyday_JJ life_NN of_IN a_DT lawyer_NN proves_VBZ the_DT importance_NN of_IN the_DT concept_NN because_IN facts_NNS or_CC regulation_NN can_MD be_VB found_VBN easily_RB ._.
+In_IN conclusion_NN ,_, general_JJ ideas_NNS or_CC concepts_NNS are_VBP the_DT essential_JJ part_NN of_IN what_WP should_MD be_VB known_VBN and_CC understood_VBN by_IN every_DT student_NN ._.
+However_RB ,_, what_WP makes_VBZ a_DT student_NN excellent_JJ is_VBZ to_TO both_DT understand_VBP the_DT concept_NN and_CC learn_VB the_DT facts_NNS ._.

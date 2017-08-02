@@ -1,0 +1,18 @@
+Cars_NNS ,_, which_WDT are_VBP considered_VBN as_IN means_NNS of_IN necessity_NN now_RB a_DT days_NNS ,_, were_VBD considered_VBN as_IN luxury_NN in_IN 1950_CD 's_POS and_CC 1970_CD 's_POS ._.
+People_NNS since_IN 1970_CD has_VBZ increased_VBN using_VBG cars_NNS because_IN they_PRP stand_VBP for_IN prestige_NN ._.
+The_DT present_JJ topic_NN is_VBZ use_NN of_IN cars_NNS in_IN twenty_CD years_NNS ,_, whether_IN there_EX will_MD be_VB more_RBR or_CC few_JJ cars_NNS in_IN use_NN ._.
+There_EX are_VBP both_DT advantages_NNS as_RB well_RB as_IN disadvantages_NNS of_IN using_VBG car_NN ._.
+Advantages_NNS could_MD be_VB 1_CD )_CD economical_JJ ,_, as_IN the_DT whole_JJ family_NN could_MD travel_VB at_IN the_DT same_JJ time_NN and_CC costs_NNS less_JJR when_WRB compared_VBN to_TO the_DT expenses_NNS of_IN travelling_VBG by_IN train_NN or_CC bus_NN ._.
+2_CD )_CD
+Second_JJ advatnage_NN could_MD be_VB halting_VBG or_CC taking_VBG rest_NN when_WRB wanted_VBD ._.
+The_DT disadvanatges_NNS could_MD be_VB 1_CD )_CD pollution_NN ,_, 2_CD )_CD increasing_VBG traffic_NN ,_, 3_CD )_CD more_JJR accidents_NNS ._.
+Now-a-days_NNS ,_, people_NNS in_IN cities_NNS like_IN london_NNP ,_, tend_VBP to_TO leave_VB their_PRP$ cars_NNS at_IN home_NN and_CC prefer_VBP travelling_VBG by_IN train_NN to_TO their_PRP$ destinations_NNS and_CC this_DT probably_RB could_MD be_VB due_JJ to_TO INCREASED_JJ TRAFFIC_NN ,_, which_WDT delays_VBZ people_NNS from_IN commitments_NNS ._.
+So_IN I_PRP agree_VBP with_IN the_DT statement_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN ._.
+The_DT second_JJ point_NN that_WDT inclines_VBZ me_PRP to_TO take_VB the_DT side_NN of_IN the_DT statement_NN is_VBZ POLLUTION_NN ._.
+Most_JJS of_IN the_DT people_NNS are_VBP suffering_VBG with_IN respiratory_JJ diseases_NNS like_IN asthma_NN ,_, chonic_JJ bronchitis_NN and_CC for_IN this_DT pollution_NN could_MD be_VB blamed_VBN partly_RB ._.
+People_NNS who_WP lived_VBD all_DT their_PRP$ lives_NNS working_VBG in_IN bigger_JJR cities_NNS tend_VBP to_TO retire_VB in_IN country_NN side_NN to_TO avoid_VB air_NN and_CC sound_JJ pollution_NN ._.
+So_RB this_DT could_MD be_VB one_CD of_IN the_DT reason_NN that_IN in_IN future_JJ use_NN of_IN cars_NNS will_MD be_VB lowered_VBN ._.
+The_DT third_JJ point_NN which_WDT supports_VBZ my_PRP$ decision_NN regarding_VBG fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS is_VBZ obesity_NN and_CC physical_JJ fitness_NN ._.
+People_NNS are_VBP more_RBR bothered_VBN about_IN their_PRP$ physical_JJ fitness_NN as_IN they_PRP are_VBP busy_JJ with_IN the_DT work_NN and_CC ca_MD n't_RB exercise_VB in_IN leisure_NN time_NN ._.
+So_RB as_IN a_DT matter_NN of_IN fact_NN most_JJS people_NNS to_TO improve_VB and_CC maintain_VB physical_JJ fitness_NN ride_NN bikes_NNS to_TO work_VB than_IN using_VBG cars_NNS ._.
+So_RB to_TO conclude_VB ,_, with_IN all_PDT the_DT above_JJ reasons_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS ._.

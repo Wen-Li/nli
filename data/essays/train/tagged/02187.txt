@@ -1,0 +1,17 @@
+I_PRP disagree_VBP the_DT statement_NN ``_`` In_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ''_'' ._.
+I_PRP would_MD like_VB to_TO present_JJ few_JJ reasons_NNS and_CC examples_NNS to_TO justify_VB my_PRP$ opinion_NN ._.
+In_IN present_JJ scenario_NN the_DT use_NN of_IN cars_NNS has_VBZ been_VBN increasing_VBG day_NN by_IN day_NN ._.
+The_DT first_JJ and_CC one_CD of_IN the_DT important_JJ reasons_NNS for_IN the_DT increased_VBN use_NN of_IN cars_NNS is_VBZ Urbanization_NNP ._.
+With_IN the_DT increase_NN of_IN the_DT Urbanization_NNP the_DT use_NN of_IN cars_NNS has_VBZ been_VBN increasing_VBG proportionally_RB ._.
+I_PRP guess_VBP the_DT scope_NN for_IN Urbanization_NN increases_NNS by_IN a_DT good_JJ extent_NN within_IN the_DT next_JJ twenty_CD years_NNS which_WDT further_RB increases_VBZ the_DT use_NN of_IN cars_NNS ._.
+Secondly_RB ,_, people_NNS got_VBD used_VBN to_TO the_DT luxury_NN of_IN travelling_VBG in_IN a_DT car_NN and_CC also_RB the_DT advantages_NNS of_IN it_PRP ._.
+Cars_NNS with_IN more_JJR features_NNS and_CC utilities_NNS are_VBP being_VBG introduced_VBN competitively_RB ._.
+These_DT cars_NNS increase_VBP the_DT comfort_NN levels_NNS and_CC also_RB save_VB their_PRP$ time_NN ._.
+There_EX are_VBP a_DT few_JJ cars_NNS which_WDT can_MD even_RB prevent_VB accidents_NNS by_IN their_PRP$ sensors_NNS ,_, which_WDT can_MD also_RB give_VB the_DT details_NNS of_IN the_DT location_NN that_IN you_PRP are_VBP in_IN ._.
+So_IN people_NNS get_VBP attracted_VBN by_IN these_DT additional_JJ features_NNS of_IN the_DT cars_NNS and_CC thus_RB lead_VBP to_TO the_DT increased_VBN use_NN of_IN the_DT cars_NNS ,_,
+There_EX may_MD be_VB an_DT argument_NN that_WDT twenty_CD years_NNS later_RB most_JJS of_IN the_DT activities_NNS of_IN the_DT people_NNS may_MD be_VB completed_VBN through_IN the_DT use_NN of_IN internet_NN ._.
+But_CC people_NNS never_RB stop_VBP themselves_PRP from_IN going_VBG out_RB and_CC having_VBG faun_NN travelling_VBG distances_NNS ,_, meeting_VBG their_PRP$ friends_NNS personally_RB etc_FW ._.
+One_CD more_JJR fact_NN is_VBZ that_IN there_EX are_VBP very_RB few_JJ reasons_NNS for_IN the_DT decrease_NN in_IN the_DT use_NN cars_NNS like_IN to_TO control_VB air_NN pollution_NN ,_, to_TO diminish_VB the_DT traffic_NN on_IN the_DT roads_NNS etc._FW ,_, which_WDT would_MD be_VB of_IN less_JJR importance_NN to_TO people_NNS when_WRB compared_VBN to_TO the_DT need_NN of_IN the_DT cars_NNS by_IN them_PRP for_IN their_PRP$ personal_JJ activities_NNS ._.
+If_IN we_PRP consider_VBP a_DT decrease_NN in_IN the_DT use_NN of_IN cars_NNS then_RB what_WP are_VBP the_DT means_NNS of_IN transport_NN ?_.
+The_DT use_NN of_IN motorbikes_NNS ,_, buses_NNS ,_, railways_NNS ,_, airways_NNS must_MD be_VB the_DT alternatives_NNS which_WDT my_PRP$ not_RB be_VB as_IN comfortable_JJ as_IN using_VBG cars_NNS ._.
+So_RB i_FW conclude_VBP that_IN there_EX is_VBZ a_DT very_RB less_JJR scope_NN for_IN the_DT decrease_NN in_IN the_DT number_NN of_IN cars_NNS in_IN twenty_CD years_NNS from_IN today_NN ._.

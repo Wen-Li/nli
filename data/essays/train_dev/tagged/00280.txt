@@ -1,0 +1,15 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT statement_NN ,_, stating_VBG that_IN broad_JJ knownledge_NN of_IN many_JJ academic_JJ subjects_NNS is_VBZ better_JJR than_IN to_TO specifiy_VB in_IN one_CD specific_JJ subject_NN ._.
+I_PRP think_VBP it_PRP important_JJ to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+From_IN my_PRP$ point_NN of_IN view_NN it_PRP is_VBZ important_JJ to_TO specialize_VB in_IN one_CD specific_JJ subject_NN for_IN many_JJ reasons_NNS as_IN described_VBN in_IN the_DT following_VBG ._.
+First_RB ,_, if_IN you_PRP specify_VB in_IN one_CD specific_JJ subject_NN you_PRP will_MD have_VB a_DT lot_NN of_IN knownledge_NN of_IN a_DT specific_JJ subject_NN in_IN contrast_NN to_TO people_NNS who_WP rather_RB have_VBP a_DT broad_JJ knownledge_NN ._.
+So_RB when_WRB a_DT company_NN is_VBZ looking_VBG for_IN a_DT person_NN who_WP can_MD solve_VB a_DT specific_JJ problem_NN they_PRP would_MD rather_RB hire_VB a_DT specialist_NN than_IN a_DT person_NN who_WP only_RB has_VBZ broad_JJ knownledge_NN of_IN a_DT specific_JJ problem_NN ._.
+Another_DT reason_NN for_IN specializing_VBG in_IN one_CD specific_JJ subject_NN is_VBZ the_DT development_NN of_IN our_PRP$ society_NN and_CC the_DT business_NN world_NN ._.
+Since_IN there_EX is_VBZ increasing_VBG competition_NN between_IN companies_NNS in_IN all_DT sectors_NNS of_IN business_NN ._.
+Companies_NNS have_VBP to_TO start_VB specifying_VBG in_IN order_NN to_TO gain_VB all_DT possible_JJ ressources_NNS available_JJ on_IN the_DT market_NN ,_, for_IN example_NN ._.
+For_IN this_DT reason_NN ,_, Companies_NNS start_VBP looking_VBG more_RBR for_IN specialists_NNS on_IN a_DT specific_JJ subject_NN rather_RB than_IN looking_VBG for_IN people_NNS with_IN broad_JJ knownledge_NN ._.
+However_RB ,_, it_PRP is_VBZ important_JJ that_IN specialiyed_JJ people_NNS do_VBP also_RB have_VBP a_DT little_JJ knownledge_NN of_IN other_JJ subjects_NNS too_RB ._.
+For_IN example_NN ,_, If_IN a_DT company_NN is_VBZ looking_VBG for_IN a_DT new_JJ employee_NN it_PRP does_VBZ not_RB hire_VB the_DT most_RBS specialized_VBN person_NN ._.
+The_DT company_NN wolud_VBD rather_RB pick_VB the_DT most_RBS specialized_VBN person_NN with_IN the_DT most_RBS broad_JJ knownledge_NN ._.
+In_IN my_PRP$ opinion_NN it_PRP is_VBZ important_JJ to_TO know_VB that_DT broad_JJ knownledge_NN of_IN many_JJ sectors/subjects_NNS is_VBZ important_JJ but_CC it_PRP is_VBZ even_RB more_RBR important_JJ to_TO specify_VB in_IN a_DT specific_JJ sector/subject_NN ._.
+As_IN a_DT conlusion_NN you_PRP can_MD say_VB that_IN it_PRP is_VBZ not_RB only_RB important_JJ to_TO specialize_VB in_IN one_CD specific_JJ sector/subject_NN ._.
+At_IN the_DT same_JJ time_NN it_PRP is_VBZ also_RB important_JJ to_TO increase_VB one_CD 's_POS knownledge_NN in_IN other_JJ sectors/subjects_NNS ._.

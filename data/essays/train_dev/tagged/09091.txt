@@ -1,0 +1,24 @@
+I_PRP have_VBP a_DT opposite_JJ opinion_NN to_TO the_DT idea_NN that_IN after_IN twenty_CD years_NNS ,_, there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+I_PRP have_VBP three_CD main_JJ reasons_NNS for_IN my_PRP$ opinion_NN ._.
+First_RB ,_, cars_NNS are_VBP convinient_JJ than_IN other_JJ vehicles_NNS such_JJ as_IN airplanes_NNS and_CC bikes_NNS ._.
+It_PRP is_VBZ true_JJ that_IN airplanes_NNS could_MD travel_VB faster_JJR than_IN cars_NNS but_CC it_PRP is_VBZ not_RB a_DT vehicle_NN that_WDT everyone_NN could_MD easily_RB operate_VB ._.
+In_IN addition_NN ,_, I_PRP think_VBP more_JJR people_NNS are_VBP going_VBG to_TO use_VB cars_NNS replacing_VBG bikes_NNS ._.
+For_IN example_NN ,_, when_WRB I_PRP was_VBD in_IN hurry_NN to_TO school_NN ,_, I_PRP had_VBD to_TO ride_VB my_PRP$ bike_NN since_IN I_PRP did_VBD not_RB have_VB a_DT car_NN ._.
+It_PRP took_VBD me_PRP long_JJ time_NN and_CC I_PRP was_VBD late_RB ,_, so_IN I_PRP have_VBP always_RB hoped_VBN to_TO have_VB a_DT car_NN since_IN then_RB ._.
+Other_JJ example_NN is_VBZ that_IN when_WRB I_PRP took_VBD a_DT train_NN to_TO go_VB to_TO the_DT concert_NN hall_NN in_IN suburb_NN area_NN ,_, because_IN it_PRP was_VBD rush_NN hour_NN ,_, I_PRP had_VBD to_TO be_VB in_IN overcrowded_JJ train_NN ._.
+I_PRP did_VBD not_RB feel_VB good_JJ being_VBG smashed_VBN with_IN lots_NNS of_IN people_NNS ._.
+Furthermoer_NNP ,_, I_PRP had_VBD to_TO walk_VB to_TO that_DT concert_NN from_IN the_DT train_NN station_NN because_IN there_EX were_VBD not_RB any_DT public_JJ transportation_NN near_IN that_DT concert_NN hall_NN ._.
+This_DT experience_NN made_VBD me_PRP think_VB that_IN cars_NNS are_VBP more_RBR confortable_JJ and_CC convenient_JJ than_IN any_DT other_JJ transportations_NNS ._.
+Second_RB ,_, new_JJ technologies_NNS have_VBP made_VBN cars_NNS improve_VBP ._.
+Some_DT people_NNS argues_VBZ that_IN cars_NNS pollute_VBP air_NN ._.
+However_RB ,_, since_IN the_DT technologies_NNS have_VBP developled_VBN electronic_JJ cars_NNS ,_, it_PRP will_MD not_RB be_VB bad_JJ for_IN the_DT environment_NN ._.
+For_IN example_NN ._.
+I_PRP went_VBD to_TO one_CD town_NN in_IN Switzerland_NNP ,_, where_WRB only_RB electronic_JJ cars_NNS were_VBD allowed_VBN ._.
+Not_RB only_RB cars_NNS but_CC public_JJ buses_NNS and_CC trains_NNS were_VBD running_VBG by_IN electricity_NN ._.
+Not_RB until_IN I_PRP found_VBD the_DT electronic_JJ cars_NNS did_VBD I_PRP think_VBP that_IN cars_NNS are_VBP not_RB going_VBG to_TO give_VB bad_JJ effects_NNS in_IN environment_NN ._.
+Finally_RB ,_, the_DT price_NN of_IN the_DT car_NN will_MD certainly_RB go_VB done_VBN ._.
+It_PRP is_VBZ much_JJ cheaper_JJR to_TO buy_VB a_DT car_NN than_IN in_IN the_DT past_NN ._.
+This_DT means_VBZ that_IN it_PRP would_MD be_VB easier_JJR for_IN people_NNS to_TO purchase_VB a_DT car_NN ._.
+For_IN example_NN ,_, if_IN the_DT car_NN price_NN goes_VBZ down_RB ,_, people_NNS in_IN developing_VBG countries_NNS would_MD be_VB able_JJ to_TO buy_VB cars_NNS ._.
+Because_IN the_DT climate_NN is_VBZ bad_JJ in_IN most_JJS of_IN those_DT countries_NNS ,_, people_NNS would_MD be_VB happy_JJ to_TO ride_VB on_IN a_DT car_NN rather_RB than_IN to_TO walk_VB on_IN hot_JJ desserts_NNS ._.
+For_IN the_DT reasons_NNS above_IN ,_, I_PRP am_VBP convinced_VBN that_IN more_JJR people_NNS are_VBP going_VBG to_TO use_VB cars_NNS in_IN twenty_CD years_NNS ._.

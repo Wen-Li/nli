@@ -1,0 +1,20 @@
+The_DT use_NN of_IN cars_NNS has_VBZ increased_VBN rapidly_RB over_IN the_DT last_JJ few_JJ years_NNS ._.
+Almost_RB everybody_NN uses_VBZ his_PRP$ car_NN daily_RB for_IN example_NN to_TO go_VB to_TO work_VB ._.
+The_DT question_NN whether_IN in_IN twenty_CD years_NNS less_RBR cars_NNS will_MD be_VB used_VBN than_IN nowadays_RB is_VBZ fairly_RB hard_JJ to_TO answer_VB ._.
+On_IN the_DT one_CD hand_NN I_PRP think_VBP this_DT statement_NN will_MD become_VB true_JJ for_IN several_JJ reasons_NNS ._.
+First_NNP of_IN all_DT gas_NN prices_NNS are_VBP rising_VBG constantly_RB for_IN the_DT last_JJ few_JJ years_NNS and_CC this_DT trend_NN seems_VBZ to_TO continue_VB ._.
+Therefore_RB many_JJ people_NNS will_MD not_RB be_VB able_JJ to_TO keep_VB their_PRP$ cars_NNS or_CC at_IN least_JJS reduce_VB the_DT distances_NNS they_PRP dirve_VBP to_TO a_DT minimum_NN ._.
+Instead_RB they_PRP will_MD try_VB to_TO find_VB alternatives_NNS such_JJ as_IN taking_VBG the_DT train_NN or_CC the_DT bus_NN ._.
+Furthermore_RB the_DT reached_VBN level_NN of_IN pollution_NN caused_VBN by_IN cars_NNS is_VBZ already_RB very_RB high_JJ nowadays_RB ._.
+The_DT governments_NNS will_MD probably_RB try_VB to_TO find_VB solutions_NNS for_IN this_DT problem_NN ,_, which_WDT could_MD be_VB either_RB higher_JJR taxes_NNS or_CC to_TO forbid_VB driving_VBG to_TO some_DT kind_NN of_IN cars_NNS or_CC even_RB completely_RB on_IN some_DT days_NNS in_IN the_DT year_NN ._.
+If_IN the_DT first_JJ thing_NN happens_VBZ ,_, having_VBG a_DT car_NN will_MD again_RB be_VB more_RBR expensive_JJ and_CC like_IN this_DT a_DT lot_NN of_IN people_NNS will_MD not_RB be_VB able_JJ to_TO keep_VB their_PRP$ cars_NNS ._.
+On_IN the_DT other_JJ hand_NN there_EX are_VBP also_RB reasons_NNS that_WDT support_VBP the_DT idea_NN that_IN in_IN the_DT future_NN the_DT number_NN of_IN cars_NNS will_MD not_RB decline_VB ._.
+Allthough_NNP there_RB will_MD be_VB more_RBR alternatives_NNS in_IN the_DT future_NN to_TO travel_VB comfortably_RB ,_, made_VBD possible_JJ by_IN for_IN example_NN new_JJ inventions_NNS like_IN the_DT transrapid_NN ,_, these_DT inventions_NNS are_VBP still_RB to_TO expensive_JJ for_IN most_JJS of_IN the_DT people_NNS ._.
+Therefore_RB it_PRP will_MD still_RB be_VB cheaper_JJR to_TO go_VB by_IN car_NN ._.
+The_DT effect_NN of_IN the_DT ricing_NN prices_NNS in_IN the_DT energy_NN sector_NN on_IN public_JJ transport_NN media_NNS has_VBZ to_TO be_VB considered_VBN as_RB well_RB ._.
+Prices_NNS for_IN using_VBG a_DT bus_NN or_CC a_DT train_NN might_MD become_VB higher_JJR and_CC the_DT car_NN could_MD eventually_RB still_RB be_VB the_DT cheapest_JJS way_NN to_TO travel_VB ._.
+Apart_RB from_IN that_DT many_JJ people_NNS reject_VBP going_VBG by_IN train_NN or_CC bus_NN because_IN they_PRP want_VBP to_TO maintain_VB their_PRP$ independancy_NN ._.
+If_IN you_PRP go_VBP by_IN car_NN you_PRP have_VBP no_DT fixed_JJ times_NNS for_IN leaving_VBG ._.
+You_PRP can_MD just_RB stay_VB as_RB long_RB as_IN you_PRP wish_VBP and_CC do_VBP not_RB have_VB to_TO care_VB about_IN the_DT time_NN Moreover_RB there_EX are_VBP not_RB direct_JJ connections_NNS available_JJ for_IN all_DT places_NNS to_TO go_VB ._.
+You_PRP might_MD have_VB to_TO spend_VB some_DT extra_JJ time_NN to_TO reach_VB your_PRP$ goal_NN through_IN changing_VBG the_DT train_NN or_CC having_VBG to_TO take_VB routes_NNS for_IN which_WDT you_PRP need_VBP more_JJR time_NN ._.
+Taking_VBG all_PDT this_DT into_IN consideration_NN I_PRP think_VBP that_IN there_EX will_MD not_RB be_VB fewer_JJR cars_NNS in_IN the_DT future_NN ,_, because_IN most_JJS people_NNS prefer_VBP going_VBG by_IN car_NN instead_RB of_IN using_VBG other_JJ transportation_NN media_NNS ._.

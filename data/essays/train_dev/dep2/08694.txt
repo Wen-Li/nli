@@ -1,0 +1,8 @@
+VBP_nsubj_PRP
+JJR_advmod_RB
+JJR_nsubj_NNS
+NNS_nmod:poss_PRP$
+JJR_aux_MD
+JJR_cop_VB
+JJR_nmod_PRP
+PRP_case_IN

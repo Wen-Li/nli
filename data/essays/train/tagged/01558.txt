@@ -1,0 +1,12 @@
+Many_JJ students_NNS are_VBP used_VBN to_TO thinking_VBG that_IN preparation_NN for_IN exams_NNS involves_VBZ learning_NN by_IN heart_NN ._.
+Of_IN course_NN ,_, students_NNS have_VBP to_TO make_VB sure_JJ they_PRP remember_VBP some_DT data_NNS ._.
+However_RB ,_, knowing_VBG a_DT fact_NN whithout_NN understanding_VBG its_PRP$ definition_NN ,_, for_IN example_NN ,_, is_VBZ useless_JJ ._.
+-_: Clearly_RB ,_, it_PRP is_VBZ easy_JJ to_TO learn_VB facts_NNS without_IN getting_VBG any_DT explanation_NN ._.
+However_RB ,_, it_PRP is_VBZ also_RB easy_JJ to_TO forget_VB things_NNS we_PRP do_VBP n't_RB understand_VB !_.
+In_IN fact_NN ,_, in_IN this_DT case_NN ,_, our_PRP$ memory_NN simply_RB fails_VBZ ._.
+-_: furthermore_RB ,_, in_IN my_PRP$ opinion_NN ,_, students_NNS should_MD focus_VB on_IN the_DT most_RBS difficult_JJ things_NNS to_TO memorise_VB :_: the_DT explanation_NN of_IN ideas_NNS and_CC concepts_NNS ._.
+For_IN example_NN ,_, in_IN the_DT marketing_NN field_NN ,_, it_PRP is_VBZ very_RB easy_JJ to_TO learn_VB the_DT different_JJ steps_NNS of_IN the_DT consuming_JJ process_NN ,_, whereas_IN it_PRP is_VBZ much_RB more_RBR complicated_JJ to_TO understand_VB the_DT way_NN this_DT process_NN functions_NNS ._.
+-_: Moreover_RB ,_, learning_VBG the_DT different_JJ economic_JJ theories_NNS does_VBZ n't_RB makes_VBZ us_PRP good_JJ economists_NNS ._.
+Thus_RB ,_, to_TO prove_VB our_PRP$ ability_NN and_CC our_PRP$ skills_NNS ,_, it_PRP is_VBZ necessary_JJ to_TO analyse_VB and_CC try_VB to_TO understand_VB every_DT single_JJ point_NN when_WRB learning_VBG ._.
+-_: Finally_RB ,_, the_DT best_JJS way_NN for_IN students_NNS to_TO be_VB efficient_JJ in_IN their_PRP$ futur_NN jobs_NNS is_VBZ to_TO be_VB able_JJ to_TO justify_VB their_PRP$ acts_NNS ,_, to_TO support_VB their_PRP$ decisions_NNS with_IN explanations_NNS ._.
+that_DT is_VBZ why_WRB it_PRP is_VBZ crucial_JJ and_CC very_RB important_JJ for_IN students_NNS to_TO understand_VB what_WP they_PRP are_VBP dealing_VBG with_IN ._.

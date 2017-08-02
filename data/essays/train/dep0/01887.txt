@@ -1,0 +1,14 @@
+agree_nsubj_I
+agree_advcl_make
+make_mark_with
+make_mark_that
+make_nsubj_advertisements
+advertisements_amod_most
+make_ccomp_seem
+seem_nsubj_products
+seem_xcomp_better
+better_advmod_much
+better_ccomp_are
+are_mark_than
+are_nsubj_they
+are_advmod_really

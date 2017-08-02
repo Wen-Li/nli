@@ -1,0 +1,19 @@
+Learning_NNP is_VBZ a_DT natural_JJ process_NN that_WDT everybody_NN owns_VBZ ,_, most_JJS of_IN children_NNS go_VBP to_TO school_NN and_CC start_VB learning_VBG very_RB early_RB ._.
+The_DT point_NN is_VBZ ,_, do_VBP they_PRP really_RB know_VBP what_WP they_PRP are_VBP doing_VBG or_CC do_VBP they_PRP just_RB learn_VBP without_IN understanding_NN ?_.
+We_PRP will_MD see_VB what_WP is_VBZ the_DT most_RBS important_JJ for_IN a_DT student_NN ,_, learn_VBP facts_NNS or_CC understand_VB ideas_NNS and_CC concepts_NNS ?_.
+In_IN my_PRP$ opinion_NN ,_, we_PRP can_MD not_RB separate_VB those_DT two_CD parts_NNS one_CD from_IN each_DT other_JJ ._.
+It_PRP is_VBZ impossible_JJ to_TO understand_VB a_DT theory_NN or_CC a_DT process_NN if_IN we_PRP do_VBP not_RB know_VB the_DT underlying_JJ elements_NNS (_VBP the_DT facts_NNS )_VBP ._.
+I_PRP would_MD say_VB that_IN both_DT parts_NNS of_IN the_DT statement_NN must_MD be_VB given_VBN an_DT equal_JJ importance_NN ._.
+It_PRP is_VBZ the_DT basis_NN of_IN the_DT knowledge_NN that_IN to_TO learn_VB facts_NNS and_CC use_VB them_PRP in_IN various_JJ situations_NNS (_VBP talks_NNS ,_, lectures_VBZ or_CC projects_VBZ )_NN ._.
+Otherwise_RB we_PRP would_MD not_RB be_VB able_JJ to_TO speak_VB or_CC communicate_VB to_TO each_DT other_JJ ._.
+This_DT is_VBZ our_PRP$ general_JJ knowledge_NN ._.
+In_IN the_DT other_JJ hand_NN ,_, you_PRP learn_VBP facts_NNS or_CC lessons_NNS by_IN heart_NN ,_, it_PRP is_VBZ often_RB not_RB very_RB usefull_JJ ,_, because_IN a_DT few_JJ days_NNS later_RB it_PRP is_VBZ almost_RB impossible_JJ to_TO remember_VB everything_NN we_PRP learned_VBD ._.
+For_IN example_NN ,_, for_IN my_PRP$ A_DT level_NN in_IN France_NNP (_CD Baccalaureat_NNP )_CD
+I_PRP had_VBD to_TO learn_VB by_IN heart_NN maps_NNS of_IN Europe_NNP or_CC USA_NNP describing_VBG either_CC population_NN or_CC exchanges_NNS etc_FW ._.
+The_DT month_NN after_IN I_PRP was_VBD not_RB able_JJ do_VBP draw_VB it_PRP again_RB because_IN it_PRP came_VBD out_IN of_IN my_PRP$ mind_NN ._.
+I_PRP agree_VBP that_IN sometimes_RB it_PRP is_VBZ useless_JJ to_TO learn_VB facts_NNS ._.
+Precisely_RB in_IN the_DT case_NN if_IN we_PRP know_VBP we_PRP will_MD not_RB practice_VB what_WP we_PRP learned_VBD anymore_RB ._.
+Regarding_VBG understanding_NN of_IN ideas_NNS or_CC concepts_NNS ,_, this_DT is_VBZ a_DT very_RB important_JJ process_NN for_IN a_DT student_NN ._.
+That_DT is_VBZ how_WRB people_NNS acquire_VBP a_DT specific_JJ state_NN of_IN mind_NN ,_, and_CC with_IN practice_NN things_NNS can_MD be_VB understood_VBN faster_RBR and_CC faster_RBR ._.
+The_DT purpose_NN of_IN an_DT idea_NN is_VBZ to_TO be_VB well_RB understood_VBN and_CC this_DT idea_NN has_VBZ no_DT reason_NN to_TO exists_VBZ if_IN not_RB so_RB ._.
+Therefore_RB I_PRP would_MD give_VB a_DT special_JJ importance_NN to_TO the_DT understanding_NN of_IN concepts_NNS and_CC ideas_NNS too_RB ._.

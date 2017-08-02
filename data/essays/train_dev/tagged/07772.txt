@@ -1,0 +1,20 @@
+Learning_NNP is_VBZ very_RB important_JJ for_IN everybody_NN ._.
+Students_NNS should_MD learn_VB some_DT ideas_NNS ,_, principle_NN ,_, or_CC subject_NN ._.
+However_RB ,_, before_IN we_PRP learn_VBP the_DT new_JJ views_NNS ,_, we_PRP have_VBP to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+There_EX are_VBP including_VBG several_JJ reasons_NNS which_WDT pepole_VBP know_VB how_WRB to_TO use_VB and_CC remember_VB deeply_RB ._.
+First_NNP of_IN all_DT ,_, the_DT most_RBS important_JJ is_VBZ to_TO know_VB how_WRB to_TO use_VB the_DT ideas_NNS when_WRB students_NNS learn_VBP ._.
+If_IN students_NNS obtain_VB new_JJ concepts_NNS but_CC they_PRP do_VBP not_RB know_VB when_WRB they_PRP can_MD use_VB or_CC how_WRB to_TO use_VB it_PRP ._.
+The_DT learning_VBG process_NN becoms_NNS unuseless_JJ ._.
+For_IN example_NN ,_, when_WRB I_PRP was_VBD elementary_JJ school_NN ,_, I_PRP learn_VBP the_DT maths_NNS ,_, My_PRP$ maths_NNS teacher_NN not_RB only_RB taucht_VB me_PRP the_DT principle_NN of_IN the_DT add_VBP ,_, division_NN or_CC mutply_RB ,_, but_CC also_RB taught_VBD me_PRP how_WRB to_TO use_VB it_PRP and_CC do_VB some_DT practice_NN ._.
+Then_RB ,_, when_WRB I_PRP wanted_VBD to_TO use_VB it_PRP ,_, I_PRP knew_VBD what_WP situation_NN should_MD I_PRP use_VB it_PRP ._.
+I_PRP comprehended_VBD all_DT of_IN the_DT rules_NNS so_IN I_PRP could_MD use_VB it_PRP very_RB well_RB ._.
+Thus_RB ,_, it_PRP is_VBZ majoy_NN to_TO know_VB how_WRB to_TO use_VB it_PRP ._.
+If_IN students_NNS get_VBP new_JJ facts_NNS but_CC they_PRP do_VBP not_RB understand_VB what_WP those_DT main_JJ idea_NN ._.
+It_PRP means_VBZ they_PRP do_VBP not_RB completely_RB learn_VB this_DT views_NNS ._.
+Second_RB ,_, if_IN students_NNS can_MD remember_VB each_DT one_CD of_IN they_PRP lean_VBP ,_, they_PRP will_MD become_VB more_RBR intellectual_JJ ._.
+When_WRB people_NNS spend_VBP their_PRP$ time_NN to_TO learn_VB concepts_NNS but_CC they_PRP can_MD not_RB understand_VB clearly_RB ,_, As_IN a_DT result_NN ,_, they_PRP only_RB have_VBP short_JJ memory_NN about_IN the_DT knowledge_NN and_CC forget_VB them_PRP more_RBR quictly_RB ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN students_NNS can_MD understand_VB more_RBR deeply_RB about_IN the_DT subject_NN ,_, it_PRP can_MD help_VB them_PRP to_TO remember_VB for_IN a_DT long_JJ time_NN ._.
+For_IN exampe_NN ,_, my_PRP$ friend_NN know_VB how_WRB to_TO make_VB a_DT cheese_NN cake_NN ,_, but_CC everytime_RB she_PRP has_VBZ different_JJ tast_NN when_WRB she_PRP tries_VBZ again_RB ._.
+The_DT reason_NN is_VBZ she_PRP know_VB the_DT making_VBG process_NN but_CC she_PRP does_VBZ not_RB check_VB the_DT oven_NN temperature_NN each_DT time_NN and_CC the_DT percentage_NN of_IN each_DT matrial_NN ._.
+She_PRP only_RB thinks_VBZ that_IN the_DT making_VBG process_NN ._.
+Therefore_RB ,_, she_PRP can_MD not_RB make_VB the_DT

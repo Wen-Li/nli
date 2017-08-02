@@ -1,0 +1,14 @@
+I_PRP do_VBP n't_RB agree_VB with_IN this_DT statement_NN ._.
+There_EX are_VBP some_DT reasons_NNS why_WRB I_PRP disagree_VBP with_IN this_DT statement_NN because_IN I_PRP believe_VBP that_IN the_DT relationships_NNS between_IN the_DT costomers_NNS and_CC the_DT company_NN is_VBZ very_RB important_JJ for_IN selling_VBG the_DT products_NNS ._.
+First_NNP of_IN all_DT ,_, if_IN a_DT company_NN of_IN a_DT product_NN advertises_VBZ the_DT product_NN much_RB better_JJR than_IN it_PRP really_RB is_VBZ ,_, the_DT customer_NN misunderstands_VBZ about_IN the_DT product_NN ._.
+It_PRP means_VBZ the_DT company_NN pretends_VBZ the_DT customer_NN ._.
+When_WRB the_DT customer_NN notice_NN that_IN the_DT advertisement_NN is_VBZ not_RB true_JJ ,_, the_DT customer_NN will_MD think_VB that_IN the_DT company_NN pretends_VBZ him_PRP or_CC her_PRP ._.
+Therefore_RB ,_, the_DT customer_NN will_MD never_RB buy_VB the_DT product_NN ._.
+Second_RB ,_, if_IN the_DT maker_NN use_VB an_DT advertisement_NN which_WDT is_VBZ not_RB true_JJ ,_, a_DT lot_NN of_IN problem_NN will_MD happen_VB ._.
+For_IN example_NN ,_, when_WRB a_DT customer_NN bought_VBD a_DT product_NN which_WDT is_VBZ advertised_VBN much_RB better_JJR than_IN it_PRP really_RB is_VBZ and_CC use_VB it_PRP ,_, and_CC then_RB it_PRP harm_VB the_DT customer_NN because_IN of_IN the_DT not_RB true_JJ advertisement_NN ,_, the_DT customer_NN will_MD claim_VB to_TO the_DT company_NN ._.
+And_CC if_IN the_DT problem_NN becomes_VBZ big_JJ news_NN ,_, the_DT company_NN will_MD get_VB huge_JJ damages_NNS ._.
+Finally_RB ,_, if_IN the_DT advertisements_NNS make_VBP products_NNS seem_VBP too_RB much_RB better_JJR than_IN they_PRP really_RB are_VBP ,_, they_PRP might_MD be_VB crime_NN ._.
+In_IN the_DT case_NN ,_, the_DT customer_NN will_MD never_RB belive_VB the_DT company_NN ,_, and_CC they_PRP never_RB buy_VBP the_DT company_NN 's_POS products_NNS ._.
+To_TO sell_VB products_NNS ,_, the_DT company_NN need_VBP to_TO make_VB good_JJ relationships_NNS btween_VBP the_DT costomers_NNS and_CC company_NN ._.
+For_IN making_VBG good_JJ relationships_NNS between_IN the_DT customers_NNS and_CC the_DT company_NN ,_, the_DT company_NN have_VBP to_TO give_VB correct_JJ information_NN to_TO the_DT customers_NNS ._.
+For_IN these_DT reasons_NNS ,_, I_PRP disagree_VBP with_IN this_DT statement_NN ._.

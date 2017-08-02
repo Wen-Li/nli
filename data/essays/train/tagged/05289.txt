@@ -1,0 +1,9 @@
+If_IN Diderot_NNP would_MD be_VB alive_JJ he_PRP agree_VBP that_IN ,_, nowadays_RB ,_, it_PRP is_VBZ better_JJR to_TO specialize_VB than_IN to_TO expand_VB on_IN many_JJ academic_JJ subjects_NNS ._.
+There_EX are_VBP many_JJ areas_NNS and_CC each_DT of_IN them_PRP have_VBP many_JJ branchs_NNS ._.
+The_DT knowledge_NN are_VBP growing_VBG at_IN exponential_JJ rate_NN and_CC nobody_NN have_VBP time_NN or_CC conditions_NNS to_TO learn_VB it_PRP ._.
+Mathematics_NNS have_VBP more_JJR than_IN 200_CD different_JJ branchs_NNS and_CC all_DT of_IN them_PRP are_VBP expanding_VBG faster_RBR ._.
+For_IN example_NN ,_, Computer_NNP Science_NNP did_VBD not_RB exist_VB 100_CD years_NNS ago_RB ._.
+Now_RB ,_, Computer_NNP Science_NNP is_VBZ the_DT basis_NN of_IN informational_JJ revolution_NN ._.
+One_CD of_IN subproducts_NNS of_IN informational_JJ revolution_NN is_VBZ the_DT Internet_NN ._.
+The_DT Internet_NN is_VBZ alone_RB a_DT new_JJ subject_NN of_IN research_NN ,_, and_CC so_RB forth_RB ._.
+So_RB ,_, the_DT enciclopedic_JJ knowledge_NN is_VBZ not_RB possible_JJ and_CC

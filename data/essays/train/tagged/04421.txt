@@ -1,0 +1,17 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+My_PRP$ conviction_NN is_VBZ based_VBN on_IN three_CD reasons_NNS ._.
+First_RB ,_, the_DT low_JJ birthrate_NN in_IN many_JJ countries_NNS will_MD cause_VB a_DT sharp_JJ reduction_NN in_IN the_DT number_NN of_IN future_JJ drivers_NNS ._.
+It_PRP is_VBZ a_DT well-established_JJ fact_NN that_IN the_DT largest_JJS number_NN of_IN drivers_NNS are_VBP found_VBN in_IN developed_JJ countries_NNS in_IN North_NNP America_NNP ,_, Europe_NNP and_CC Japan_NNP ._.
+It_PRP is_VBZ also_RB clear_JJ that_IN birthrate_NN has_VBZ been_VBN dropping_VBG during_IN the_DT past_JJ decades_NNS in_IN these_DT regions_NNS ._.
+With_IN the_DT reduction_NN of_IN population_NN ,_, there_EX will_MD certainly_RB be_VB a_DT reduction_NN in_IN the_DT number_NN of_IN drivers_NNS and_CC cars_NNS ._.
+It_PRP can_MD be_VB argued_VBN that_IN China_NNP is_VBZ a_DT rising_VBG market_NN for_IN cars_NNS ._.
+However_RB ,_, I_PRP do_VBP not_RB believe_VB that_IN the_DT growth_NN in_IN Chinese_JJ market_NN will_MD make_VB up_RP for_IN the_DT loss_NN in_IN other_JJ places_NNS ._.
+Besides_IN ,_, the_DT largest_JJS number_NN of_IN cars_NNS are_VBP found_VBN in_IN the_DT east_JJ coast_NN big_JJ cities_NNS ,_, where_WRB the_DT streets_NNS are_VBP already_RB jammed_VBN with_IN cars_NNS and_CC can_MD not_RB make_VB room_NN to_TO hold_VB more_RBR ._.
+Second_RB ,_, the_DT gas_NN shortage_NN will_MD help_VB to_TO reduce_VB the_DT number_NN of_IN cars_NNS ._.
+The_DT energy_NN crisis_NN that_IN we_PRP are_VBP facing_VBG today_NN will_MD also_RB be_VB faced_VBN by_IN the_DT next_JJ generation_NN ._.
+Due_JJ to_TO the_DT limited_JJ energy_NN supply_NN on_IN this_DT planet_NN ,_, people_NNS in_IN the_DT future_JJ years_NNS will_MD define_VB gas_NN shortage_NN as_IN a_DT more_RBR serious_JJ problem_NN than_IN we_PRP do_VBP ._.
+Considering_VBG the_DT difficulty_NN of_IN discovering_VBG an_DT alternative_JJ energy_NN to_TO replace_VB gas_NN ,_, I_PRP am_VBP convinced_VBN that_IN change_NN of_IN numbers_NNS of_IN car_NN will_MD be_VB pretty_RB obvious_JJ in_IN the_DT near_JJ future_NN ._.
+Third_NNP ,_, the_DT reduction_NN of_IN number_NN of_IN cars_NNS is_VBZ and_CC will_MD continue_VB to_TO be_VB fueled_VBN by_IN people_NNS 's_POS rising_VBG concern_NN of_IN the_DT environmental_JJ issues_NNS ._.
+Over_IN the_DT past_JJ decades_NNS ,_, people_NNS have_VBP come_VBN to_TO realize_VB that_IN the_DT substances_NNS emitted_VBN by_IN vehicles_NNS will_MD cause_VB an_DT unrevocable_JJ damage_NN to_TO our_PRP$ environment_NN ._.
+With_IN the_DT progress_NN made_VBN in_IN our_PRP$ understanding_VBG to_TO the_DT earth_NN ,_, it_PRP will_MD become_VB even_RB clearer_JJR that_IN cars_NNS using_VBG the_DT currently_RB available_JJ fuels_NNS will_MD have_VB a_DT long-term_JJ ,_, negative_JJ effects_NNS on_IN the_DT atmosphere_NN and_CC our_PRP$ health_NN ._.
+In_IN summary_NN ,_, I_PRP have_VBP full_JJ confidence_NN that_IN ,_, due_JJ to_TO the_DT low_JJ birthrate_NN ,_, gas_NN shortage_NN and_CC people_NNS 's_POS environmental_JJ awareness_NN ,_, there_EX will_MD be_VB fewer_JJR cars_NNS in_IN the_DT twenty_CD years_NNS to_TO come_VB ._.

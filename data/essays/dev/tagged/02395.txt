@@ -1,0 +1,13 @@
+It_PRP depends_VBZ on_IN the_DT situation_NN ,_, but_CC there_EX are_VBP a_DT lot_NN of_IN situations_NNS that_IN people_NNS should_MD learn_VB facts_NNS not_RB just_RB understand_VB them_PRP ._.
+There_EX are_VBP two_CD examples_NNS that_WDT support_VBP may_MD opinion_NN ._.
+One_CD situation_NN is_VBZ when_WRB you_PRP play_VBP soccer_NN ._.
+How_WRB well_RB you_PRP study_VB soccer_NN rules_NNS or_CC techniques_NNS ,_, you_PRP ca_MD n't_RB play_VB it_PRP very_RB well_RB because_IN you_PRP need_VBP experience_NN of_IN real_JJ games_NNS ._.
+Many_JJ pro_JJ soccer_NN player_NN especially_RB from_IN Brazil_NNP played_VBD soccer_NN without_IN reading_VBG text_NN books_NNS in_IN their_PRP$ childhood_NN ._.
+They_PRP just_RB played_VBD soccer_NN for_IN fun_NN ._.
+Many_JJ of_IN them_PRP did_VBD n't_RB study_VB phycics_NNS around_IN the_DT boll_NN ._.
+The_DT other_JJ is_VBZ when_WRB you_PRP drive_VBP a_DT car_NN ._.
+In_IN my_PRP$ case_NN ,_, I_PRP studied_VBD about_IN car_NN engineering_NN for_IN one_CD month_NN and_CC I_PRP thougt_VBP I_PRP had_VBD enough_JJ knowlegde_NN of_IN car_NN ._.
+However_RB ,_, when_WRB I_PRP drove_VBD a_DT car_NN first_JJ time_NN ,_, I_PRP coud_VBP n't_RB drive_VB it_PRP well_RB ._.
+I_PRP think_VBP that_IN to_TO understand_VB idea_NN is_VBZ not_RB enough_RB ._.
+So_IN the_DT most_RBS important_JJ thing_NN is_VBZ to_TO learn_VB something_NN by_IN using_VBG their_PRP$ bodies_NNS not_RB only_RB using_VBG brains_NNS ._.
+Indeed_RB there_EX are_VBP some_DT cases_NNS that_IN you_PRP need_VBP to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, but_CC you_PRP can_MD get_VB that_DT kind_NN of_IN knowledge_NN when_WRB you_PRP learn_VBP it_PRP ._.

@@ -1,0 +1,18 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Three_CD reasons_NNS will_MD be_VB explained_VBN for_IN this_DT agreement_NN ._.
+Firstly_RB ,_, everything_NN is_VBZ changing_VBG at_IN any_DT time_NN and_CC any_DT place_NN ._.
+The_DT facts_NNS that_WDT students_NNS learn_VBP at_IN this_DT time_NN may_MD be_VB different_JJ after_IN a_DT certain_JJ time_NN ,_, or_CC if_IN the_DT conditions_NNS are_VBP changed_VBN ._.
+A_DT good_JJ example_NN will_MD be_VB weighing_VBG an_DT object_NN ._.
+As_IN we_PRP know_VBP ,_, the_DT mass_NN of_IN an_DT object_NN will_MD not_RB change_VB ,_, while_IN the_DT weight_NN will_MD be_VB different_JJ at_IN different_JJ places_NNS as_IN the_DT different_JJ effects_NNS of_IN gravity_NN ._.
+Assuming_VBG one_CD weighs_VBZ himself_PRP or_CC herself_PRP in_IN Egypt_NNP and_CC Finland_NNP ,_, the_DT results_NNS can_MD be_VB surprised_VBN ._.
+If_IN he_PRP or_CC she_PRP knows_VBZ the_DT different_JJ effective_JJ factor_NN of_IN gravity_NN ,_, it_PRP will_MD no_RB longer_RB be_VB a_DT surprise_NN to_TO ``_`` changing_VBG the_DT weight_NN so_RB much_RB at_IN different_JJ places_NNS ''_'' ._.
+Moreover_RB ,_, the_DT ideas_NNS and_CC concepts_NNS are_VBP the_DT basic_JJ principles_NNS that_IN we_PRP can_MD apply_VB to_TO many_JJ other_JJ systems_NNS or_CC conditions_NNS ._.
+For_IN instance_NN ,_, the_DT copper-aluminum_NN alloys_NNS with_IN the_DT same_JJ composition_NN vary_VBP much_RB from_IN each_DT other_JJ in_IN their_PRP$ properties_NNS of_IN hardness_NN under_IN different_JJ treatments_NNS ,_, but_CC the_DT strengthen_VB principle_NN is_VBZ the_DT same_JJ ._.
+The_DT hardness_NN of_IN one_CD alloy_NN can_MD reach_VB as_RB high_JJ as_IN 120_CD after_IN annealing_NN at_IN 600K_CD for_IN 10_CD hours_NNS ,_, which_WDT is_VBZ taught_VBN by_IN a_DT teacher_NN in_IN the_DT class_NN ._.
+Then_RB ,_, what_WP will_MD be_VB the_DT situation_NN if_IN the_DT temperature_NN changes_NNS to_TO 400K_CD ?_.
+obviously_RB ,_, it_PRP will_MD not_RB be_VB 120_CD ._.
+The_DT student_NN can_MD only_RB use_VB the_DT idea_NN or_CC concept_NN of_IN strengthen_VB to_TO solve_VB this_DT problem_NN and_CC get_VB the_DT right_JJ answer_NN ._.
+Additionally_RB ,_, it_PRP is_VBZ much_RB easier_JJR for_IN us_PRP to_TO remember_VB the_DT knowledge_NN by_IN understanding_VBG their_PRP$ ideas_NNS and_CC concepts_NNS than_IN by_IN just_RB reciting_VBG the_DT facts_NNS ._.
+As_IN our_PRP$ brains_NNS can_MD only_RB stor_VB limited_JJ contains_VBZ ,_, there_EX will_MD be_VB too_RB many_JJ things_NNS for_IN us_PRP to_TO remember_VB ._.
+If_IN we_PRP can_MD tell_VB how_WRB one_CD thing_NN works_NNS ,_, we_PRP can_MD also_RB tell_VB how_WRB other_JJ things_NNS work_VBP ,_, which_WDT means_VBZ we_PRP can_MD remember_VB a_DT series_NN of_IN facts_NNS instead_RB of_IN one_CD ._.
+For_IN all_PDT these_DT three_CD reasons_NNS ,_, I_PRP strongly_RB recommand_VBD that_IN every_DT student_NN need_NN to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS that_IN you_PRP learn_VBP from_IN your_PRP$ professors_NNS or_CC classmates_NNS or_CC other_JJ resources_NNS ,_, rather_RB than_IN just_RB to_TO repeat_VB what_WP you_PRP get_VBP ._.

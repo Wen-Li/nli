@@ -1,0 +1,9 @@
+I_PRP do_VBP not_RB agree_VB that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN today_NN ,_, because_IN in_IN western_JJ society_NN there_EX are_VBP a_DT lot_NN of_IN resistences_NNS to_TO the_DT decreasment_NN of_IN cars_NNS ._.
+First_NNP of_IN all_DT ,_, the_DT governmets_NNS and_CC the_DT cars_NNS companies_NNS do_VBP not_RB support_VB technological_JJ reserach_NN on_IN new_JJ means_NNS of_IN transport_NN or_CC on_IN new_JJ types_NNS of_IN cars_NNS (_RB as_IN electrical_JJ cears_NNS or_CC hydrogen_NN cars_NNS )_RB ._.
+Although_IN some_DT scientific_JJ researches_VBZ announce_VB that_DT petrol_NN will_MD finish_VB in_IN fifty_CD yers_NNS or_CC less_JJR ,_, the_DT cars_NNS companies_NNS continue_VBP to_TO produce_VB cars_NNS and_CC to_TO sell_VB them_PRP ._.
+Besides_IN ,_, some_DT governments_NNS are_VBP supported_VBN by_IN petrol_NN companies_NNS and_CC so_IN they_PRP had_VBD to_TO defend_VB the_DT interests_NNS of_IN these_DT companies_NNS ._.
+Second_RB ,_, in_IN a_DT lot_NN of_IN developped_VBN countries_NNS the_DT government_NN does_VBZ not_RB implement_VB the_DT public_JJ transport_NN service_NN ,_, so_RB every_DT person_NN has_VBZ got_VBN one_CD ore_NN more_RBR cars_NNS ._.
+Third_NNP ,_, the_DT public_JJ opinion_NN is_VBZ not_RB really_RB interested_JJ in_IN environmental_JJ problems_NNS ._.
+If_IN people_NNS really_RB fought_VBN against_IN cars_NNS pollution_NN ,_, governments_NNS would_MD have_VB been_VBN obliged_VBN to_TO develop_VB other_JJ technology_NN ._.
+In_IN conclusion_NN ,_, I_PRP think_VBP that_IN untill_JJ petrol_NN resources_NNS are_VBP avaliable_JJ ,_, the_DT use_NN of_IN cars_NNS will_MD not_RB decrease_VB ._.
+Only_RB when_WRB petrol_NN companies_NNS really_RB finishes_VBZ to_TO expolit_VB all_DT petrol_NN ,_, and_CC that_DT could_MD last_VB a_DT century_NN from_IN now_RB ,_, other_JJ technologies_NNS will_MD be_VB introduced_VBN ._.

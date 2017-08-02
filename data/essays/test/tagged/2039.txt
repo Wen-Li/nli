@@ -1,0 +1,5 @@
+I_PRP agree_VBP with_IN the_DT following_VBG statement_NN ._.
+There_EX are_VBP many_JJ interest_NN things_NNS just_RB follwing_VBG statement_NN ._.
+I_PRP had_VBD been_VBN traveled_VBN in_IN europe_NN I_PRP was_VBD just_RB following_VBG statement_NN ._.
+there_EX are_VBP many_JJ differnt_JJ ways_NNS to_TO travel_VB but_CC just_RB following_VBG statement_NN is_VBZ simple_JJ and_CC easy_JJ ._.
+and_CC I_PRP do_VBP n't_RB like_VB travels_NNS ,_, so_IN I_PRP have_VBP no_DT idea_NN better_JJR than_IN following_VBG statement_NN ._.

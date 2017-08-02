@@ -1,0 +1,20 @@
+I_PRP think_VBP it_PRP depends_VBZ on_IN the_DT age_NN of_IN the_DT student_NN ._.
+For_IN young_JJ students_NNS ,_, like_IN secondary_JJ and_CC high_JJ school_NN it_PRP will_MD be_VB more_RBR important_JJ to_TO to_TO know_VB about_IN ideas_NNS and_CC concepts_NNS ._.
+Students_NNS at_IN this_DT age_NN still_RB at_IN beginning_VBG stage_NN or_CC we_PRP can_MD say_VB learning_VBG state_NN ._.
+They_PRP have_VBP learn_VB much_RB more_RBR theories_NNS to_TO support_VB their_PRP$ opinion_NN in_IN the_DT future_NN ._.
+Even_RB they_PRP may_MD learn_VB from_IN what_WP happening_VBG in_IN the_DT history_NN ._.
+By_IN learning_VBG theories_NNS ,_, students_NNS will_MD think_VB about_IN what_WP will_MD happened_VBD in_IN the_DT application_NN of_IN the_DT theory_NN ._.
+While_IN the_DT older_JJR students_NNS ,_, at_IN university_NN for_IN example_NN ,_, have_VBP to_TO learn_VB more_JJR the_DT facts_NNS ._.
+They_PRP may_MD create_VB new_JJ ideas_NNS or_CC concepts_NNS from_IN the_DT facts_NNS they_PRP get_VBP ._.
+Without_IN ideas_NNS or_CC concepts_NNS ,_, students_NNS will_MD not_RB know_VB whether_IN it_PRP is_VBZ right_JJ or_CC not_RB ._.
+Older_JJR students_NNS should_MD apply_VB the_DT theories_NNS they_PRP get_VBP in_IN real_JJ life_NN ._.
+Then_RB ,_, by_IN knowing_VBG the_DT results_NNS ,_, the_DT new_JJ ideas_NNS or_CC concepts_NNS will_MD come_VB again_RB and_CC create_VB new_JJ results_NNS ._.
+This_DT will_MD be_VB worthfull_JJ experience_NN for_IN stude_NN
+For_IN example_NN ,_, they_PRP are_VBP two_CD kinds_NNS of_IN cost_NN in_IN production_NN ,_, fix_NN and_CC variable_JJ cost_NN ._.
+Fix_VB cost_NN should_MD not_RB be_VB change_NN at_IN any_DT sum_NN of_IN productions_NNS ._.
+But_CC when_WRB we_PRP increase_VBP or_CC quantity_NN any_DT certain_JJ level_NN ,_, the_DT fix_NN cost_NN will_MD change_VB ._.
+Thus_RB ,_, ideas_NNS or_CC concepts_NNS and_CC facts_NNS support_VBP each_DT other_JJ ._.
+Learning_NNP from_IN the_DT facts_NNS will_MD not_RB be_VB useful_JJ without_IN knowing_VBG the_DT ideas_NNS or_CC concepts_NNS ._.
+Because_IN some_DT of_IN the_DT facts_NNS may_MD be_VB come_VBN from_IN ideas_NNS or_CC concepts_NNS ._.
+The_DT plane_NN can_MD fly_VB is_VBZ the_DT fact_NN ._.
+How_WRB the_DT plane_NN can_MD fly_VB came_VBD from_IN the_DT concept_NN of_IN researchers_NNS in_IN their_PRP$ good_JJ calculation_NN when_WRB making_VBG the_DT plane_NN ._.

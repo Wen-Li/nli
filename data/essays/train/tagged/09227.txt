@@ -1,0 +1,18 @@
+The_DT question_NN about_IN whether_IN it_PRP is_VBZ better_JJR to_TO have_VB a_DT broad_JJ knowledge_NN or_CC to_TO be_VB specialized_VBN is_VBZ very_RB controversial_JJ ._.
+One_CD may_MD argue_VB that_IN it_PRP is_VBZ preferable_JJ to_TO be_VB familiar_JJ with_IN as_RB many_JJ subjects_NNS as_IN possible_JJ ,_, since_IN this_DT will_MD lead_VB to_TO be_VB better_JJR suited_VBN to_TO different_JJ situations_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, there_EX is_VBZ the_DT claim_NN that_IN since_IN human_JJ knowledge_NN is_VBZ so_RB broad_JJ that_IN it_PRP is_VBZ not_RB only_RB impossible_JJ but_CC unpratical_JJ to_TO avoid_VB specialization_NN ._.
+As_IN a_DT final_JJ position_NN ,_, I_PRP 'll_MD argue_VB why_WRB nowdays_VBZ its_PRP$ better_JJR to_TO specialized_VBN ._.
+In_IN paticular_JJ ,_, I_PRP will_MD illustrate_VB this_DT by_IN explaining_VBG the_DT situation_NN of_IN nowdays_NNS mathematicians_NNS ._.
+First_NNP I_PRP would_MD like_VB to_TO explain_VB why_WRB to_TO have_VB a_DT meaninful_JJ broad_JJ knowledge_NN is_VBZ almost_RB impossible_JJ ._.
+By_IN meaninful_JJ knowledge_NN ,_, I_PRP understand_VBP an_DT amount_NN suited_VBN to_TO do_VB reasearch_NN on_IN a_DT specific_JJ subject_NN or_CC make_VB contributions_NNS to_TO it_PRP ._.
+Just_RB considering_VBG the_DT especific_JJ case_NN of_IN mathematics_NNS ,_, nowdays_RB it_PRP has_VBZ become_VBN so_RB broad_JJ that_IN even_RB a_DT Master_NN thesis_NN may_MD be_VB hardly_RB understood_VBN by_IN people_NNS not_RB specialized_VBN in_IN the_DT subject_NN ._.
+So_RB if_IN someone_NN is_VBZ not_RB specialized_VBN in_IN any_DT field_NN ,_, there_EX are_VBP chances_NNS that_IN he_PRP will_MD not_RB understand_VB the_DT state_NN of_IN the_DT art_NN of_IN the_DT mathematical_JJ sciences_NNS ._.
+Even_RB ,_, there_EX is_VBZ people_NNS who_WP tries_VBZ to_TO specialized_VBN in_IN every_DT possible_JJ fields_NNS ,_, and_CC what_WP generally_RB happends_VBZ is_VBZ that_IN the_DT person_NN becomes_VBZ a_DT very_RB good_JJ lecturer_NN but_CC a_DT poor_JJ researcher_NN ._.
+My_PRP$ point_NN is_VBZ that_IN mathematics_NN is_VBZ too_RB broad_JJ to_TO avoid_VB specialization_NN ._.
+So_IN the_DT aim_NN of_IN obtaining_VBG a_DT broad_JJ mathematical_JJ knowledge_NN will_MD lead_VB to_TO someone_NN that_WDT would_MD hardly_RB be_VB able_JJ to_TO excel_VB as_IN a_DT researcher_NN ._.
+This_DT leads_VBZ to_TO my_PRP$ second_JJ argument_NN ._.
+Nowdays_NNP an_DT academic_JJ person_NN is_VBZ many_JJ times_NNS measured_VBN based_VBN on_IN the_DT amount_NN of_IN original_JJ results_NNS he_PRP produces_VBZ ._.
+That_DT means_VBZ that_IN not_RB only_RB the_DT person_NN is_VBZ required_VBN to_TO be_VB on_IN the_DT edge_NN of_IN our_PRP$ knowledge_NN ,_, but_CC aquainted_VBD enough_RB with_IN it_PRP so_RB that_IN to_TO understand_VB how_WRB to_TO and_CC be_VB able_JJ to_TO expand_VB it_PRP ._.
+So_RB in_IN order_NN to_TO obtain_VB a_DT possition_NN as_IN a_DT researcher_NN is_VBZ better_RBR for_IN him_PRP to_TO be_VB specialized_VBN ._.
+And_CC as_IN a_DT matter_NN of_IN fact_NN ,_, only_RB a_DT researcher_NN can_MD aim_VB for_IN a_DT trully_RB broad_JJ knowledge_NN in_IN a_DT particular_JJ science_NN ._.
+As_IN a_DT conclusion_NN ,_, given_VBN the_DT fact_NN that_IN it_PRP is_VBZ impossible_JJ to_TO have_VB and_CC unpractical_JJ to_TO aim_VB for_IN a_DT broad_JJ knowledge_NN in_IN mathematics_NNS ,_, it_PRP is_VBZ even_RB less_RBR desirable_JJ in_IN general_JJ ._.

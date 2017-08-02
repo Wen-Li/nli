@@ -1,0 +1,9 @@
+I_PRP agree_VBP with_IN the_DT statement_NN ._.
+There_EX are_VBP three_CD main_JJ reasons_NNS for_IN that_DT ._.
+First_RB ,_, ideas_NNS and_CC concepts_NNS are_VBP more_RBR various_JJ than_IN facts_NNS ._.
+Facts_NNS have_VBP the_DT tendensy_NN ,_, but_CC all_DT ideas_NNS and_CC concept_NN is_VBZ defferent_JJ from_IN each_DT other_JJ by_IN people_NNS who_WP made_VBD them_PRP ._.
+Second_RB ,_, to_TO learn_VB is_VBZ easy_JJ ,_, but_CC to_TO understand_VB is_VBZ difficult_JJ ._.
+Students_NNS should_MD study_VB hard_JJ and_CC not_RB get_VB easy_JJ ._.
+Finally_RB ,_, if_IN students_NNS understand_VBP ideas_NNS and_CC concepts_NNS ,_, they_PRP apply_VBP thier_JJR knowledge_NN to_TO thier_VB life_NN in_IN the_DT future_NN ._.
+Only_RB to_TO learn_VB facts_NNS is_VBZ not_RB useful_JJ ._.
+Therefore_RB ,_, I_PRP think_VBP that_IN students_NNS should_MD make_VB the_DT much_JJ effort_NN to_TO understnd_NN ideas_NNS and_CC concept_NN ,_, not_RB to_TO learn_VB facts_NNS ._.

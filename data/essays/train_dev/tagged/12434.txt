@@ -1,0 +1,15 @@
+Learning_NNP facts_NNS is_VBZ undeniably_RB a_DT necessity_NN for_IN all_DT students_NNS of_IN all_DT ages_NNS ._.
+That_DT is_VBZ even_RB the_DT fist_NN thing_NN that_IN a_DT child_NN is_VBZ asked_VBN when_WRB he_PRP enters_VBZ school_NN ._.
+He_PRP learns_VBZ rules_NNS ,_, such_JJ as_IN standing_VBG straight_RB and_CC in_IN line_NN before_IN entering_VBG a_DT class_NN ,_, or_CC not_RB walking_VBG around_IN while_IN the_DT teacher_NN is_VBZ giving_VBG a_DT lesson_NN ._.
+Those_DT rules_NNS are_VBP transferred_VBN to_TO him_PRP before_IN the_DT notion_NN of_IN good_JJ and_CC bad_JJ ,_, he_PRP understands_VBZ the_DT consequence_NN of_IN his_PRP$ ations_NNS earlier_JJR than_IN the_DT reasons_NNS for_IN their_PRP$ necessity_NN ,_, and_CC acts_VBZ consequenty_NN ._.
+In_IN our_PRP$ school_NN systems_NNS ,_, learning_VBG prevails_VBZ upon_IN assimilating_VBG ,_, at_IN least_JJS at_IN the_DT beginning_NN ._.
+The_DT expectations_NNS necessarily_RB evolve_VB with_IN the_DT age_NN of_IN the_DT students_NNS ._.
+In_IN higher_JJR grades_NNS ,_, it_PRP becomes_VBZ almost_RB impossible_JJ to_TO learn_VB by_IN heart_NN without_IN understanding_NN ._.
+Assimilating_VBG a_DT concept_NN is_VBZ likely_JJ to_TO develop_VB the_DT cleverness_NN of_IN a_DT student_NN while_IN learning_VBG will_MD only_RB fil_VB his_PRP$ memory_NN ._.
+As_IN school_NN is_VBZ supposed_VBN to_TO learn_VB children_NNS how_WRB to_TO think_VB ,_, learning_VBG becomes_VBZ of_IN lesser_JJR importance_NN from_IN a_DT certain_JJ age_NN ._.
+Yet_RB ,_, learning_NN is_VBZ still_RB necessary_JJ for_IN exams_NNS ,_, for_IN proving_VBG one_CD 's_POS ability_NN to_TO memorize_VB combined_VBN with_IN one_CD 's_POS intelligence_NN ._.
+Also_RB ,_, as_IN it_PRP is_VBZ the_DT only_JJ mean_NN by_IN hich_NN one_CD can_MD assess_VB a_DT student_NN motivation_NN at_IN work_NN and_CC ability_NN to_TO memorize_VB ,_, learning_VBG can_MD not_RB be_VB neglected_VBN as_IN a_DT key_JJ factor_NN in_IN a_DT student_NN 's_POS success_NN and_CC in_IN a_DT whole_JJ school_NN system_NN ._.
+For_IN a_DT student_NN 's_POS personal_JJ development_NN ,_, understanding_VBG concepts_NNS and_CC ideas_NNS is_VBZ obviously_RB more_RBR important_JJ and_CC almost_RB necessary_JJ ,_, but_CC it_PRP does_VBZ n't_RB supress_VB the_DT learning_VBG part_NN ,_, which_WDT is_VBZ much_RB more_RBR easily_RB assessed_VBN on_IN a_DT copy_NN for_IN example_NN ._.
+This_DT raises_VBZ the_DT question_NN of_IN the_DT role_NN of_IN school_NN ._.
+Indeed_RB ,_, if_IN it_PRP is_VBZ only_RB supposed_VBN to_TO insert_VB people_NNS in_IN their_PRP$ future_JJ professions_NNS ,_, the_DT ability_NN to_TO learn_VB fast_JJ and_CC a_DT lot_NN prevails_VBZ innevitably_RB ._.
+But_CC school_NN is_VBZ also_RB supposed_VBN to_TO be_VB the_DT fundametal_JJ pillar_NN of_IN a_DT nation_NN ,_, as_IN it_PRP strutures_VBZ people_NNS 's_POS mind_NN and_CC is_VBZ therefore_RB essential_JJ in_IN a_DT democracy_NN for_IN example_NN ._.

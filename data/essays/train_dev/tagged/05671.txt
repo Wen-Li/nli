@@ -1,0 +1,22 @@
+there_EX are_VBP many_JJ types_NNS of_IN teaching_NN style_NN in_IN school_NN ._.
+Some_DT teachers_NNS emphasize_VBP to_TO understand_VB idea_NN and_CC concepts_NNS ,_, but_CC others_NNS emphasize_VBP just_RB fact_NN and_CC result_NN ._.
+Both_DT of_IN teaching_NN styles_NNS might_MD have_VB adventages_NNS ._.
+However_RB ,_, I_PRP think_VBP the_DT statement_NN that_IN unerstanding_JJ idea_NN and_CC concept_NN is_VBZ more_RBR important_JJ than_IN learning_VBG facts_NNS ._.
+Before_IN we_PRP know_VBP a_DT result_NN ,_, we_PRP have_VBP to_TO know_VB procedure_NN ,_, and_CC we_PRP have_VBP to_TO understand_VB ideas_NNS and_CC concepts_NNS to_TO know_VB procedure_NN ._.
+In_IN Korea_NNP ,_, they_PRP emphassize_VBP fact_NN and_CC result_NN ._.
+we_PRP just_RB learn_VBP how_WRB to_TO approch_VB the_DT facts_NNS and_CC results_NNS ._.
+we_PRP do_VBP n't_RB know_VB why_WRB some_DT facts_NNS do_VBP that_DT ._.
+we_PRP just_RB know_VBP the_DT facts_NNS ._.
+We_PRP just_RB memorize_VBP the_DT fact_NN ._.
+For_IN example_NN ,_, when_WRB I_PRP learned_VBD about_IN multipling_JJ ,_, I_PRP just_RB memorize_VBP the_DT facts_NNS as_IN 2_CD multiply_VBP by_IN 2_CD is_VBZ 4_CD ,_, 2_CD multiply_VBP by_IN 3_CD is_VBZ 6_CD ._.
+It_PRP also_RB happened_VBD in_IN high_JJ school_NN because_IN students_NNS in_IN Korea_NNP have_VBP to_TO take_VB a_DT Korean_JJ S.A.T_NN for_IN going_VBG to_TO university_NN ._.
+Korean_JJ S.A.T_NN questions_NNS want_VBP to_TO just_RB fact_NN ._.
+In_IN contrast_NN ,_, In_IN the_DT united_JJ states_NNS ,_, they_PRP emphasize_VBP to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+Students_NNS in_IN the_DT United_NNP States_NNPS learn_VBP mathmatics_NNS less_JJR than_IN Korean_JJ students_NNS ,_, but_CC they_PRP learn_VBP why_WRB the_DT fact_NN happens_VBZ ._.
+It_PRP 's_VBZ different_JJ ._.
+Students_NNS in_IN Korea_NNP learn_VB ``_`` How_WRB ''_'' ,_, but_CC Students_NNS in_IN the_DT United_NNP States_NNPS learn_VB ``_`` why_WRB ''_'' ._.
+A_DT friend_NN of_IN mine_NN ,_, for_IN example_NN ,_, came_VBD to_TO the_DT united_JJ states_NNS when_WRB he_PRP was_VBD a_DT high_JJ school_NN students_NNS ._.
+At_IN that_DT time_NN ,_, he_PRP was_VBD good_JJ and_CC high_JJ grade_NN about_IN mathmatics_NNS in_IN his_PRP$ school_NN in_IN the_DT United_NNP States_NNPS because_IN he_PRP previously_RB learned_VBD in_IN Korea_NNP ._.
+However_RB ,_, when_WRB he_PRP went_VBD to_TO a_DT university_NN ,_, and_CC he_PRP also_RB studied_VBD mathmatics_NNS ,_, he_PRP could_MD n't_RB very_RB well_RB rather_RB another_DT american_NN studens_NNS because_IN he_PRP did_VBD n't_RB understand_VB the_DT ideas_NNS and_CC concepts_NNS ,_, also_RB he_PRP did_VBD n't_RB know_VB procedure_NN ._.
+it_PRP is_VBZ not_RB only_RB mathmatics_NNS ._.
+So_RB ,_, I_PRP think_VBP that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ and_CC a_DT kind_NN of_IN best_JJS learning_NN skills_NNS ._.

@@ -1,0 +1,14 @@
+It_PRP is_VBZ intresting_VBG weather_NN we_PRP look_VBP for_IN idea_NN and_CC concept_NN than_IN facts_NNS ._.
+I_PRP belive_VBP that_IN emphasising_VBG on_IN the_DT facts_NNS is_VBZ good_JJ rather_RB than_IN ideas_NNS and_CC concepts_NNS ._.
+So_RB ,_, I_PRP disagree_VBP with_IN the_DT above_JJ statement_NN ._.
+Ideas_NNS and_CC concepts_NNS were_VBD formulated_VBN by_IN philosophers_NNS or_CC scientsts_NNS where_WRB made_VBN questions_NNS on_IN the_DT facts_NNS ._.
+For_IN example_NN scientists_NNS belive_VBP that_IN earth_NN was_VBD large_JJ flat_JJ surface_NN ._.
+Untill_NNP one_CD of_IN the_DT scientist_NN while_IN travelling_VBG on_IN the_DT ocean_NN recognised_VBD that_IN earth_NN is_VBZ not_RB a_DT flat_JJ surface_NN because_IN the_DT the_DT fact_NN that_IN oceance_NN is_VBZ appearing_VBG like_IN endless_JJ and_CC movent_NN of_IN steasmers_NNS proved_VBD the_DT fact_NN that_IN earth_NN is_VBZ in_IN shape_NN of_IN the_DT globe_NN ._.
+So_RB ,_, Ideas_NNS and_CC concepts_NNS are_VBP not_RB always_RB true_JJ ._.
+Facts_NNS are_VBP what_WP we_PRP observe_VBP and_CC these_DT werwe_JJ stone_NN of_IN development_NN ._.
+For_IN example_NN invention_NN of_IN chicken_NN pox_NN vaccination_NN by_IN the_DT Edwarrd_NNP Genner_NNP ,_, he_PRP discoved_VBD the_DT vaccine_NN by_IN observing_VBG that_IN persons_NNS working_VBG with_IN milk_NN products_NNS were_VBD not_RB affected_VBN by_IN the_DT perticular_JJ organism_NN besause_NN of_IN the_DT fact_NN that_IN they_PRP were_VBD ressistant_JJ to_TO that_DT organism_NN ._.
+Another_DT best_JJS example_NN is_VBZ the_DT Health_NNP Profession_NNP of_IN Physiotherapy_NNP which_WDT sounds_VBZ good_JJ for_IN the_DT facts_NNS ._. ._.
+The_DT studens_NNS and_CC Physiotherapists_NNS stongly_RB belive_VBP the_DT ``_`` EVIDENCED_NNP BASED_NN CLINICAL_JJ PRACTICE_NN ''_'' ._.
+Evedence_NN based_VBN practce_NN ._.
+treating_VBG the_DT patiens_NNS with_IN the_DT best_JJS available_JJ stratages_NNS and_CC protocols_NNS stated_VBN and_CC proved_VBN by_IN the_DT students_NNS and_CC Physiotherapists_NNS ._.
+In_IN coclusion_NN ,_, the_DT students_NNS will_MD more_RBR benifited_VBN when_WRB they_PRP learn_VBP the_DT rel_NN facts_NNS ._.

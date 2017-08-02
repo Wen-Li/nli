@@ -1,0 +1,8 @@
+I_PRP agree_VBP the_DT statement_NN ._.
+I_PRP think_VBP it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+There_EX are_VBP a_DT reason_NN to_TO support_VB my_PRP$ answer_NN ._.
+Facts_NNS are_VBP results_NNS of_IN ideas_NNS and_CC concepts_NNS ._.
+Good_JJ ideal_NN and_CC concept_NN make_VBP good_JJ facts_NNS ._.
+However_RB ,_, bad_JJ ideas_NNS and_CC concepts_NNS meke_VBP bad_JJ facts_NNS ._.
+So_RB ,_, if_IN students_NNS understand_VBP ideas_NNS and_CC concepts_NNS exactly_RB ,_, they_PRP can_MD understand_VB why_WRB the_DT facts_NNS are_VBP maked_VBN ._.
+In_IN conclusion_NN ,_, I_PRP think_VBP understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ for_IN students_NNS than_IN learnning_JJ facts_NNS ._.

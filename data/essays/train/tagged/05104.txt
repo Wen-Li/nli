@@ -1,0 +1,24 @@
+I_PRP do_VBP agree_VB with_IN part_NN of_IN the_DT statement_NN about_IN trying_VBG new_JJ things_NNS ._.
+When_WRB placed_VBN repeatedly_RB in_IN the_DT same_JJ context_NN ,_, individuals_NNS tend_VBP to_TO limit_VB their_PRP$ horizon_NN to_TO what_WP they_PRP know_VBP ._.
+In_IN a_DT business_NN environment_NN ,_, this_DT leads_VBZ to_TO two_CD possible_JJ negative_JJ results_NNS :_: predictability_NN and_CC lack_NN of_IN innovation_NN ._.
+If_IN competitors_NNS know_VBP that_IN one_CD will_MD continue_VB to_TO do_VB the_DT things_NNS it_PRP currently_RB does_VBZ without_IN change_NN ,_, they_PRP can_MD adapt_VB and_CC exploit_VB the_DT company_NN 's_POS weakness_NN ._.
+In_IN the_DT case_NN of_IN IBM_NNP ,_, for_IN instance_NN ,_, led_VBN by_IN Louis_NNP Gertsner_NNP at_IN the_DT time_NN ,_, the_DT company_NN knew_VBD how_WRB to_TO build_VB and_CC sell_VB computers_NNS ._.
+The_DT company_NN did_VBD n't_RB take_VB any_DT risk_NN ,_, such_JJ as_IN engaging_VBG in_IN software_NN development_NN or_CC applications_NNS ._.
+Emerging_VBG companies_NNS seized_VBD the_DT opportunity_NN ,_, and_CC that_DT is_VBZ how_WRB Microsoft_NNP came_VBD to_TO market_NN ._.
+Microsoft_NNP ,_, led_VBN by_IN Bill_NNP Gates_NNP ,_, took_VBD risks_NNS ,_, expanded_VBN in_IN new_JJ segments_NNS ,_, and_CC became_VBD a_DT juggernaut_NN compared_VBN to_TO IBM_NNP ._.
+On_IN the_DT other_JJ hand_NN ,_, I_PRP do_VBP believe_VB also_RB that_IN always_RB trying_VBG new_JJ things_NNS and_CC taking_VBG risks_NNS can_MD be_VB a_DT dangerous_JJ proposition_NN ._.
+An_DT example_NN of_IN this_DT comes_VBZ from_IN the_DT automotive_JJ world_NN ._.
+Jack_NNP Nasser_NNP ,_, Ford_NNP 's_POS CEO_NNP at_IN the_DT time_NN ,_, wished_VBD to_TO take_VB Ford_NNP beyond_IN automotive_JJ and_CC transform_VB it_PRP to_TO a_DT global_JJ consumer_NN product_NN company_NN ._.
+Ford_NNP engaged_VBD and_CC invested_VBD in_IN different_JJ ventures_NNS ._.
+Eventually_RB ,_, this_DT proved_VBD to_TO be_VB a_DT distraction_NN to_TO the_DT core_NN business_NN ,_, automotive_JJ ._.
+Insufficient_JJ investments_NNS were_VBD made_VBN in_IN improving_VBG its_PRP$ product_NN line_NN ._.
+And_CC with_IN so_RB much_JJ focus_NN on_IN new_JJ ventures_NNS ,_, Ford_NNP lost_VBD sight_NN of_IN the_DT market_NN forces_NNS changing_VBG the_DT automotive_JJ landscape_NN ._.
+Ford_NNP had_VBD stopped_VBN producing_VBG the_DT kinds_NNS of_IN cars_NNS and_CC trucks_NNS consumers_NNS wanted_VBD ._.
+Toyota_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, focused_VBD its_PRP$ business_NN on_IN increased_VBN sales_NNS in_IN the_DT automotive_JJ sector_NN only_RB ,_, and_CC closed_VBD ranks_NNS to_TO become_VB a_DT dangerous_JJ and_CC growing_VBG competitor_NN ._.
+I_PRP do_VBP believe_VB either_CC option_NN can_MD be_VB relevant_JJ for_IN different_JJ people_NNS or_CC organizations_NNS at_IN different_JJ phases_NNS of_IN their_PRP$ life_NN ._.
+Sometimes_RB ,_, people_NNS can_MD use_VB something_NN they_PRP do_VBP well_RB but_CC still_RB take_VB risks_NNS ._.
+I_PRP would_MD cite_VB the_DT example_NN of_IN Apple_NNP ,_, led_VBN by_IN CEO_NNP Steve_NNP Jobs_NNP ._.
+While_IN successful_JJ early_JJ on_IN thanks_NNS primarily_RB to_TO its_PRP$ ease_NN of_IN use_NN and_CC its_PRP$ attractive_JJ design_NN ,_, Apple_NNP computers_NNS became_VBD largely_RB irrelevant_JJ when_WRB other_JJ options_NNS came_VBD to_TO the_DT market_NN ._.
+Recently_RB ,_, Apple_NNP took_VBD advantage_NN an_DT emerging_VBG market_NN in_IN digital_JJ music_NN downloads_NNS and_CC designed_VBN the_DT now_RB famous_JJ iPod_NN ._.
+The_DT iPod_NN leveraged_JJ Apple_NNP 's_POS legendary_JJ design_NN and_CC ease_NN of_IN use_NN and_CC became_VBD an_DT unsurpassed_JJ competitor_NN ._.
+In_IN this_DT case_NN ,_, Apple_NNP took_VBD something_NN they_PRP knew_VBD how_WRB to_TO do_VB well_RB (_JJ design_NN ,_, ease_NN of_IN use_NN )_NN and_CC still_RB took_VBD risks_NNS venturing_VBG on_IN a_DT completely_RB new_JJ market_NN (_CD digital_JJ music_NN download_NN )_NN beyond_IN their_PRP$ core_NN market_NN ._.

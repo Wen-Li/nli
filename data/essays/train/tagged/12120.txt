@@ -1,0 +1,16 @@
+According_VBG to_TO the_DT statement_NN ,_, the_DT number_NN of_IN cars_NNS in_IN use_NN will_MD decrease_VB in_IN the_DT next_JJ twenty_CD years_NNS ._.
+Three_CD reasons_NNS for_IN that_DT decrease_NN can_MD be_VB stated_VBN ._.
+First_NNP of_IN all_DT ,_, it_PRP is_VBZ stated_VBN that_IN most_JJS of_IN the_DT people_NNS in_IN France_NNP live_VB in_IN or_CC nearby_RB big_JJ cities_NNS ,_, and_CC work_NN everyday_JJ in_IN the_DT city_NN ._.
+These_DT people_NNS choose_VB to_TO go_VB to_TO work_VB by_IN car_NN ._.
+Because_IN the_DT traffic_NN is_VBZ very_RB high_JJ every_DT morning_NN and_CC every_DT evenig_NN ,_, some_DT of_IN them_PRP start_VBP to_TO be_VB fed_VBN up_RP with_IN their_PRP$ car_NN and_CC think_VB of_IN other_JJ possibilities_NNS to_TO go_VB to_TO work_VB ,_, such_JJ as_IN using_VBG the_DT metro_NN or_CC even_RB biking_NN ._.
+Additionaly_NNP ,_, the_DT government_NN insists_VBZ on_IN the_DT necessity_NN to_TO decrease_VB pollution_NN ._.
+Since_IN the_DT car_NN is_VBZ the_DT most_RBS polluting_VBG travel_NN means_NNS ,_, the_DT government_NN encourages_VBZ people_NNS not_RB to_TO use_VB it_PRP by_IN widening_VBG the_DT opening_NN time_NN of_IN the_DT metro_NN ._.
+Indeed_RB ,_, many_JJ people_NNS use_VBP their_PRP$ cars_NNS because_IN the_DT metro_NN closes_VBZ at_IN midnight_NN ,_, and_CC they_PRP are_VBP conseauently_RB not_RB able_JJ to_TO come_VB back_RB home_RB without_IN using_VBG a_DT taxi_NN after_IN that_DT time_NN ._.
+Because_IN taxis_NNS are_VBP too_RB expensive_JJ ,_, they_PRP prefer_VBP to_TO use_VB their_PRP$ car_NN ._.
+This_DT decision_NN will_MD convince_VB people_NNS not_RB to_TO use_VB their_PRP$ car_NN anymore_RB ._.
+Finally_RB ,_, another_DT reason_NN why_WRB people_NNS will_MD not_RB use_VB their_PRP$ cars_NNS as_RB much_RB as_IN they_PRP used_VBD to_TO is_VBZ that_IN the_DT average_JJ age_NN of_IN the_DT population_NN is_VBZ increasing_VBG ._.
+In_IN twenty_CD years_NNS from_IN now_RB ,_, most_JJS baby-boomers_NNS will_MD not_RB be_VB able_JJ to_TO drive_VB a_DT car_NN anymore_RB ._.
+This_DT will_MD consequently_RB reduce_VB the_DT number_NN of_IN drivers_NNS and_CC the_DT number_NN of_IN cars_NNS in_IN use_NN will_MD decrease_VB ._.
+As_IN a_DT conclusion_NN ,_, it_PRP is_VBZ obvious_JJ that_IN people_NNS will_MD still_RB need_VB their_PRP$ cars_NNS ,_, to_TO travel_VB for_IN example_NN ._.
+However_RB ,_, many_JJ efforts_NNS are_VBP made_VBN by_IN the_DT government_NN and_CC the_DT people_NNS to_TO decrease_VB the_DT pollution_NN level_NN ,_, and_CC the_DT easiest_JJS way_NN to_TO do_VB so_RB is_VBZ to_TO reduce_VB the_DT use_NN of_IN cars_NNS ._.
+It_PRP seems_VBZ to_TO me_PRP that_IN ,_, in_IN twenty_CD years_NNS ,_, fewer_JJR cars_NNS will_MD be_VB in_IN use_NN than_IN there_EX are_VBP today_NN ._.

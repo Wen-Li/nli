@@ -1,0 +1,16 @@
+Science_NNP ,_, techonology_NN and_CC medicines_NNS are_VBP improve_VB very_RB quickly_RB ._.
+If_IN its_PRP$ reason_NN is_VBZ tought_JJ ,_, the_DT importance_NN of_IN education_NN can_MD be_VB understood_VBN ._.
+The_DT better_JJR education_NN can_MD be_VB taken_VBN in_IN universities_NNS ._.
+The_DT aim_NN of_IN the_DT universities_NNS is_VBZ the_DT people_NNS 's_POS abilities_NNS can_MD be_VB increased_VBN in_IN a_DT specific_JJ departman_NN ._.
+As_IN a_DT result_NN ,_, one_CD specific_JJ subject_JJ shoul_NN be_VB improved_VBN ._.
+If_IN a_DT person_NN increased_VBD his_PRP$ abilities_NNS in_IN the_DT one_CD subject_NN ,_, to_TO be_VB successful_JJ he_PRP will_MD be_VB an_DT expert_NN who_WP can_MD take_VB a_DT place_NN in_IN better_JJR areas_NNS ._.
+For_IN example_NN ,_, a_DT doctor_NN learns_VBZ a_DT lot_NN of_IN things_NNS about_IN medicine_NN and_CC he_PRP can_MD treat_VB his_PRP$ patients_NNS ._.
+The_DT other_JJ instance_NN is_VBZ that_IN a_DT taecher_NN must_MD teach_VB new_JJ thing_NN to_TO students_NNS ,_, must_MD not_RB do_VB another_DT thing_NN ._.
+Because_IN of_IN this_DT reason_NN ,_, people_NNS should_MD improved_VBN themselves_PRP in_IN one_CD subject_NN ._.
+Another_DT supported_VBN idia_NN is_VBZ that_IN bad_JJ affects_VBZ of_IN the_DT having_VBG many_JJ academic_JJ subject_NN ._.
+when_WRB a_DT person_NN does_VBZ not_RB laern_VB a_DT lot_NN of_IN information_NN only_RB about_IN his_PRP$ department_NN ,_, he_PRP tries_VBZ to_TO f'nd_VB a_DT job_NN in_IN the_DT many_JJ areas_NNS but_CC he_PRP can_MD not_RB take_VB one_CD because_IN of_IN not_RB to_TO be_VB an_DT expert_NN in_IN one_CD area_NN ._.
+Morever_RB ,_, if_IN a_DT person_NN wants_VBZ to_TO improve_VB his_PRP$ skills_NNS to_TO be_VB social_JJ ,_, he_PRP can_MD learn_VB new_JJ information_NN but_CC only_RB one_CD subject_NN must_MD be_VB very_RB useful_JJ and_CC well-developed_JJ ._.
+Besides_IN ,_, people_NNS can_MD be_VB more_RBR social_JJ and_CC successful_JJ in_IN his_PRP$ business_NN or_CC whole_JJ life_NN ._.
+In_IN conlusion_NN ,_, when_WRB the_DT story_NN of_IN successful_JJ and_CC known_JJ profesor_NN 's_POS lifes_NNS are_VBP seen_VBN ,_, thier_IN educations_NNS are_VBP in_IN the_DT one_CD sytle_NN of_IN whole_JJ department_NN ._.
+It_PRP is_VBZ understood_VBN that_IN to_TO developed_JJ skills_NNS in_IN a_DT subject_NN is_VBZ more_RBR important_JJ and_CC required_VBN ._.
+If_IN everyone_NN does_VBZ thier_VB works_NNS successfully_RB ,_, the_DT world_NN will_MD get_VB better_JJR ._.

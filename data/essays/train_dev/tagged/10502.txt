@@ -1,0 +1,17 @@
+Yes_UH ,_, I_PRP do_VBP agree_VB with_IN the_DT statement_NN stated_VBN below_IN ._.
+Having_VBG a_DT broad_JJ knowledge_NN of_IN many_JJ subjects_NNS is_VBZ more_RBR good_JJ than_IN having_VBG knowledge_NN ioin_NN one_CD subject_NN ._.
+Because_IN ,_, every_DT subject_NN in_IN the_DT acadmic_JJ year_NN are_VBP related_VBN with_IN the_DT other_JJ subject_NN ._.
+As_IN we_PRP know_VBP that_IN MATHEMATICS_NN is_VBZ father_NN of_IN all_DT subjects_NNS ._.
+It_PRP has_VBZ the_DT major_JJ influence_NN on_IN all_DT other_JJ subjects_NNS ._.
+Ther_NNP is_VBZ no_DT such_JJ subject_NN which_WDT do_VBP not_RB have_VB an_DT influence_NN on_IN it_PRP ._.
+having_VBG a_DT kowledge_NN on_IN it_PRP only_RB one_PRP can_MD have_VB the_DT kowledge_NN on_IN the_DT other_JJ subjects_NNS completely_RB ._.
+For_IN example_NN ,_, in_IN our_PRP$ Bachelor_NN degree_NN ,_, we_PRP have_VBP the_DT subjects_NNS MOBILE_NNP COMMUNICATIONS_NNP and_CC WIRELESS_NNP COMMUNICATIONS_NNP ._.
+Each_DT have_VBP the_DT influence_NN on_IN the_DT other_JJ ._.
+The_DT mobile_JJ communication_NN is_VBZ the_DT study_NN of_IN the_DT science_NN on_IN the_DT wireless_JJ transmissions_NNS where_WRB as_IN the_DT wireless_JJ transmission_NN is_VBZ the_DT path_NN for_IN the_DT mobile_JJ transmission_NN ._.
+Both_DT have_VBP the_DT influence_NN on_IN eachother_NN ._.
+Mobiles_NNP includes_VBZ the_DT telephones_NNS or_CC the_DT data_NNS transmission_NN devices_NNS such_JJ as_IN bluetooth_NN ,_, infrared_VBN devices_NNS which_WDT are_VBP used_VBN in_IN the_DT data_NNS transmission_NN ._.
+And_CC the_DT wireless_JJ transmission_NN is_VBZ the_DT study_NN or_CC the_DT process_NN involved_VBN in_IN the_DT data_NNS transmission_NN ._.
+Not_RB only_RB these_DT both_CC subjects_NNS ,_, ther_NN are_VBP many_JJ other_JJ subjects_NNS which_WDT are_VBP very_RB closely_RB related_JJ to_TO each_DT other_JJ ._.
+That_DT is_VBZ why_WRB I_PRP strongly_RB agree_VBP with_IN the_DT statement_NN that_IN having_VBG a_DT broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialised_VBN in_IN other_JJ subjects_NNS ._.
+As_IN we_PRP know_VBP the_DT proveb_NN that_IN ``_`` KNOWLEDGE_NN IS_VBZ DEVINE_NNP ''_'' ._.
+No_DT matter_NN what_WP the_DT subject_NN is_VBZ ,_, having_VBG a_DT knowledge_NN on_IN it_PRP will_MD surely_RB helps_VBZ in_IN kowing_VBG the_DT other_JJ subjects_NNS ._.

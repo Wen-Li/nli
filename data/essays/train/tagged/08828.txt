@@ -1,0 +1,20 @@
+It_PRP is_VBZ commonly_RB assumed_VBN that_IN risk_NN and_CC novelty_NN are_VBP the_DT keys_NNS to_TO success_NN ._.
+While_IN most_JJS extraordinary_JJ sucess-stories_NNS are_VBP based_VBN on_IN breakthrough_NN ideas_NNS or_CC products_NNS ,_, expertise_NN on_IN particular_JJ existing_JJ subjects_NNS can_MD also_RB yield_VB excellent_JJ results_NNS ._.
+Success_NN of_IN a_DT product_NN or_CC idea_NN is_VBZ determined_VBN by_IN three_CD main_JJ factors_NNS :_: the_DT novelty_NN ,_, the_DT marketability_NN (_NN or_CC perceived_VBN usefulness_NN )_NN ,_, and_CC the_DT risk_NN taken_VBN ._.
+Novelty_NN is_VBZ in_IN itself_PRP a_DT factor_NN ,_, as_IN new_JJ things_NNS tend_VBP to_TO impress_VB people_NNS ._.
+Light_JJ bulbs_NNS and_CC electricity_NN have_VBP thus_RB opened_VBN never-before-seen_JJ vistas_NNS to_TO civilisation_NN ._.
+However_RB ,_, something_NN being_VBG new_JJ does_VBZ n't_RB imply_VB its_PRP$ actual_JJ usefulness_NN ._.
+A_DT new_JJ technological_JJ device_NN could_MD realise_VB the_DT exact_JJ same_JJ thing_NN as_IN an_DT older_JJR device_NN without_IN any_DT added_VBN value_NN and_CC encounter_NN moderate_JJ success_NN or_CC even_RB failure_NN ._.
+Usefulness_NN ,_, or_CC good_JJ public_JJ reaction_NN to_TO the_DT product_NN ,_, is_VBZ therefore_RB necessary_JJ for_IN success_NN ._.
+Finally_RB ,_, the_DT risk_NN taken_VBN should_MD be_VB as_RB low_JJ as_IN possible_JJ for_IN a_DT product_NN to_TO be_VB successful_JJ ._.
+The_DT higher_JJR the_DT risk_NN ,_, the_DT more_RBR likely_JJ the_DT failure_NN !_.
+People_NNS who_WP try_VBP new_JJ things_NNS and_CC take_VB huge_JJ risks_NNS are_VBP thus_RB less_RBR likely_JJ to_TO succeed_VB than_IN people_NNS who_WP try_VBP new_JJ things_NNS ._. .._SYM
+with_IN few_JJ risks_NNS ._.
+However_RB ,_, based_VBN on_IN the_DT three_CD previous_JJ assumptions_NNS ,_, are_VBP people_NNS more_RBR successful_JJ when_WRB trying_VBG risky_JJ new_JJ things_NNS or_CC when_WRB doing_VBG things_NNS they_PRP already_RB master_VB ?_.
+Novelty_NN ,_, while_IN conditioning_NN both_CC other_JJ factors_NNS ,_, is_VBZ in_IN no_DT way_NN a_DT requirement_NN for_IN success_NN ._.
+People_NNS becoming_VBG experts_NNS in_IN a_DT particular_JJ domain_NN have_VBP an_DT added_VBN credibility_NN and_CC get_VB the_DT public_NN 's_POS trust_NN ._.
+Quality_NNP is_VBZ an_DT added_VBN value_NN to_TO the_DT ``_`` perceived_VBN usefulness_NN ''_'' of_IN an_DT idea_NN or_CC product_NN ._.
+Moreover_RB ,_, with_IN extensive_JJ knowledge_NN of_IN a_DT domain_NN ,_, the_DT risks_NNS of_IN failure_NN become_VBP ever_RB lower_JJR ,_, thus_RB answering_VBG to_TO two_CD key_JJ conditions_NNS for_IN success_NN ._.
+The_DT car_NN maker_NN Ferrari_NNP ,_, for_IN example_NN ,_, is_VBZ a_DT shiny_JJ example_NN of_IN success_NN for_IN a_DT company_NN that_WDT always_RB does_VBZ what_WP it_PRP knows_VBZ how_WRB to_TO do_VB best_JJS :_: automobiles_NNS ._.
+Therefore_RB ,_, people_NNS doing_VBG what_WP they_PRP know_VBP how_WRB to_TO do_VB well_RB have_VBP a_DT very_RB good_JJ chance_NN of_IN success_NN ._.
+To_TO conclude_VB ,_, while_IN immense_JJ successes_NNS often_RB stem_VBP from_IN novelty_NN and_CC risk_NN ,_, many_JJ people_NNS trying_VBG new_JJ things_NNS take_VBP risks_NNS that_WDT will_MD lead_VB them_PRP to_TO failure_NN ,_, whereas_IN people_NNS capitalising_VBG on_IN their_PRP$ expertise_NN are_VBP probably_RB more_RBR likely_JJ to_TO be_VB successful_JJ ,_, though_IN in_IN a_DT more_RBR modest_JJ way_NN ._.

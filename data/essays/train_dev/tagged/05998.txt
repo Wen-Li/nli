@@ -1,0 +1,12 @@
+I_PRP disagree_VBP wtih_NN that_IN to_TO understand_VB idea_NN and_CC concepts_NNS is_VBZ important_JJ for_IN students_NNS ._.
+There_EX are_VBP two_CD reasons_NNS ;_: step_NN of_IN study_NN and_CC correct_JJ idea_NN ._.
+The_DT first_JJ reason_NN is_VBZ that_IN it_PRP is_VBZ neccessay_JJ to_TO learn_VB basic_JJ knowlege_NN for_IN understanding_VBG ideas_NNS and_CC concept_NN ._.
+If_IN students_NNS are_VBP lack_NN of_IN basic_JJ knowlege_NN ,_, they_PRP can_MD not_RB understand_VB all_DT of_IN it_PRP ._.
+For_IN example_NN ,_, students_NNS in_IN Japanese_JJ university_NN primaly_RB learn_VBP basic_JJ fact_NN ._.
+Then_RB ,_, they_PRP begin_VBP to_TO study_VB application_NN one_CD ._.
+It_PRP is_VBZ derived_VBN the_DT evidence_NN during_IN long_JJ educational_JJ history_NN in_IN Japan_NNP ._.
+So_RB ,_, it_PRP is_VBZ important_JJ step_NN of_IN study_NN for_IN students_NNS ._.
+The_DT second_JJ reason_NN is_VBZ that_IN learning_VBG facts_NNS is_VBZ essential_JJ for_IN correct_JJ idea_NN ._.
+It_PRP is_VBZ doubt_NN that_IN students_NNS truely_RB understand_VBP ideas_NNS and_CC concept_NN unless_IN learning_VBG fact_NN ._.
+For_IN instance_NN ,_, nutritional_JJ study_NN ,_, students_NNS do_VBP not_RB know_VB nutrients_NNS ,_, they_PRP can_MD not_RB understand_VB metabolism_NN of_IN their_PRP$ body_NN ,_, and_CC can_MD not_RB find_VB new_JJ idea_NN and_CC passway_NN of_IN body_NN system_NN ._.
+For_IN these_DT reasons_NNS ,_, I_PRP disagree_VBP with_IN that_DT to_TO understand_VB idea_NN and_CC concepts_NNS is_VBZ more_RBR important_JJ for_IN students_NNS than_IN to_TO learn_VB facts_NNS ._.

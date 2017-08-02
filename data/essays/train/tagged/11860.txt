@@ -1,0 +1,20 @@
+I_PRP think_VBP it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+First_NNP of_IN all_DT ,_, if_IN we_PRP do_VBP n't_RB understand_VB ideas_NNS and_CC concepts_NNS ,_, it_PRP is_VBZ difficult_JJ to_TO have_VB good_JJ view_NN about_IN facts_NNS ._.
+That_DT means_VBZ we_PRP ca_MD n't_RB have_VB our_PRP$ own_JJ ideas_NNS and_CC opinions_NNS ._.
+Therefore_RB ,_, even_RB though_IN we_PRP can_MD remember_VB the_DT facts_NNS at_IN the_DT time_NN for_IN tests_NNS ,_, it_PRP is_VBZ easy_JJ to_TO forget_VB the_DT facts_NNS ._.
+For_IN example_NN ,_, when_WRB I_PRP was_VBD a_DT university_NN student_NN ,_, I_PRP majored_VBD in_IN chemical_NN engineering_NN ._.
+There_EX are_VBP a_DT lot_NN of_IN concepts_NNS and_CC ideas_NNS about_IN principles_NNS of_IN nature_NN ._.
+It_PRP could_MD be_VB impossible_JJ to_TO memorize_VB them_PRP ._.
+However_RB ,_, I_PRP tried_VBD to_TO memorize_VB them_PRP for_IN test_NN because_IN I_PRP did_VBD n't_RB study_VB hard_RB ._.
+As_IN a_DT result_NN ,_, I_PRP do_VBP n't_RB have_VB any_DT knowledge_NN about_IN chemical_NN engineering_NN now_RB ._.
+But_CC many_JJ friends_NNS who_WP tried_VBD to_TO understand_VB ideas_NNS and_CC concepts_NNS still_RB remember_VBP many_JJ principles_NNS of_IN chemical_NN engineering_NN and_CC they_PRP are_VBP still_RB using_VBG their_PRP$ knowledge_NN to_TO their_PRP$ jobs_NNS very_RB efficiently_RB ._.
+Whenever_NNP I_PRP see_VBP them_PRP ,_, I_PRP envy_VBP them_PRP ._.
+I_PRP regret_VBP I_PRP just_RB memorized_VBD facts_NNS without_IN understanding_VBG ideas_NNS and_CC concepts_NNS ._.
+Second_RB ,_, if_IN we_PRP only_RB learn_VBP facts_NNS without_IN understanding_VBG ideas_NNS and_CC concepts_NNS ,_, we_PRP are_VBP hard_JJ time_NN adopting_VBG our_PRP$ knowledge_NN to_TO other_JJ area_NN ._.
+In_IN other_JJ words_NNS ,_, learning_VBG facts_NNS is_VBZ only_RB for_IN tests_NNS ,_, not_RB for_IN real_JJ situations_NNS ._.
+If_IN we_PRP face_VBP with_IN same_JJ questions_NNS that_IN we_PRP have_VBP learned_VBN ,_, we_PRP would_MD solve_VB them_PRP and_CC manage_VB them_PRP well_RB ._.
+However_RB ,_, If_IN we_PRP face_VBP with_IN different_JJ questions_NNS even_RB though_IN the_DT concepts_NNS of_IN it_PRP is_VBZ same_JJ ,_, we_PRP could_MD not_RB solve_VB those_DT questions_NNS because_IN we_PRP have_VBP n't_RB seen_VBN them_PRP before_RB ._.
+This_DT problem_NN will_MD happens_VBZ because_IN we_PRP do_VBP n't_RB understand_VB the_DT facts_NNS correctly_RB by_IN only_RB learning_VBG facts_NNS ,_, we_PRP do_VBP n't_RB have_VB our_PRP$ own_JJ ideas_NNS and_CC opinions_NNS about_IN them_PRP ._.
+That_DT 's_VBZ why_WRB we_PRP could_MD n't_RB solve_VB them_PRP ._.
+In_IN conclusion_NN ,_, when_WRB we_PRP are_VBP in_IN lecture_NN ,_, we_PRP will_MD learn_VB a_DT lot_NN of_IN facts_NNS which_WDT are_VBP involved_VBN in_IN the_DT lecture_NN and_CC then_RB we_PRP must_MD understand_VB the_DT ideas_NNS and_CC concepts_NNS about_IN the_DT lecture_NN ._.
+It_PRP is_VBZ important_JJ to_TO have_VB correct_JJ views_NNS of_IN them_PRP ._.

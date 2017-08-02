@@ -1,0 +1,7 @@
+I_PRP disagree_VBP with_IN the_DT following_VBG statement_NN ._.
+Because_IN from_IN now_RB so_RB many_JJ people_NNS buy_VBP the_DT cars_NNS ,_, and_CC also_RB so_RB many_JJ people_NNS use_VBP a_DT lot_NN of_IN cars_NNS ._.
+So_RB even_RB in_IN twenty_CD years_NNS there_RB will_MD be_VB not_RB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+Also_RB another_DT reason_NN of_IN this_DT statement_NN is_VBZ now_RB so_RB many_JJ cars_NNS come_VBP out_RP after_IN a_DT mouth_NN of_IN year_NN or_CC after_IN 1_CD year_NN ._.
+And_CC some_DT people_NNS buy_VBP one_CD car_NN ,_, after_IN that_IN they_PRP buy_VBP new_JJ car_NN ._.
+Because_IN the_DT new_JJ car_NN is_VBZ good_JJ design_NN and_CC good_JJ looking_VBG ._.
+So_RB many_JJ in_IN twenty_CD years_NNS there_RB will_MD be_VB so_RB many_JJ cars_NNS in_IN more_JJR use_NN than_IN there_EX are_VBP today_NN ,_, and_CC also_RB there_EX will_MD be_VB a_DT lot_NN of_IN new_JJ cars_NNS are_VBP coming_VBG out_RP ._.

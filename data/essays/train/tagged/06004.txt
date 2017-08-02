@@ -1,0 +1,16 @@
+Given_VBN the_DT argument_NN between_IN agreeing_VBG or_CC disagreeing_VBG with_IN the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN in_IN twenty_CD years_NNS ,_, chich_VBP one_CD do_VBP I_PRP choose_VB ?_.
+It_PRP is_VBZ believed_VBN that_IN the_DT answer_NN is_VBZ negative_JJ ._.
+However_RB ,_, I_PRP totally_RB agree_VBP with_IN that_DT cars_NNS will_MD be_VB fewer_JJR in_IN twenty_CD years_NNS later_RB ._.
+There_EX are_VBP three_CD reasons_NNS presented_VBN as_IN followed_VBN ._.
+To_TO begin_VB with_IN ,_, it_PRP is_VBZ in_IN terms_NNS of_IN the_DT environmental_JJ protection_NN that_IN the_DT pollution_NN of_IN transporation_NN ,_, especially_RB cars_NNS ,_, are_VBP worse_JJR than_IN before_RB ._.
+For_IN example_NN ,_, because_IN of_IN the_DT price_NN of_IN cars_NNS are_VBP getting_VBG cheaper_JJR than_IN before_RB ,_, they_PRP casued_VBD more_RBR air_NN pollution_NN ._.
+Therefore_RB ,_, the_DT environmental_JJ problems_NNS of_IN the_DT earth_NN ,_, such_JJ as_IN acid_JJ rain_NN ,_, global_JJ warming_NN ,_, depletion_NN of_IN ozone_NN layer_NN ,_, will_MD get_VB more_JJR serious_JJ ,_, so_IN that_IN draw_NN more_RBR attention_NN to_TO countries_NNS in_IN the_DT wolrd_NN to_TO safeguard_VB the_DT natural_JJ environment_NN ._.
+What_WP is_VBZ more_JJR ,_, it_PRP is_VBZ rapidly_RB developed_VBN technology_NN that_IN the_DT public_JJ transportation_NN are_VBP more_RBR convinient_JJ and_CC cheaper_JJR ._.
+Moreover_RB ,_, the_DT technology_NN of_IN transportation_NN are_VBP growing_VBG so_RB fast_RB that_IN we_PRP have_VBP more_RBR alternative_JJ ways_NNS to_TO choose_VB ._.
+For_IN instance_NN ,_, if_IN we_PRP want_VBP to_TO visit_VB some_DT beautiful_JJ scenery_NN ,_, we_PRP can_MD use_VB airplan_NN ,_, metro-transportation_NN ,_, bus_NN instead_RB of_IN driving_VBG cars_NNS ._.
+In_IN fact_NN ,_, the_DT alternative_JJ transportations_NNS are_VBP more_RBR convinient_JJ and_CC faster_RBR that_WDT can_MD save_VB our_PRP$ time_NN and_CC money_NN ._.
+Most_RBS important_JJ ,_, it_PRP is_VBZ decreasing_VBG the_DT supplement_NN of_IN fossil_JJ fuels_NNS that_WDT according_VBG to_TO the_DT human_JJ excessively_RB exploit_VB the_DT natural_JJ resources_NNS ._.
+In_IN other_JJ words_NNS ,_, fossil_JJ fuels_NNS ,_, such_JJ as_IN petroleum_NN ,_, gas_NN ,_, are_VBP limited_VBN in_IN natural_JJ world_NN ._.
+In_IN addition_NN ,_, the_DT price_NN of_IN these_DT fules_NNS are_VBP getting_VBG higher_JJR and_CC the_DT expense_NN of_IN driving_VBG cars_NNS are_VBP considerably_RB increased_VBN ._.
+As_IN a_DT result_NN ,_, there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN few_JJ years_NNS later_RB ._.
+To_TO sum_VB up_RP ,_, I_PRP definitely_RB agree_VBP that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN for_IN several_JJ reasons_NNS ,_, among_IN them_PRP based_VBN on_IN the_DT environmental_JJ protection_NN ,_, rapidly_RB developed_VBD technology_NN ,_, and_CC decreasing_VBG the_DT supplement_NN of_IN fossil_JJ fuels_NNS ._.

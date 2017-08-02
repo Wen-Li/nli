@@ -1,0 +1,19 @@
+Generalism_NN versus_CC specialism_NN is_VBZ a_DT widely_RB discussed_VBN topic_NN nowadays_RB ._.
+In_IN older_JJR days_NNS most_RBS academic_JJ fields_NNS required_VBN rather_RB broad_JJ general_JJ knowledge_NN with_IN pointed_JJ specific_JJ knowledge_NN in_IN certain_JJ subjects_NNS ._.
+With_IN the_DT advancement_NN of_IN society_NN and_CC science_NN the_DT demand_NN for_IN generalists_NNS decrease_VBP and_CC the_DT demand_NN for_IN specialists_NNS increased_VBN ._.
+Why_WRB is_VBZ that_IN ?_.
+Let_VB me_PRP explain_VB this_DT using_VBG the_DT field_NN of_IN medicine_NN as_IN an_DT example_NN ._.
+In_IN the_DT past_JJ medical_JJ doctors_NNS were_VBD able_JJ to_TO overlook_VB broad_JJ fields_NNS of_IN medicine_NN ,_, giving_VBG them_PRP the_DT chance_NN to_TO help_VB patients_NNS with_IN many_JJ different_JJ diseases_NNS at_IN a_DT good_JJ level_NN of_IN care_NN ._.
+With_IN the_DT advancement_NN of_IN medicine_NN and_CC medical_JJ research_NN the_DT complexity_NN of_IN each_DT medical_JJ field_NN increased_VBD and_CC it_PRP became_VBD harder_RBR and_CC harder_RBR for_IN an_DT individual_JJ to_TO keep_VB up_RP with_IN the_DT advanced_JJ knowledge_NN in_IN each_DT field_NN ._.
+To_TO be_VB able_JJ to_TO treat_VB a_DT patient_NN according_VBG to_TO the_DT state-of-the-art_JJ standards_NNS of_IN medicine_NN nowadays_RB one_CD has_VBZ to_TO be_VB a_DT specialist_NN in_IN his_PRP$ field_NN ._.
+For_IN generalists_NNS the_DT field_NN of_IN practice_NN becomes_VBZ smaller_JJR and_CC smaller_JJR while_IN more_JJR and_CC more_RBR subjects_NNS are_VBP taken_VBN and_CC spaces_NNS been_VBN filled_VBN with_IN specialists_NNS ._.
+Knowledge_NN in_IN medicine_NN is_VBZ said_VBN to_TO double_VB every_DT five_CD years_NNS ._.
+This_DT proves_VBZ that_IN a_DT medical_JJ doctor_NN today_NN can_MD not_RB accumulate_VB the_DT same_JJ level_NN of_IN knowledge_NN in_IN many_JJ medical_JJ subjects_NNS and_CC reach_VB a_DT comparable_JJ level_NN of_IN perfection_NN as_IN one_CD could_MD thirty_CD years_NNS ago_RB ._.
+Now_RB ,_, is_VBZ this_DT a_DT change_NN to_TO the_DT good_JJ ?_.
+Do_VB I_PRP agree_VBP that_IN specialization_NN is_VBZ good_JJ ?_.
+It_PRP might_MD be_VB usefull_JJ and_CC the_DT pace_NN of_IN scientific_JJ advancement_NN might_MD not_RB give_VB us_PRP a_DT choice_NN ,_, but_CC I_PRP personally_RB believe_VBP that_IN at_IN the_DT same_JJ time_NN something_NN is_VBZ lost_VBN ._.
+What_WDT ?_.
+Well_RB ,_, first_RB at_IN all_PDT the_DT general_JJ picture_NN is_VBZ lost_VBN ._.
+A_DT specialist_NN often_RB has_VBZ not_RB the_DT same_JJ broad_JJ idea_NN of_IN the_DT big_JJ picture_NN ,_, let_VB 's_POS say_VB -_: to_TO stick_VB with_IN the_DT example_NN of_IN the_DT general_JJ doctor_NN -_: of_IN the_DT patient_NN 's_POS background_NN ,_, other_JJ medical_JJ problems_NNS ,_, medical_JJ problems_NNS in_IN different_JJ social_JJ and_CC geographic_JJ groups_NNS of_IN society_NN and_CC the_DT influence_NN amongst_IN medical_JJ problems_NNS ._.
+Second_JJ at_IN all_PDT the_DT more_RBR specialized_VBN a_DT person_NN -_: in_IN this_DT example_NN a_DT doctor_NN -_: becomes_VBZ the_DT more_RBR likely_JJ it_PRP will_MD be_VB that_IN he_PRP is_VBZ only_RB neeeded_JJ for_IN a_DT small_JJ number_NN of_IN duties_NNS ,_, investigations_NNS or_CC treatments_NNS ,_, wich_NN in_IN my_PRP$ oppinion_NN leads_VBZ to_TO more_RBR perfectionism_NN at_IN first_RB ,_, but_CC very_RB easily_RB leads_VBZ to_TO a_DT lack_NN of_IN compassion_NN and_CC boredom_NN soon_RB afterwards_RB ,_, leaving_VBG behind_IN a_DT specialist_NN with_IN no_DT enthusiasm_NN and_CC compassion_NN any_DT more_JJR for_IN his_PRP$ job_NN and_CC profession_NN ._.
+In_IN that_DT way_NN I_PRP personally_RB do_VBP agree_VB with_IN the_DT statement_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ topics_NNS or_CC subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.

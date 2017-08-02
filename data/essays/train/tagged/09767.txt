@@ -1,0 +1,17 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT statement_NN of_IN fewers_NNS cars_NNS will_MD be_VB in_IN use_NN in_IN the_DT next_JJ twenty_CD years_NNS than_IN today_NN ._.
+First_NNP of_IN all_DT ,_, the_DT cost_NN of_IN owning_VBG a_DT car_NN is_VBZ decreasing_VBG by_IN time_NN ._.
+Only_RB few_JJ lucky_JJ families_NNS had_VBD cars_NNS 20_CD years_NNS ago_RB ._.
+Today_NN ,_, an_DT average_JJ middle_JJ income_NN family_NN has_VBZ more_JJR than_IN one_CD car_NN ._.
+New_NNP technologies_NNS allow_VBP automobile_NN companies_NNS to_TO produce_VB cheaper_JJR and_CC better_JJR quality_NN cars_NNS ._.
+Not_RB only_RB cars_NNS are_VBP getting_VBG cheaper_JJR ,_, income_NN levels_NNS of_IN the_DT world_NN economy_NN is_VBZ also_RB increasing_VBG ._.
+For_IN instance_NN in_IN developing_VBG countries_NNS with_IN high_JJ population_NN ,_, such_JJ as_IN China_NNP and_CC India_NNP ,_, GDP_NNP growth_NN is_VBZ more_JJR than_IN ten_CD folds_VBZ during_IN the_DT last_JJ decade_NN ._.
+Imagine_VB ,_, if_IN one_CD forth_RB of_IN the_DT population_NN of_IN India_NNP and_CC China_NNP can_MD buy_VB a_DT car_NN ,_, that_WDT will_MD approximately_RB sum_VB up_RP to_TO 500_CD million_CD new_JJ cars_NNS ._.
+That_DT is_VBZ the_DT motivation_NN behind_IN the_DT desire_NN of_IN buying_VBG new_JJ automobile_NN factories_NNS in_IN those_DT countries_NNS ._.
+One_CD argument_NN against_IN this_DT statement_NN may_MD be_VB the_DT pollution_NN effect_NN of_IN the_DT cars_NNS ._.
+Although_IN conventional_JJ fuels_NNS create_VBP pollution_NN ,_, many_JJ scienticts_NNS work_VBP on_IN projects_NNS which_WDT are_VBP trying_VBG to_TO use_VB alternative_JJ energy_NN sources_NNS for_IN transportation_NN ._.
+Electricity_NNP might_MD be_VB the_DT major_JJ energy_NN source_NN for_IN cars_NNS in_IN the_DT next_JJ twenty_CD years_NNS ,_, so_RB enviromental_JJ problems_NNS related_VBN with_IN car_NN usage_NN will_MD be_VB irrevelant_JJ ._.
+Finally_RB ,_, individualism_NN is_VBZ another_DT factor_NN that_WDT will_MD support_VB car_NN demand_NN ._.
+People_NNS of_IN 21th_JJ century_NN enjoy_VB to_TO be_VB different_JJ ._.
+People_NNS show_VBP their_PRP$ difference_NN by_IN their_PRP$ clothes_NNS ,_, watches_NNS ,_, cars_NNS etc_FW ._.
+Generally_RB speaking_VBG one_CD person_NN 's_POS car_NN shows_VBZ his_PRP$ social_JJ identity_NN ._.
+Maybe_RB in_IN the_DT crowded_JJ cities_NNS ,_, people_NNS commute_NN their_PRP$ offices_NNS by_IN metro_NN or_CC bus_NN ,_, but_CC this_DT does_VBZ not_RB stop_VB them_PRP buying_VBG cars_NNS ._.

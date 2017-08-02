@@ -1,0 +1,27 @@
+I_PRP can_MD not_RB agree_VB or_CC disagree_VB with_IN the_DT statement_NN as_IN it_PRP stands_VBZ ._.
+Sometimes_RB innovation_NN and_CC risk-taking_NN is_VBZ vital_JJ to_TO success_NN ,_, at_IN other_JJ times_NNS it_PRP will_MD lead_VB to_TO disaster_NN ._.
+Consider_VB IBM_NNP 's_POS System_NNP /_: 360_CD family_NN of_IN computes_NNS introduced_VBN in_IN 1964_CD ._.
+It_PRP was_VBD intended_VBN as_IN replacement_NN for_IN the_DT series_NN 1400_CD business_NN computers_NNS and_CC series_NN 7000_CD academic_JJ computers_NNS ._.
+Until_IN then_RB ,_, IBM_NNP had_VBD been_VBN selling_VBG two_CD inherently_RB incompatible_JJ classes_NNS of_IN computers_NNS meaning_VBG that_IN it_PRP have_VBP to_TO give_VB different_JJ training_NN for_IN each_DT type_NN of_IN computer_NN and_CC also_RB that_IN parts_NNS and_CC accessories_NNS were_VBD not_RB compatible_JJ ._.
+The_DT S_NN /_: 360_CD was_VBD designed_VBN to_TO address_VB both_CC commercial_JJ and_CC academic_JJ requirements_NNS ,_, making_VBG it_PRP the_DT all_DT round_JJ computer_NN ,_, which_WDT is_VBZ why_WRB it_PRP was_VBD named_VBN after_IN the_DT 360_CD degrees_NNS of_IN a_DT complete_JJ circle_NN ._.
+Furthermore_RB ,_, upgrading_VBG from_IN a_DT small_JJ computer_NN to_TO a_DT bigger_JJR one_CD meant_VBD that_IN all_DT of_IN the_DT programs_NNS had_VBD to_TO be_VB written_VBN again_RB ._.
+The_DT S_NN /_: 360_CD made_VBD it_PRP possible_JJ for_IN customers_NNS to_TO start_VB with_IN a_DT small_JJ computer_NN and_CC gradually_RB upgrade_JJ to_TO more_RBR powerful_JJ computers_NNS ,_, protecting_VBG their_PRP$ investment_NN all_PDT the_DT way_NN ._.
+It_PRP was_VBD a_DT very_RB risky_JJ move_NN for_IN IBM_NNP but_CC it_PRP worked_VBD and_CC made_VBD IBM_NNP the_DT leader_NN of_IN the_DT industry_NN ._.
+Others_NNS were_VBD not_RB as_IN lucky_JJ as_IN IBM_NNP was_VBD ._.
+Steve_NNP Jobs_NNP ,_, the_DT man_NN who_WP pioneered_VBD personal_JJ computers_NNS ,_, was_VBD so_RB impressed_JJ with_IN research_NN in_IN Xerox_NNP Parc_NNP that_IN he_PRP built_VBD the_DT world_NN 's_POS first_JJ GUI_NNP *_SYM Graph'cal_NNP User_NN Interface_NNP (_CD personal_JJ computer_NN ._.
+The_DT `_`` Lisa_NNP '_'' had_VBD windows_NNS ,_, menus_NNS and_CC all_PDT the_DT features_NNS of_IN a_DT user_NN friendy_NN interface_NN that_WDT has_VBZ become_VBN prolific_JJ with_IN the_DT spread_NN of_IN Windows_NNP ._.
+However_RB it_PRP also_RB had_VBD a_DT price_NN tag_NN of_IN around_IN $_$ 10,000_CD and_CC it_PRP failed_VBD miserably_RB ._.
+Steve_NNP Jobs_NNP went_VBD ahead_RB and_CC built_VBN another_DT GUI_NNP computer_NN which_WDT he_PRP called_VBD the_DT Macintosh_NNP ._.
+That_DT was_VBD juch_JJ cheaper_JJR but_CC made_VBD no_DT pretence_NN to_TO being_VBG compatible_JJ with_IN the_DT IBM_NNP PC_NNP ._.
+Once_RB again_RB Jobs_NNP had_VBD taken_VBN a_DT risk_NN and_CC failed_VBD to_TO succeed_VB ._.
+It_PRP would_MD appear_VB that_IN taking_VBG risks_NNS is_VBZ necessary_JJ for_IN success_NN but_CC it_PRP is_VBZ also_RB dangerous_JJ ._.
+Doing_VBG what_WP one_CD knows_VBZ best_JJS sounds_NNS like_IN sensible_JJ advice_NN ._.
+However_RB it_PRP shoud_VBD be_VB re-phrased_VBN as_IN follows_VBZ :_: `_`` Do_VBP only_RB what_WP you_PRP can_MD do_VB better_JJR than_IN the_DT competition_NN '_'' ._.
+Just_RB because_IN an_DT individual_JJ excels_NNS at_IN playing_VBG chess_NN does_VBZ n't_RB mean_VB he_PRP could_MD make_VB a_DT living_NN playing_VBG chess_NN ._.
+For_IN that_DT he_PRP would_MD have_VB to_TO beat_VB the_DT world_NN champion_NN ._.
+Only_RB a_DT handful_NN of_IN grandmasters_NNS can_MD be_VB successful_JJ in_IN making_VBG a_DT money_NN by_IN winning_VBG competitions_NNS ._.
+This_DT rule_NN applies_VBZ to_TO practically_RB all_DT sports_NNS ._.
+It_PRP is_VBZ a_DT not_RB good_JJ idea_NN to_TO attempt_VB to_TO do_VB anything_NN without_IN first_JJ learning_VBG it_PRP ,_, or_CC at_IN least_JJS displaying_VBG an_DT aptitude_NN for_IN it_PRP ._.
+There_EX is_VBZ a_DT good_JJ reason_NN why_WRB every_DT profession_NN is_VBZ in_IN the_DT hand_NN of_IN professionals_NNS who_WP have_VBP trained_VBN many_JJ years_NNS ._.
+In_IN some_DT cases_NNS ,_, like_IN medicine_NN or_CC mining_NN ,_, people_NNS without_IN the_DT right_JJ background_NN are_VBP not_RB legally_RB allowed_VBN to_TO practise_VB at_IN all_DT ._.
+Taking_VBG risks_NNS or_CC specialising_VBG in_IN certain_JJ fields_NNS is_VBZ essentially_RB a_DT matter_NN of_IN common_JJ sense_NN and_CC analysing_VBG the_DT circumstances_NNS correctly_RB ._.

@@ -1,0 +1,17 @@
+Knowledge_NN is_VBZ a_DT very_RB important_JJ part_NN of_IN our_PRP$ daily_JJ routine_NN ._.
+Gaining_NNP knowledge_NN may_MD be_VB a_DT very_RB imprtant_JJ part_NN of_IN a_DT students_NNS career_NN ._.
+Students_NNS gaining_VBG knowlede_NN are_VBP offered_VBN jobs_NNS in_IN view_NN of_IN their_PRP$ knowledge_NN towards_IN a_DT particular_JJ subject_NN ._.
+It_PRP may_MD be_VB a_DT point_NN that_IN it_PRP is_VBZ essential_JJ to_TO have_VB a_DT minimum_JJ grip_NN over_IN the_DT remaining_VBG subjects_NNS rather_RB than_IN just_RB having_VBG broad_JJ knowledge_NN about_IN a_DT single_JJ acadamic_JJ subject_NN ._.
+So_RB by_IN the_DT following_VBG we_PRP can_MD say_VB that_IN it_PRP is_VBZ better_JJR to_TO have_VB a_DT broad_JJ knowledge_NN about_IN many_JJ acadamic_JJ subjects_NNS rather_RB that_DT just_RB a_DT single_JJ or_CC specific_JJ subject_NN ._.
+There_EX may_MD arise_VB different_JJ situations_NNS by_IN which_WDT the_DT broad_JJ knowledge_NN ove_NN a_DT specific_JJ acadamic_JJ subject_NN would_MD be_VB sufficient_JJ ._.
+Just_RB consider_VB a_DT software_NN engineer_NN who_WP has_VBZ a_DT broad_JJ knowledge_NN about_IN the_DT software_NN part_NN of_IN his_PRP$ system_NN is_VBZ not_RB capable_JJ of_IN solving_VBG the_DT hjardware_NN issues_NNS arising_VBG ._.
+In_IN the_DT same_JJ way_NN a_DT person_NN who_WP is_VBZ good_JJ at_IN computers_NNS can_MD not_RB work_VB for_IN a_DT company_NN where_WRB mechanical_JJ engineers_NNS are_VBP required_VBN ._.
+Hence_RB if_IN a_DT person_NN is_VBZ capable_JJ of_IN having_VBG broader_JJR knowledge_NN about_IN the_DT various_JJ acadamic_JJ subjects_NNS there_RB may_MD be_VB chance_NN that_IN he_PRP mey_VB even_RB jump_VB from_IN one_CD sector_NN to_TO the_DT other_JJ just_RB like_IN a_DT person_NN findin_JJ softaware_JJ jobs_NNS more_RBR interesting_JJ thjan_IN the_DT mechanical_JJ jobs_NNS ._.
+He_PRP can_MD change_VB his_PRP$ platform_NN only_RB if_IN he_PRP has_VBZ a_DT broader_JJR knowledge_NN about_IN the_DT software_NN concepts_NNS ._.
+Having_VBG broad_JJ knowledge_NN over_IN various_JJ acadamic_JJ subjects_NNS would_MD help_VB us_PRP out_RP in_IN various_JJ situations_NNS ._.
+Let_VB us_PRP even_RB consider_VBP a_DT person_NN attending_VBG an_DT interview_NN in_IN a_DT huge_JJ establishment_NN ._.
+Ther_NNP is_VBZ no_DT gaurantee_NN that_IN the_DT inteview_NN may_MD contain_VB questions_NNS relating_VBG to_TO his_PRP$ subject_NN ,_, rather_RB the_DT interview_NN may_MD even_RB consisit_VB of_IN questions_NNS over_IN various_JJ issues_NNS relating_VBG to_TO various_JJ other_JJ subjects_NNS ._.
+A_DT person_NN who_WP is_VBZ capable_JJ of_IN containing_VBG broader_JJR knbowledge_NN over_IN just_RB one_CD issue_NN may_MD not_RB be_VB able_JJ to_TO get_VB through_IN the_DT interview_NN to_TO get_VB the_DT job_NN ._.
+We_PRP can_MD even_RB consider_VB the_DT part_NN of_IN quiz_NN competetion_NN that_WDT include_VBP the_DT subject_NN of_IN various_JJ other_JJ subjects_NNS rather_RB than_IN just_RB a_DT single_JJ subject_NN ._.
+A_DT person_NN with_IN broader_JJR knowledge_NN over_IN various_JJ subjects_NNS may_MD only_RB be_VB capable_JJ of_IN clearing_VBG the_DT quiz_NN competetion_NN ._.
+Hence_RB we_PRP can_MD say_VB that_IN ``_`` IT_PRP IS_VBZ BETTER_NNP TO_TO HAVE_NNP BROAD_NNP KNOWLEDGE_NNP OVER_IN MANY_NNP ACADAMIC_NNP SUBJECTS_NNS RATHER_RB THAN_IN JUST_RB SPECIALIZE_VBP IN_IN ONE_CD SPECIFIC_JJ SUBJECT_NN ''_'' ._.

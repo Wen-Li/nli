@@ -1,0 +1,9 @@
+In_IN some_DT cases_NNS ,_, it_PRP is_VBZ said_VBD that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ very_RB important_JJ than_IN to_TO learn_VB facts_NNS ._.
+I_PRP strongly_RB disagree_VBP with_IN the_DT statement_NN for_IN following_VBG reasons_NNS :_:
+Firt_NN of_IN all_DT ,_, in_IN many_JJ times_NNS the_DT student_NN understands_VBZ ideas_NNS and_CC concepts_NNS of_IN a_DT subject_JJ but_CC he_PRP or_CC she_PRP can_MD not_RB apply_VB this_DT information_NN to_TO the_DT real_JJ life_NN ._.
+For_IN example_NN ,_, in_IN law_NN faculty_NN a_DT student_NN learn_VBP about_IN a_DT lot_NN of_IN ideas_NNS or_CC concepts_NNS ._.
+He_PRP or_CC she_PRP read_VBD many_JJ books_NNS about_IN the_DT law_NN ._.
+Then_RB he_PRP or_CC she_PRP began_VBD to_TO think_VB ''_'' I_PRP read_VBP the_DT many_JJ books_NNS and_CC learn_VBP their_PRP$ concepts_NNS and_CC ideas_NNS ._.
+But_CC whenever_WRB he_PRP or_CC she_PRP graduate_VB the_DT university_NN and_CC come_VB across_IN the_DT real_JJ facts_NNS he_PRP or_CC she_PRP realize_VBP that_IN there_EX are_VBP differences_NNS between_IN teorical_JJ information_NN and_CC implementation_NN ._.
+Secondly_RB ,_, if_IN they_PRP are_VBP in_IN the_DT real_JJ life_NN it_PRP will_MD be_VB very_RB easy_JJ and_CC quickly_RB to_TO learn_VB something_NN than_IN understand_VB adeas_NNS and_CC concepts_NNS only_RB ._.
+For_IN example_NN ,_, before_IN being_VBG a_DT lawyer_NN ,_, in_IN the_DT school_NN because_IN they_PRP do_VBP n't_RB join_VB the_DT case_NN they_PRP amazed_VBD when_WRB they_PRP attend_VBP the_DT case_NN ._.

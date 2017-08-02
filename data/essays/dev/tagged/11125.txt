@@ -1,0 +1,29 @@
+In_IN today_NN 's_POS world_NN ,_, cars_NNS are_VBP the_DT main_JJ kind_NN of_IN transportation_NN used_VBN for_IN transportation_NN on_IN land_NN ._.
+As_IN the_DT cities_NNS grow_VBP and_CC distances_NNS get_VBP longer_RB ,_, people_NNS need_VBP ways_NNS of_IN transportation_NN more_RBR and_CC more_RBR in_IN everyday_JJ life_NN ._.
+Therefore_RB ,_, nowadays_RB almost_RB every_DT person_NN that_WDT can_MD afford_VB it_PRP over_IN 18_CD and_CC has_VBZ a_DT lincence_NN owns_VBZ a_DT car_NN ._.
+If_IN you_PRP consider_VBP the_DT number_NN of_IN people_NNS living_VBG on_IN this_DT planet_NN ,_, that_WDT would_MD make_VB quite_RB a_DT number_NN ._.
+However_RB ,_, on_IN the_DT other_JJ hand_NN ,_, ways_NNS of_IN public_JJ transportation_NN are_VBP developing_VBG ,_, which_WDT reduces_VBZ the_DT necessity_NN for_IN cars_NNS ._.
+So_RB what_WP will_MD happen_VB in_IN twenty_CD years_NNS ?_.
+First_NNP of_IN all_DT ,_, there_EX is_VBZ the_DT fact_NN that_IN to_TO get_VB from_IN one_CD place_NN to_TO another_DT ,_, you_PRP need_VBP to_TO have_VB a_DT way_NN of_IN transportation_NN ._.
+For_IN most_JJS people_NNS ,_, in_IN the_DT large_JJ cities_NNS they_PRP live_VBP in_IN today_NN ,_, it_PRP is_VBZ impossible_JJ to_TO get_VB to_TO work_VB or_CC to_TO go_VB shopping_NN or_CC anywhere_RB within_IN walking_VBG distance_NN ._.
+So_RB ,_, they_PRP need_VBP to_TO have_VB a_DT car_NN or_CC a_DT way_NN of_IN public_JJ transportation_NN ._.
+Most_JJS people_NNS prefer_VBP having_VBG there_RB own_JJ cars_NNS and_CC it_PRP 's_VBZ easy_JJ to_TO see_VB why_WRB :_: methods_NNS of_IN public_JJ transportation_NN are_VBP slow_JJ and_CC unreliable_JJ ._.
+You_PRP never_RB know_VBP when_WRB the_DT bus_NN is_VBZ going_VBG to_TO come_VB and_CC it_PRP 's_VBZ almost_RB certain_JJ that_IN you_PRP will_MD be_VB late_JJ to_TO wherever_WRB you_PRP 're_VBP going_VBG ._.
+Also_RB ,_, buses_NNS go_VBP slow_JJ and_CC stop_VB many_JJ times_NNS for_IN passengers_NNS to_TO get_VB on_IN and_CC off_IN ._.
+Metros_NNP are_VBP usually_RB very_RB crowded_JJ and_CC it_PRP is_VBZ very_RB uncomfortable_JJ to_TO travel_VB squeezed_VBN against_IN people_NNS that_IN you_PRP do_VBP n't_RB even_RB know_VB ._.
+Taxis_NNP are_VBP usually_RB very_RB expensive_JJ ._.
+Plus_NN ,_, if_IN you_PRP go_VBP grocery_NN shopping_NN ,_, there_EX is_VBZ no_DT way_NN you_PRP can_MD carry_VB all_DT your_PRP$ bags_NN unless_IN you_PRP have_VBP a_DT trunk_NN to_TO put_VB them_PRP into_IN ._.
+Picture_NNP yourself_PRP in_IN a_DT crowded_JJ bus_NN or_CC metro_NN with_IN ten_CD bags_NNS full_JJ of_IN heavy_JJ fruits_NNS and_CC vegetables_NNS ,_, gallons_NNS of_IN milk_NN and_CC juice_NN ,_, meat_NN that_WDT is_VBZ about_IN to_TO get_VB spoiled_VBN and_CC ice_NN cream_NN that_WDT is_VBZ melting_VBG all_DT over_IN the_DT floor_NN ._.
+Not_RB very_RB conveniant_JJ ,_, nor_CC is_VBZ it_PRP going_VBG to_TO work_VB ._.
+This_DT is_VBZ an_DT example_NN of_IN why_WRB at_IN least_JJS one_CD car_NN is_VBZ needen_JJ for_IN every_DT family_NN ._.
+However_RB ,_, there_EX is_VBZ the_DT growing_VBG problem_NN of_IN pollution_NN and_CC traffic_NN ._.
+There_EX are_VBP so_RB many_JJ cars_NNS that_IN it_PRP takes_VBZ you_PRP an_DT hour_NN to_TO get_VB home_NN during_IN rush_NN hour_NN when_WRB it_PRP usually_RB takes_VBZ fifteen_CD minutes_NNS ._.
+Plus_NN ,_, when_WRB you_PRP get_VBP to_TO work_VB ,_, or_CC the_DT mall_NN ,_, there_EX is_VBZ always_RB the_DT problem_NN of_IN parking_NN ._.
+Would_MD n't_RB it_PRP just_RB be_VB great_JJ to_TO go_VB and_CC catch_VB a_DT movie_NN or_CC get_VB a_DT bite_NN to_TO eat_VB in_IN the_DT time_NN you_PRP use_VBP looking_VBG for_IN parking_NN spaces_NNS ?_.
+That_DT is_VBZ why_WRB shopping_NN malls_NNS and_CC working_VBG places_NNS have_VBP started_VBN to_TO schedule_VB service_NN buses_NNS which_WDT will_MD take_VB you_PRP directly_RB from_IN home_NN to_TO work_VB or_CC wherever_WRB you_PRP are_VBP going_VBG ._.
+Also_RB ,_, there_EX is_VBZ the_DT problem_NN of_IN the_DT oil_NN resources_NNS running_VBG out_RP ,_, and_CC put_VBD that_DT aside_RB ,_, cars_NNS heavily_RB pollute_VBP the_DT air_NN ._.
+So_RB ,_, instead_RB of_IN twenty_CD people_NNS going_VBG to_TO a_DT place_NN in_IN separate_JJ cars_NNS ,_, imagine_VB how_WRB much_JJ it_PRP would_MD reduce_VB pollution_NN and_CC traffic_NN if_IN all_DT twenty_CD people_NNS used_VBD a_DT bus_NN to_TO go_VB there_RB ._.
+My_PRP$ opinion_NN is_VBZ that_IN the_DT number_NN of_IN cars_NNS will_MD reduce_VB in_IN the_DT next_JJ twenty_CD years_NNS ._.
+Governments_NNS that_WDT are_VBP aware_JJ of_IN the_DT pollution_NN and_CC traffic_NN problem_NN are_VBP developing_VBG methods_NNS of_IN public_JJ transportation_NN to_TO encourage_VB their_PRP$ people_NNS to_TO use_VB those_DT methods_NNS instead_RB of_IN cars_NNS ._.
+For_IN example_NN ,_, in_IN the_DT United_NNP States_NNPS ,_, carpool_NN lanes_NNS have_VBP been_VBN arranged_VBN in_IN big_JJ cities_NNS like_IN Los_NNP Angeles_NNP which_WDT you_PRP can_MD use_VB only_RB if_IN you_PRP have_VBP more_JJR than_IN one_CD passanger_NN in_IN your_PRP$ car_NN ._.
+So_RB ,_, in_IN my_PRP$ opinion_NN ,_, the_DT rising_VBG public_JJ awareness_NN of_IN pollution_NN ,_, the_DT raise_NN in_IN the_DT cost_NN for_IN fuel_NN for_IN cars_NNS and_CC the_DT development_NN in_IN public_JJ transportation_NN will_MD reduce_VB the_DT number_NN of_IN cars_NNS in_IN the_DT future_NN ._.

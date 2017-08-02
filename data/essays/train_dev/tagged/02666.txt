@@ -1,0 +1,19 @@
+Today_NN ,_, specialization_NN on_IN a_DT specific_JJ academic_JJ subject_NN is_VBZ a_DT must_MD for_IN most_JJS of_IN the_DT researchers_NNS ._.
+Where_WRB innovations_NNS need_VBP different_JJ appoaches_NNS to_TO the_DT problem_NN ,_, most_JJS of_IN the_DT research_NN work_NN carried_VBD out_RP today_NN requires_VBZ improvements_NNS on_IN the_DT previous_JJ results_NNS ._.
+Having_VBG a_DT broad_JJ knowledge_NN on_IN a_DT specific_JJ topic_NN is_VBZ not_RB enough_JJ to_TO improve_VB an_DT existing_VBG research_NN ,_, even_RB to_TO do_VB innovations_NNS ._.
+Instead_RB ,_, science_NN makes_VBZ harder_JJR to_TO specialize_VB where_WRB it_PRP eases_VBZ to_TO access_NN knowledge_NN ._.
+Improvements_NNP and_CC innovations_NNS in_IN science_NN pushes_VBZ people_NNS to_TO specialize_VB on_IN certain_JJ topics_NNS rather_RB than_IN having_VBG the_DT broad_JJ knowledge_NN on_IN seperate_JJ topics_NNS ._.
+New_NNP innovations_NNS ,_, improvements_NNS require_VBP more_JJR and_CC more_RBR specialization_NN on_IN the_DT studied_VBN topic_NN since_IN the_DT research_NN area_NN divides_VBZ into_IN sub-areas_NNS ._.
+For_IN example_NN ,_, the_DT first_JJ computer_NN was_VBD made_VBN by_IN electronical_JJ engineers_NNS while_IN the_DT future_JJ improvements_NNS lead_VBP to_TO a_DT new_JJ academic_JJ area_NN called_VBN ``_`` computer_NN science_NN ''_'' ._.
+At_IN this_DT point_NN ,_, no_DT generic_JJ improvements_NNS can_MD made_VBN on_IN this_DT area_NN ,_, because_IN it_PRP is_VBZ already_RB divided_VBN into_IN several_JJ sub-areas_NNS like_IN networking_NN ,_, computer_NN vision_NN ,_, algorithms_NNS ,_, etc_FW ._.
+These_DT sub-areas_NNS are_VBP also_RB dividing_VBG into_IN sub-areas_NNS ,_, like_IN wireless_JJ networking_NN ,_, leading_VBG to_TO the_DT constant_JJ specialization_NN on_IN the_DT certain_JJ area_NN ._.
+Specialization_NN on_IN a_DT specific_JJ area_NN lets_VBZ researchers_NNS to_TO concentrate_VB on_IN the_DT subject_NN that_IN they_PRP are_VBP researching_VBG on_IN ,_, making_VBG unnecessary_JJ parts_NNS unavaliable_JJ ._.
+In_IN the_DT early_JJ times_NNS of_IN computers_NNS ,_, programming_NN and_CC electronical_JJ engineering_NN were_VBD closely_RB related_JJ and_CC most_JJS of_IN the_DT research_NN is_VBZ carried_VBN on_IN by_IN the_DT people_NNS with_IN the_DT electronics_NNS background_NN ._.
+But_CC with_IN the_DT improvements_NNS on_IN the_DT technology_NN ,_, programming_NN and_CC electronics_NN begin_VBP to_TO split_VB up_RB ._.
+Today_NN ,_, there_EX is_VBZ still_RB related_JJ subjects_NNS which_WDT brings_VBZ computer_NN scientists_NNS and_CC electronical_JJ engineers_NNS together_RB ,_, but_CC today_NN for_IN most_JJS of_IN the_DT people_NNS working_VBG on_IN the_DT electronics_NNS field_NN ,_, programming_NN is_VBZ not_RB a_DT ``_`` must_MD ''_'' if_IN they_PRP research_VBP on_IN computers_NNS ._.
+In_IN today_NN 's_POS world_NN ,_, information_NN is_VBZ widely_RB accessible_JJ with_IN technologies_NNS used_VBN like_IN world_NN wide_JJ web_NN (_CD www_NN )_NN ._.
+In_IN the_DT old_JJ times_NNS ,_, accessing_VBG knowledge_NN was_VBD hard_RB because_IN of_IN using_VBG books_NNS ,_, connection_NN problems_NNS and_CC distances_NNS between_IN researchers_NNS from_IN different_JJ cities_NNS or_CC countries_NNS ._.
+Today_NN 's_POS technology_NN allows_VBZ everyone_NN to_TO access_NN knowledge_NN and_CC have_VBP it_PRP ._.
+So_RB this_DT forces_VBZ people_NNS to_TO specialize_VB on_IN topics_NNS instead_RB of_IN having_VBG broad_JJ information_NN alone_RB ._.
+Specialization_NN on_IN certain_JJ academic_JJ subjects_NNS increased_VBD the_DT opportunity_NN to_TO improve_VB previous_JJ work_NN and_CC innovate_VBP ._.
+Having_VBG only_RB the_DT broad_JJ information_NN is_VBZ not_RB enough_RB for_IN future_JJ tech_NN ._.

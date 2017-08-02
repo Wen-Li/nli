@@ -1,0 +1,20 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS than_IN there_EX are_VBP today_NN ._.
+There_EX are_VBP several_JJ reasons_NNS for_IN thinking_VBG so_RB ._.
+Globally_RB speaking_VBG ,_, the_DT transportation_NN media_NNS is_VBZ not_RB changing_VBG for_IN a_DT long_JJ period_NN of_IN time_NN ._.
+We_PRP have_VBP cars_NNS ,_, airplanes_NNS ,_, bicycles_NNS ,_, motorcycles_NNS ,_, trains_NNS (_VBP above_IN an_DT under_IN ground_NN )_NN ,_, ships_NNS for_IN providing_VBG different_JJ means_NNS of_IN transport_NN ._.
+Cars_NNS are_VBP the_DT vehicles_NNS that_WDT are_VBP commonly_RB used_VBN for_IN private_JJ transportation_NN ._.
+They_PRP provide_VBP people_NNS privacy_NN during_IN their_PRP$ journeys_NNS everywhere_RB and_CC privacy_NN is_VBZ something_NN that_IN man_NN wants_VBZ to_TO have_VB especially_RB during_IN transport_NN ._.
+Also_RB there_EX are_VBP other_JJ social_JJ criterias_NNS that_WDT force_VBP the_DT usage_NN of_IN cars_NNS ._.
+The_DT first_JJ thing_NN to_TO mention_VB is_VBZ that_IN it_PRP gives_VBZ its_PRP$ owner_NN a_DT social_JJ state_NN ._.
+Owning_VBG a_DT car_NN means_VBZ a_DT higher_JJR standard_NN against_IN the_DT ones_NNS that_WDT ca_MD n't_RB afford_VB a_DT car_NN ._.
+So_IN it_PRP 's_VBZ in_IN fact_NN a_DT sign_NN of_IN wealth_NN in_IN most_JJS of_IN the_DT world_NN ._.
+The_DT use_NN of_IN the_DT cars_NNS is_VBZ not_RB directly_RB related_JJ to_TO the_DT purpose_NN ,_, -_: transportation_NN -_: there_EX are_VBP many_JJ other_JJ factors_NNS ._.
+One_CD of_IN the_DT biggest_JJS factor_NN is_VBZ the_DT car_NN manufacturers_NNS ._.
+Car_NN manufacturing_NN plays_VBZ a_DT big_JJ role_NN in_IN the_DT macro-economy_NN ._.
+If_IN the_DT manufacturers_NNS are_VBP still_RB making_VBG cars_NNS ,_, then_RB someone_NN should_MD be_VB there_RB to_TO buy_VB and_CC use_VB it_PRP ._.
+But_CC if_IN the_DT manufacturers_NNS can_MD find_VB a_DT different_JJ way_NN of_IN gaining_VBG money_NN ,_, like_IN manufacturing_VBG sci-fi_JJ vehicles_NNS that_WDT can_MD be_VB used_VBN instead_RB of_IN cars_NNS then_RB the_DT number_NN of_IN the_DT cars_NNS that_WDT are_VBP going_VBG to_TO be_VB used_VBN in_IN the_DT future_NN will_MD be_VB fewer_JJR that_IN the_DT amount_NN we_PRP use_VBP today_NN ._.
+One_CD other_JJ reason_NN that_IN we_PRP will_MD not_RB be_VB able_JJ to_TO help_VB ourselves_PRP using_VBG cars_NNS is_VBZ that_IN there_EX is_VBZ still_RB huge_JJ amount_NN of_IN resources_NNS around_IN the_DT world_NN ._.
+Most_JJS of_IN the_DT cars_NNS today_NN are_VBP running_VBG with_IN gas_NN ,_, and_CC the_DT earth_NN still_RB has_VBZ n't_RB run_VB out_IN of_IN it_PRP yet_RB ._.
+Maybe_RB in_IN the_DT future_NN when_WRB the_DT gas_NN resources_NNS will_MD dry_VB and_CC new_JJ kinds_NNS of_IN energy_NN will_MD be_VB used_VBN in_IN different_JJ types_NNS of_IN wehicles_NNS ._.
+To_TO summarize_VB ,_, there_EX should_MD be_VB certain_JJ facts_NNS in_IN order_NN to_TO predict_VB that_IN the_DT usage_NN of_IN cars_NNS will_MD fade_VB out_RP in_IN twenty_CD years_NNS ._.
+But_CC we_PRP do_VBP n't_RB have_VB those_DT facts_NNS now_RB ._.

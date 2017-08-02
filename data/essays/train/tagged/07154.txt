@@ -1,0 +1,19 @@
+I_PRP believe_VBP that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+The_DT essay_NN will_MD demonstrate_VB the_DT reasons_NNS for_IN this_DT First_NNP ,_, fuel_NN sources_NNS available_JJ to_TO us_PRP are_VBP limited_VBN ._.
+Petroleum_NNP takes_VBZ millions_NNS of_IN years_NNS to_TO be_VB produced_VBN from_IN natural_JJ sources_NNS ._.
+The_DT rate_NN at_IN which_WDT fuel_NN is_VBZ being_VBG consumed_VBN across_IN the_DT world_NN will_MD soon_RB result_VB in_IN a_DT shortage_NN of_IN petroleum_NN ._.
+The_DT low_JJ supply_NN vis-a-vis_NN increased_VBD demand_NN will_MD result_VB in_IN higher_JJR fuel_NN prices_NNS ,_, making_VBG it_PRP unaffordable_JJ for_IN the_DT common_JJ man_NN ._.
+Second_RB ,_, there_EX is_VBZ an_DT increased_VBN environment_NN consciousness_NN among_IN the_DT people_NNS ._.
+Petroleum_NNP drilling_NN can_MD cause_VB many_JJ accidents_NNS ,_, like_IN burst_NN pipelines_NNS ,_, leakages_NNS etc._FW ,_, that_WDT have_VBP many_JJ side_JJ effects_NNS on_IN the_DT environment_NN ._.
+Also_RB ,_, in_IN countries_NNS where_WRB pollution_NN norms_NNS are_VBP not_RB strict_JJ ,_, there_EX is_VBZ a_DT danger_NN of_IN global_JJ warming_NN as_IN a_DT result_NN of_IN pollution_NN ._.
+Awareness_NN of_IN environment_NN factors_NNS might_MD make_VB people_NNS rethink_VB about_IN modes_NNS of_IN transport_NN ._.
+Third_NNP ,_, public_JJ transport_NN is_VBZ very_RB developed_VBN in_IN some_DT parts_NNS of_IN the_DT world_NN ,_, and_CC being_VBG increasingly_RB invested_VBN in_IN in_IN other_JJ regions_NNS ._.
+There_EX is_VBZ hardly_RB any_DT city_NN in_IN the_DT world_NN where_WRB efficient_JJ and_CC well-planned_JJ public_JJ transport_NN does_VBZ not_RB encourage_VB people_NNS to_TO use_VB it_PRP ._.
+Therefore_RB ,_, when_WRB public_JJ transport_NN is_VBZ fully_RB developed_VBN ,_, many_JJ people_NNS will_MD use_VB it_PRP to_TO save_VB themselves_PRP the_DT hassle_NN of_IN a_DT daily_JJ commute_NN in_IN cars_NNS ._.
+Fourth_JJ ,_, trends_NNS in_IN the_DT workplace_NN are_VBP changing_VBG ._.
+Many_JJ organizations_NNS are_VBP encouraging_VBG their_PRP$ employees_NNS to_TO work_VB from_IN home_NN ._.
+This_DT changed_VBD pattern_NN in_IN the_DT workplace_NN will_MD automatically_RB reduce_VB the_DT number_NN of_IN cars_NNS on_IN the_DT road_NN ._.
+Lastly_RB ,_, though_IN many_JJ alternative_JJ fuel_NN sources_NNS have_VBP been_VBN developed_VBN ,_, none_NN of_IN them_PRP have_VBP proved_VBN to_TO be_VB viable_JJ or_CC successful_JJ ._.
+Take_VB the_DT example_NN of_IN hybrid_NN cars_NNS that_WDT use_VBP electricity_NN -_: despite_IN the_DT government_NN tax_NN subsidies_NNS ,_, the_DT cars_NNS do_VBP not_RB have_VB enough_JJ sales_NNS ._.
+The_DT reason_NN for_IN this_DT is_VBZ that_IN the_DT cost_NN of_IN development_NN is_VBZ so_RB high_JJ it_PRP does_VBZ not_RB offset_VB government_NN subsidies_NNS ._.
+Therefore_RB ,_, the_DT reasons_NNS why_WRB there_EX might_MD be_VB fewer_JJR cars_NNS in_IN use_NN twenty_CD years_NNS later_RB are_VBP unaffordability_NN of_IN fuel_NN ,_, increased_VBD environment_NN consciousness_NN ,_, development_NN of_IN public_JJ transport_NN ,_, changing_VBG trends_NNS in_IN the_DT workplace_NN and_CC failure_NN of_IN alternative_JJ sources_NNS of_IN fuel_NN ._.

@@ -1,0 +1,15 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT statement_NN that_IN the_DT number_NN of_IN cars_NNS will_MD be_VB smaller_JJR in_IN number_NN in_IN near_JJ future_NN than_IN they_PRP are_VBP today_NN ._.
+It_PRP is_VBZ evident_JJ that_IN the_DT traffic_NN within_IN the_DT city_NN center_NN is_VBZ getting_VBG worse_JJR each_DT day_NN and_CC the_DT public_JJ transportation_NN is_VBZ gaining_VBG increasing_VBG importance_NN ._.
+Especially_RB around_IN big_JJ cities_NNS ,_, like_IN Istanbul_NNP which_WDT I_PRP am_VBP living_VBG in_IN ,_, it_PRP is_VBZ true_JJ that_IN people_NNS are_VBP increasingly_RB avoiding_VBG car_NN usage_NN due_JJ to_TO the_DT above_JJ mentioned_VBN reasons_NNS and_CC have_VBP the_DT tendency_NN to_TO use_VB public_JJ transportation_NN or_CC taxi_NN etc._FW instead_RB ,_, which_WDT might_MD lead_VB one_CD to_TO think_VB that_IN the_DT number_NN of_IN cars_NNS will_MD decrease_VB in_IN time_NN ._.
+However_RB ;_: there_EX are_VBP other_JJ dimensions_NNS of_IN the_DT subject_NN ._.
+First_NNP of_IN all_DT ,_, even_RB if_IN some_DT people_NNS are_VBP becoming_VBG increasingly_RB reluctant_JJ to_TO use_VB their_PRP$ cars_NNS in_IN city_NN ,_, most_JJS of_IN them_PRP still_RB feel_VBP it_PRP necessary_JJ to_TO have_VB one_CD ._.
+The_DT reasons_NNS vary_VBP ._.
+One_CD could_MD be_VB privacy_NN ,_, which_WDT you_PRP can_MD not_RB have_VB with_IN public_JJ transport_NN ._.
+The_DT other_JJ could_MD be_VB availability_NN ;_: all_DT of_IN us_PRP have_VBP experienced_VBN not_RB being_VBG able_JJ to_TO find_VB a_DT taxi_NN when_WRB you_PRP have_VBP an_DT important_JJ appointment_NN ._.
+Your_PRP$ car_NN is_VBZ always_RB at_IN your_PRP$ service_NN and_CC is_VBZ actually_RB a_DT medium_NN for_IN independence_NN ._.
+Besides_IN ,_, the_DT increased_VBN number_NN of_IN suburban_JJ living_NN areas_NNS makes_VBZ the_DT people_NNS living_VBG there_RB almost_RB totally_RB dependent_JJ on_IN cars_NNS as_IN public_JJ transportation_NN is_VBZ wider_JJR and_CC more_RBR frequent_JJ around_IN city_NN centers_NNS ._.
+Finally_RB ,_, due_JJ to_TO increased_VBN technology_NN and_CC the_DT saturation_NN level_NN of_IN the_DT market_NN ,_, cars_NNS come_VBP to_TO the_DT consumers_NNS at_IN lower_JJR costs_NNS when_WRB compared_VBN to_TO past_NN ._.
+The_DT companies_NNS are_VBP extending_VBG product_NN ranges_VBZ to_TO cover_VB the_DT maximim_JJ number_NN of_IN consumers_NNS within_IN a_DT wider_JJR range_NN of_IN economic_JJ status_NN ._.
+Therefore_RB cars_NNS are_VBP more_RBR affordable_JJ and_CC also_RB convenient_JJ to_TO use_VB compared_VBN to_TO last_VB two_CD to_TO three_CD decades_NNS ._.
+I_PRP think_VBP these_DT improvements_NNS will_MD continue_VB with_IN an_DT accelarated_JJ speed_NN and_CC cars_NNS will_MD reach_VB a_DT wider_JJR range_NN of_IN population_NN ._.
+Even_RB if_IN the_DT frequency_NN of_IN the_DT usage_NN of_IN an_DT individual_JJ car_NN might_MD decrease_VB ,_, I_PRP think_VBP the_DT total_JJ number_NN of_IN cars_NNS in_IN use_NN could_MD only_RB increase_VB during_IN the_DT next_JJ twenty_CD years_NNS regarding_VBG the_DT above_JJ mentioned_VBN reasons_NNS ._.

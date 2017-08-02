@@ -1,0 +1,18 @@
+I_PRP agree_VBP with_IN the_DT following_VBG statement_NN ._.
+It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+In_IN addition_NN ,_, in_IN my_PRP$ opinion_NN ,_, it_PRP is_VBZ hard_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB facts_NNS ._.
+To_TO learn_VB facts_NNS ,_, the_DT students_NNS do_VBP not_RB need_VB to_TO have_VB their_PRP$ own_JJ ideas_NNS ,_, they_PRP just_RB remember_VBP these_DT facts_NNS and_CC it_PRP is_VBZ really_RB hard_JJ because_IN the_DT facts_NNS do_VBP not_RB have_VB any_DT backgrounds_NNS ,_, concepts_NNS ,_, and_CC ideas_NNS ._.
+For_IN example_NN ,_, in_IN the_DT history_NN class_NN ,_, I_PRP often_RB just_RB remember_VB the_DT facts_NNS ,_, like_IN what_WP happened_VBD in_IN 1945_CD ,_, I_PRP just_RB remembered_VBD a_DT lot_NN of_IN events_NNS in_IN the_DT text_NN books_NNS without_IN thinking_VBG ._.
+As_IN I_PRP thought_VBD ,_, I_PRP got_VBD a_DT great_JJ score_NN on_IN the_DT test_NN but_CC a_DT few_JJ days_NNS later_RB ,_, I_PRP forgot_VBD these_DT events_NNS that_IN I_PRP remembered_VBD ._.
+I_PRP did_VBD not_RB understand_VB about_IN the_DT events_NNS at_IN all_DT ,_, just_RB remembered_VBD them_PRP for_IN the_DT tests_NNS ._.
+I_PRP think_VBP this_DT is_VBZ not_RB leanig_NN or_CC studying_VBG ._.
+I_PRP think_VBP every_DT things_NNS have_VBP reasons_NNS and_CC results_NNS ._.
+When_WRB I_PRP am_VBP interested_JJ in_IN something_NN that_IN I_PRP have_VBP not_RB known_VBN I_PRP always_RB think_VBP of_IN the_DT reasons_NNS and_CC results_NNS ,_, not_RB the_DT facts_NNS ._.
+For_IN instance_NN ,_, In_IN history_NN class_NN ,_, the_DT theacher_NN taught_VBD me_PRP many_JJ things_NNS which_WDT have_VBP been_VBN happened_VBN and_CC many_JJ people_NNS who_WP affected_VBD to_TO many_JJ things_NNS ._.
+I_PRP preffer_VBP to_TO think_VB about_IN why_WRB they_PRP did_VBD so_RB than_IN what_WP is_VBZ happened_VBN because_IN there_EX is_VBZ many_JJ reasons_NNS and_CC jenerally_RB it_PRP is_VBZ so_RB complex_JJ ._.
+It_PRP is_VBZ really_RB interesting_JJ to_TO me_PRP and_CC I_PRP noticed_VBD that_IN if_IN I_PRP could_MD understand_VB their_PRP$ ideas_NNS ,_, concepts_NNS or_CC details_NNS ,_, I_PRP never_RB forget_VB these_DT memories_NNS ._.
+I_PRP was_VBD really_RB interested_JJ in_IN Japanese_JJ history_NN and_CC especially_RB ,_, Ryouma_NNP Sakamoto_NNP ._.
+He_PRP is_VBZ really_RB famous_JJ person_NN in_IN Japan_NNP and_CC he_PRP has_VBZ many_JJ strategies_NNS for_IN life_NN ._.
+I_PRP researched_VBD about_IN him_PRP and_CC his_PRP$ effects_NNS ,_, and_CC I_PRP think_VBP I_PRP could_MD understand_VB his_PRP$ ideas_NNS and_CC comsepts_NNS ._.
+Now_RB ,_, I_PRP never_RB forget_VBP about_IN him_PRP because_IN I_PRP could_MD understand_VB his_PRP$ ideas_NNS and_CC concepts_NNS ,_, not_RB only_RB things_NNS that_IN he_PRP did_VBD ._.
+If_IN people_NNS want_VBP to_TO understand_VB something_NN correctly_RB and_CC deeply_RB ,_, I_PRP think_VBP people_NNS should_MD to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS ,_, not_RB only_RB facts_NNS ._.

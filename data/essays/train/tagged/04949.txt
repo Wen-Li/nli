@@ -1,0 +1,19 @@
+Ok_NNP ,_, in_IN this_DT essay_NN I_PRP would_MD like_VB to_TO express_VB what_WP I_PRP think_VBP about_IN the_DT importance_NN of_IN ideas_NNS and_CC concepts_NNS in_IN contrast_NN with_IN learn_VBP facts_NNS ._.
+First_RB ,_, I_PRP will_MD explain_VB what_WP do_VBP I_PRP understand_VB for_IN knowledge_NN giving_VBG and_CC example_NN of_IN one_CD of_IN the_DT theories_NNS of_IN Plato_NNP ,_, then_RB I_PRP will_MD use_VB this_DT definition_NN to_TO point_VB out_RP the_DT main_JJ diferences_NNS between_IN ideas_NNS and_CC concepts_NNS ,_, and_CC learn_VBP facts_NNS ._.
+Finally_RB ,_, I_PRP will_MD write_VB about_IN what_WP I_PRP think_VBP is_VBZ more_RBR important_JJ ._.
+What_WP does_VBZ knowledge_NN means_NNS ?_.
+This_DT is_VBZ a_DT question_NN that_WDT has_VBZ arised_VBN from_IN the_DT begining_NN of_IN the_DT era_NN ._.
+Many_JJ philosophers_NNS had_VBD though_IN about_IN it_PRP ._.
+Plato_NNP said_VBD that_IN knowledge_NN is_VBZ organized_VBN in_IN the_DT next_JJ hierarchy_NN way_NN (_CD from_IN most_JJS to_TO less_RBR important_JJ )_NN :_:
+-_: Procedural_NNP Knowledge_NNP :_: Knowledge_NN about_IN a_DT method_NN or_CC a_DT consecutive_JJ and_CC ordered_VBN steps_NNS to_TO obtain_VB something_NN ._.
+For_IN example_NN ,_, the_DT scientific_JJ method_NN ,_, an_DT algorithm_NN to_TO sort_VB any_DT number_NN of_IN elements_NNS of_IN the_DT same_JJ kind_NN ,_, etc_FW ._.
+-_: Concepts_NNS and_CC ideas_NNS :_: knowledge_NN about_IN ``_`` concepts_NNS ''_'' ._.
+For_IN example_NN ,_, the_DT mathematical_JJ concept_NN of_IN a_DT limit_NN of_IN a_DT function_NN ,_, the_DT physical_JJ concept_NN of_IN the_DT atom_NN ,_, the_DT diferent_JJ states_NNS of_IN water_NN ,_, between_IN others_NNS ._.
+-_: Facts_NNS :_: Some_DT sort_NN of_IN facts_NNS that_IN we_PRP know_VBP that_DT are_VBP true_JJ in_IN this_DT world_NN or_CC in_IN some_DT realm_NN ._.
+For_IN example_NN ,_, we_PRP know_VBP that_IN people_NNS die_VBP ,_, and_CC that_IN the_DT capital_NN of_IN the_DT state_NN of_IN Tamaulipas_NNP is_VBZ Victoria_NNP City_NNP ._.
+I_PRP think_VBP that_IN all_DT different_JJ types_NNS of_IN knowledge_NN described_VBN by_IN Plato_NNP are_VBP important_JJ but_CC if_IN I_PRP have_VBP to_TO choose_VB between_IN concept_NN and_CC facts_NNS I_PRP choose_VBP concepts_NNS ._.
+But_CC by_IN ?_.
+I_PRP think_VBP that_IN concepts_NNS are_VBP a_DT complex_JJ form_NN of_IN facts_NNS ._.
+Some_DT kind_NN of_IN relation_NN between_IN facts_NNS ._.
+For_IN example_NN if_IN we_PRP know_VBP two_CD facts_NNS :_: that_IN all_DT human_JJ are_VBP mortal_JJ and_CC that_IN Aristotle_NNP is_VBZ a_DT human_JJ ,_, then_RB we_PRP can_MD use_VB the_DT concept_NN of_IN ``_`` Human_JJ inference_NN ''_'' to_TO say_VB that_IN Aristotle_NNP is_VBZ mortal_JJ ._.
+Other_JJ examples_NNS might_MD have_VB beed_VBN described_VBN on_IN different_JJ areas_NNS of_IN science_NN like_IN mathematics_NNS ,_, physics_NNS ,_, logic_NN and_CC natural_JJ sciences_NNS ._.

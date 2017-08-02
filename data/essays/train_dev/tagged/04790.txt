@@ -1,0 +1,12 @@
+I_PRP totally_RB agree_VBP withe_NN statement_NN because_IN ,_, due_JJ to_TO following_VBG reasons_NNS :_:
+1._LS As_IN the_DT population_NN increases_VBZ ,_, the_DT usage_NN of_IN cars_NNS is_VBZ increased_VBN day_NN by_IN day_NN and_CC one_CD day_NN it_PRP will_MD reach_VB to_TO peak_JJ level_NN where_WRB there_EX is_VBZ no_DT space_NN to_TO park_NN or_CC drive_VB the_DT car_NN ._.
+2._LS Secondarily_RB ,_, as_IN the_DT pollution_NN increases_VBZ usage_NN of_IN cars_NNS may_MD be_VB reduced_VBN and_CC also_RB avilability_NN and_CC price_NN of_IN the_DT fuel_NN has_VBZ also_RB been_VBN raised_VBN which_WDT may_MD lead_VB to_TO fewer_JJR cars_NNS in_IN use_NN ._.
+3._LS As_IN the_DT traffic_NN increases_VBZ public_JJ prefer_VBP to_TO travel_VB by_IN public_JJ transport_NN inspite_NN of_IN taking_VBG stress_NN and_CC strain_NN to_TO travel_VB by_IN cars_NNS in_IN the_DT traffic_NN ._.
+4._LS Due_JJ to_TO increased_VBN production_NN of_IN variety_NN of_IN cars_NNS year_NN by_IN year_NN and_CC increase_NN in_IN the_DT price_NN of_IN the_DT car_NN ,_, public_NN may_MD not_RB afford_VB to_TO buy_VB the_DT car_NN ._.
+5._LS Many_JJ people_NNS who_WP would_MD like_VB to_TO travel_VB long_JJ distance_NN they_PRP dont_VBP usually_RB prefer_VBP travelling_VBG by_IN cars_NNS instead_RB they_PRP take_VBP public_JJ transport_NN system_NN to_TO travel_VB ._.
+6._LS There_EX may_MD be_VB other_JJ reason_NN which_WDT can_MD be_VB guessed_VBN of_IN less_JJR car_NN usage_NN is_VBZ ,_, if_IN the_DT cars_NNS are_VBP affordable_JJ to_TO buy_VB by_IN the_DT middle_JJ class_NN families_NNS it_PRP may_MD become_VB a_DT traffic_NN problem_NN as_IN more_JJR public_JJ tend_VB to_TO buy_VB the_DT cars_NNS instead_RB ._.
+7._LS Nowadays_NNPS ,_, buying_VBG a_DT car_NN is_VBZ easy_JJ ,_, but_CC due_JJ to_TO higher_JJR growing_VBG fuel_NN price_NN ._.
+Maintenance_NN of_IN the_DT car_NN has_VBZ become_VBN expensive_JJ ._.
+8._CD Due_JJ to_TO higher_JJR usage_NN of_IN cars_NNS there_RB may_MD be_VB shortage_NN of_IN parking_NN space_NN in_IN the_DT offices_NNS for_IN the_DT employees_NNS to_TO park_VB their_PRP$ cars_NNS ._.
+9._CD There_EX may_MD be_VB higher_JJR risk_NN of_IN road_NN accidents_NNS ._.
+So_RB ,_, may_MD be_VB in_IN twenty_CD years_NNS there_RB will_MD be_VB surely_RB less_JJR usage_NN of_IN cars_NNS as_IN compared_VBN today_NN ._.

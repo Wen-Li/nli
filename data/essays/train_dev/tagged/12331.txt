@@ -1,0 +1,16 @@
+Education_NN is_VBZ one_CD of_IN the_DT most_RBS important_JJ engine_NN of_IN human_JJ ,_, society_NN and_CC economic_JJ development_NN ._.
+However_RB ,_, ways_NNS to_TO conducted_VBN education_NN through_IN learning_VBG differ_VBP ._.
+For_IN some_DT authors_NNS ,_, it_PRP is_VBZ important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+For_IN some_DT other_JJ ,_, learning_VBG facts_NNS is_VBZ more_RBR important_JJ ._.
+Here_RB (_CD my_PRP$ opinion_NN )_NN ,_, it_PRP is_VBZ question_NN to_TO show_VB that_IN learning_VBG facts_NNS will_MD be_VB better_RBR ._.
+In_IN other_JJ words_NNS ,_, I_PRP will_MD show_VB why_WRB I_PRP disagree_VBP with_IN the_DT statement_NN using_VBG two_CD examples_NNS ._.
+First_RB ,_, this_DT example_NN is_VBZ related_VBN to_TO the_DT field_NN of_IN Mathematics_NNS ._.
+It_PRP is_VBZ abvious_JJ that_IN fact_NN students_NNS involved_VBN in_IN memorizing_VBG theories_NNS ,_, assumptions_NNS ,_, propositions_NNS and_CC theorems_NNS related_VBN to_TO Mathemathics_NNPS will_MD have_VB much_JJ difficulties_NNS to_TO remember_VB most_RBS the_DT theories_NNS ._.
+For_IN that_DT reason_NN ,_, software_NN applications_NNS are_VBP ,_, in_IN somehow_RB ,_, a_DT way_NN for_IN students_NNS to_TO remember_VB easily_RB what_WP they_PRP have_VBP studied_VBN ._.
+This_DT example_NN can_MD be_VB applied_VBN in_IN may_MD other_JJ fields_NNS like_IN economics_NNS ,_, agriculture_NN ,_, etc_FW ._.
+For_IN students_NNS in_IN agriculture_NN to_TO really_RB have_VB a_DT deep_JJ understanding_NN and_CC clear_JJ knowledge_NN of_IN what_WP they_PRP have_VBP learnt_VBN ,_, they_PRP need_VBP to_TO be_VB in_IN the_DT field_NN or_CC in_IN greenhouse_NN in_IN order_NN to_TO apply_VB the_DT basic_JJ theories_NNS on_IN chemistry_NN ,_, agronomy_NN and_CC so_RB on_IN ._.
+The_DT second_JJ example_NN is_VBZ related_VBN to_TO the_DT first_JJ steps_NNS of_IN the_DT education_NN ._.
+During_IN my_PRP$ primary_JJ school_NN ,_, I_PRP have_VBP visit_VB some_DT historical_JJ places_NNS in_IN the_DT framework_NN of_IN our_PRP$ class_NN of_IN History_NN and_CC Geography_NN ._.
+A_DT historical_JJ place_NN like_IN Goree_NNP (_CD with_IN its_PRP$ Slavery_NNP House_NNP )_NN is_VBZ still_RB scanned_VBN in_IN my_PRP$ memory_NN ,_, and_CC the_DT explanation_NN of_IN the_DT guide_NN also_RB ,_, as_IN if_IN I_PRP was_VBD in_IN that_DT place_NN during_IN the_DT Slavery_NNP Trade_NNP ._.
+Compared_VBN to_TO the_DT people_NNS that_WDT have_VBP never_RB been_VBN in_IN that_DT place_NN ,_, I_PRP am_VBP more_RBR able_JJ and_CC more_RBR likely_JJ to_TO talk_VB about_IN History_NN ._.
+To_TO conclude_VB it_PRP can_MD be_VB said_VBD that_IN as_IN witnessed_VBN by_IN the_DT use_NN of_IN softwares_NNS in_IN the_DT Social_NNP Sciences_NNPS and_CC through_IN my_PRP$ experience_NN ,_, I_PRP can_MD

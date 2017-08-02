@@ -1,0 +1,25 @@
+I_PRP disagree_VBP with_IN the_DT given_VBN statement_NN that_IN in_IN the_DT coming_VBG twenty_CD years_NNS the_DT number_NN of_IN cars_NNS on_IN road_NN will_MD actually_RB decrease_VB ._.
+Many_JJ people_NNS may_MD believe_VB and_CC support_VB this_DT because_IN of_IN the_DT fact_NN that_IN petroluem_NN resources_NNS are_VBP depleting_VBG and_CC the_DT sudden_JJ rise_NN in_IN prices_NNS of_IN petrol_NN and_CC diesel_NN have_VBP supported_VBN their_PRP$ point_NN of_IN view_NN ._.
+But_CC what_WP they_PRP actually_RB fail_VBP to_TO see_VB is_VBZ the_DT facts_NNS ._.
+As_IN of_IN today_NN we_PRP have_VBP not_RB even_RB discovered_VBN (_NN leave_NN alone_RB taking_VBG out_RP )_RB 50_CD %_NN of_IN the_DT petroluem_NN resources_NNS present_JJ on_IN earth_NN ._.
+The_DT theory_NN or_CC curve_NN used_VBN for_IN energy_NN consumption_NN is_VBZ Logistic_JJ curve_NN ._.
+This_DT curve_NN shows_VBZ that_IN energy_NN consumption_NN reaches_VBZ to_TO a_DT maximum_NN value_NN at_IN exactly_RB the_DT mid_JJ point_NN of_IN the_DT life_NN span_NN of_IN the_DT resource_NN ._.
+Till_IN today_NN we_PRP have_VBP not_RB reached_VBN that_IN mid_JJ point_NN even_RB ._.
+Another_DT point_NN is_VBZ that_IN ,_, the_DT rate_NN at_IN which_WDT the_DT automobile_NN sector_NN is_VBZ growing_VBG today_NN it_PRP is_VBZ impossible_JJ to_TO say_VB that_IN in_IN the_DT next_JJ twenty_CD years_NNS it_PRP will_MD be_VB gone_VBN ._.
+All_PDT the_DT big_JJ industries_NNS can_MD not_RB be_VB closed_VBN in_IN just_RB twenty_CD years_NNS ._.
+Coming_VBG back_RB to_TO the_DT petroluem_NN ,_, it_PRP is_VBZ true_JJ that_IN the_DT cost_NN of_IN oil_NN will_MD continue_VB to_TO increase_VB and_CC slowly_RB it_PRP will_MD not_RB be_VB affordable_JJ for_IN the_DT commom_NN man_NN to_TO use_VB it_PRP for_IN transportation_NN but_CC other_JJ alternatives_NNS are_VBP coming_VBG up_RP slowly_RB ._.
+They_PRP include_VBP Bio-fuel_NN ,_, coal_NN gasification_NN and_CC coal_NN liquification_NN ,_, etc_FW ._. ._.
+I_PRP have_VBP myself_PRP worked_VBN on_IN Bio-fuels_NNS (_VBP specifically_RB bio-diesel_JJ )_NN ._.
+In_IN my_PRP$ project_NN I_PRP used_VBD bio-diesel_NN as_IN fuel_NN for_IN a_DT diesel_NN engine_NN and_CC compared_VBN engine_NN performance_NN and_CC emission_NN characterstics_NNS with_IN diesel_NN on_IN other_JJ hand_NN as_IN fuel_NN ._.
+The_DT conclusion_NN was_VBD that_IN bio-diesel_NN produces_VBZ less_JJR pollutants_NNS and_CC is_VBZ cheaper_JJR as_IN compared_VBN to_TO diesel_NN prices_NNS as_IN of_IN today_NN ._.
+Moreover_RB it_PRP is_VBZ bio-degredable_JJ ._.
+The_DT researchers_NNS are_VBP having_VBG lot_NN of_IN hopes_NNS with_IN bio-fuels_NNS because_IN of_IN above_IN mentioned_VBN advantages_NNS ._.
+In_IN my_PRP$ country_NN government_NN has_VBZ taken_VBN several_JJ initiatives_NNS for_IN mass-production_NN of_IN bio-diesel_NN ._.
+There_EX are_VBP other_JJ alernatives_NNS for_IN petroluem_NN also_RB ._.
+eg._NN For_IN the_DT short_JJ term_NN requirement_NN of_IN petrol/diesel_NN and_CC gas_NN ,_, coal_NN liquification_NN and_CC coal_NN gasification_NN are_VBP best_RBS possible_JJ answers_NNS ._.
+In_IN these_DT processes_NNS solid_JJ coal_NN is_VBZ converted_VBN to_TO natural_JJ gas_NN and_CC liquid_JJ petrol_NN ._.
+As_IN there_EX is_VBZ no_DT scarcity_NN or_CC crisis_NN for_IN coal_NN today_NN ,_, this_DT will_MD be_VB a_DT possible_JJ answer_NN for_IN some_DT years_NNS ._.
+Also_RB much_JJ research_NN is_VBZ going_VBG on_RP on_IN electric_JJ cars_NNS ._.
+Indian_JJ company_NN REVA_NNP is_VBZ producing_VBG an_DT electric_JJ car_NN called_VBN REVA_NNP II_CD which_WDT is_VBZ available_JJ for_IN consumers_NNS ._.
+Hence_RB in_IN all_DT it_PRP is_VBZ evident_JJ that_IN the_DT number_NN of_IN cars_NNS on_IN road_NN will_MD only_RB increase_VB but_CC the_DT rate_NN of_IN increase_NN may_MD drop_VB down_RP ._.
+And_CC the_DT problem_NN of_IN energy_NN crisis_NN will_MD be_VB solved_VBN because_IN human_JJ civilization_NN will_MD survive_VB as_IN it_PRP has_VBZ till_IN date_NN and_CC whenever_WRB such_JJ problems_NNS come_VBP ,_, alternatives_NNS have_VBP been_VBN found_VBN out_IN and_CC implemented_VBD ._.

@@ -1,0 +1,29 @@
+Education_NN is_VBZ a_DT very_RB complex_JJ issue_NN ._.
+Many_JJ professors_NNS ,_, scientists_NNS think_VBP a_DT lot_NN about_IN the_DT subject_NN of_IN Education_NN ._.
+How_WRB do_VBP the_DT students_NNS learn_VB ?_.
+What_WP is_VBZ the_DT better_JJR way_NN to_TO learn_VB and_CC what_WP are_VBP the_DT most_RBS important_JJ things_NNS to_TO know_VB ?_.
+The_DT issue_NN about_IN the_DT importance_NN of_IN ideas_NNS ,_, concepts_NNS and_CC facts_NNS is_VBZ essential_JJ ._.
+Some_DT think_VBP that_IN ideas_NNS ,_, concepts_NNS are_VBP more_RBR important_JJ than_IN facts_NNS ._.
+Others_NNS think_VBP it_PRP is_VBZ wrong_JJ ._.
+In_IN my_PRP$ opinion_NN ,_, i_FW agree_VBP with_IN the_DT given_VBN statement_NN ._.
+Understand_JJ ideas_NNS ,_, concepts_NNS ,_, is_VBZ more_RBR important_JJ than_IN to_TO learn_VB facts_NNS ._.
+Facts_NNS are_VBP not_RB sufficient_JJ to_TO understand_VB the_DT world_NN ,_, or_CC school_NN matters_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, theory_NN has_VBZ to_TO come_VB before_IN practice_NN ._.
+If_IN students_NNS want_VBP to_TO understand_VB all_PDT the_DT points_NNS of_IN a_DT problem_NN ,_, they_PRP will_MD need_VB ideas_NNS and_CC concepts_NNS ._.
+First_RB ,_, facts_NNS are_VBP necessary_JJ in_IN education_NN ,_, they_PRP can_MD help_VB to_TO better_RBR understand_VB ,_, but_CC at_IN the_DT beginning_NN there_EX is_VBZ a_DT real_JJ need_NN of_IN ideas_NNS and_CC theories_NNS ._.
+In_IN chinese_JJ culture_NN ,_, students_NNS always_RB learn_VBP in_IN this_DT way_NN ._.
+Theory_NNP then_RB practice_NN ._.
+I_PRP will_MD illustrate_VB my_PRP$ point_NN of_IN view_NN with_IN a_DT more_RBR specific_JJ example_NN ._.
+In_IN chemistry_NN class_NN ,_, students_NNS first_RB ,_, learn_VBP the_DT theory_NN ,_, how_WRB it_PRP works_VBZ ,_, why_WRB products_NNS react_VBP like_IN that_DT ._.
+After_IN ,_, they_PRP will_MD make_VB some_DT experiences_NNS to_TO verify_VB the_DT ideas_NNS and_CC concepts_NNS already_RB learnt_VBD ._.
+Ideas_NNS and_CC concepts_NNS are_VBP really_RB the_DT beginning_NN ._.
+Moreover_RB ,_, I_PRP think_VBP that_IN there_EX are_VBP a_DT base_NN ._.
+Without_IN such_PDT a_DT base_NN of_IN ideas_NNS ,_, concepts_NNS ,_, researches_VBZ are_VBP impossible_JJ ._.
+For_IN instance_NN ,_, sustainable_JJ development_NN ._.
+There_EX is_VBZ a_DT theory_NN but_CC no_DT real_JJ big_JJ scales_NNS applications_NNS ._.
+Concepts_NNS and_CC ideas_NNS allow_VBP to_TO product_NN facts_NNS and_CC practice_NN ._.
+However_RB ,_, in_IN primary_JJ schools_NNS ,_, facts_NNS are_VBP essential_JJ ._.
+Children_NNS learn_VBP better_RB with_IN facts_NNS ._.
+The_DT teacher_NN begins_VBZ to_TO show_VB them_PRP a_DT fact_NN and_CC children_NNS discover_VBP from_IN this_DT fact_NN ,_, concepts_NNS and_CC ideas_NNS ._.
+Children_NNS will_MD not_RB forget_VB what_WP they_PRP have_VBP learnt_VBN if_IN they_PRP discover_VBP by_IN themselves_PRP ideas_NNS and_CC concepts_NNS related_VBN to_TO the_DT facts_NNS ._.
+So_RB ,_, to_TO conclude_VB ,_, ideas_NNS and_CC concepts_NNS come_VBP first_RB in_IN University_NNP and_CC high_JJ studies_NNS but_CC are_VBP second_JJ for_IN children_NNS ._.

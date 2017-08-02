@@ -1,0 +1,21 @@
+Having_VBG broad_JJ knowledge_NN is_VBZ always_RB better_JJR than_IN having_VBG specialization_NN in_IN one_CD specific_JJ subject_NN ._.
+But_CC ,_, this_DT doesnot_NN apply_VB to_TO every_DT student_NN ._.
+We_PRP can_MD classify_VB this_DT for_IN students_NNS based_VBN on_IN their_PRP$ level_NN of_IN education_NN in_IN two_CD categories_NNS ._.
+One_CD is_VBZ a_DT undergraduate_JJ level_NN student_NN and_CC the_DT other_JJ is_VBZ a_DT graduate_JJ level_NN student_NN ._.
+For_IN an_DT undergraduate_JJ student_NN ,_, it_PRP is_VBZ recommened_VBN to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+Having_VBG so_RB helps_VBZ him_PRP to_TO know_VB what_WP fileld_RB he_PRP is_VBZ his_PRP$ intrested_VBN in_IN ._.
+He_PRP can_MD choose_VB the_DT area_NN of_IN subject_NN ,_, in_IN which_WDT he_PRP wants_VBZ to_TO specialize_VB in_IN graduation_NN ._.
+Moreover_RB ,_, any_DT person_NN should_MD have_VB minimun_NN knowledge_NN on_IN different_JJ fileds_NNS ._.
+Like_IN if_IN we_PRP take_VBP an_DT engineer_NN ,_, if_IN he_PRP does_VBZ n't_RB have_VB minimun_NN knowledge_NN about_IN human_JJ body_NN ,_, then_RB he_PRP may_MD face_VB problems_NNS in_IN his_PRP$ life_NN ._.
+Like_IN he_PRP can_MD not_RB explain_VB well_RB enough_JJ to_TO doctor_VB like_IN an_DT illeterate_NN ,_, if_IN there_EX is_VBZ any_DT problem_NN with_IN his_PRP$ health_NN ._.
+Also_RB important_JJ is_VBZ some_DT political_JJ and_CC general_JJ information_NN for_IN students_NNS who_WP comes_VBZ from_IN enginnering_VBG ,_, medical_JJ or_CC any_DT other_JJ filed_VBN ._.
+Any_DT citizen_NN of_IN a_DT county_NN needs_VBZ to_TO know_VB atleast_IN some_DT history_NN about_IN his_PRP$ country_NN ._.
+He_PRP may_MD be_VB a_DT big_JJ doctor_NN ,_, but_CC if_IN he_PRP doenot_FW know_VB how_WRB his_PRP$ country_NN got_VBD indepence_NN or_CC who_WP are_VBP the_DT great_JJ leaders_NNS or_CC atleast_IN the_DT geographical_JJ structure_NN of_IN his_PRP$ countrty_NN ._.
+There_EX is_VBZ no_DT point_NN saying_VBG that_IN ,_, i_FW am_VBP a_DT medical_JJ student_NN and_CC i_FW do_VBP n't_RB require_VB any_DT history_NN knowledge_NN ._.
+He_PRP should_MD have_VB atleast_IN some_DT basic_JJ knowledge_NN related_JJ to_TO any_DT field_NN ._.
+Where_WRB as_RB in_IN the_DT case_NN of_IN a_DT graduate_JJ student_NN ,_, it_PRP is_VBZ better_RBR if_IN he_PRP specializes_VBZ in_IN one_CD subject_NN ._.
+He_PRP needs_VBZ to_TO concentrate_VB on_IN one_CD subject_NN and_CC specialize_VB in_IN it_PRP ._.
+Most_JJS probaly_RB ,_, a_DT graduate_JJ student_NN ,_, like_IN one_CD after_IN completing_VBG his_PRP$ masters_NNS will_MD go_VB for_IN a_DT job_NN ._.
+So_RB ,_, he_PRP needs_VBZ to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ,_, where_WRB he_PRP is_VBZ dreaming_VBG to_TO work_VB ._.
+A_DT doctor_NN needs_VBZ to_TO specialize_VB in_IN one_CD particular_JJ field_NN ,_, like_IN an_DT eye_NN specialist_NN or_CC become_VB a_DT cardioligist_NN by_IN specializing_VBG in_IN heart_NN related_JJ problems_NNS ._.
+In_IN short_JJ ,_, we_PRP can_MD say_VB that_IN a_DT undergraduate_JJ level_NN student_NN needs_VBZ to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ subjects_NNS and_CC a_DT graduate_JJ level_NN student_NN can_MD specialize_VB in_IN one_CD specific_JJ subject_NN ._.

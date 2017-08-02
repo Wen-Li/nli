@@ -1,0 +1,23 @@
+New_NNP Thing_NNP Gives_VBZ Success_NN
+Many_JJ people_NNS believe_VBP that_IN if_IN a_DT person_NN wants_VBZ to_TO be_VB successful_JJ ,_, he/she_NN should_MD try_VB new_JJ things_NNS and_CC take_VB risks_NNS rather_RB than_IN only_RB doing_VBG what_WP they_PRP already_RB know_VB how_WRB to_TO do_VB well_RB ._.
+I_PRP agree_VBP with_IN it_PRP ._.
+Although_IN there_EX are_VBP many_JJ different_JJ definations_NNS on_IN the_DT term_NN ``_`` successful_JJ people_NNS ''_'' ,_, I_PRP believe_VBP that_IN if_IN a_DT person_NN does_VBZ not_RB try_VB new_JJ things_NNS ,_, he/she_NN would_MD never_RB be_VB successful_JJ ._.
+There_EX are_VBP many_JJ successful_JJ people_NNS as_IN examples_NNS for_IN this_DT statement_NN ,_, such_JJ as_IN Albert_NNP Enstein_NNP and_CC Bill_NNP Gates_NNP ._.
+Albert_NNP Enstein_NNP is_VBZ one_CD of_IN the_DT most_RBS famous_JJ and_CC revolutionary_JJ physists_NNS in_IN history_NN ._.
+What_WDT has_VBZ he_PRP done_VBN ,_, is_VBZ used_VBN his_PRP$ radicular_JJ thought_NN on_IN situation_NN with_IN speed_NN of_IN light_NN to_TO contrast_NN with_IN Sir_NNP Isac_NNP Newton_NNP 's_POS theory_NN ,_, which_WDT is_VBZ called_VBN classical_JJ physics_NNS and_CC contains_VBZ most_JJS basic_JJ theoris_NN on_IN forces_NNS at_IN that_DT time_NN ._.
+With_IN this_DT contrast_NN ,_, Albert_NNP Enstein_NNP established_VBD new_JJ physical_JJ theories_NNS ._.
+By_IN taking_VBG a_DT try_NN on_IN new_JJ thoughts_NNS ,_, Enstein_NN had_VBD physical_JJ subjects_NNS step_VB forward_RB to_TO new_JJ generations_NNS ,_, and_CC himself_PRP became_VBD a_DT successful_JJ person_NN ._.
+He_PRP has_VBZ said_VBN :_: ``_`` Imegination_NN is_VBZ more_RBR important_JJ than_IN knowledge_NN ._. ''_''
+As_IN he_PRP said_VBD ,_, without_IN this_DT creative_JJ thought_NN ,_, physics_NN would_MD never_RB have_VB a_DT progress_NN ._.
+Another_DT successful_JJ person_NN I_PRP want_VBP to_TO show_VB here_RB is_VBZ one_CD of_IN the_DT richest_JJS person_NN in_IN current_JJ world_NN ,_, whose_WP$ name_NN is_VBZ Bill_NNP Gates_NNP ._.
+He_PRP is_VBZ the_DT CEO_NN of_IN the_DT biggest_JJS software_NN campany_NN ,_, Microsoft_NNP ._.
+With_IN his_PRP$ great_JJ sense_NN on_IN the_DT development_NN of_IN computer_NN ,_, he_PRP really_RB passes_VBZ a_DT gate_NN toward_IN bill_NN ._.
+When_WRB he_PRP was_VBD still_RB in_IN his_PRP$ teen_JJ age_NN ,_, computer_NN was_VBD really_RB a_DT rare_JJ thing_NN ._.
+Ignors_NNP the_DT objection_NN by_IN his_PRP$ classmate_NN ,_, Bill_NNP quit_VBD Harvert_NNP University_NNP and_CC takes_VBZ this_DT new_JJ thing_NN ,_, and_CC also_RB risks_NNS ._.
+Of_IN course_NN ,_, if_IN he_PRP has_VBZ continuoued_VBN his_PRP$ way_NN in_IN Havert_NNP ,_, he_PRP may_MD become_VB a_DT nice_JJ lawyer_NN ._.
+However_RB ,_, to_TO him_PRP ,_, nice_JJ means_NNS nothing_NN ._.
+He_PRP does_VBZ not_RB want_VB to_TO be_VB normal_JJ ._.
+By_IN running_VBG personal_JJ computer_NN programming_NN business_NN ,_, which_WDT is_VBZ a_DT new_JJ task_NN with_IN new_JJ risk_NN at_IN that_DT time_NN ,_, he_PRP successed_VBD ._.
+Trying_VBG new_JJ thing_NN gives_VBZ him_PRP rewards_VBZ much_RB more_RBR then_RB any_DT one_NN can_MD image_NN ._.
+Not_RB only_RB Albert_NNP Enstein_NNP and_CC Bill_NNP Gates_NNP are_VBP the_DT successful_JJ people_NNS who_WP have_VBP taken_VBN new_JJ things_NNS and_CC risks_NNS ,_, the_DT ways_NNS of_IN other_JJ successful_JJ people_NNS like_IN Plank_NNP or_CC Schrodinger_NNP to_TO success_NN are_VBP also_RB trying_VBG new_JJ things_NNS ._.
+Different_JJ people_NNS have_VBP different_JJ ways_NNS to_TO success_NN ,_, but_CC successful_JJ people_NNS always_RB try_VBP new_JJ things_NNS and_CC take_VB risks_NNS rather_RB than_IN only_RB doing_VBG what_WP they_PRP already_RB know_VB how_WRB to_TO do_VB well_RB ._.

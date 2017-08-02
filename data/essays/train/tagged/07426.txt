@@ -1,0 +1,15 @@
+I_PRP agree_VBP with_IN the_DT topic_NN that_IN ``_`` it_PRP is_VBZ more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ to_TO learn_VB facts_NNS ''_'' ._.
+Understanding_VBG the_DT ideas_NNS and_CC concepts_NNS ultimately_RB leads_VBZ to_TO facts_NNS that_WDT is_VBZ we_PRP need_MD not_RB learn_VB the_DT facts_NNS ._.
+understanding_VBG ideas_NNS and_CC concepts_NNS means_VBZ having_VBG an_DT indepth_JJ knowledge_NN about_IN a_DT topic_NN ._.
+learning_VBG facts_NNS means_VBZ mugging_VBG up_RP the_DT topics_NNS in_IN a_DT subject_NN for_IN some_DT students_NNS ._.
+if_IN students_NNS wont_JJ understand_VBP ideas_NNS then_RB they_PRP will_MD be_VB unable_JJ to_TO develop_VB the_DT logic_NN and_CC creative_JJ thinking_NN ._.
+for_IN example_NN let_VB us_PRP take_VB mathematics_NNS ,_, in_IN mathematics_NNS it_PRP is_VBZ very_RB important_JJ to_TO know_VB what_WP actually_RB problem_NN is_VBZ ,_, ways_NNS to_TO resolve_VB it_PRP and_CC how_WRB to_TO approach_VB the_DT problem_NN ._.
+if_IN student_NN dont_NN know_VBP about_IN basic_JJ idea_NN or_CC concept_NN of_IN problem_NN ,_, he_PRP will_MD never_RB be_VB able_JJ to_TO resolve_VB it_PRP ._.
+In_IN mathematics_NNS merely_RB knowing_VBG the_DT formulas_NNS is_VBZ not_RB enough_JJ but_CC one_CD should_MD know_VB basic_JJ idea_NN of_IN applying_VBG it_PRP to_TO solve_VB the_DT problem_NN mportant_NN ._.
+Sometimes_RB we_PRP believe_VBP the_DT facts_NNS like_IN ``_`` pluto_NN is_VBZ a_DT planet_NN ''_'' as_IN our_PRP$ teacher_NN said_VBD in_IN our_PRP$ earlier_JJR classess_NN ,_, but_CC now_RB it_PRP really_RB matters_VBZ that_IN whether_IN it_PRP is_VBZ a_DT planet_NN or_CC a_DT KBO_NNP ._.
+This_DT implies_VBZ that_IN the_DT thing_NN we_PRP consider_VBP as_IN FACT_NN earlier_RBR is_VBZ no_DT more_JJR a_DT fact_NN ._.
+There_EX are_VBP many_JJ instances_NNS like_IN the_DT above_JJ in_IN history_NN ._.
+Let_VB me_PRP quote_VB another_DT example_NN that_WDT is_VBZ during_IN ancient_JJ civilisation_NN our_PRP$ ancestors_NNS considered_VBN earth_NN to_TO be_VB flat_JJ ,_, but_CC with_IN the_DT inventions_NNS of_IN Galilio_NNP 's_POS telescope_NN people_NNS changed_VBD the_DT attitude_NN that_WDT earth_NN is_VBZ no_DT more_JJR a_DT flat_JJ surface_NN but_CC a_DT eliptical_JJ sphere_NN ._.
+This_DT is_VBZ possible_JJ only_RB by_IN understanding_VBG the_DT concepts_NNS of_IN physics_NNS and_CC mathematics_NNS ._.
+Finally_RB what_WP i_FW mean_VB to_TO say_VB is_VBZ that_DT just_RB simply_RB learning_VBG the_DT facts_NNS is_VBZ not_RB enough_JJ but_CC we_PRP should_MD learn_VB to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS so_IN we_PRP can_MD explore_VB new_JJ inventions_NNS and_CC theories_NNS ._.
+If_IN scientists_NNS would_MD have_VB satisfied_VBN with_IN learing_VBG facts_NNS then_RB world_NN would_MD be_VB at_IN standstill_NN ,_, but_CC their_PRP$ quest_NN for_IN deep_JJ understanding_NN of_IN ideas_NNS and_CC concepts_NNS paved_VBD the_DT way_NN for_IN new_JJ research_NN and_CC inventions_NNS ._.

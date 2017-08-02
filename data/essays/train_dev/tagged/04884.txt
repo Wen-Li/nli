@@ -1,0 +1,23 @@
+Some_DT people_NNS agree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+However_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN for_IN the_DT following_VBG reasons_NNS ._.
+Most_RBS importantly_RB ,_, ideas_NNS and_CC concepts_NNS are_VBP tools_NNS for_IN people_NNS to_TO make_VB facts_NNS clear_JJ and_CC simple_JJ ._.
+In_IN other_JJ words_NNS ,_, ideas_NNS and_CC concepts_NNS are_VBP not_RB necessary_JJ if_IN there_EX is_VBZ no_DT facts_NNS related_VBN to_TO the_DT concepts_NNS ._.
+For_IN example_NN ,_, unversity_JJ students_NNS in_IN a_DT department_NN of_IN counseling_NN should_MD learn_VB a_DT lot_NN of_IN concepts_NNS and_CC ideas_NNS for_IN the_DT treatment_NN ._.
+Specifically_RB ,_, there_EX is_VBZ one_CD important_JJ concept_NN ,_, which_WDT is_VBZ the_DT reciprocate_NN theory_NN of_IN self-disclosure_NN ._.
+That_DT is_VBZ ,_, people_NNS are_VBP likely_JJ to_TO disclose_VB themselves_PRP ,_, when_WRB others_NNS disclose_VBP themselves_PRP to_TO the_DT people_NNS ._.
+This_DT is_VBZ a_DT conceptual_JJ theory_NN ._.
+However_RB ,_, though_IN a_DT lot_NN of_IN practice_NN sessions_NNS the_DT students_NNS conduct_NN ,_, they_PRP gradually_RB know_VBP that_IN there_EX are_VBP many_JJ cases_NNS where_WRB the_DT concept_NN can_MD not_RB be_VB applicable_JJ ._.
+In_IN other_JJ words_NNS ,_, even_RB if_IN the_DT counselor_NN discloses_VBZ herr/himself_NN ,_, the_DT client_NN will_MD not_RB share_VB her/himself_NN ._.
+At_IN that_DT time_NN ,_, students_NNS should_MD learn_VB that_IN there_EX are_VBP many_JJ exceptions_NNS which_WDT concepts_NNS and_CC ideas_NNS can_MD not_RB apply_VB to_TO ._.
+As_IN shown_VBN above_IN ,_, students_NNS need_VBP to_TO learn_VB facts_NNS first_RB and_CC they_PRP also_RB should_MD know_VB ideas_NNS and_CC concepts_NNS are_VBP tools_NNS which_WDT help_VBP themselves_PRP to_TO see_VB the_DT facts_NNS clearlly_RB and_CC simply_RB ._.
+Additionally_RB ,_, facts_NNS are_VBP more_RBR persuasive_JJ to_TO students_NNS regarding_VBG to_TO learning_VBG ._.
+As_IN I_PRP mentioned_VBD above_RB ,_, students_NNS study_VBP many_JJ concepts_NNS and_CC ideas_NNS for_IN the_DT counseling_NN ,_, such_JJ as_IN person-centered_JJ method_NN and_CC cognitive_JJ method_NN ._.
+However_RB ,_, sometimes_RB ,_, these_DT concepts_NNS do_VBP not_RB help_VB students_NNS understand_VB what_WP counseling_NN is_VBZ because_IN of_IN the_DT abstractness_NN ._.
+Then_RB ,_, knowing_VBG and_CC learning_VBG facts_NNS help_VBP them_PRP understand_VB important_JJ things_NNS more_RBR convincingly_RB ._.
+For_IN example_NN ,_, the_DT students_NNS sometimes_RB visit_VB clients_NNS homes_NNS and_CC have_VBP an_DT interviews_NNS with_IN the_DT clients_NNS ._.
+At_IN that_DT time_NN ,_, students_NNS may_MD see_VB the_DT facts_NNS ._.
+That_DT is_VBZ ,_, they_PRP will_MD find_VB that_IN the_DT main_JJ cause_NN of_IN the_DT depression_NN comes_VBZ from_IN the_DT terrible_JJ family_NN relationship_NN or_CC the_DT main_JJ cause_NN comes_VBZ from_IN their_PRP$ past_JJ experience_NN they_PRP want_VBP to_TO forget_VB ._.
+These_DT facts_NNS which_WDT the_DT students_NNS will_MD find_VB will_MD be_VB more_RBR persuasive_JJ to_TO students_NNS and_CC the_DT students_NNS will_MD be_VB able_JJ to_TO know_VB and_CC feel_VB what_WP the_DT counseling_NN is_VBZ ,_, what_WP the_DT counseling_NN can_MD do_VB for_IN them_PRP ,_, and_CC how_WRB the_DT counseling_NN works_VBZ ._.
+In_IN other_JJ words_NNS ,_, facts_NNS a_DT more_RBR persuasive_JJ to_TO students_NNS regarding_VBG to_TO their_PRP$ leaning_VBG ._.
+In_IN conclusion_NN ,_, some_DT people_NNS agree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+However_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN for_IN these_DT reasons_NNS ._.

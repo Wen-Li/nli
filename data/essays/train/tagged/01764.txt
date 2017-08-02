@@ -1,0 +1,10 @@
+I_PRP am_VBP agree_VBP ._.
+First_RB ,_, to_TO travel_VB in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN has_VBZ grand_JJ security_NN ._.
+Even_RB if_IN tha_NN travelor_NN know_VBP anything_NN about_IN his_PRP$ tour_NN ,_, he_PRP can_MD travel_VB ._.
+There_EX is_VBZ no_DT trouble_NN ._.
+Second_RB ,_, it_PRP 's_VBZ law_NN price_NN compared_VBN with_IN lonely_JJ ._.
+Many_JJ people_NNS attennd_NN tha_NN guide_NN tour_NN ,_, so_IN it_PRP 's_VBZ law_NN for_IN each_DT people_NNS ._.
+Third_NNP ,_, it_PRP 's_VBZ fun_NN ._.
+He_PRP can_MD meat_NN many_JJ people_NNS during_IN the_DT tour_NN ._.
+He_PRP can_MD make_VB various_JJ friends_NNS ._.
+Therefore_RB I_PRP am_VBP agree_VBP ._.

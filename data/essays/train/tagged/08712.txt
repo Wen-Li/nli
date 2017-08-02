@@ -1,0 +1,16 @@
+It_PRP has_VBZ been_VBN a_DT long_JJ time_NN disputing_VBG issue_NN for_IN which_WDT one_NN is_VBZ more_RBR important_JJ among_IN student_NN should_MD understanding_VBG ideas_NNS and_CC students_NNS should_MD learn_VB facts_NNS ._.
+For_IN my_PRP$ view_NN ,_, I_PRP think_VBP it_PRP will_MD depends_VBZ ._.
+You_PRP need_VBP use_VB different_JJ method_NN to_TO study_VB in_IN different_JJ time_NN according_VBG to_TO different_JJ requirements_NNS ._.
+Take_VB studing_VBG mathmatics_NNS and_CC phisics_NNS as_IN an_DT example_NN ._.
+As_IN all_DT of_IN you_PRP know_VBP ,_, mathmatics_NNS and_CC phisics_NNS are_VBP very_RB logical_JJ subject_NN and_CC learning_VBG them_PRP needs_VBZ very_RB deep_JJ understanding_NN of_IN their_PRP$ facts_NNS ._.
+Only_RB after_IN that_DT ,_, you_PRP might_MD be_VB able_JJ to_TO begin_VB find_VB out_RP some_DT essential_JJ of_IN those_DT subjects_NNS ._.
+for_IN example_NN ,_, if_IN you_PRP just_RB have_VBP remenbered_VBN sping_NN formular_NN ,_, not_RB very_RB understanding_VBG the_DT theory_NN and_CC facts_NNS of_IN the_DT spring_NN formular_NN ,_, it_PRP might_MD be_VB ,_, perhaps_RB ,_, when_WRB you_PRP facing_VBG some_DT relevant_JJ problem_NN very_RB easy_JJ ,_, you_PRP might_MD be_VB able_JJ to_TO solve_VB the_DT problem_NN just_RB use_VBP the_DT spring_NN formular_JJ you_PRP have_VBP remembered_VBN ._.
+However_RB ,_, if_IN the_DT problem_NN you_PRP are_VBP going_VBG to_TO face_NN is_VBZ the_DT combination_NN of_IN different_JJ mechanic_NN ._.
+You_PRP need_VBP to_TO figure_VB out_RP effect_NN of_IN combination_NN of_IN mechanic_NN which_WDT include_VBP spring_NN mechanic_JJ area_NN ._.
+You_PRP could_MD solve_VB the_DT proble_NN only_RB if_IN you_PRP know_VBP the_DT thorough_JJ facts_NNS about_IN sping_VBG including_VBG the_DT reason_NN of_IN spring_NN mechanic_NN ,_, process_NN of_IN spring_NN mechanic_NN ,_, some_DT special_JJ circumstance_NN of_IN spring_NN mechanic_NN ,_, etc_FW ._.
+Nevertheless_RB ,_, if_IN you_PRP want_VBP to_TO learn_VB cmputer_NN program_NN language_NN and_CC want_VBP to_TO just_RB use_VB it_PRP for_IN application_NN ._.
+You_PRP do_VBP not_RB need_VB to_TO learn_VB many_JJ details_NNS which_WDT sustain_VBP the_DT higher_JJR application_NN ._.
+Only_RB some_DT idears_NNS and_CC concepts_NNS are_VBP enough_RB ,_, since_IN nowadays_RB ,_, some_DT lower_JJR level_NN details_NNS and_CC facts_NNS are_VBP integrated_VBN to_TO a_DT higher_JJR method_NN of_IN computer_NN language_NN ._.
+And_CC those_DT integration_NN are_VBP the_DT job_NN of_IN another_DT computer_NN experts_NNS ,_, who_WP need_VBP know_VB facts_NNS from_IN how_WRB memory_NN comsumering_NN to_TO how_WRB to_TO located_JJ the_DT memory_NN ,_, etc_FW ._.
+You_PRP can_MD just_RB think_VB the_DT higher_JJR method_NN as_IN a_DT black_JJ box_NN ,_, just_RB use_VB it_PRP will_MD be_VB ok_JJ ._.
+So_RB ,_, it_PRP will_MD be_VB important_JJ to_TO use_VB fiffer_NN

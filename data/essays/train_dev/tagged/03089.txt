@@ -1,0 +1,17 @@
+I_PRP certianly_RB ,_, disagree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN learning_VBG facts_NNS ,_, As_IN we_PRP know_VBP that_IN we_PRP can_MD not_RB creat_VB a_DT wall_NN without_IN a_DT base_NN ._.
+Therefore_RB learning_VBG the_DT concept_NN and_CC theory_NN behind_IN it_PRP is_VBZ very_RB important_JJ ._.
+Concepts_NNS will_MD automatically_RB show_VB the_DT facts_NNS in_IN the_DT future_NN ._.
+For_IN instance_NN ,_, if_IN I_PRP want_VBP to_TO learn_VB a_DT new_JJ language_NN then_RB I_PRP will_MD first_RB learn_VB alphabets_NNS ._.
+I_PRP will_MD learn_VB them_PRP to_TO pronunce_NN and_CC even_RB to_TO write_VB ._.
+Pronucing_VBG and_CC writing_VBG letter_NN will_MD introduce_VB me_PRP the_DT facts_NNS of_IN the_DT language_NN ._.
+How_WRB hard_JJ it_PRP is_VBZ to_TO learn_VB ?_.
+and_CC how_WRB easy_JJ it_PRP is_VBZ ?_.
+Implementing_VBG the_DT ideas_NNS practically_RB will_MD show_VB you_PRP the_DT facts_NNS and_CC results_NNS ._.
+First_RB we_PRP will_MD learn_VB what_WP color_NN will_MD be_VB produce_VB when_WRB mixing_VBG it_PRP with_IN the_DT other_JJ color_NN ._.
+For_IN instance_NN ,_, we_PRP will_MD learn_VB in_IN book_NN yellow_JJ plus_CC blue_JJ turns_NNS green_JJ ._.
+Now_RB ,_, in_IN order_NN to_TO learn_VB the_DT fact_NN of_IN this_DT idea_NN we_PRP will_MD do_VB it_PRP practically_RB and_CC we_PRP will_MD find_VB it_PRP true_JJ ._.
+This_DT is_VBZ how_WRB it_PRP is_VBZ important_JJ to_TO have_VB an_DT idea_NN before_IN implementing_VBG it_PRP ._.
+After_IN learning_VBG principles_NNS and_CC theories_NNS from_IN books_NNS and_CC expertise_NN ,_, we_PRP find_VBP them_PRP in_IN field_NN whether_IN they_PRP were_VBD true_JJ or_CC not_RB ._.
+We_PRP learn_VBP facts_NNS through_IN experience_NN and_CC it_PRP keeps_VBZ changing_VBG ._.
+However_RB ,_, concept_NN does_VBZ n't_RB change_VB ._.
+Therefore_RB ,_, it_PRP is_VBZ important_JJ for_IN students_NNS to_TO learn_VB fundamental_JJ skills_NNS and_CC basics_NNS then_RB start_VBP learning_VBG fact_NN ._.

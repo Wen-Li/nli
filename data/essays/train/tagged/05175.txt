@@ -1,0 +1,18 @@
+Today_NN ,_, the_DT population_NN of_IN the_DT world_NN is_VBZ increasing_VBG rapidly_RB ._.
+so_RB that_IN ,_, some_DT indivisual_JJ needs_NNS such_JJ as_IN house_NN and_CC car_NN are_VBP increasing_VBG depends_VBZ on_IN this_DT process_NN ._.
+in_IN twenty_CD years_NNS ,_, the_DT increment_NN of_IN dwelling_NN number_NN in_IN cities_NNS will_MD continue_VB at_IN the_DT same_JJ speed_NN rate_NN but_CC I_PRP can_MD not_RB make_VB the_DT same_JJ prediction_NN for_IN the_DT number_NN of_IN cars_NNS on_IN the_DT world_NN ._.
+according_VBG to_TO me_PRP ,_, the_DT number_NN of_IN cars_NNS will_MD be_VB less_JJR than_IN today_NN in_IN the_DT future_NN ._.
+because_IN I_PRP have_VBP most_JJS of_IN reasons_NNS to_TO support_VB my_PRP$ idea_NN ._.
+Todays_NNP ,_, the_DT goverments_NNS noticed_VBD the_DT importance_NN of_IN railways_NNS in_IN respect_NN to_TO transportation_NN systems_NNS at_IN the_DT regions_NNS and_CC cities_NNS ._.
+in_IN transportation_NN policies_NNS ,_, the_DT mass_NN transportation_NN is_VBZ preferred_VBN by_IN most_JJS of_IN the_DT countries_NNS ._.
+this_DT is_VBZ the_DT big_JJ factor_NN of_IN decreasing_VBG the_DT cars_NNS number_NN
+most_JJS of_IN people_NNS are_VBP dying_VBG at_IN the_DT traffic_NN accidents_NNS nowadays_RB ._.
+so_RB ,_, people_NNS are_VBP preferring_VBG mass_NN transportation_NN facilities_NNS such_JJ as_IN plain_JJ ,_, train_NN ,_, buses_NNS etc._FW when_WRB travelling_VBG ._.
+because_IN these_DT vehicles_NNS are_VBP more_RBR comportable_JJ ,_, cheaper_JJR and_CC safer_JJR than_IN the_DT cars_NNS ._.
+in_IN the_DT future_NN ,_, depending_VBG on_IN the_DT high_JJ population_NN at_IN the_DT cities_NNS ,_, commuting_VBG will_MD take_VB more_JJR and_CC more_JJR time_NN for_IN people_NNS by_IN cars_NNS by_IN virtue_NN of_IN high_JJ traffic_NN density_NN on_IN the_DT roads_NNS ._.
+so_IN the_DT fast_JJ transportation_NN advantage_NN of_IN cars_NNS will_MD be_VB disappear_VB ._.
+\_SYM
+the_DT fuel_NN prices_NNS will_MD be_VB very_RB expensive_JJ ._.
+for_IN high_JJ travel_NN cost_NN ,_, everybody_NN will_MD use_VB buses_NNS and_CC trains_NNS for_IN going_VBG to_TO their_PRP$ jobs_NNS or_CC homes_NNS ._.
+in_IN conclusion_NN ,_, in_IN the_DT future_NN ,_, different_JJ and_CC single_JJ vehicles_NNS will_MD be_VB replaced_VBN on_IN the_DT roads_NNS inside_IN the_DT cities_NNS instead_RB of_IN big_JJ cars_NNS ._.
+because_IN of_IN parking_NN problems_NNS ,_, the_DT big_JJ cars_NNS will_MD be_VB a_DT freight_NN on_IN the_DT citizens_NNS who_WP live_VBP at_IN the_DT cities_NNS ._.

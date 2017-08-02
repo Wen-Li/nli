@@ -1,0 +1,14 @@
+I_PRP agree_VBP with_IN the_DT point_NN that_IN ``_`` better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS rather_RB than_IN going_VBG for_IN a_DT specialization_NN in_IN one_CD specific_JJ subject_NN ''_'' ._.
+I_PRP support_VBP this_DT point_NN because_IN we_PRP can_MD learn_VB many_JJ applications_NNS by_IN having_VBG many_JJ subjects_NNS in_IN academic_JJ ._.
+The_DT main_JJ reason_NN is_VBZ by_IN learning_VBG more_JJR subjects_NNS we_PRP can_MD interpret_VB them_PRP and_CC can_MD apply_VB the_DT knowledge_NN one_CD through_IN another_DT ._.
+For_IN example_NN if_IN we_PRP have_VBP to_TO work_VB on_IN a_DT project_NN like_IN developing_VBG a_DT machine_NN ._.
+we_PRP have_VBP to_TO about_IN the_DT strength_NN it_PRP will_MD withstand_VB ,_, to_TO know_VB this_DT we_PRP have_VBP to_TO work_VB for_IN stresses_NNS that_WDT apply_VBP on_IN the_DT parts_NNS of_IN the_DT machine_NN ._.
+But_CC it_PRP is_VBZ difficult_JJ to_TO find_VB manually_RB ,_, because_IN first_JJ designing_VBG the_DT machine_NN the_DT load_NN that_WDT with_IN stand_NN on_IN the_DT machine_NN ,_, etc_FW ._.
+Now_RB days_NNS that_IN we_PRP have_VBP simulation_NN softwares_NNS that_WDT can_MD work_VB by_IN producing_VBG a_DT model_NN in_IN that_DT ._.
+For_IN this_DT we_PRP need_VBP a_DT computer_NN knowledge_NN and_CC how_WRB to_TO work_VB on_IN the_DT software_NN ._.
+And_CC then_RB how_WRB to_TO design_VB the_DT model_NN ,_, loads_NNS ,_, etc_FW ._.
+For_IN all_PDT these_DT we_PRP need_VBP different_JJ subjects_NNS like_IN ,_, for_IN working_VBG with_IN computer_NN we_PRP have_VBP to_TO computer_NN knowledge_NN ,_, for_IN working_VBG to_TO design_NN we_PRP need_VBP to_TO know_VB the_DT drawing_NN ,_, for_IN finding_VBG the_DT loads_NNS we_PRP have_VBP to_TO the_DT mechanis_NN of_IN material_NN ,_, then_RB to_TO solve_VB we_PRP need_VBP mathematics_NNS ,_, and_CC then_RB for_IN assembling_VBG we_PRP have_VBP to_TO learn_VB how_WRB to_TO assemble_VB the_DT part_NN ._.
+By_IN seeming_VBG all_PDT these_DT for_IN one_CD thing_NN we_PRP have_VBP to_TO work_VB on_IN for_IN different_JJ subjects_NNS ._.
+We_PRP need_VBP to_TO apply_VB all_PDT the_DT skills_NNS in_IN on_IN project_NN ._.
+After_IN learning_VBG basics_NNS in_IN all_DT subjects_NNS then_RB we_PRP can_MD go_VB for_IN a_DT specialized_VBN one_CD because_IN we_PRP work_VBP for_IN a_DT perticular_JJ model_NN ._.
+So_RB i_FW prefer_VBP to_TO have_VB knowledge_NN of_IN many_JJ academic_JJ subjects_NNS in_IN order_NN to_TO have_VB a_DT specislized_JJ subject_NN ,_, because_IN if_IN we_PRP know_VBP all_PDT the_DT subjects_NNS we_PRP need_VBP not_RB go_VB for_IN some_DT other_JJ specialists_NNS we_PRP can_MD apply_VB all_PDT those_DT ._.

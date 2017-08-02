@@ -1,0 +1,14 @@
+Some_DT people_NNS in_IN the_DT world_NN ,_, may_MD be_VB in_IN poor_JJ countries_NNS dislike_VBP to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, but_CC they_PRP prefer_VBP to_TO learn_VB facts_NNS ._.
+I_PRP do_VBP n't_RB agree_VB with_IN this_DT statement_NN ,_, because_IN the_DT real_JJ sense_NN of_IN the_DT life_NN is_VBZ in_IN the_DT facts_NNS ._.
+For_IN example_NN :_:
+It_PRP is_VBZ more_RBR important_JJ for_IN a_DT fisher_NN understand_VB how_WRB find_VB a_DT fish_NN ,_, or_CC it_PRP is_VBZ more_RBR important_JJ for_IN he_PRP swim_VBP in_IN the_DT rivers_NNS or_CC sea_NN and_CC became_VBD to_TO know_VB how_WRB is_VBZ phylosophy_NN of_IN fish_NN ,_, I_PRP think_VBP the_DT fisher_NN should_MD be_VB firts_NNS a_DT good_JJ swimer_NN ,_, and_CC he_PRP only_RB will_MD obtain_VB good_JJ results_NNS in_IN his_PRP$ work_NN with_IN practice_NN ,_, with_IN facts_NNS ._.
+But_CC it_PRP is_VBZ also_RB important_JJ understand_VBP ideas_NNS of_IN how_WRB working_VBG the_DT things_NNS ,_, Because_IN if_IN We_PRP do_VBP not_RB study_VB first_RB the_DT world_NN can_MD not_RB know_VB the_DT facts_NNS ._.
+For_IN example_NN ,_, the_DT same_JJ fisher_NN will_MD obtain_VB best_JJS results_NNS in_IN his_PRP$ work_NN ,_, if_IN He_PRP first_RB will_MD study_VB how_WRB is_VBZ the_DT behavior_NN of_IN the_DT fishes_NNS ,_, in_IN Which_WDT kind_NN of_IN water_NN ,_, the_DT fishes_NNS grown_VBN faster_RBR ._.
+Other_JJ example_NN ,_, The_DT farmers_NNS cultivated_VBD a_DT lot_NN of_IN years_NNS ago_RB ,_, without_IN our_PRP$ tecnology_NN and_CC knowlodge_NN ._.
+How_WRB Did_VBD They_PRP cultivate_VBP it_PRP ?_.
+There_EX is_VBZ a_DT only_RB answer_NN ,_, with_IN facts_NNS ,_, with_IN practice_NN ._.
+So_RB ,_, If_IN the_DT farmers_NNS cultivated_VBN with_IN more_JJR ideas_NNS ,_, with_IN more_JJR knowledge_NN ,_, theirs_JJ results_NNS will_MD be_VB best_RB ._.
+How_WRB did_VBD Child_NNP learn_VB to_TO speak_VB ?_.
+He_PRP do_VBP not_RB learn_VB with_IN to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, he_PRP learn_VBP with_IN facts_NNS ._.
+In_IN the_DT progress_NN countries_NNS ,_, there_EX are_VBP some_DT people_NNS thinking_VBG that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+In_IN conclussion_NN ,_, it_PRP is_VBZ more_RBR importand_JJ for_IN students_NNS learn_VBP facts_NNS ,_, practice_NN for_IN learn_VB ,_, because_IN this_DT can_MD use_VB for_IN them_PRP in_IN their_PRP$ countries_NNS ._.

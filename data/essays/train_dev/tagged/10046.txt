@@ -1,0 +1,21 @@
+I_PRP think_VBP it_PRP is_VBZ important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN learn_VBP facts_NNS ._.
+there_EX are_VBP several_JJ reasons_NNS why_WRB I_PRP think_VBP that_DT way_NN ._.
+the_DT first_JJ reason_NN is_VBZ that_IN in_IN our_PRP$ current_JJ classrooms_NNS we_PRP mostly_RB emphazised_VBD lecture_NN and_CC forced_VBN to_TO memorize_VB certain_JJ facts_NNS rather_RB than_IN to_TO understand_VB them_PRP ._.
+when_WRB we_PRP ask_VBP students_NNS if_IN they_PRP learn_VBP something_NN their_PRP$ response_NN will_MD be_VB yes_RB however_RB ,_, they_PRP can_MD not_RB apply_VB their_PRP$ kowledge_NN to_TO a_DT new_JJ situation_NN ._.
+they_PRP can_MD not_RB transfer_VB their_PRP$ lnowedge_NN ,_, when_WRB they_PRP faced_VBD with_IN a_DT different_JJ problem_NN they_PRP can_MD not_RB use_VB their_PRP$ knowedge_NN ,_, the_DT reason_NN is_VBZ that_IN they_PRP just_RB memorized_VBD those_DT isolated_VBN facts_NNS ._.
+they_PRP can_MD only_RB use_VB in_IN the_DT same_JJ format_NN they_PRP can_MD not_RB make_VB connections_NNS ._.
+different_JJ situations_NNS are_VBP challanging_VBG for_IN them_PRP and_CC if_IN the_DT format_NN have_VBP chnaged_VBN everthing_NN seems_VBZ different_JJ to_TO them_PRP ._.
+eventhogh_NN they_PRP have_VBP lots_NNS of_IN information_NN they_PRP can_MD not_RB use_VB them_PRP ._.
+highly_RB educated_VBN people_NNS become_VBP illiturate_NN ._.
+the_DT second_JJ reason_NN why_WRB I_PRP think_VBP we_PRP should_MD emphasize_VB to_TO understanding_NN is_VBZ that_IN you_PRP can_MD learn_VB something_NN but_CC does_VBZ it_PRP means_VBZ that_IN you_PRP understand_VBP it_PRP ._.
+for_IN example_NN you_PRP you_PRP can_MD teach_VB a_DT kid_NN how_WRB to_TO tie_VB but_CC can_MD you_PRP not_RB teach_VB them_PRP to_TO understand_VB something_NN ._.
+The_DT only_JJ think_NN that_IN you_PRP can_MD do_VB is_VBZ that_IN generate_VBP an_DT environment_NN where_WRB they_PRP can_MD learn_VB and_CC understand_VB something_NN ._.
+in_IN an_DT environment_NN like_IN that_IN they_PRP can_MD experience_VB the_DT richnes_NNS of_IN useing_VBG their_PRP$ knowledge_NN and_CC earn_VBP satisfaction_NN with_IN competing_VBG a_DT task_NN
+the_DT last_JJ reason_NN I_PRP want_VBP to_TO mention_VB is_VBZ that_IN the_DT direction_NN of_IN education_NN is_VBZ emphazising_VBG understanding_NN rather_RB learning_VBG facts_NNS ._.
+of_IN course_NN we_PRP should_MD also_RB use_VB facts_NNS but_CC not_RB as_IN we_PRP use_VBP now_RB ._.
+what_WP we_PRP did_VBD right_RB now_RB is_VBZ giving_VBG tons_NNS of_IN information_NN ._.
+we_PRP see_VBP students_NNS as_IN computer_NN or_CC store_NN place_NN and_CC store_NN all_PDT the_DT information_NN in_IN their_PRP$ brains_NNS ._.
+most_JJS of_IN the_DT students_NNS dislike_VBP physics_NN algebra_NN and_CC core_NN science_NN classes_NNS because_IN they_PRP do_VBP not_RB understand_VB it_PRP ._.
+if_IN we_PRP want_VBP scientifically_RB literate_JJ citizens_NNS ,_, who_WP can_MD judege_VB the_DT situation_NN and_CC can_MD make_VB plausible_JJ chose_VBD we_PRP need_VBP chnage_NN our_PRP$ education_NN system_NN and_CC have_VBP students_NNS understand_VB ideas_NNS and_CC concepts_NNS ._.
+otherwise_RB we_PRP might_MD have_VB students_NNS with_IN full_JJ of_IN informations_NNS who_WP can_MD not_RB use_VB them_PRP ._.
+I_PRP do_VBP not_RB think_VB that_DT is_VBZ waht_NN we_PRP want_VBP from_IN them_PRP ._.

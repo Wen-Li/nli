@@ -1,0 +1,16 @@
+I_PRP agree_VBP with_IN the_DT given_VBN statement_NN ._.
+Let_VB us_PRP first_RB define_VB what_WP ``_`` fact_NN ''_'' means_VBZ ._.
+Fact_NN is_VBZ one_CD which_WDT is_VBZ universallly_JJ accepted_VBN and_CC which_WDT does_VBZ not_RB have_VB a_DT solid_JJ reason_NN for_IN its_PRP$ belief_NN ._.
+for_IN e.g._FW a_DT day_NN has_VBZ 24_CD hours_NNS ,_, or_CC the_DT month_NN august_NNP was_VBD named_VBN after_IN Augustus_NNP ,_, and_CC so_RB on_IN ._.
+Now_RB these_DT are_VBP facts_NNS which_WDT are_VBP accepted_VBN by_IN all_DT ._.
+The_DT standout_NN difference_NN between_IN a_DT fact_NN and_CC concepts_NNS is_VBZ :_: ``_`` A_DT fact_NN is_VBZ learned_VBN and_CC a_DT concept_NN understood_VBN ''_'' ._.
+To_TO illustrate_VB this_DT let_VB us_PRP take_VB another_DT example_NN ;_: it_PRP is_VBZ a_DT well_RB known_VBN ``_`` fact_NN ''_'' that_IN a_DT gravitational_JJ force_NN acts_VBZ on_IN each_DT object_NN ._.
+But_CC to_TO understand_VB the_DT reason_NN for_IN this_DT fact_NN we_PRP net_VBP to_TO understand_VB the_DT concept_NN of_IN gravity_NN ._.
+On_IN similar_JJ lines_NNS it_PRP is_VBZ a_DT fact_NN that_IN the_DT earth_NN revolves_VBZ round_NN the_DT sun_NN ._.
+But_CC why_WRB ?_.
+This_DT can_MD be_VB answered_VBN after_IN studying_VBG and_CC understanding_VBG the_DT ideas_NNS and_CC concepts_NNS involved_VBN in_IN the_DT structure_NN of_IN the_DT solar_JJ system_NN ._.
+So_IN we_PRP see_VBP that_IN a_DT fact_NN is_VBZ easier_JJR to_TO locate_VB and_CC find_VB but_CC it_PRP is_VBZ difficult_JJ to_TO understand_VB the_DT reasons_NNS for_IN the_DT said_VBD fact_NN ._.
+Therefore_RB ,_, a_DT student_NN should_MD focus_VB on_IN the_DT ideaology_NN and_CC conepts_NNS involved_VBN in_IN the_DT occurance_NN of_IN a_DT fact_NN ._.
+Facts_NNS are_VBP the_DT more_RBR obvious_JJ mundane_JJ things_NNS ,_, things_NNS we_PRP come_VBP to_TO know_VB with_IN time_NN ,_, but_CC never_RB get_VB a_DT chance_NN to_TO analsye_VB the_DT reasons_NNS for_IN them_PRP ._.
+So_RB ,_, a_DT student_NN should_MD be_VB provided_VBN with_IN an_DT opportunity_NN to_TO understand_VB the_DT concepts_NNS involved_VBN ,_, if_IN any_DT ,_, behind_IN the_DT facts_NNS ._.
+Moreover_RB ,_, the_DT basic_JJ aim_NN of_IN studies_NNS is_VBZ not_RB only_RB teaching_VBG the_DT facts_NNS but_CC more_JJR importantly_RB providing_VBG the_DT understandings_NNS of_IN those_DT facts_NNS ._.

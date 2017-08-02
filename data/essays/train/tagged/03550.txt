@@ -1,0 +1,16 @@
+I_PRP agree_VBP to_TO the_DT fact_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN a_DT twenty_CD years_NNS time_NN from_IN now_RB ._.
+I_PRP support_VBP to_TO this_DT point_NN because_IN there_EX has_VBZ been_VBN an_DT increasing_VBG amount_NN of_IN awareness_NN about_IN the_DT rise_NN in_IN the_DT number_NN of_IN cars_NNS in_IN the_DT city_NN ._.
+The_DT streets_NNS and_CC roads_NNS have_VBP become_VBN more_RBR crowded_JJ and_CC there_EX is_VBZ more_JJR difficulty_NN for_IN the_DT pedestrians_NNS to_TO walk_VB on_IN ._.
+There_EX has_VBZ been_VBN surprizing_VBG increase_NN in_IN the_DT number_NN of_IN road_NN accidents_NNS lately_RB ._.
+Not_RB only_RB this_DT ,_, more_RBR cars_NNS mean_VB more_JJR pollution_NN and_CC more_JJR pollution_NN means_VBZ more_RBR global_JJ warming_NN ,_, which_WDT is_VBZ a_DT hottest_JJS issue_NN in_IN every_DT country_NN ._.
+Becasue_NNP of_IN the_DT problem_NN of_IN global_JJ warming_NN ,_, people_NNS are_VBP favouring_VBG to_TO the_DT concept_NN of_IN travel_NN through_IN buses_NNS and_CC trains_NNS ._.
+People_NNS going_VBG to_TO offices_NNS have_VBP resorted_VBN to_TO going_VBG more_RBR than_IN one_CD in_IN the_DT same_JJ car_NN rather_RB than_IN each_DT one_CD going_VBG in_IN his/her_NN own_JJ car_NN ._.
+This_DT greatly_RB reduces_VBZ the_DT pollution_NN and_CC expenses_NNS of_IN a_DT person_NN ,_, furthur_JJ leading_VBG to_TO the_DT decrease_NN in_IN the_DT number_NN of_IN cars_NNS on_IN road_NN ._.
+The_DT railway_NN network_NN connecting_VBG cities_NNS and_CC metro_NN railway_NN network_NN with_IN a_DT city_NN is_VBZ supporting_VBG to_TO the_DT travel_NN of_IN many_JJ people_NNS throughout_IN the_DT day_NN ._.
+Being_VBG cheaper_JJR than_IN the_DT cost_NN incurred_VBN upon_IN using_VBG own_JJ vehicles_NNS ,_, people_NNS are_VBP resorting_VBG to_TO such_JJ options_NNS ._.
+I_PRP oppose_VBP the_DT argument_NN of_IN the_DT increase_NN in_IN number_NN of_IN cars_NNS because_IN of_IN many_JJ of_IN the_DT reasons_NNS stated_VBN above_IN ._.
+Moreover_RB ,_, the_DT increase_NN in_IN cars_NNS on_IN the_DT raod_NN leads_VBZ to_TO havoc_NN and_CC doesnt_NN give_VBP a_DT good_JJ impression_NN of_IN the_DT cleanliness_NN of_IN the_DT city_NN ._.
+Recently_RB ,_, in_IN New_NNP Delhi_NNP ,_, there_EX has_VBZ been_VBN an_DT increase_NN in_IN temperature_NN in_IN the_DT summers_NNS than_IN the_DT earlier_JJR years_NNS owing_VBG to_TO more_JJR pollution_NN in_IN the_DT city_NN ._.
+After_IN the_DT starting_NN of_IN metro_NN railway_NN ,_, many_JJ people_NNS use_VBP this_DT reliable_JJ ,_, safe_JJ and_CC easy_JJ service_NN making_VBG a_DT commendable_JJ impression_NN on_IN other_JJ cities_NNS ._.
+This_DT has_VBZ caused_VBN an_DT acceleration_NN in_IN the_DT making_VBG such_JJ decisions_NNS to_TO lessen_VB number_NN of_IN cars_NNS on_IN the_DT road_NN in_IN other_JJ cities_NNS ._.
+Concluding_VBG ,_, I_PRP feel_VBP optimistic_JJ in_IN the_DT decrease_NN of_IN number_NN of_IN cars_NNS in_IN use_NN in_IN a_DT twenty_CD years_NNS time_NN owing_VBG to_TO its_PRP$ much_JJ awaited_VBD advantages_NNS and_CC long_JJ lasting_JJ effects_NNS both_CC for_IN a_DT safe_JJ city_NN and_CC for_IN a_DT better_JJR nature_NN ._.

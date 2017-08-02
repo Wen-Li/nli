@@ -1,0 +1,13 @@
+Generally_RB speaking_VBG ,_, I_PRP agree_VBP that_IN it_PRP 's_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB concepts_NNS than_IN to_TO learn_VB facts_NNS ._.
+However_RB ,_, both_DT studying_VBG methods_NNS present_JJ advantages_NNS and_CC disadvantages_NNS ._.
+First_NNP of_IN all_DT ,_, though_IN memorization_NN has_VBZ the_DT advantage_NN of_IN requiring_VBG less_JJR concentration_NN and_CC less_JJR effort_NN from_IN the_DT student_NN ,_, it_PRP 's_VBZ more_RBR likely_JJ to_TO forget_VB what_WP you_PRP learnt_VBD by_IN heart_NN after_IN a_DT short_JJ time_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, though_IN understanding_VBG ideas_NNS in_IN depth_NN takes_VBZ a_DT longer_JJR time_NN and_CC implies_VBZ more_RBR effort_NN from_IN the_DT student_NN ,_, it_PRP is_VBZ easier_JJR to_TO remember_VB the_DT concepts_NNS you_PRP adequately_RB understood_VBD ,_, and_CC to_TO relate_VB them_PRP to_TO your_PRP$ background_NN knowledge_NN ._.
+For_IN example_NN ,_, when_WRB I_PRP study_VBP Maths_NNP ,_, I_PRP realise_VBP that_IN I_PRP ca_MD n't_RB simply_RB memorize_VB information_NN ,_, and_CC that_IN I_PRP really_RB have_VBP to_TO understand_VB every_DT detail_NN in_IN depth_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, I_PRP admit_VBP that_IN sometimes_RB it_PRP might_MD also_RB be_VB useful_JJ to_TO learn_VB facts_NNS by_IN heart_NN ._.
+For_IN instance_NN ,_, when_WRB I_PRP study_VBP History_NN ,_, it_PRP often_RB happens_VBZ to_TO remember_VB historical_JJ events_NNS according_VBG to_TO the_DT chronological_JJ order_NN they_PRP occured_VBD ._.
+In_IN this_DT case_NN ,_, I_PRP think_VBP that_IN it_PRP 's_VBZ not_RB necessary_JJ to_TO spend_VB time_NN trying_VBG to_TO understand_VB ideas_NNS ,_, as_IN I_PRP am_VBP just_RB expacted_VBN to_TO learn_VB a_DT list_NN of_IN events_NNS by_IN heart_NN ._.
+Thus_RB ,_, though_IN I_PRP really_RB prefer_VBP to_TO understand_VB ideas_NNS ,_, I_PRP think_VBP that_IN my_PRP$ position_NN is_VBZ between_IN these_DT two_CD extremes_NNS ._.
+In_IN fact_NN ,_, I_PRP choose_VB my_PRP$ approach_NN according_VBG to_TO the_DT subject_NN I_PRP am_VBP studying_VBG ._.
+When_WRB dealing_VBG with_IN a_DT scientific_JJ subject_NN like_IN Maths_NNP ,_, I_PRP prefer_VBP to_TO understand_VB every_DT detail_NN in_IN depth_NN ,_, as_IN this_DT is_VBZ necessary_JJ to_TO solve_VB exercises_NNS and_CC to_TO be_VB adequaltely_JJ prepared_JJ ._.
+On_IN the_DT other_JJ hand_NN ,_, when_WRB I_PRP am_VBP just_RB expacted_VBN to_TO memorize_VB information_NN ,_, I_PRP prefer_VBP to_TO learn_VB facts_NNS by_IN heart_NN ._.
+For_IN these_DT reasons_NNS ,_, I_PRP believe_VBP that_IN my_PRP$ approach_NN to_TO studying_VBG is_VBZ between_IN these_DT to_TO extreme_JJ methods_NNS ._.

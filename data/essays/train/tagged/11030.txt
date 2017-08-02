@@ -1,0 +1,27 @@
+I_PRP agree_VBP with_IN the_DT statement_NN ._.
+I_PRP think_VBP most_RBS advertisements_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+The_DT companies_NNS often_RB mislead_VBP the_DT customers_NNS by_IN putting_VBG exceptions_NNS in_IN very_RB small_JJ prints_NNS ,_, by_IN over_IN exaggerating_VBG ,_, and_CC by_IN using_VBG famous_JJ actors_NNS and_CC athletes_NNS in_IN their_PRP$ advertisements_NNS ._.
+First_NNP of_IN all_DT ,_, when_WRB I_PRP pay_VBP close_JJ attentions_NNS to_TO advertisements_NNS ,_, I_PRP often_RB see_VBP advertisements_NNS with_IN very_RB small_JJ prints_NNS at_IN the_DT bottom_NN that_WDT are_VBP hard_JJ to_TO see_VB ._.
+Those_DT prints_NNS states_NNS exceptions_NNS ._.
+For_IN example_NN ,_, the_DT advertisement_NN may_MD say_VB ,_, ``_`` 80_CD %_NN of_IN people_NNS lose_VBP weight_NN by_IN using_VBG this_DT product_NN !_. ''_''
+However_RB ,_, I_PRP may_MD see_VB a_DT print_NN at_IN the_DT bottom_NN that_WDT says_VBZ ,_, ``_`` this_DT is_VBZ not_RB based_VBN on_IN scientific_JJ data_NNS ._. ''_''
+This_DT is_VBZ just_RB one_CD type_NN of_IN the_DT ``_`` exceptions_NNS ''_'' that_IN most_JJS people_NNS do_VBP n't_RB catch_VB ._.
+Additionally_RB ,_, the_DT companies_NNS use_VBP catch_NN phrases_NNS all_PDT the_DT time_NN to_TO attract_VB customers_NNS ._.
+They_PRP often_RB exaggerate_VBP too_RB much_RB ._.
+For_IN example_NN ,_, the_DT advertisement_NN of_IN pills_NNS losing_VBG weight_NN might_MD say_VB ,_, ``_`` Do_VBP n't_RB you_PRP want_VBP to_TO look_VB like_IN a_DT model_NN ?_.
+By_IN taking_VBG this_DT pill_NN ,_, you_PRP can_MD become_VB really_RB skinny_JJ easily_RB like_IN top_JJ models_NNS !_. ''_''
+Do_VBP n't_RB you_PRP think_VBP this_DT catch_NN phrase_NN is_VBZ a_DT bit_NN awkward_JJ ?_.
+Pills_NNS do_VBP not_RB make_VB you_PRP look_VB like_IN a_DT super_JJ model_NN ._.
+It_PRP exggerates_VBZ way_NN too_RB much_RB ._.
+Moreover_RB ,_, the_DT companies_NNS often_RB use_VBP famous_JJ actors_NNS ,_, actresses_NNS ,_, or_CC athletes_NNS in_IN their_PRP$ advertisements_NNS ._.
+For_IN example_NN ,_, sports_NNS companies_NNS ,_, such_JJ as_IN Nike_NNP ,_, Adidas_NNP ,_, or_CC Puma_NNP ,_, might_MD use_VB Micheal_NNP Jordan_NNP when_WRB advertising_NN for_IN basketball_NN shoes_NNS ._.
+Cosmetic_JJ companies_NNS often_RB use_VBP beautiful_JJ actresses_NNS ._.
+The_DT costomers_NNS assume_VBP that_IN the_DT actress_NN uses_VBZ that_IN product_NN and_CC buy_VB that_DT product_NN ._.
+Also_RB ,_, in_IN advertising_NN for_IN medicines_NNS ,_, they_PRP companies_NNS use_VBP doctors_NNS and_CC nurses_NNS who_WP seem_VBP to_TO know_VB what_WP they_PRP are_VBP talking_VBG about_RB ._.
+By_IN using_VBG professionals_NNS of_IN each_DT area_NN ,_, the_DT companies_NNS are_VBP able_JJ to_TO convince_VB more_JJR customers_NNS ._.
+Doctors_NNS are_VBP much_JJ convincing_NN when_WRB talking_VBG about_IN medicines_NNS rather_RB than_IN having_VBG some_DT random_JJ shop_NN keepers_NNS talking_VBG about_IN the_DT topic_NN even_RB if_IN they_PRP were_VBD saying_VBG same_JJ things_NNS ._.
+To_TO summerize_VB ,_, I_PRP agree_VBP with_IN the_DT statement_NN ,_, most_JJS advertisements_NNS make_VBP products_NNS seem_VBP much_RB better_JJR than_IN they_PRP really_RB are_VBP ._.
+The_DT companies_NNS often_RB mislead_VBP the_DT customers_NNS by_IN putting_VBG exceptions_NNS in_IN very_RB small_JJ prints_NNS ,_, by_IN over_IN exaggerating_VBG ,_, and_CC by_IN using_VBG famous_JJ actors_NNS ,_, athletes_NNS ,_, and_CC professionals_NNS in_IN their_PRP$ advertisements_NNS ._.
+However_RB ,_, you_PRP can_MD not_RB just_RB blame_VB the_DT companies_NNS ._.
+To_TO sell_VB products_NNS and_CC compete_VB with_IN other_JJ companies_NNS ,_, that_DT is_VBZ one_CD of_IN the_DT most_RBS important_JJ strategies_NNS ._.
+Thus_RB ,_, you_PRP must_MD be_VB very_RB careful_JJ in_IN seeing_VBG the_DT advertisements_NNS ._.

@@ -1,0 +1,23 @@
+In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, many_JJ people_NNS may_MD think_VB that_IN there_EX will_MD be_VB more_RBR cars_NNS in_IN use_NN in_IN future_NN ._.
+However_RB ,_, I_PRP support_VBP the_DT statement_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN in_IN twenty_CD years_NNS for_IN the_DT following_VBG reasons_NNS ._.
+First_RB ,_, the_DT price_NN of_IN energy_NN will_MD become_VB higher_JJR than_IN today_NN ._.
+For_IN example_NN ,_, many_JJ poeple_NN prefer_VBP cars_NNS which_WDT use_VBP less_JJR oil_NN than_IN others_NNS because_IN they_PRP suffer_VBP from_IN the_DT high_JJ cost_NN of_IN energy_NN ._.
+Many_JJ car_NN makers_NNS are_VBP making_VBG their_PRP$ effot_NN to_TO produce_VB the_DT car_NN which_WDT need_MD not_RB so_RB much_JJ energy_NN ,_, thoug_NN ,_, such_JJ car_NN are_VBP high_JJ cost_NN ._.
+Additionary_NNP ,_, there_EX is_VBZ difficulty_NN in_IN developing_VBG new_JJ law_NN cost_NN energy_NN ._.
+As_IN the_DT anove_JJ explanation_NN demonstrates_VBZ ,_, in_IN future_NN ,_, people_NNS use_VBP fewer_JJR cars_NNS than_IN there_EX are_VBP today_NN ._.
+Second_RB ,_, enviromental_JJ problems_NNS changes_NNS peoples_NNS way_NN of_IN thinking_VBG about_IN traffic_NN methods_NNS ._.
+For_IN example_NN ,_, in_IN Asian_JJ countries_NNS such_JJ as_IN South_NNP Korea_NNP ,_, people_NNS put_VBD more_RBR importance_NN on_IN trains_NNS than_IN ever_RB because_IN city_NN enviromental_JJ problems_NNS are_VBP so_RB serious_JJ ._.
+Originaly_RB Seoul_NNP ,_, the_DT capital_NN of_IN South_NNP Korea_NNP ,_, had_VBD not_RB so_RB enough_JJ train_NN network_NN ._.
+However_RB ,_, South_JJ Korean_JJ govenment_NN improved_VBD capability_NN of_IN train_NN networks_NNS in_IN Seoul_NNP to_TO carry_VB people_NNS ._.
+The_DT govenment_NN will_MD continue_VB such_JJ effort_NN to_TO make_VB Seoul_NNP 's_POS air_NN clean_JJ ._.
+Trains_NNS seems_VBZ to_TO replace_VB the_DT car-centric_JJ traffic_NN system_NN ._.
+As_IN the_DT above_JJ example_NN demonstrates_VBZ ,_, there_EX will_MD be_VB fewer_JJR cars_NNS in_IN today_NN ._.
+Third_NNP ,_, purposes_NNS people_NNS buy_VBP cars_NNS are_VBP more_RBR limited_JJ than_IN before_RB ._.
+Car_NN is_VBZ not_RB only_RB traffic_NN method_NN but_CC also_RB the_DT symple_NN of_IN rich_JJ life_NN ._.
+However_RB ,_, people_NNS will_MD change_VB such_JJ image_NN on_IN cars_NNS ._.
+For_IN example_NN ,_, in_IN European_JJ countries_NNS ,_, where_WRB many_JJ people_NNS use_VBP cars_NNS for_IN the_DT first_JJ time_NN in_IN the_DT world_NN ,_, symple_JJ cars_NNS are_VBP pupular_JJ because_IN many_JJ Europeans_NNPS think_VBP cars_NNS as_RB just_RB a_DT traffic_NN method_NN ._.
+In_IN old_JJ time_NN ,_, people_NNS in_IN Eurpope_NNP love_VBP rich_JJ cars_NNS ,_, though_RB ,_, such_JJ thinking_NN is_VBZ changing_VBG ._.
+In_IN such_JJ situation_NN ,_, they_PRP do_VBP n't_RB need_VB so_RB much_JJ cars_NNS if_IN there_EX is_VBZ other_JJ traffic_NN system_NN such_JJ as_IN trains_NNS ._.
+As_IN the_DT above_JJ example_NN shows_NNS ._.
+people_NNS use_VBP fewer_JJR cars_NNS in_IN future_JJ than_IN today_NN ._.
+In_IN coclution_NN ,_, I_PRP support_VBP the_DT statement_NN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN twenty_CD years_NNS than_IN there_EX are_VBP today_NN because_IN of_IN the_DT energy_NN cost_NN ,_, enviromental_JJ problems_NNS ,_, and_CC limited_JJ purpose_NN ._.

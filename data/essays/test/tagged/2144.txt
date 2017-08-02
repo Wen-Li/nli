@@ -1,0 +1,5 @@
+In_IN my_PRP$ opinion_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN student_NN to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+First_RB af_IN all_DT ,_, if_IN students_NNS can_MD understand_VB ideas_NNS and_CC concepts_NNS it_PRP is_VBZ enough_RB to_TO take_VB high_JJ scores_NNS on_IN exams_NNS and_CC students_NNS need_VBP to_TO pass_VB a_DT lot_NN of_IN exam_NN for_IN along_IN their_PRP$ whole_JJ life_NN elemenetry_NN school_NN ,_, undergraduate_JJ and_CC garaduate_NN studies_NNS ._.
+they_PRP need_VBP to_TO take_VB standardized_JJ exams_NNS ._.
+On_IN these_DT kind_NN of_IN standardized_JJ exams_NNS ask_VBP about_IN ideas_NNS an_DT concepts_NNS so_RB students_NNS must_MD know_VB them_PRP ._.
+In_IN addiction_NN ,_, if_IN the_DT students_NNS understand_VBP concepts_NNS and_CC ideas_NNS they_PRP can_MD improve_VB their_PRP$ knowledge_NN on_IN it_PRP and_CC they_PRP can_MD be_VB successful_JJ ._.

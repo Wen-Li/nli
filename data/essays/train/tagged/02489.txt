@@ -1,0 +1,15 @@
+I_PRP agree_VBP with_IN the_DT topic_NN given_VBN in_IN some_DT cases_NNS ._.
+Because_IN of_IN the_DT following_VBG reasons_NNS ._.
+Firstly_RB student_NN should_MD understand_VB the_DT concept_NN and_CC ideas_NNS ._.
+So_RB that_IN he_PRP can_MD remember_VB for_IN a_DT long_JJ time_NN ._.
+And_CC explains_VBZ whenever_WRB you_PRP asks_VBZ a_DT question_NN about_IN the_DT topic_NN which_WDT he_PRP had_VBD understued_VBN ._.
+For_IN example_NN a_DT student_NN is_VBZ listening_VBG ti_NNS maths_NNS lecturer_NN with_IN interest_NN ._.
+He_PRP can_MD able_JJ to_TO solve_VB the_DT problem_NN whatever_WDT you_PRP give_VBP to_TO the_DT student_NN if_IN he_PRP understands_VBZ the_DT topic_NN only_RB ._.
+Another_DT reason_NN is_VBZ that_IN if_IN the_DT student_NN understands_VBZ the_DT topic_NN then_RB we_PRP can_MD say_VB that_IN he_PRP is_VBZ listening_VBG with_IN concentration_NN ._.
+So_RB concentration_NN makes_VBZ student_NN to_TO understand_VB any_DT thing_NN from_IN the_DT lecture_NN ._.
+Anoter_NNP example_NN is_VBZ that_IN If_IN the_DT student_NN is_VBZ learn_VB or_CC just_RB read_VB about_IN the_DT topic_NN then_RB he_PRP may_MD or_CC may_MD not_RB able_JJ to_TO grasp_VB the_DT whole_JJ thing_NN in_IN that_DT topic_NN ._.
+For_IN example_NN if_IN the_DT student_NN is_VBZ learnig_NN that_WDT is_VBZ he_PRP is_VBZ just_RB reading_VBG or_CC something_NN like_IN casual_JJ reading_NN will_MD not_RB understand_VB the_DT main_JJ topic_NN or_CC the_DT main_JJ idea_NN of_IN the_DT topic_NN ._.
+For_IN example_NN student_NN is_VBZ reading_VBG the_DT magazine_NN or_CC the_DT newspaper_NN he_PRP will_MD not_RB concentrate_VB to_TO remember_VB the_DT whole_JJ things_NNS just_RB he_PRP reads_VBZ the_DT paper_NN and_CC throws_VBZ it_PRP out_RP ._.
+If_IN the_DT same_JJ thing_NN happens_VBZ in_IN the_DT class_NN room_NN topic_NN the_DT student_NN will_MD not_RB understand_VB the_DT main_JJ idea_NN of_IN the_DT topic_NN ._.
+I_PRP disagree_VBP with_IN the_DT topic_NN given_VBN in_IN this_DT case_NN because_IN of_IN the_DT following_VBG reason_NN if_IN the_DT student_NN is_VBZ child_NN student_NN he_PRP may_MD not_RB understand_VB the_DT topic_NN of_IN his_PRP$ class_NN the_DT teacher_NN may_MD teache_VB him_PRP in_IN different_JJ way_NN that_IN he_PRP will_MD not_RB understand_VB the_DT topic_NN so_RB teacher_NN may_MD tell_VB to_TO student_NN that_IN you_PRP byheart_VBP the_DT question_NN and_CC the_DT answers_NNS which_WDT is_VBZ related_JJ to_TO topic_NN ._.
+So_RB i_FW conclude_VBP that_IN childrean_JJ student_NN can_MD able_JJ to_TO understand_VB the_DT topic_NN by_IN byhearting_VBG that_DT and_CC adult_JJ students_NNS will_MD understand_VB the_DT topic_NN by_IN themself_RB by_IN concentrating_VBG on_IN the_DT topic_NN ._.

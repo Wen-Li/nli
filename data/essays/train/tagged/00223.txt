@@ -1,0 +1,9 @@
+I_PRP am_VBP conviced_JJ that_IN students_NNS should_MD understand_VB ideas_NNS rather_RB than_IN learn_VB facts_NNS ._.
+Nevertheless_RB ,_, I_PRP think_VBP that_IN it_PRP is_VBZ often_RB worth_JJ paying_VBG attention_NN to_TO facts_NNS and_CC ,_, more_RBR precisely_RB ,_, regarding_VBG them_PRP as_IN a_DT strating_VBG point_NN for_IN a_DT deeper_JJR study_NN ._.
+First_RB ,_, I_PRP think_VBP that_IN learning_VBG facts_NNS without_IN trying_VBG to_TO deeply_RB understand_VB their_PRP$ origin_NN is_VBZ useless_JJ ._.
+For_IN instance_NN ,_, in_IN economics_NNS ,_, there_EX are_VBP lots_NNS of_IN facts_NNS concerning_VBG the_DT way_NN unemployed_JJ agents_NNS behave_VBP when_WRB they_PRP try_VBP to_TO get_VB information_NN about_IN vacant_JJ jobs_NNS ._.
+When_WRB I_PRP was_VBD at_IN the_DT university_NN ,_, I_PRP have_VBP been_VBN precisely_RB told_VBN about_IN the_DT percentage_NN of_IN workers_NNS that_WDT use_VBP word_NN of_IN mouth_NN communication_NN to_TO get_VB a_DT job_NN instead_RB of_IN formal_JJ means_NNS of_IN getting_VBG information_NN (_CD newspapers_NNS ,_, unemployment_NN agencies_NNS and_CC so_RB on_IN ._. .._FW )_FW ._.
+To_TO know_VB such_PDT a_DT percentage_NN is_VBZ really_RB useless_JJ but_CC makes_VBZ more_RBR fundamental_JJ questions_NNS emerge_VBP ._.
+When_WRB a_DT student_NN understands_VBZ the_DT ideas_NNS and_CC concepts_NNS that_WDT lie_VBP behind_IN an_DT observed_VBN fact_NN ,_, he_PRP really_RB develops_VBZ his_PRP$ capacity_NN to_TO adapt_VB to_TO different_JJ problems_NNS and_CC situations_NNS ._.
+He_PRP is_VBZ then_RB able_JJ to_TO analyse_VB a_DT greater_JJR number_NN of_IN situations_NNS than_IN the_DT number_NN he_PRP could_MD have_VB analysed_VBN learning_VBG the_DT fact_NN itself_PRP ._.
+To_TO restrict_VB his_PRP$ attention_NN to_TO facts_NNS prevent_VBP him_PRP from_IN developing_VBG his_PRP$ autonomy_NN ._.

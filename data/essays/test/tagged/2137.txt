@@ -1,0 +1,17 @@
+In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, some_DT people_NNS believe_VBP that_IN best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN because_IN it_PRP is_VBZ easier_JJR to_TO travel_VB ._.
+However_RB ,_, I_PRP personally_RB disagree_VBP with_IN the_DT statement_NN for_IN the_DT following_VBG reasons_NNS ._.
+First_RB ,_, travelling_VBG with_IN a_DT tour_NN guide_NN will_MD limit_VB time_NN for_IN free_JJ activity_NN ._.
+For_IN example_NN ,_, in_IN 1995_CD ,_, when_WRB I_PRP was_VBD a_DT tenth_NN grader_NN in_IN keio_NNP High_NNP School_NNP ,_, a_DT private_JJ high_JJ school_NN in_IN Japan_NNP ,_, I_PRP went_VBD to_TO Korea_NNP on_IN a_DT field_NN trip_NN ._.
+Since_IN it_PRP was_VBD a_DT trip_NN scheduled_VBN by_IN the_DT school_NN ,_, and_CC we_PRP had_VBD to_TO move_VB in_IN a_DT group_NN ,_, the_DT trip_NN was_VBD guided_VBN by_IN a_DT tour_NN guide_NN and_CC all_PDT the_DT schedule_NN on_IN the_DT trip_NN was_VBD fixed_VBN ._.
+There_EX were_VBD no_DT free_JJ time_NN and_CC as_IN a_DT result_NN ,_, I_PRP did_VBD not_RB have_VB chance_NN to_TO go_VB to_TO some_DT museums_NNS I_PRP wanted_VBD to_TO go_VB ._.
+If_IN the_DT trip_NN had_VBD not_RB been_VBN guided_VBN by_IN a_DT tour_NN guide_NN ,_, I_PRP would_MD have_VB had_VBD chance_NN to_TO visit_VB places_NNS I_PRP wanted_VBD to_TO go_VB ._.
+As_IN the_DT above_JJ example_NN illustrates_VBZ ,_, I_PRP truely_RB believe_VBP that_IN travelling_VBG with_IN a_DT tour_NN guide_NN will_MD limit_VB time_NN for_IN free_JJ activity_NN ._.
+Second_RB ,_, there_EX are_VBP not_RB much_JJ suprises_NNS in_IN a_DT trip_NN guided_VBN by_IN a_DT tour_NN guide_NN comparing_VBG to_TO a_DT trip_NN on_IN our_PRP$ own_JJ ._.
+For_IN example_NN ,_, last_JJ year_NN ,_, I_PRP went_VBD to_TO Italy_NNP and_CC France_NNP on_IN our_PRP$ honeymoon_NN ._.
+Since_IN we_PRP wanted_VBD to_TO travel_VB freely_RB ,_, we_PRP traveled_VBD on_IN our_PRP$ own_JJ ._.
+Before_IN the_DT trip_NN ,_, we_PRP incidently_RB not_RB decide_VB what_WP to_TO do_VB or_CC where_WRB to_TO go_VB on_IN some_DT days_NNS ._.
+In_IN those_DT days_NNS we_PRP went_VBD to_TO some_DT places_NNS where_WRB some_DT people_NNS usually_RB do_VBP not_RB go_VB and_CC found_VBD many_JJ beautiful_JJ places_NNS ._.
+Also_RB ,_, during_IN the_DT trip_NN I_PRP found_VBD new_JJ feature_NN about_IN my_PRP$ wife_NN because_IN the_DT trip_NN was_VBD not_RB all_DT guided_VBN and_CC we_PRP had_VBD to_TO decide_VB everything_NN ._.
+If_IN we_PRP had_VBD not_RB traveled_VBN on_IN our_PRP$ own_JJ ,_, I_PRP would_MD not_RB have_VB found_VBN these_DT new_JJ things_NNS ._.
+As_IN the_DT above_JJ example_NN demonstrates_VBZ ,_, I_PRP personally_RB believe_VBP that_IN there_EX are_VBP not_RB much_JJ suprises_NNS in_IN a_DT trip_NN guided_VBN by_IN a_DT tour_NN comparing_VBG to_TO a_DT trip_NN on_IN our_PRP$ own_JJ ._.
+Therefore_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.

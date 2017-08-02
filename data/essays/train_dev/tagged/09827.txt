@@ -1,0 +1,21 @@
+People_NNS have_VBP to_TO choose_VB a_DT major_JJ before_IN entering_VBG in_IN a_DT College_NNP ._.
+There_EX are_VBP specialized_JJ majors_NNS such_JJ as_IN for_IN example_NN Engineering_NNP ,_, Languagues_NNP ,_, Litterature_NNP ,_, etc_FW ._. .._SYM
+but_CC we_PRP are_VBP able_JJ to_TO choose_VB a_DT study_NN which_WDT taught_VBD many_JJ academic_JJ subjects_NNS ._.
+Is_VBZ it_PRP better_JJR to_TO have_VB a_DT broad_JJ knowledge_NN rather_RB than_IN having_VBG a_DT specialization_NN in_IN one_CD topic_NN ?_.
+On_IN the_DT first_JJ hand_NN ,_, I_PRP will_MD talk_VB about_IN having_VBG broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+I_PRP think_VBP it_PRP is_VBZ very_RB important_JJ to_TO have_VB a_DT large_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+For_IN instance_NN ,_, when_WRB I_PRP talk_VBP to_TO a_DT friend_NN ,_, if_IN he_PRP told_VBD me_PRP a_DT lot_NN of_IN informations_NNS about_IN several_JJ subjects_NNS ,_, I_PRP would_MD find_VB he_PRP is_VBZ very_RB smart_JJ ._.
+Having_VBG a_DT broad_JJ knowledge_NN of_IN many_JJ academic_JJ subject_JJ proves_VBZ people_NNS thqt_IN we_PRP have_VBP a_DT huge_JJ culture_NN ,_, and_CC it_PRP is_VBZ useful_JJ when_WRB there_EX is_VBZ a_DT discussion_NN about_IN a_DT topic_NN ._.
+Indeed_RB ,_, if_IN we_PRP had_VBD a_DT broad_JJ knowledge_NN ,_, we_PRP would_MD be_VB able_JJ to_TO talk_VB about_IN everything_NN !_.
+However_RB ,_, there_EX is_VBZ a_DT drawback_NN ._.
+We_PRP just_RB have_VBP the_DT main_JJ points_NNS of_IN every_DT subjects_NNS ,_, we_PRP wo_MD n't_RB be_VB able_JJ to_TO talk_VB about_IN everything_NN of_IN a_DT subject_NN ._.
+That_DT 's_VBZ why_WRB I_PRP think_VBP that_IN it_PRP is_VBZ better_JJR to_TO study_VB several_JJ subjects_NNS ,_, such_JJ as_IN for_IN example_NN Maths_NNS ,_, Biology_NNP or_CC Litterature_NNP ,_, when_WRB we_PRP are_VBP at_IN high_JJ school_NN and_CC not_RB at_IN the_DT University_NNP ._.
+Indeed_RB ,_, pupils_NNS have_VBP to_TO try_VB every_DT subject_NN in_IN order_NN to_TO find_VB which_WDT way_NN they_PRP can_MD take_VB after_IN the_DT high_JJ school_NN ._.
+High_JJ school_NN helps_VBZ us_PRP a_DT lot_NN in_IN finding_VBG the_DT perfect_JJ major_JJ we_PRP want_VBP to_TO study_VB in_IN a_DT University_NNP ._.
+On_IN the_DT other_JJ hand_NN ,_, people_NNS are_VBP able_JJ to_TO choose_VB and_CC to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+I_PRP think_VBP it_PRP is_VBZ better_JJR to_TO make_VB this_DT choice_NN because_IN it_PRP is_VBZ useful_JJ in_IN order_NN to_TO find_VB a_DT job_NN in_IN the_DT future_NN ._.
+For_IN instance_NN ,_, I_PRP would_MD like_VB to_TO work_VB as_IN a_DT flight_NN controller_NN in_IN the_DT European_JJ Space_NN Agency_NNP (_CD ESA_NNP )_CD ._.
+That_DT is_VBZ why_WRB I_PRP have_VBP to_TO specialize_VB myself_PRP in_IN one_CD specific_JJ subject_NN :_: Aerospace_NNP Engineering_NNP ._.
+If_IN I_PRP chose_VBD to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ,_, I_PRP would_MD have_VB an_DT enormous_JJ culture_NN but_CC I_PRP would_MD n't_RB be_VB able_JJ to_TO find_VB a_DT particular_JJ job_NN ._.
+To_TO sum_VB up_RP my_PRP$ opinion_NN ,_, I_PRP do_VBP n't_RB agree_VB with_IN the_DT statement_NN ._.
+I_PRP think_VBP we_PRP should_MD specialize_VB in_IN one_CD specific_JJ subject_NN in_IN order_NN to_TO find_VB the_DT job_NN we_PRP want_VBP to_TO have_VB in_IN the_DT future_NN ._.

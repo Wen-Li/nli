@@ -1,0 +1,18 @@
+Learning_NNP knowledge_NN has_VBZ two_CD steps_NNS of_IN study_NN processing_NN -_: understand_VB the_DT ideas_NNS and_CC concepts_NNS ,_, and_CC then_RB learn_VBP facts_NNS ._.
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN to_TO understand_VB ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ for_IN our_PRP$ students_NNS than_IN to_TO learn_VB facts_NNS ._.
+I_PRP think_VBP that_IN they_PRP are_VBP both_DT important_JJ in_IN our_PRP$ learning_VBG fields_NNS ,_, such_JJ as_IN science_NN ,_, art_NN ,_, phylosophy_NN and_CC so_RB forth_RB ._.
+The_DT first_JJ step_NN of_IN study_NN is_VBZ to_TO understand_VB ideas_NNS and_CC concepts_NNS which_WDT include_VBP the_DT sagasiousness_NN of_IN our_PRP$ human_JJ beings_NNS ._.
+When_WRB you_PRP are_VBP reading_VBG a_DT technology_NN textbook_NN ,_, for_IN example_NN ,_, what_WP you_PRP want_VBP to_TO pursue_VB ?_.
+What_WP you_PRP want_VBP to_TO get_VB from_IN the_DT book_NN ,_, in_IN main_JJ point_NN ,_, is_VBZ that_IN you_PRP want_VBP to_TO know_VB the_DT principles_NNS and_CC mechanism_NN of_IN technology_NN in_IN the_DT book_NN ._.
+In_IN other_JJ words_NNS ,_, you_PRP want_VBP to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS showed_VBD in_IN the_DT materials_NNS ._.
+Moreover_RB ,_, you_PRP want_VBP to_TO ,_, in_IN some_DT cases_NNS ,_, get_VB the_DT ideas_NNS and_CC concepts_NNS and_CC then_RB use_VB them_PRP to_TO address_VB or_CC figure_VB out_RP the_DT problems_NNS you_PRP face_VBP in_IN any_DT fields_NNS ._.
+After_IN understanding_VBG the_DT ideas_NNS and_CC concepts_NNS ,_, you_PRP exploit_VBP to_TO learn_VB the_DT facts_NNS included_VBD in_IN them_PRP ._.
+Just_RB understanding_VBG them_PRP is_VBZ not_RB enough_RB while_IN you_PRP learning_VBG them_PRP ._.
+Another_DT aspect_NN is_VBZ that_IN you_PRP should_MD to_TO learn_VB the_DT facts_NNS ._.
+How_WRB to_TO and_CC what_WP to_TO learn_VB facts_NNS are_VBP the_DT main_JJ domains_NNS in_IN learning_VBG the_DT facts_NNS ._.
+Because_IN of_IN understanding_VBG the_DT ideas_NNS and_CC concepts_NNS ,_, you_PRP have_VBP to_TO apply_VB those_DT to_TO real_JJ world_NN ,_, objects_NNS ,_, and_CC subjects_NNS and_CC so_RB forth_RB ._.
+Though_IN applying_VBG the_DT knowledge_NN you_PRP have_VBP studied_VBN ,_, you_PRP can_MD learn_VB what_WP the_DT facts_NNS are_VBP ,_, and_CC also_RB ,_, you_PRP can_MD revise_VB the_DT ideas_NNS and_CC concepts_NNS which_WDT are_VBP of_IN faults_NNS and_CC foibles_NNS ._.
+Then_RB ,_, you_PRP have_VBP learned_VBN the_DT facts_NNS presented_VBN in_IN the_DT ideas_NNS and_CC concepts_NNS ._.
+In_IN sum_NN ,_, we_PRP can_MD not_RB separate_VB the_DT two_CD steps_NNS of_IN study_NN processing_NN ._.
+We_PRP can_MD not_RB decide_VB which_WDT of_IN the_DT steps_NNS is_VBZ more_RBR important_JJ than_IN the_DT other_JJ ._.
+The_DT one_CD that_WDT we_PRP can_MD confirm_VB is_VBZ that_IN understanding_VBG ideas_NNS and_CC concepts_NNS beyond_IN learning_VBG facts_NNS ._.

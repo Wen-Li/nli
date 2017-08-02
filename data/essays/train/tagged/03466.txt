@@ -1,0 +1,19 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN saying_VBG that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ subjects_NNS rather_RB than_IN specializing_VBG in_IN one_CD specific_JJ subject_NN ._.
+I_PRP will_MD illustrate_VB my_PRP$ views_NNS below_IN ._.
+There_EX is_VBZ an_DT English_JJ proverb_NN which_WDT beautifully_RB fits_VBZ in_IN the_DT above_JJ case_NN :_: ``_`` A_DT Jack_NNP of_IN all_DT is_VBZ a_DT master_NN of_IN none_NN ._. ''_''
+In_IN the_DT past_JJ scientific_JJ knowledge_NN was_VBD relatively_RB limited_VBN as_IN compared_VBN to_TO now_RB ._.
+Now_RB many_JJ new_JJ fields_NNS have_VBP been_VBN developed_VBN and_CC even_RB in_IN a_DT single_JJ field_NN there_EX are_VBP many_JJ sub_JJ divisions_NNS ._.
+For_IN e.g._FW Computers_NNPS ._.
+Before_IN there_EX no_DT sub-divisions_NNS in_IN the_DT field_NN of_IN computers_NNS but_CC now_RB we_PRP can_MD broadly_RB classify_VB them_PRP as_IN Hardware_NN ,_, software_NN ,_, Middle-ware_NN ,_, Internet_NNP &_CC Networking_NNP ,_, etc_FW ._.
+Even_RB in_IN these_DT sub-divisions_NNS we_PRP can_MD have_VB several_JJ more_RBR options_NNS ._.
+The_DT point_NN I_PRP am_VBP trying_VBG to_TO make_VB here_RB is_VBZ that_IN fields_NNS are_VBP more_RBR diverse_JJ and_CC varied_VBD then_RB they_PRP were_VBD before_RB ._.
+Hence_RB it_PRP is_VBZ simply_RB not_RB possible_JJ to_TO excel_VB in_IN all_DT of_IN them_PRP and_CC having_VBG only_RB a_DT general_JJ idea_NN about_IN them_PRP will_MD not_RB suffice_VB ._.
+Additionally_RB knowledge_NN has_VBZ become_VBN more_RBR and_CC more_RBR complex_JJ than_IN before_RB ._.
+Having_VBG a_DT general_JJ idea_NN about_IN things_NNS is_VBZ not_RB enough_JJ to_TO perform_VB the_DT tasks_NNS adequately_RB ._.
+For_IN e.g._FW A_DT CFO_NN (_CD Chief_NNP Financial_NNP Officer_NNP )_NN of_IN a_DT company_NN has_VBZ reasonable_JJ knowledge_NN about_IN Law_NN ._.
+So_RB does_VBZ it_PRP mean_VB that_IN he_PRP will_MD be_VB as_IN competent_JJ as_IN a_DT Lawyer_NNP specialising_VBG in_IN these_DT tasks_NNS ?_.
+Alternatively_RB a_DT lawyer_NN can_MD not_RB do_VB adequate_JJ justice_NN to_TO the_DT job_NN of_IN a_DT CFO_NNP ._.
+Let_VB me_PRP illustrate_VB my_PRP$ point_NN further_RBR ._.
+Would_MD you_PRP like_VB to_TO live_VB in_IN a_DT building_NN which_WDT has_VBZ been_VBN made_VBN by_IN person_NN having_VBG a_DT ``_`` general_JJ ''_'' idea_NN of_IN construction_NN ,_, architecture_NN and_CC engineering_NN or_CC would_MD prefer_VB living_NN in_IN a_DT building_NN made_VBN by_IN a_DT team_NN of_IN experts_NNS in_IN their_PRP$ respective_JJ fields_NNS ._.
+Focus_NN on_IN one_CD topic_NN inspires_VBZ confidence_NN not_RB only_RB in_IN others_NNS but_CC also_RB in_IN the_DT person_NN doing_VBG the_DT job_NN ._.
+Hence_RB with_IN the_DT points_NNS above_IN I_PRP have_VBP best_JJS tried_VBN to_TO justify_VB my_PRP$ conclusion_NN ._.

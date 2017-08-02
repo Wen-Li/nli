@@ -1,0 +1,15 @@
+In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, many_JJ people_NNS think_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN with_IN a_DT tour_NN guide_NN ._.
+However_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN for_IN the_DT following_VBG reasons_NNS ._.
+First_NNP of_IN all_DT ,_, there_EX is_VBZ quite_RB little_JJ time_NN to_TO take_VB a_DT free_JJ time_NN ,_, if_IN traveling_VBG in_IN a_DT group_NN with_IN a_DT tour_NN guide_NN ._.
+For_IN example_NN ,_, when_WRB my_PRP$ wife_NN and_CC I_PRP went_VBD to_TO haneymoon_NN to_TO Hawaii_NNP in_IN 2004_CD ,_, we_PRP traveled_VBD there_EX in_IN a_DT group_NN with_IN a_DT tour_NN guide_NN for_IN seven_CD days_NNS ._.
+we_PRP went_VBD to_TO a_DT lot_NN of_IN interesting_JJ places_NNS ,_, but_CC we_PRP could_MD not_RB stay_VB one_CD place_NN where_WRB we_PRP wanted_VBD to_TO stay_VB longer_RB because_IN of_IN restricted_JJ time_NN schedule_NN ._.
+If_IN we_PRP had_VBD been_VBN there_RB by_IN ourselves_PRP ,_, we_PRP would_MD have_VB stayed_VBN at_IN our_PRP$ favorite_JJ places_NNS longer_RBR ._.
+As_IN the_DT above_JJ experience_NN ,_, I_PRP definitely_RB think_VBP that_IN traveling_VBG by_IN ourselves_PRP is_VBZ the_DT best_JJS ._.
+Second_RB ,_, traveling_VBG in_IN a_DT group_NN with_IN a_DT tour_NN guide_NN is_VBZ expensive_JJ ._.
+For_IN instance_NN ,_, when_WRB I_PRP travel_VBP to_TO Kyusyu_NNP ,_, which_WDT is_VBZ located_JJ in_IN southern_JJ part_NN of_IN Japan_NNP ,_, for_IN three_CD days_NNS ,_, I_PRP stayed_VBD a_DT excellent_JJ hotel_NN and_CC rent_VB a_DT four-door_JJ car_NN ,_, which_WDT made_VBD reservations_NNS by_IN myself_PRP ._.
+The_DT total_JJ cost_NN of_IN this_DT trip_NN was_VBD less_JJR than_IN a_DT handred_JJ thousand_CD yen_NN ._.
+It_PRP was_VBD a_DT reasonable_JJ price_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, when_WRB I_PRP traveled_VBD to_TO the_DT same_JJ place_NN in_IN Kyusyu_NNP for_IN three_CD days_NNS with_IN a_DT tour_NN guide_NN package_NN ,_, the_DT cost_NN of_IN this_DT trip_NN was_VBD twice_RB as_RB much_JJ as_IN that_DT of_IN traveling_VBG by_IN myself_PRP ._.
+This_DT clearly_RB shows_VBZ that_IN traveling_VBG in_IN a_DT group_NN with_IN a_DT tour_NN guide_NN is_VBZ not_RB economical_JJ ._.
+In_IN conclusion_NN ,_, In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, most_JJS of_IN people_NNS think_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN with_IN a_DT tour_NN guide_NN ._.
+However_RB ,_, I_PRP definitely_RB disagree_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.

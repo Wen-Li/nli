@@ -1,0 +1,20 @@
+The_DT twenty_CD first_JJ century_NN is_VBZ the_DT era_NN that_WDT lots_NNS of_IN discoveries_NNS done_VBN for_IN the_DT sake_NN of_IN the_DT human-being_JJ ._.
+This_DT is_VBZ done_VBN by_IN scientific_JJ improvements_NNS in_IN lots_NNS of_IN areas_NNS ._.
+But_CC how_WRB are_VBP these_DT improvements_NNS done_VBN ?_.
+By_IN the_DT scientists_NNS knowing_VBG things_NNS about_RB many_JJ subjects_NNS or_CC by_IN the_DT scientists_NNS specialized_VBN to_TO only_RB a_DT single_JJ area_NN ._.
+Since_IN lots_NNS of_IN special_JJ subjects_NNS about_IN a_DT single_JJ topic_NN could_MD be_VB seen_VBN nowadays_RB ,_, it_PRP must_MD be_VB noted_VBN that_IN improvements_NNS done_VBN by_IN the_DT specialized_VBN scientists_NNS ._.
+First_NNP of_IN all_DT ,_, if_IN we_PRP think_VBP of_IN the_DT history_NN of_IN science_NN ,_, the_DT scientists_NNS of_IN that_DT era_NN had_VBD ideas_NNS abut_VBD lots_NNS of_IN issues_NNS such_JJ as_IN mathematics_NNS ,_, physics_NNS ,_, chemistry_NN and_CC so_RB forth_RB ._.
+However_RB ,_, one_CD sould_NN keep_VB in_IN mind_NN that_IN there_EX were_VBD fewer_JJR things_NNS discovered_VBN until_IN that_DT time_NN for_IN that_DT era_NN ._.
+As_IN a_DT result_NN ;_: even_RB though_IN the_DT previous_JJ scientists_NNS were_VBD not_RB be_VB specialized_VBN to_TO one_CD area_NN ,_, that_WDT does_VBZ not_RB mean_VB that_IN today_NN 's_POS discoveries_NNS have_VBP not_RB been_VBN done_VBN by_IN specialized_VBN scientists_NNS ._.
+As_IN mentioned_VBN before_RB ,_, lots_NNS of_IN subjects_NNS could_MD be_VB observed_VBN about_IN a_DT special_JJ topic_NN or_CC area_NN ._.
+For_IN instance_NN ,_, if_IN we_PRP think_VBP of_IN Electrics_NNS and_CC Electronics_NNP ,_, one_CD could_MD be_VB drowned_VBN in_IN lots_NNS of_IN areas_NNS which_WDT are_VBP Telecommunications_NNP ,_, Electromagnetic_NNP Waves_NNP ,_, Power_NNP Electronics_NNP and_CC so_RB forth_RB ._.
+In_IN addition_NN to_TO this_DT ,_, if_IN we_PRP think_VBP of_IN the_DT history_NN ,_, we_PRP can_MD not_RB talk_VB about_IN electronics_NNS before_IN 1960_CD 's_POS when_WRB the_DT semiconducting_VBG devices_NNS were_VBD first_RB used_VBN ._.
+As_IN a_DT result_NN ,_, by_IN the_DT improvements_NNS in_IN Electrics_NNS and_CC Electronics_NNP with_IN the_DT specialization_NN to_TO these_DT areas_NNS ,_, the_DT humanity_NN has_VBZ a_DT easier_JJR life_NN ._.
+For_IN instance_NN ,_, would_MD not_RB be_VB so_RB hard_JJ to_TO live_VB without_IN mostly_RB used_VBN devices_NNS which_WDT are_VBP cell_NN phones_NNS which_WDT are_VBP products_NNS of_IN telecommunications_NNS ._.
+If_IN we_PRP think_VBP of_IN eyes_NNS which_WDT are_VBP the_DT cameras_NNS to_TO the_DT enviroment_NN for_IN the_DT human-being_JJ ._.
+If_IN we_PRP deeply_RB analyze_VBP what_WP is_VBZ in_IN the_DT eye_NN ,_, we_PRP must_MD note_VB the_DT importance_NN of_IN retina_NN ,_, cornea_NN ,_, eye_NN lens_NN and_CC so_RB forth_RB ._.
+For_IN instance_NN ,_, the_DT people_NNS suffering_VBG from_IN diabetics_NNS may_MD lose_VB their_PRP$ visions_NNS due_JJ to_TO problems_NNS in_IN the_DT retina_NN ._.
+Or_CC simply_RB ,_, if_IN we_PRP think_VBP of_IN contact_NN lenses_NNS which_WDT could_MD be_VB used_VBN as_IN artificial_JJ lens_NN ,_, these_DT are_VBP improving_VBG visions_NNS of_IN millions_NNS of_IN people_NNS ._.
+To_TO summarize_VB ,_, all_PDT these_DT about_IN the_DT eye_NN could_MD be_VB done_VBN only_RB by_IN specialization_NN ._.
+To_TO conclude_VB ,_, since_IN a_DT single_JJ human_JJ being_NN can_MD not_RB know_VB or_CC remmeber_VB the_DT whole_JJ idea_NN about_IN one_CD issue_NN ,_, it_PRP is_VBZ important_JJ to_TO specialize_VB to_TO one_CD area_NN ._.
+As_IN a_DT result_NN ,_, more_JJR improvements_NNS could_MD be_VB done_VBN about_IN that_DT area_NN and_CC as_IN a_DT result_NN about_IN that_DT issue_NN ._.

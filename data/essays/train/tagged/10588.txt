@@ -1,0 +1,17 @@
+In_IN my_PRP$ point_NN of_IN view_NN ,_, to_TO travel_VB in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN has_VBZ two_CD main_JJ advantages_NNS :_:
+-_: First_NNP ,_, traveling_VBG as_IN a_DT group_NN one_CD has_VBZ the_DT opportunity_NN to_TO easily_RB meet_VB new_JJ people_NNS which_WDT I_PRP consider_VBP as_IN part_NN of_IN the_DT fun_NN to_TO travel_VB ._.
+The_DT experience_NN that_WDT is_VBZ shared_VBN combined_VBN with_IN the_DT proximity_NN in_IN which_WDT are_VBP kept_VBN the_DT members_NNS of_IN a_DT traveling_VBG group_NN will_MD render_VB the_DT exchanges_NNS really_RB easy_JJ among_IN them_PRP ._.
+-_: Second_NNP ,_, when_WRB one_CD travels_NNS ,_, by_IN definition_NN ,_, he_PRP does_VBZ not_RB know_VB what_WP to_TO see_VB nor_CC do_VB in_IN the_DT place_NN visited_VBD ._.
+A_DT lot_NN of_IN people_NNS find_VBP it_PRP more_RBR convinient_JJ to_TO take_VB a_DT tour_NN guide_NN rather_RB than_IN gathering_VBG this_DT information_NN from_IN other_JJ sources_NNS such_JJ as_IN internet_NN or_CC travel_NN books_NNS ._.
+The_DT tour_NN guide_NN is_VBZ generaly_RB a_DT local_JJ that_IN ,_, according_VBG to_TO his_PRP$ experience_NN ,_, knows_VBZ depending_VBG on_IN the_DT amount_NN of_IN time_NN his_PRP$ group_NN has_VBZ ,_, which_WDT sites_NNS will_MD interet_VB it_PRP the_DT most_JJS ._.
+Although_IN those_DT two_CD arguments_NNS can_MD be_VB true_JJ ,_, I_PRP disagree_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+Even_RB though_IN it_PRP is_VBZ of_IN course_NN more_RBR easy_JJ to_TO meet_VB people_NNS within_IN a_DT group_NN you_PRP are_VBP traveling_VBG with_IN ,_, the_DT interest_NN of_IN traveling_VBG is_VBZ to_TO discover_VB the_DT culture_NN of_IN the_DT places_NNS visited_VBD ._.
+The_DT best_JJS way_NN to_TO achive_VB this_DT is_VBZ to_TO travel_VB alone_RB and_CC therefore_RB be_VB motivated_VBN to_TO go_VB and_CC meet_VB local_JJ people_NNS ._.
+Those_DT personal_JJ exchanges_NNS teach_VBP a_DT lot_NN about_IN a_DT local_JJ culture_NN and_CC can_MD create_VB long_JJ lasting_JJ links_NNS between_IN people_NNS ._.
+Also_RB following_VBG a_DT tour_NN guide_NN has_VBZ more_JJR inconvinients_NNS than_IN advantages_NNS ._.
+First_RB ,_, you_PRP can_MD not_RB choose_VB what_WP you_PRP want_VBP to_TO see_VB ,_, this_DT choice_NN being_VBG taken_VBN by_IN the_DT tour_NN guide_NN ._.
+With_IN the_DT information_NN now_RB available_JJ there_EX is_VBZ multiple_JJ cheap_JJ sources_NNS that_WDT can_MD let_VB you_PRP decide_VB what_WP to_TO see_VB and_CC do_VB ._.
+Second_RB ,_, unfortunatly_RB ,_, even_RB more_RBR in_IN some_DT foreign_JJ countries_NNS ,_, the_DT tourists_NNS are_VBP only_RB considered_VBN as_IN a_DT possible_JJ source_NN of_IN money_NN ._.
+Therefore_RB ,_, very_RB often_RB the_DT guide_NN will_MD be_VB partly_RB paid_VBN by_IN local_JJ buildings_NNS ,_, shops_NNS ,_, restaurants_NNS ,_, ..._:
+to_TO make_VB you_PRP come_VB to_TO their_PRP$ place_NN although_IN they_PRP are_VBP of_IN minor_JJ interest_NN ._.
+In_IN conclusion_NN ,_, I_PRP would_MD recommand_VB to_TO travel_VB alone_RB without_IN a_DT tour_NN guide_NN ._.

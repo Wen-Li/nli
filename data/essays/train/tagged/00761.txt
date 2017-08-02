@@ -1,0 +1,12 @@
+I_PRP am_VBP agree_VBP with_IN this_DT statement_NN ._.
+People_NNS will_MD use_VB Traffic_NN transortation_NN such_JJ as_IN train_NN or_CC bus_NN or_CC dike_NN or_CC go_VB on_IN foot_NN instead_RB of_IN cars_NNS as_IN possible_JJ as_IN they_PRP can_MD ._.
+I_PRP have_VBP two_CD reasons_NNS ._.
+First_RB one_CD is_VBZ caused_VBN environmental_JJ issue_NN ._.
+Now_RB ,_, environmental_JJ issue_NN caused_VBD cars_NNS such_JJ as_IN global_JJ warming_NN is_VBZ really_RB serious_JJ ._.
+People_NNS have_VBP already_RB knew_VBN it_PRP ._.
+Gradually_RB ,_, each_DT person_NN will_MD have_VB to_TO having_VBG responsibility_NN ._.
+People_NNS will_MD think_VB the_DT issue_NN more_RBR seriously_RB ._.
+And_CC people_NNS will_MD not_RB use_VB cars_NNS a_DT lot_NN ._.
+Second_JJ one_CD is_VBZ the_DT price_NN of_IN gasolin_NN ._.
+The_DT price_NN will_MD raise_VB ._.
+That_DT is_VBZ why_WRB I_PRP agree_VBP with_IN the_DT statement_NN ._.

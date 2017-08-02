@@ -1,0 +1,9 @@
+Now_RB a_DT day_NN ,_, the_DT most_RBS used_JJ way_NN to_TO move_VB is_VBZ car_NN ._.
+From_IN eighteenth_JJ century_NN when_WRB the_DT first_JJ car_NN was_VBD producted_VBN ,_, many_JJ changes_NNS have_VBP occurred_VBN in_IN the_DT cars_NNS market_NN and_CC in_IN the_DT ways_NNS to_TO use_VB this_DT kind_NN of_IN transport_NN ._.
+Since_IN the_DT past_NN ,_, people_NNS needed_VBD to_TO move_VB from_IN a_DT place_NN to_TO another_DT place_NN ._.
+For_IN this_DT reason_NN some_DT kinds_NNS of_IN trasport_NN was_VBD invented_VBN ,_, for_IN example_NN train_NN ,_, bus_NN ,_, airplane_NN and_CC car_NN ._.
+The_DT growth_NN of_IN cities_NNS made_VBD the_DT need_NN for_IN people_NNS to_TO find_VB a_DT way_NN to_TO transport_VB over_IN the_DT city_NN in_IN a_DT easy_JJ way_NN ,_, so_IN they_PRP can_MD get_VB to_TO work_VB or_CC to_TO school_NN ,_, for_IN that_IN a_DT personal_JJ transport_NN is_VBZ neeeded_JJ and_CC the_DT car_NN is_VBZ a_DT personal_JJ one_CD ._.
+Thus_RB even_RB more_RBR persons_NNS bought_VBD cars_NNS to_TO move_VB ._.
+Nevertheless_RB cars_NNS produce_VBP a_DT lot_NN of_IN pollution_NN that_WDT contribute_VBP to_TO damage_VB the_DT atmosphere_NN in_IN which_WDT we_PRP live_VBP ._.
+But_CC at_IN the_DT present_JJ day_NN ,_, there_EX is_VBZ much_RB more_RBR consciousness_NN about_IN this_DT poblem_NN ,_, so_RB many_JJ people_NNS are_VBP finding_VBG some_DT ways_NNS to_TO reduce_VB the_DT use_NN of_IN cars_NNS ,_, for_IN example_NN using_VBG carpooling_NN ,_, or_CC using_VBG public_JJ transport_NN ._.
+In_IN conclusion_NN ,_, at_IN the_DT present_JJ day_NN there_EX are_VBP a_DT lot_NN of_IN cars_NNS that_WDT produce_VBP a_DT lot_NN of_IN pollution_NN ,_, but_CC I_PRP think_VBP that_IN man_NN is_VBZ more_RBR counscious_JJ about_IN this_DT problem_NN now_RB as_IN he_PRP was_VBD in_IN the_DT past_NN ,_, so_RB i_FW think_VBP that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN twent_NN

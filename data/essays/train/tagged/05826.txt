@@ -1,0 +1,9 @@
+Learning_NNP is_VBZ a_DT very_RB important_JJ part_NN of_IN students_NNS life_NN ._.
+I_PRP think_VBP learning_VBG in_IN any_DT form_NN adds_VBZ to_TO ones_NNS information_NN and_CC knowledge_NN areas_NNS ._.
+Therefore_RB in_IN my_PRP$ opinion_NN when_WRB a_DT student_NN is_VBZ at_IN undergraduate_JJ level_NN he_PRP should_MD take_VB variety_NN of_IN courses_NNS both_CC in_IN the_DT areas_NNS of_IN learning_VBG facts_NNS and_CC understanding_VBG ideas_NNS and_CC concept_NN ._.
+On_IN the_DT otherhand_NN when_WRB a_DT student_NN is_VBZ taking_VBG up_RP a_DT graduate_JJ program_NN he_PRP or_CC she_PRP should_MD take_VB up_RP a_DT course_NN which_WDT involves_VBZ understanding_VBG the_DT concepts_NNS and_CC ideas_NNS ._.
+For_IN example_NN taking_VBG a_DT professional_JJ course_NN in_IN the_DT understaning_NN of_IN Computers_NNS is_VBZ better_JJR than_IN studying_VBG history_NN or_CC geography_NN ._.
+I_PRP beleive_VBP that_IN task_NN becomes_VBZ easier_JJR and_CC more_RBR enjoyable_JJ if_IN one_CD tries_VBZ to_TO understand_VB instead_RB of_IN memorizing_VBG it_PRP ._.
+Thus_RB a_DT practical_JJ approach_NN is_VBZ better_JJR than_IN rote_NN learning_NN ._.
+I_PRP feel_VBP learning_VBG facts_NNS is_VBZ not_RB as_RB much_JJ interesting_JJ as_IN understanding_VBG concepts_NNS ._.
+Thus_RB I_PRP agree_VBP with_IN the_DT statement_NN ._.

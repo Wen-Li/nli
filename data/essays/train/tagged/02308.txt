@@ -1,0 +1,14 @@
+The_DT conclusion_NN that_IN it_PRP is_VBZ more_RBR important_JJ for_IN student_NN to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ,_, sounds_VBZ correct_JJ to_TO me_PRP ._.
+There_EX are_VBP two_CD arguments_NNS that_WDT are_VBP interesting_JJ to_TO consider_VB in_IN evaluating_VBG the_DT conclusion_NN above_IN ._.
+First_RB ,_, if_IN we_PRP assume_VBP that_IN colleges_NNS and_CC universities_NNS are_VBP currently_RB using_VBG the_DT best_JJS strategies_NNS and_CC tools_NNS to_TO teach_VB students_NNS ,_, it_PRP is_VBZ clear_JJ that_IN concepts_NNS and_CC ideas_NNS are_VBP fundamental_JJ and_CC more_RBR important_JJ then_RB facts_NNS to_TO build_VB the_DT basic_JJ knowledge_NN of_IN students_NNS ._.
+In_IN fact_NN ,_, at_IN engineering_NN universities_NNS all_PDT the_DT courses_NNS in_IN the_DT first_JJ couple_NN of_IN years_NNS are_VBP about_IN algebra_NN ,_, geometry_NN and_CC phisics_NN ._.
+All_DT of_IN those_DT courses_NNS are_VBP about_IN ideas_NNS and_CC concepts_NNS ;_: no_DT one_NN of_IN them_PRP refers_VBZ to_TO facts_NNS or_CC applications_NNS ._.
+By_IN learning_VBG ideas_NNS and_CC concepts_NNS ,_, students_NNS can_MD develop_VB abilities_NNS of_IN reasoning_NN and_CC thinking_VBG that_IN in_IN the_DT future_NN they_PRP will_MD need_VB to_TO solve_VB real_JJ problems_NNS and_CC to_TO understand_VB facts_NNS ._.
+Second_RB ,_, it_PRP is_VBZ much_RB more_RBR worthwhile_JJ studying_VBG generalitazion_NN rather_RB then_RB specific_JJ applications_NNS ._.
+In_IN fact_NN ,_, in_IN our_PRP$ real_JJ world_NN it_PRP is_VBZ unbelievable_JJ to_TO know_VB everything_NN about_IN facts_NNS and_CC memorize_VB them_PRP ._.
+Instead_RB ,_, ideas_NNS and_CC general_JJ concepts_NNS can_MD be_VB applied_VBN everywhere_RB and_CC help_VB to_TO understand_VB every_DT fact_NN ._.
+Moreover_RB ,_, our_PRP$ world_NN is_VBZ running_VBG so_RB fast_RB that_IN scientists_NNS and_CC researchers_NNS discovery_NN every_DT day_NN new_JJ thesis_NN and_CC models_NNS ._.
+If_IN a_DT student_NN knows_VBZ how_WRB to_TO deal_VB with_IN abstract_JJ ideas_NNS and_CC concept_NN ,_, he_PRP or_CC she_PRP can_MD easily_RB understand_VB every_DT thing_NN is_VBZ new_JJ and_CC has_VBZ came_VBD up_RP in_IN our_PRP$ world_NN ._.
+Facts_NNS ate_VBD constrained_VBN by_IN context_NN and_CC circumstances_NNS and_CC are_VBP very_RB useful_JJ to_TO fix_VB and_CC remember_VB ideas_NNS and_CC concepts_NNS ._.
+In_IN conclusion_NN ,_, students_NNS must_MD understand_VB firstly_RB ideas_NNS and_CC concepts_NNS ._.
+It_PRP is_VBZ helpful_JJ for_IN reasoning_NN and_CC thinking_VBG abilities_NNS as_RB well_RB as_IN for_IN understanding_VBG facts_NNS ._.

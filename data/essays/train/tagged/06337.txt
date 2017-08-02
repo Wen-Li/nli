@@ -1,0 +1,13 @@
+In_IN this_DT period_NN of_IN time_NN where_WRB there_EX is_VBZ a_DT lot_NN information_NN to_TO be_VB processed_VBN ,_, we_PRP need_VBP both_CC people_NNS who_WP have_VBP a_DT broad_JJ knowledge_NN in_IN many_JJ academic_JJ fields_NNS and_CC ones_NNS who_WP are_VBP more_RBR specialized_VBN in_IN specific_JJ subjects_NNS ._.
+We_PRP need_VBP a_DT well_RB balance_NN between_IN the_DT two_CD ._.
+The_DT people_NNS who_WP have_VBP a_DT broad_JJ range_NN of_IN many_JJ academic_JJ fields_NNS are_VBP required_VBN because_IN they_PRP can_MD pinpoint_VB problems_NNS more_RBR generically_RB because_IN of_IN their_PRP$ wider_JJR perspectives_NNS ._.
+One_CD example_NN to_TO this_DT is_VBZ in_IN medical_JJ field_NN ._.
+For_IN instane_NN ,_, a_DT generalist_NN doctor_NN has_VBZ a_DT wide_JJ range_NN of_IN information_NN about_IN human_JJ body_NN but_CC in_IN small_JJ depths_NNS ._.
+However_RB ,_, for_IN most_JJS of_IN the_DT time_NN ,_, they_PRP can_MD solve_VB the_DT problems_NNS of_IN their_PRP$ patients_NNS unless_IN the_DT problems_NNS are_VBP very_RB specific_JJ ._.
+There_EX is_VBZ no_DT need_NN for_IN a_DT brain_NN surgeon_NN to_TO examine_VB the_DT patient_NN having_VBG problems_NNS with_IN flue_NN or_CC just_RB a_DT headache_NN ._.
+The_DT people_NNS who_WP have_VBP more_RBR specific_JJ knowledge_NN about_IN a_DT topic_NN is_VBZ also_RB required_VBN because_IN by_IN having_VBG a_DT broad_JJ range_NN of_IN information_NN with_IN a_DT small_JJ depth_NN in_IN many_JJ fields_NNS does_VBZ not_RB guarantee_VB to_TO solve_VB every_DT problem_NN ._.
+A_DT brain_NN surgeon_NN has_VBZ a_DT very_RB specific_JJ and_CC in-depth_JJ knowledge_NN about_IN brain_NN and_CC brain_NN surgeries_NNS ._.
+Revisiting_VBG the_DT medical_JJ field_NN example_NN ,_, a_DT patient_NN who_WP is_VBZ examined_VBN by_IN a_DT generalist_NN and_CC advised_VBD to_TO see_VB a_DT specialist_NN in_IN brain_NN would_MD need_VB a_DT brain_NN surgeon_NN for_IN further_JJ examinations_NNS ._.
+A_DT generalist_NN can_MD not_RB have_VB specific_JJ and_CC in-depth_JJ data_NNS in_IN such_JJ a_DT case_NN ._.
+To_TO sum_VB up_RP ,_, we_PRP need_VBP both_CC generalists_NNS and_CC specialists_NNS ._.
+None_NN of_IN them_PRP should_MD be_VB overrated_VBN ._.

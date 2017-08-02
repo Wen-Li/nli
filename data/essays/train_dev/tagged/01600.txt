@@ -1,0 +1,25 @@
+I_PRP agrre_VBP about_IN the_DT following_VBG statement_NN ._.
+I_PRP t_NN is_VBZ imortant_JJ that_IN facts_NNS is_VBZ one_CD of_IN communications_NNS to_TO learn_VB students_NNS ._.
+There_EX are_VBP three_CD reasons_NNS why_WRB ._.
+First_NNP of_IN all_DT ,_, it_PRP has_VBZ interest_NN things_NNS ._.
+Second_NNP of_IN all_DT ,_, it_PRP has_VBZ a_DT lot_NN of_IN imformation_NN ._.
+Third_NNP of_IN all_DT ,_, it_PRP has_VBZ good_JJ education_NN ._.
+And_CC then_RB I_PRP think_VBP that_IN it_PRP conects_VBZ several_JJ idea_NN for_IN them_PRP ._.
+The_DT first_JJ reason_NN is_VBZ that_IN it_PRP is_VBZ difficult_JJ to_TO interest_VB the_DT education_NN for_IN students_NNS ._.
+For_IN instance_NN ,_, some_DT students_NNS are_VBP ignore_VB about_IN lessons_NNS or_CC are_VBP a_DT lot_NN of_IN lazy_JJ studets_NNS ._.
+If_IN teacher_NN use_VBP the_DT facts_NNS ,_, it_PRP could_MD be_VB interest_NN the_DT lessons_NNS ._.
+The_DT second_JJ reason_NN is_VBZ that_IN latest_JJS information_NN is_VBZ useful_JJ ._.
+For_IN example_NN ,_, if_IN they_PRP teach_VBP the_DT facts_NNS ,_, students_NNS might_MD be_VB keep_VB seaching_VBG th_DT one_CD things_NNS ._.
+Therefore_RB ,_, it_PRP has_VBZ possible_JJ that_IN they_PRP pay_VBP attention_NN about_IN history_NN ._.
+The_DT third_JJ reason_NN is_VBZ that_IN if_IN they_PRP improved_VBD their_PRP$ ability_NN ,_, they_PRP interested_JJ education_NN to_TO leran_VB something_NN to_TO lessons_NNS ._.
+In_IN addition_NN ,_, if_IN they_PRP teach_VBP facts_NNS ,_, students_NNS try_VBP to_TO discuss_VB about_IN one_CD things_NNS ._.
+This_DT is_VBZ both_DT good_JJ for_IN them_PRP ._.
+At_IN the_DT moment_NN ,_, they_PRP try_VBP to_TO learn_VB something_NN togethger_NN ._.
+They_PRP willbe_VBP freinedly_RB also_RB they_PRP understand_VBP each_DT others_NNS ._.
+In_IN conclusion_NN ,_, I_PRP absolutely_RB agree_VBP about_IN that_DT ._.
+In_IN the_DT world_NN ,_, there_EX have_VBP a_DT lot_NN of_IN communication_NN tool_NN ._.
+I_PRP think_VBP that_IN one_CD of_IN communication_NN is_VBZ easy_JJ to_TO underastand_JJ idea_NN is_VBZ facts_NNS ._.
+First_RB ,_, students_NNS are_VBP really_RB interested_JJ in_IN facts_NNS ._.
+Second_RB ,_, teacher_NN can_MD teach_VB about_IN latest_JJS information_NN ._.
+Third_NNP ,_, good_JJ education_NN is_VBZ good_JJ for_IN them_PRP ._.
+Finally_RB ,_, Facts_NNS has_VBZ several_JJ information_NN because_IN I_PRP definity_VBP agrre_JJ about_IN the_DT statement_NN ._.

@@ -1,0 +1,13 @@
+I_PRP agree_VBP with_IN the_DT idea_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN because_IN of_IN following_VBG reasons_NNS ._.
+The_DT first_JJ reason_NN is_VBZ that_IN the_DT population_NN of_IN the_DT rich_JJ countries_NNS will_MD rapidly_RB decrease_VB and_CC the_DT number_NN of_IN the_DT people_NNS who_WP can_MD buy_VB cars_NNS will_MD decrease_VB ._.
+For_IN example_NN ,_, the_DT birth_NN rate_NN of_IN Japan_NNP is_VBZ approximately_RB 1.1_CD ._.
+The_DT tendency_NN of_IN this_DT low_JJ rate_NN is_VBZ similar_JJ to_TO other_JJ rich_JJ countries_NNS such_JJ as_IN European_JJ countries_NNS ._.
+The_DT second_JJ reason_NN is_VBZ that_IN the_DT public_JJ transpotation_NN system_NN is_VBZ rapidly_RB developing_VBG and_CC therefore_RB people_NNS will_MD choose_VB this_DT system_NN rather_RB than_IN buying_VBG cars_NNS because_IN the_DT fomer_NN is_VBZ much_JJ cheaper_JJR than_IN the_DT latter_JJ ._.
+This_DT tendency_NN will_MD be_VB enforced_VBN because_IN the_DT price_NN of_IN oil_NN is_VBZ rapidly_RB rising_VBG ._.
+For_IN example_NN ,_, the_DT Japanese_JJ Prime_JJ minister_NN Abe_NNP said_VBD that_IN the_DT government_NN would_MD permit_VB the_DT construction_NN of_IN special_JJ express_VBP line_NN called_VBN Shincansen_NNP in_IN Hokkaido_NNP area_NN which_WDT is_VBZ famous_JJ as_IN the_DT domestic_JJ place_NN for_IN vacation_NN ._.
+This_DT convenient_JJ Shincansen_NNP will_MD make_VB Japanese_JJ not_RB to_TO buy_VB cars_NNS ._.
+The_DT third_JJ reason_NN is_VBZ that_IN depression_NN in_IN rich_JJ countries_NNS will_MD decrease_VB the_DT motivation_NN to_TO buy_VB cars_NNS ._.
+For_IN example_NN ,_, the_DT deep_JJ depression_NN in_IN Japan_NNP limits_VBZ how_WRB much_JJ they_PRP ca_MD use_VB freely_RB ._.
+So_IN it_PRP is_VBZ more_RBR difficult_JJ for_IN them_PRP to_TO buy_VB cars_NNS ._.
+Within_IN 20_CD years_NNS ,_, we_PRP do_VBP not_RB have_VB the_DT motivation_NN to_TO buy_VB more_JJR cars_NNS because_IN of_IN these_DT reasons_NNS ._.
+That_DT is_VBZ why_WRB there_EX will_MD be_VB ferer_JJ cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN in_IN twenty_CD years_NNS ._.

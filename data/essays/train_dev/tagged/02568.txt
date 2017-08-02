@@ -1,0 +1,12 @@
+I_PRP disagree_VBP with_IN that_DT article_NN ._.
+It_PRP is_VBZ imagine_VBP that_IN there_EX is_VBZ some_DT subject_JJ what_WP i_FW have_VBP to_TO solve_VB ,_, i_FW have_VBP to_TO explain_VB with_IN several_JJ reason_NN of_IN supporting_VBG detail_NN ._.
+And_CC those_DT reason_NN are_VBP help_VB the_DT explaining_VBG ._.
+For_IN instance_NN ,_, i_FW would_MD like_VB to_TO deal_VB with_IN microwave_NN ._.
+First_RB ,_, i_FW should_MD judge_VB about_IN the_DT subject_NN ._.
+i_LS should_MD have_VB gradually_RB motion_NN if_IN iwant_NN to_TO use_VB the_DT microwave_NN ._.
+So_RB i_FW can_MD think_VB about_IN motion_NN how_WRB can_MD i_FW use_VBP the_DT microwave_NN ._.
+Also_RB ,_, i_FW have_VBP to_TO deal_VB with_IN specific_JJ step_NN ._.
+when_WRB i_FW make_VBP the_DT solution_NN ,_, i_FW have_VBP to_TO explain_VB hte_NN way_NN more_RBR easily_RB ._.
+For_IN example_NN ,_, first_JJ step_NN is_VBZ what_WP to_TO do_VB ,_, second_JJ step_NN is_VBZ what_WP to_TO do_VB ._. .._SYM
+ect_NN Inconclusion_NNP ,_, All_PDT these_DT reason_NN are_VBP appear_VBP that_IN the_DT one_CD specialize_VBP specific_JJ subject_NN are_VBP good_JJ ._.
+So_IN it_PRP is_VBZ better_JJR to_TO specialize_VB in_IN one_CD specific_JJ subject_NN than_IN to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS

@@ -1,0 +1,11 @@
+It is better to have wide knowledge of many academic subjects and to have deep knowledge of special subject.
+
+One can not get deep understanding of the spcialized subject with out knowledge of many academic subjects. For example, if you want to elect database management systems as your special subject. You should have basic knowledge of computer architecture, mathematics, algorithm engineering, operation research and basic knowledge of different computer language and communication language. You can concetrate more on database management systems and allocate more preparation time for DBMS. In order to understand the specific subject deeply, the basic knowledge of above mentioned academic subjects will help.
+
+If you want to design database for an organization you should have the knowledge of inventory of that organization. Operation research will help you to under stand this. Knowledge of mathematics, algorithm engineering will help you to design accurate and efficiently. More importantly you should have knowledge of communication language to understand the requirement correctly.
+
+One more example, if you want to travel from one place to another place. You should have a valid ticket.   you can assume that valid ticket is spcialized subject. But valid ticket will not really help you to reach the destination. You need transport vechicle, sufficient food, comfortable seat and etc. You can assume these are academic subjects.
+
+Last example, if a programmer want to implement a requirement in telecom domian say recharging a card. He should have better knowledge of the subscriber needs ,database structure, communication layers and call connecting procedures.
+
+Finally, academic subjects are the subjects which will help you to give enough knowledge to understand the specific elective subject.

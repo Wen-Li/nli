@@ -1,0 +1,16 @@
+I_PRP agree_VBP with_IN the_DT idea_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS later_RB than_IN today_NN ._.
+There_EX are_VBP several_JJ cconditions_NNS to_TO make_VB this_DT phenomenon_NN possible_JJ ._.
+First_RB ,_, the_DT fuels_NNS for_IN cars_NNS will_MD be_VB almost_RB depleted_VBN in_IN the_DT future_NN ._.
+This_DT condition_NN will_MD render_VB to_TO decrease_VB the_DT amounts_NNS of_IN usage_NN of_IN the_DT cars_NNS ._.
+The_DT usage_NN of_IN car_NN will_MD be_VB distinct_JJ ,_, when_WRB the_DT energy_NN source_NN of_IN the_DT cars_NNS are_VBP all_DT used_VBN up_RP ._.
+It_PRP will_MD continue_VB until_IN the_DT other_JJ energies_NNS are_VBP discovered_VBN ._.
+Second_RB ,_, there_EX will_MD be_VB other_JJ transportations_NNS which_WDT can_MD replace_VB the_DT cars_NNS ._.
+There_EX will_MD be_VB a_DT huge_JJ change_NN in_IN technology_NN and_CC science_NN ,_, thus_RB other_JJ transportation_NN can_MD be_VB developed_VBN ._.
+For_IN example_NN ,_, the_DT airplane_NN can_MD be_VB produced_VBN in_IN small_JJ size_NN ,_, small_JJ as_IN cars_NNS ,_, with_IN large_JJ amounts_NNS ,_, and_CC by_IN low_JJ cost_NN ._.
+Thus_RB ,_, it_PRP can_MD be_VB used_VBN as_IN cars_NNS we_PRP uses_VBZ in_IN the_DT present_JJ ._.
+Last_JJ ,_, the_DT tranportations_NNS will_MD not_RB be_VB needed_VBN at_IN all_DT ._.
+As_IN I_PRP stated_VBD on_IN the_DT last_JJ paragraph_NN ,_, there_EX will_MD be_VB a_DT huge_JJ developement_NN ._.
+A_DT machine_NN that_WDT can_MD send_VB people_NNS or_CC materials_NNS from_IN one_CD place_NN to_TO another_DT place_NN can_MD be_VB invented_VBN ._.
+If_IN this_DT kind_NN of_IN machine_NN is_VBZ invented_VBN ,_, it_PRP will_MD be_VB worthless_JJ to_TO use_VB any_DT transportation_NN ._.
+In_IN sum_NN ,_, there_EX will_MD be_VB fewer_JJR usage_NN of_IN the_DT cars_NNS in_IN twenty_CD years_NNS later_RB than_IN that_DT of_IN the_DT present_JJ ._.
+It_PRP will_MD be_VB fewer_JJR due_JJ to_TO the_DT lack_NN of_IN the_DT source_NN of_IN energy_NN ,_, or_CC the_DT developement_NN of_IN other_JJ transportations_NNS ,_, or_CC the_DT invention_NN of_IN the_DT machine_NN that_WDT can_MD convey_VB people_NNS and_CC materials_NNS ._.

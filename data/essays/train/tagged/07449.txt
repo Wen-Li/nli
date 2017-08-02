@@ -1,0 +1,15 @@
+The_DT given_VBN statement_NN is_VBZ
+``_`` It_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ''_'' ._.
+I_PRP disagree_VBP with_IN the_DT above_JJ statement_NN because_IN ,_, having_VBG broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS seems_VBZ to_TO be_VB alright_JJ when_WRB in_IN childhood_NN ,_, but_CC this_DT seems_VBZ to_TO be_VB complex_JJ and_CC cumbersome_JJ as_IN we_PRP grow_VBP older_JJR and_CC older_JJR ._.
+Firstly_RB ,_, if_IN we_PRP have_VBP broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ,_, it_PRP becomes_VBZ difficult_JJ to_TO identify_VB our_PRP$ main_JJ domain_NN properly_RB ._.
+For_IN an_DT example_NN ,_, consider_VB a_DT high_JJ school_NN student_NN ._.
+If_IN he_PRP needs_VBZ to_TO have_VB a_DT broad_JJ knowledge_NN of_IN many_JJ subjects_NNS even_RB after_IN his_PRP$ high_JJ school_NN ,_, apart_RB from_IN his_PRP$ personal_JJ interest_NN which_WDT he_PRP shows_VBZ at_IN a_DT particular_JJ subject_NN ,_, the_DT decision-making_JJ strategy_NN of_IN perceiving_VBG higher_JJR studies_NNS becomes_VBZ troublesome_JJ ._.
+Secondly_RB ,_, if_IN we_PRP have_VBP broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ,_, the_DT frequency_NN at_IN which_WDT we_PRP do_VBP get_VB update_VB about_IN these_DT subjects_NNS greatly_RB matters_NNS ._.
+We_PRP need_VBP to_TO have_VB a_DT greater_JJR frequency_NN of_IN updation_NN in_IN all_DT areas_NNS ,_, which_WDT is_VBZ not_RB a_DT simpler_JJR task_NN ._.
+For_IN an_DT example_NN ,_, consider_VB a_DT student_NN studying_VBG Computer_NNP Sciences_NNPS ._.
+The_DT other_JJ academic_JJ subjects_NNS include_VBP some_DT main_JJ aspects_NNS from_IN Electronics_NNP ,_, Electricals_NNP ,_, Communications_NNP and_CC like_IN wise_JJ ._.
+The_DT frequency_NN at_IN which_WDT he_PRP gets_VBZ updated_VBN in_IN his_PRP$ core_NN subject_NN (_CD Computer_NNP Sciences_NNPS )_NN slows_VBZ down_RP if_IN he_PRP needs_VBZ to_TO have_VB broad_JJ knowledge_NN of_IN other_JJ academic_JJ subjects_NNS ._.
+Thirdly_RB ,_, having_VBG broad_JJ knowledge_NN of_IN other_JJ academic_JJ subjects_NNS do_VBP helps_VBZ ,_, but_CC not_RB at_IN a_DT considerable_JJ rate_NN ._.
+Considering_VBG the_DT example_NN illustrated_VBD in_IN the_DT above_JJ (_NN second_JJ )_NN aspect_NN ,_, the_DT student_NN could_MD hardly_RB get_VB bugs_NNS in_IN other_JJ areas_NNS which_WDT he_PRP integrates_VBZ with_IN his_PRP$ core_NN subject_NN ._.
+In_IN recent_JJ days_NNS ,_, debugging_NN mechanisms_NNS are_VBP in_IN plethora_NN and_CC it_PRP can_MD be_VB said_VBD that_IN a_DT person_NN need_MD not_RB have_VB a_DT broad_JJ knowledge_NN of_IN other_JJ academic_JJ subjects_NNS ._.
+Considering_VBG the_DT above_JJ reasons_NNS ,_, I_PRP conclude_VBP that_IN I_PRP disagree_VBP with_IN the_DT given_VBN statement_NN ._.

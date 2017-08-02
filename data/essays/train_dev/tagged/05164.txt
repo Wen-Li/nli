@@ -1,0 +1,13 @@
+I_PRP totally_RB agree_VBP with_IN the_DT statement_NN proposed_VBN ._.
+Furthermore_RB ,_, for_IN me_PRP this_DT statement_NN more_RBR than_IN a_DT prediction_NN is_VBZ a_DT hope_NN ._.
+With_IN reference_NN to_TO this_DT ,_, it_PRP is_VBZ very_RB difficult_JJ to_TO cram_VB in_IN few_JJ sentences_NNS my_PRP$ thougth_NN about_IN cars_NNS and_CC the_DT way_NN people_NNS are_VBP used_VBN to_TO using_VBG them_PRP nowadays_RB ._.
+Shortly_RB ,_, I_PRP think_VBP that_IN people_NNS would_MD not_RB continue_VB to_TO use_VB cars_NNS in_IN such_JJ an_DT eccessive_JJ way_NN as_IN they_PRP have_VBP been_VBN doing_VBG for_IN fourty_CD years_NNS ,_, for_IN the_DT following_VBG reasons_NNS :_: the_DT cost_NN of_IN the_DT fuel_NN ;_: air_NN pollution_NN ;_: development_NN of_IN new_JJ technologies_NNS in_IN the_DT civil_JJ transport_NN sector_NN ._.
+The_DT main_JJ reason_NN ,_, at_IN least_JJS in_IN the_DT nearer_IN future_NN ,_, why_WRB people_NNS will_MD will_MD take_VB the_DT car_NN more_RBR rarely_RB is_VBZ the_DT increasing_VBG cost_NN of_IN the_DT fuel_NN ._.
+Families_NNS have_VBP problems_NNS in_IN facing_VBG such_PDT an_DT expensive_JJ cost_NN every_DT day_NN ._.
+In_IN this_DT respect_NN ,_, in_IN my_PRP$ personal_JJ experience_NN I_PRP already_RB saw_VBD people_NNS living_VBG in_IN my_PRP$ building_NN starting_VBG substituting_VBG the_DT car_NN with_IN a_DT bycicle_NN when_WRB they_PRP do_VBP not_RB really_RB have_VB the_DT need_NN to_TO drive_VB ._.
+The_DT second_JJ reason_NN why_WRB people_NNS I_PRP think_VBP will_MD certainly_RB prefer_VB to_TO take_VB a_DT bus_NN ,_, or_CC the_DT underground_JJ instead_RB of_IN the_DT car_NN is_VBZ represented_VBN by_IN the_DT air_NN pollution_NN ._.
+Air_NNP pollution_NN became_VBD a_DT problem_NN of_IN critical_JJ importance_NN in_IN the_DT cities_NNS ._.
+People_NNS can_MD not_RB freely_RB breathe_VB on_IN the_DT streets_NNS ._.
+The_DT level_NN of_IN air_NN pollution_NN has_VBZ reached_VBN unsustainable_JJ ceelings_NNS nowadays_RB and_CC people_NNS are_VBP more_RBR conscius_NN about_IN the_DT problem_NN and_CC started_VBD thinking_VBG about_IN it_PRP and_CC trying_VBG to_TO make_VB an_DT effort_NN to_TO solve_VB the_DT problem_NN ._.
+Finally_RB ,_, I_PRP think_VBP that_IN people_NNS will_MD definitly_RB prefer_VB to_TO take_VB a_DT tram_NN ,_, or_CC a_DT bus_NN ,_, because_IN the_DT technology_NN has_VBZ made_VBN great_JJ steps_NNS ._.
+In_IN the_DT future_JJ there_EX will_MD be_VB not_RB traffic_NN jam_NN ,_, but_CC only_RB fast_JJ and_CC safe_JJ public_JJ transports_NNS in_IN the_DT cities_NNS ._.

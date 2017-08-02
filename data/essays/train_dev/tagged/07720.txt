@@ -1,0 +1,22 @@
+Today_NN ,_, we_PRP are_VBP facing_VBG serious_JJ environmental_JJ threats_NNS resulting_VBG from_IN the_DT excessive_JJ use_NN of_IN cars_NNS ._.
+Passing_VBG a_DT gas_NN station_NN demonstrates_VBZ us_PRP daily_RB that_IN gas_NN prices_NNS are_VBP increasing_VBG tremendously_RB ._.
+Also_RB on_IN a_DT day-to-day_JJ basis_NN ,_, the_DT media_NNS tells_VBZ us_PRP about_IN political_JJ conflicts_NNS mostly_RB resulting_VBG from_IN oil_NN issues_NNS in_IN the_DT Middle_NNP East_NNP ._.
+Thus_RB ,_, it_PRP may_MD lead_VB us_PRP to_TO the_DT question_NN if_IN the_DT invention_NN of_IN the_DT car_NN was_VBD a_DT good_JJ idea_NN ._.
+Moreover_RB ,_, it_PRP is_VBZ intersting_VBG to_TO think_VB about_IN the_DT question_NN if_IN there_EX will_MD be_VB as_RB many_JJ cars_NNS as_IN today_NN in_IN twenty_CD years_NNS from_IN now_RB ._.
+I_PRP do_VBP not_RB think_VB so_RB for_IN the_DT reasons_NNS I_PRP would_MD like_VB to_TO give_VB in_IN this_DT essay_NN ._.
+First_RB ,_, oil_NN resources_NNS are_VBP deminishing_VBG very_RB rapidly_RB and_CC statistics_NNS show_VBP that_IN we_PRP will_MD eventually_RB run_VB out_IN of_IN oil_NN and_CC gas_NN ._.
+This_DT ,_, of_IN course_NN ,_, depends_VBZ on_IN the_DT pace_NN we_PRP are_VBP using_VBG our_PRP$ oil_NN ._.
+But_CC it_PRP seems_VBZ very_RB obvious_JJ that_IN the_DT vast_JJ oil_NN reserves_NNS will_MD be_VB totally_RB gone_VBN in_IN twenty_CD years_NNS if_IN we_PRP use_VBP oil_NN as_IN we_PRP us_PRP it_PRP today_NN ._.
+Thus_RB ,_, as_IN there_EX will_MD be_VB no_DT fuel_NN in_IN the_DT future_JJ there_EX will_MD certainly_RB be_VB fewer_JJR cars_NNS as_RB well_RB ._.
+Second_RB ,_, the_DT car_NN as_IN we_PRP use_VBP to_TO know_VB it_PRP now_RB is_VBZ probably_RB going_VBG to_TO dissappear_NN ._.
+Technology_NNP develops_VBZ at_IN a_DT such_JJ quick_JJ pace_NN that_IN there_EX will_MD be_VB new_JJ facilities_NNS which_WDT will_MD transport_VB us_PRP and_CC our_PRP$ goods_NNS in_IN the_DT future_NN ._.
+Twohundred_JJ years_NNS ago_RB ,_, people_NNS thought_VBD that_IN the_DT train_NN is_VBZ going_VBG to_TO be_VB the_DT new_JJ vehicle_NN of_IN the_DT future_NN ._.
+However_RB ,_, as_IN the_DT car_NN was_VBD invented_VBN ,_, trains_NNS were_VBD not_RB the_DT only_JJ transportation_NN means_VBZ anymore_RB ,_, thus_RB resulting_VBG in_IN a_DT decrease_NN of_IN trains_NNS being_VBG used_VBN ._.
+In_IN the_DT same_JJ way_NN ,_, it_PRP might_MD be_VB happen_VB with_IN the_DT automobile_NN ._.
+Even_RB today_NN ,_, cars_NNS are_VBP not_RB used_VBN that_DT often_RB anymore_RB when_WRB cheap_JJ airplane_NN tickets_NNS become_VBP more_RBR and_CC more_RBR available_JJ ._.
+Lastly_RB ,_, I_PRP believe_VBP that_IN the_DT need_NN to_TO get_VB from_IN one_CD point_NN to_TO the_DT other_JJ will_MD be_VB not_RB as_RB high_JJ as_IN it_PRP is_VBZ today_NN ._.
+In_IN twenty_CD years_NNS ,_, computer_NN technologies_NNS will_MD have_VB advanced_VBN in_IN such_JJ a_DT tremendous_JJ way_NN that_IN almost_RB everything_NN will_MD be_VB possible_JJ to_TO do_VB from_IN home_NN ._.
+This_DT trend_NN can_MD already_RB be_VB seen_VBN today_NN ,_, as_IN many_JJ companies_NNS are_VBP offering_VBG jobs_NNS that_WDT can_MD be_VB done_VBN from_IN home_NN using_VBG the_DT Internet_NN ._.
+Thus_RB ,_, people_NNS will_MD not_RB leave_VB their_PRP$ house_NN in_IN the_DT future_NN as_IN they_PRP do_VBP now_RB and_CC can_MD leave_VB their_PRP$ car_NN ,_, if_IN the_DT vehicle_NN is_VBZ still_RB named_VBN as_IN such_JJ ,_, in_IN their_PRP$ garage_NN ._.
+In_IN conclusion_NN ,_, I_PRP feel_VBP that_IN it_PRP is_VBZ obvious_JJ from_IN the_DT arguments_NNS given_VBN above_IN that_IN there_EX will_MD be_VB tremendously_RB less_JJR cars_NNS in_IN the_DT future_NN ._.
+Moreover_RB ,_, it_PRP is_VBZ impossible_JJ to_TO say_VB if_IN such_PDT a_DT vehicle_NN will_MD still_RB exist_VB in_IN twenty_CD years_NNS from_IN now_RB ._.

@@ -1,0 +1,16 @@
+Cars_NNS
+Transportations_NNS are_VBP very_RB important_JJ in_IN people_NNS 's_POS life_NN ._.
+They_PRP provide_VBP easy_JJ ways_NNS for_IN people_NNS to_TO travel_VB from_IN one_CD place_NN to_TO another_DT ._.
+There_EX are_VBP many_JJ automobiles_NNS and_CC in_IN my_PRP$ opinions_NNS ,_, i_FW guess_NN cars_NNS are_VBP the_DT most_RBS important_JJ automobile_NN ._.
+Cars_NNS are_VBP very_RB important_JJ in_IN one_CD 's_POS life_NN for_IN many_JJ reasons_NNS ._.
+First_RB ,_, they_PRP are_VBP easy_JJ to_TO use_VB ,_, everyone_NN can_MD use_VB them_PRP ._.
+Second_RB ,_, they_PRP are_VBP not_RB expensive_JJ ,_, maybe_RB some_DT of_IN them_PRP but_CC if_IN one_CD wants_VBZ to_TO buy_VB a_DT car_NN for_IN a_DT certain_JJ purpose_NN ,_, for_IN example_NN to_TO go_VB from_IN one_CD place_NN to_TO another_DT ,_, he/she_NN can_MD buy_VB a_DT small_JJ car_NN according_VBG to_TO his_PRP$ budget_NN ._.
+Third_NNP ,_, cars_NNS are_VBP designed_VBN ,_, nowadays_RB ,_, in_IN many_JJ shapes_NNS and_CC for_IN many_JJ occasions_NNS ,_, so_RB anyone_NN can_MD find_VB a_DT car_NN that_WDT is_VBZ suitable_JJ for_IN a_DT certain_JJ purpose_NN ._.
+For_IN example_NN ,_, if_IN one_CD wants_VBZ to_TO go_VB to_TO a_DT place_NN that_WDT is_VBZ a_DT little_JJ bit_NN far_RB from_IN his_PRP$ home_NN and_CC he/she_NN needs_VBZ to_TO spend_VB the_DT night_NN driving_VBG ,_, he/she_NN can_MD buy_VB the_DT car_NN that_WDT is_VBZ suitable_JJ for_IN this_DT occasion_NN ,_, like_IN cars_NNS that_WDT are_VBP big_JJ and_CC have_VBP a_DT chair_NN at_IN the_DT back_NN that_WDT opens_VBZ when_WRB he/she_NN wants_VBZ to_TO have_VB rest_NN ._.
+So_RB ,_, the_DT main_JJ point_NN i_FW want_VBP to_TO explain_VB is_VBZ that_IN cars_NNS are_VBP designed_VBN in_IN many_JJ shapes_NNS and_CC many_JJ sizes_NNS that_WDT are_VBP suitable_JJ for_IN many_JJ different_JJ occassions_NNS ._.
+Well_RB ,_, inspite_NN of_IN their_PRP$ disadvantages_NNS ,_, such_JJ as_IN air_NN pollution_NN ,_, traffic_NN and_CC accidents_NNS ,_, i_FW guess_NN cars_NNS are_VBP more_RBR useful_JJ than_IN other_JJ automobile_NN ,_, like_IN busses_NNS or_CC trains_NNS or_CC even_RB planes_NNS ._.
+Let_VB me_PRP put_VB this_DT in_IN another_DT way_NN ,_, if_IN one_CD wants_VBZ to_TO go_VB to_TO work_VB and_CC he/she_VB wants_VBZ to_TO take_VB the_DT bus_NN ,_, first_JJ he/she_NN must_MD wait_VB for_IN the_DT bus_NN to_TO arrive_VB ,_, and_CC when_WRB the_DT bus_NN arrives_VBZ he/she_RB must_MD check_VB if_IN the_DT bus_NN is_VBZ full_JJ or_CC not_RB and_CC after_IN taking_VBG the_DT bus_NN and_CC arriving_VBG to_TO work_VB ,_, he/she_VB will_MD pay_VB for_IN the_DT ride_NN which_WDT annoy_VBP most_JJS of_IN the_DT people_NNS ._.
+So_RB ,_, i_FW think_VB ,_, instead_RB of_IN paying_VBG everytime_NN he/she_NN can_MD buy_VB a_DT car_NN !_.
+So_RB ,_, I_PRP guess_VBP ,_, cars_NNS are_VBP smaller_JJR ,_, more_RBR useful_JJ ,_, more_RBR helpful_JJ and_CC cheaper_JJR than_IN any_DT other_JJ automobile_NN
+The_DT core_NN of_IN this_DT is_VBZ that_IN I_PRP totally_RB disagree_VBP with_IN the_DT statement_NN ``_`` In_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ''_'' ._.
+I_PRP think_VBP in_IN twenty_CD years_NNS people_NNS will_MD be_VB fewer_JJR than_IN cars_NNS ._.

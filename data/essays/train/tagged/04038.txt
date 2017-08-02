@@ -1,0 +1,13 @@
+I_PRP strongly_RB believe_VBP that_IN students_NNS should_MD understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN they_PRP just_RB learn_VBP them_PRP as_IN a_DT fact_NN ._.
+I_PRP found_VBD that_IN important_JJ since_IN this_DT is_VBZ more_RBR beneficial_JJ for_IN student_NN for_IN their_PRP$ future_JJ life_NN ._.
+To_TO begin_VB with_IN ,_, while_IN students_NNS understunding_VBG the_DT ideas_NNS and_CC concepts_NNS ,_, they_PRP begin_VBP to_TO set_VB connections_NNS between_IN all_PDT the_DT ideas_NNS they_PRP have_VBP learned_VBN ._.
+Lets_VBZ take_VB an_DT MBA_NNP student_NN ._.
+If_IN he_PRP understands_VBZ the_DT different_JJ business_NN concepts_NNS for_IN a_DT company_NN ,_, he_PRP can_MD understand_VB how_WRB a_DT whole_JJ business_NN works_NNS ._.
+For_IN example_NN ,_, lets_VBZ say_VBP he_PRP take_VB accounting_NN courses_NNS and_CC marketing_NN courses_NNS ._.
+At_IN the_DT end_NN ,_, he_PRP should_MD make_VB a_DT connection_NN between_IN them_PRP to_TO have_VB a_DT profound_JJ idea_NN about_IN that_DT business_NN ._.
+If_IN he_PRP learns_VBZ the_DT concepts_NNS just_RB a_DT fact_NN ,_, he_PRP can_MD not_RB have_VB a_DT broad_JJ point_NN of_IN view_NN about_IN that_DT business_NN ._.
+Moreover_RB ,_, students_NNS who_WP learn_VBP the_DT concept_NN as_IN a_DT fact_NN tend_VB to_TO forget_VB them_PRP much_RB easily_RB than_IN the_DT students_NNS understanding_VBG concepts_NNS ._.
+For_IN example_NN ,_, if_IN a_DT student_NN tries_VBZ to_TO memorize_VB matematical_JJ functions_NNS ,_, he_PRP will_MD most_RBS probably_RB forget_VB all_PDT those_DT equations_NNS in_IN a_DT short_JJ time_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN a_DT student_NN understand_VB those_DT functions_NNS ,_, he_PRP will_MD less_RBR likely_JJ forget_VB them_PRP ._.
+Concequently_RB ,_, I_PRP agree_VBP that_IN for_IN students_NNS it_PRP is_VBZ more_RBR important_JJ to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+Therefore_RB ,_, students_NNS should_MD take_VB into_IN account_NN that_WDT how_WRB they_PRP learn_VBP makes_VBZ a_DT real_JJ difference_NN ._.

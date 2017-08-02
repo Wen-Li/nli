@@ -1,0 +1,25 @@
+Students_NNS learn_VBP many_JJ subjects_NNS in_IN school_NN ._.
+Teachers_NNPS feel_VBP difficulties_NNS how_WRB to_TO teach_VB ._.
+Some_DT people_NNS think_VBP that_IN studying_VBG facts_NNS is_VBZ more_RBR important_JJ than_IN studying_VBG ideas_NNS and_CC concepts_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, others_NNS believe_VBP that_IN learning_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN leaning_VBG facts_NNS ._.
+In_IN my_PRP$ opinon_NN ,_, knowing_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN knowing_VBG facts_NNS ._.
+I_PRP will_MD explain_VB reasons_NNS to_TO support_VB my_PRP$ view_NN ._.
+Ideas_NNS and_CC concepts_NNS is_VBZ helpful_JJ for_IN students_NNS to_TO understand_VB facts_NNS ._.
+First_NNP of_IN all_DT ,_, ideas_NNS and_CC concepts_NNS are_VBP besic_JJ of_IN all_DT facts_NNS ._.
+Without_IN basic_JJ theories_NNS ,_, students_NNS can_MD not_RB understand_VB facts_NNS ._.
+For_IN instance_NN ,_, there_EX are_VBP many_JJ theories_NNS to_TO understand_VB people_NNS 's_POS behaviors_NNS in_IN psychology_NN ._.
+I_PRP could_MD understand_VB others_NNS behaviors_NNS and_CC my_PRP$ feelings_NNS by_IN understanding_VBG these_DT theories_NNS ._.
+Secondly_RB ,_, using_VBG ideas_NNS and_CC concepts_NNS ,_, individuals_NNS can_MD develop_VB ideas_NNS and_CC extend_VB their_PRP$ view_NN of_IN points_NNS ._.
+In_IN short_JJ ,_, ideas_NNS and_CC concepts_NNS should_MD be_VB learned_VBN first_RB ._.
+Learning_NNP ideas_NNS and_CC concepts_NNS enable_VBP students_NNS to_TO solve_VB problem_NN quickly_RB ._.
+First_NNP of_IN all_DT ,_, students_NNS can_MD think_VB issues_NNS logically_RB because_IN ideas_NNS and_CC concepts_NNS make_VBP problems_NNS easier_JJR to_TO understand_VB ._.
+Secondly_RB ,_, students_NNS learn_VBP skills_NNS effectively_RB ._.
+For_IN instance_NN ,_, to_TO learn_VB language_NN ,_, such_JJ as_IN English_NNP ,_, students_NNS need_VBP to_TO learn_VB grammer_NN and_CC structure_NN ._.
+Only_RB listening_VBG native_JJ speaker_NN 's_POS conversations_NNS is_VBZ not_RB enough_JJ to_TO master_VB English_NNP ._.
+In_IN brief_NN ,_, ideas_NNS and_CC concepts_NNS is_VBZ useful_JJ for_IN students_NNS ._.
+Of_IN course_NN ,_, learning_VBG facts_NNS is_VBZ also_RB important_JJ ._.
+However_RB ,_, usually_RB facts_NNS are_VBP matters_NNS to_TO support_VB ideas_NNS or_CC concept_NN ,_, therefore_RB facts_NNS are_VBP supplyment_NN for_IN them_PRP ._.
+In_IN addition_NN ,_, observing_VBG facts_NNS is_VBZ interesting_JJ and_CC students_NNS are_VBP attracted_VBN study_NN by_IN wathing_JJ facts_NNS ,_, yet_RB after_IN all_DT students_NNS need_VBP ideas_NNS or_CC concepts_NNS to_TO study_VB their_PRP$ interests_NNS deeply_RB ._.
+To_TO conclude_VB ,_, ideas_NNS and_CC concepts_NNS is_VBZ a_DT neccesity_NN for_IN students_NNS to_TO consider_VB subject_JJ deeply_RB ._.
+On_IN the_DT other_JJ hand_NN ,_, facts_NNS are_VBP only_RB one_CD aspect_NN of_IN real_JJ phenomenon_NN ._.
+Hence_RB ,_, it_PRP is_VBZ not_RB difficult_JJ to_TO say_VB that_IN leaning_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG facts_NNS ._.

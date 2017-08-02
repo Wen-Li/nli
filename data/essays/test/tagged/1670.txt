@@ -1,0 +1,19 @@
+It_PRP is_VBZ better_JJR to_TO have_VB wide_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS and_CC to_TO have_VB deep_JJ knowledge_NN of_IN special_JJ subject_NN ._.
+One_PRP can_MD not_RB get_VB deep_JJ understanding_NN of_IN the_DT spcialized_VBN subject_NN with_IN out_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+For_IN example_NN ,_, if_IN you_PRP want_VBP to_TO elect_VB database_NN management_NN systems_NNS as_IN your_PRP$ special_JJ subject_NN ._.
+You_PRP should_MD have_VB basic_JJ knowledge_NN of_IN computer_NN architecture_NN ,_, mathematics_NN ,_, algorithm_NN engineering_NN ,_, operation_NN research_NN and_CC basic_JJ knowledge_NN of_IN different_JJ computer_NN language_NN and_CC communication_NN language_NN ._.
+You_PRP can_MD concetrate_VB more_RBR on_IN database_NN management_NN systems_NNS and_CC allocate_VB more_JJR preparation_NN time_NN for_IN DBMS_NNS ._.
+In_IN order_NN to_TO understand_VB the_DT specific_JJ subject_JJ deeply_RB ,_, the_DT basic_JJ knowledge_NN of_IN above_JJ mentioned_VBN academic_JJ subjects_NNS will_MD help_VB ._.
+If_IN you_PRP want_VBP to_TO design_NN database_NN for_IN an_DT organization_NN you_PRP should_MD have_VB the_DT knowledge_NN of_IN inventory_NN of_IN that_DT organization_NN ._.
+Operation_NN research_NN will_MD help_VB you_PRP to_TO under_IN stand_NN this_DT ._.
+Knowledge_NN of_IN mathematics_NNS ,_, algorithm_NN engineering_NN will_MD help_VB you_PRP to_TO design_VB accurate_JJ and_CC efficiently_RB ._.
+More_RBR importantly_RB you_PRP should_MD have_VB knowledge_NN of_IN communication_NN language_NN to_TO understand_VB the_DT requirement_NN correctly_RB ._.
+One_CD more_JJR example_NN ,_, if_IN you_PRP want_VBP to_TO travel_VB from_IN one_CD place_NN to_TO another_DT place_NN ._.
+You_PRP should_MD have_VB a_DT valid_JJ ticket_NN ._.
+you_PRP can_MD assume_VB that_IN valid_JJ ticket_NN is_VBZ spcialized_VBN subject_NN ._.
+But_CC valid_JJ ticket_NN will_MD not_RB really_RB help_VB you_PRP to_TO reach_VB the_DT destination_NN ._.
+You_PRP need_VBP transport_NN vechicle_NN ,_, sufficient_JJ food_NN ,_, comfortable_JJ seat_NN and_CC etc_NN ._.
+You_PRP can_MD assume_VB these_DT are_VBP academic_JJ subjects_NNS ._.
+Last_JJ example_NN ,_, if_IN a_DT programmer_NN want_VBP to_TO implement_VB a_DT requirement_NN in_IN telecom_NN domian_JJ say_VBP recharging_VBG a_DT card_NN ._.
+He_PRP should_MD have_VB better_JJR knowledge_NN of_IN the_DT subscriber_NN needs_VBZ ,_, database_NN structure_NN ,_, communication_NN layers_NNS and_CC call_VB connecting_VBG procedures_NNS ._.
+Finally_RB ,_, academic_JJ subjects_NNS are_VBP the_DT subjects_NNS which_WDT will_MD help_VB you_PRP to_TO give_VB enough_JJ knowledge_NN to_TO understand_VB the_DT specific_JJ elective_JJ subject_NN ._.

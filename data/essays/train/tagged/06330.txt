@@ -1,0 +1,21 @@
+It_PRP is_VBZ a_DT very_RB common_JJ idea_NN that_IN there_EX are_VBP two_CD different_JJ ways_NNS of_IN what_WP can_MD be_VB called_VBN `_`` learning_VBG '_'' ,_, for_IN a_DT student_NN in_IN a_DT school_NN ._.
+The_DT first_JJ way_NN is_VBZ to_TO learn_VB about_IN a_DT subject_JJ by_IN understanding_VBG how_WRB it_PRP works_VBZ and_CC the_DT concepts_NNS that_WDT are_VBP below_IN it_PRP ._.
+The_DT other_JJ way_NN is_VBZ more_RBR mecanical_JJ and_CC implies_VBZ learning_VBG facts_NNS about_IN this_DT subject_NN ._.
+I_PRP agree_VBP with_IN the_DT statement_NN ,_, that_WDT is_VBZ I_PRP think_VBP that_IN in_IN most_JJS situations_NNS ,_, when_WRB one_PRP has_VBZ to_TO choose_VB ,_, he_PRP had_VBD better_JJR to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS than_IN just_RB learn_VBP facts_NNS ._.
+There_EX are_VBP lots_NNS of_IN arguments_NNS in_IN favor_NN of_IN it_PRP ._.
+First_RB ,_, in_IN most_JJS situations_NNS the_DT facts_NNS are_VBP not_RB repeatable_JJ ._.
+For_IN example_NN in_IN scientific_JJ issues_NNS ,_, the_DT basic_JJ interest_NN of_IN general_JJ rules_NNS and_CC equations_NNS is_VBZ that_IN they_PRP can_MD be_VB transposed_VBN and_CC used_VBN in_IN the_DT most_RBS possible_JJ contexts_NNS ._.
+And_CC to_TO use_VB these_DT equations_NNS ,_, one_CD has_VBZ to_TO understand_VB them_PRP ._.
+Learning_NNP facts_NNS in_IN a_DT scientific_JJ field_NN ,_, like_IN for_IN example_NN the_DT resulting_VBG speed_NN of_IN an_DT object_NN ,_, does_VBZ not_RB give_VB any_DT clue_NN about_IN the_DT result_NN of_IN an_DT experiment_NN in_IN another_DT context_NN ._.
+Secondly_RB ,_, the_DT process_NN of_IN learning_NN is_VBZ also_RB important_JJ ._.
+Learning_NNP facts_NNS stimulates_VBZ only_RB memory_NN and_CC does_VBZ not_RB give_VB a_DT very_RB secured_JJ way_NN of_IN learning_NN ._.
+On_IN the_DT contrary_NN ,_, by_IN trying_VBG to_TO understand_VB concepts_NNS and_CC ideas_NNS ,_, a_DT student_NN stimulates_VBZ other_JJ parts_NNS of_IN his_PRP$ mind_NN ,_, starts_VBZ of_IN process_NN of_IN real_JJ thinking_NN ._.
+That_DT kind_NN of_IN process_NN is_VBZ more_RBR likely_JJ to_TO be_VB memorized_VBN and_CC to_TO be_VB useful_JJ to_TO the_DT student_NN ,_, as_IN it_PRP is_VBZ an_DT active_JJ way_NN of_IN learning_NN ._.
+Third_NNP ,_, a_DT student_NN should_MD not_RB only_RB care_VB about_IN immediate_JJ issues_NNS such_JJ as_IN having_VBG a_DT good_JJ mark_NN at_IN an_DT exam_NN ._.
+Indeed_RB university_NN and_CC schools_NNS should_MD be_VB a_DT place_NN where_WRB students_NNS can_MD develop_VB their_PRP$ skills_NNS ,_, their_PRP$ ability_NN of_IN thinking_NN ,_, analysing_VBG situations_NNS ,_, etc_FW ._.
+Eventhough_NNP focusing_VBG more_RBR on_IN understanding_NN than_IN on_IN learning_VBG facts_NNS can_MD be_VB less_RBR efficient_JJ in_IN the_DT short_JJ time_NN ,_, it_PRP should_MD be_VB more_RBR efficient_JJ in_IN the_DT long_JJ term_NN ._.
+In_IN addition_NN it_PRP is_VBZ also_RB very_RB useful_JJ in_IN life_NN to_TO know_VB how_WRB to_TO analyse_VB situations_NNS and_CC understand_VB them_PRP ._.
+Yet_CC there_EX are_VBP naturally_RB exeptions_NNS ._.
+And_CC the_DT statement_NN may_MD not_RB be_VB true_JJ in_IN every_DT situation_NN ._.
+For_IN example_NN ,_, History_NN or_CC Geographic_JJ studies_NNS require_VBP mainly_RB to_TO learn_VB facts_NNS and_CC it_PRP is_VBZ this_DT learning_NN which_WDT determines_VBZ the_DT level_NN ,_, the_DT skills_NNS of_IN someone_NN in_IN that_DT field_NN ._.
+Let_VB us_PRP say_VB that_IN even_RB though_IN learning_VBG facts_NNS is_VBZ sometimes_RB very_RB important_JJ ,_, there_EX is_VBZ always_RB the_DT need_NN to_TO be_VB able_JJ to_TO use_VB them_PRP ,_, and_CC to_TO understand_VB a_DT specific_JJ situation_NN ._.

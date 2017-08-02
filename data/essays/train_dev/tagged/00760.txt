@@ -1,0 +1,19 @@
+YES_RB ,_, i_FW agree_VBP this_DT statement_NN ,_, ``_`` In_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN the_DT there_EX are_VBP today_NN ''_'' ._.
+At_IN present_JJ technology_NN has_VBZ been_VBN improved_VBN ._.
+At_IN same_JJ time_NN cars_NNS model_NN are_VBP increased_VBN ._.
+In_IN twenty_CD years_NNS past_IN there_EX only_RB two_CD or_CC three_CD models_NNS of_IN cars_NNS available_JJ ._.
+But_CC present_JJ there_EX are_VBP some_DT models_NNS of_IN cars_NNS and_CC with_IN technology_NN cars_NNS are_VBP manufacturing_VBG ._.
+There_EX will_MD keep_VB the_DT people_NNS in_IN safe_JJ mode_NN even_RB if_IN accident_NN will_MD appear_VB ._.
+For_IN example_NN in_IN olden_CD days_NNS there_RB facility_NN to_TO see_VB television_NN in_IN the_DT car_NN ,_, listen_VBP music_NN in_IN the_DT car_NN ._.
+It_PRP used_VBD only_RB for_IN travelling_VBG purpose_NN ._.
+But_CC at_IN present_JJ by_IN reading_VBG newspaper_NN also_RB we_PRP can_MD drive_VB car_NN ._.
+That_DT much_JJ has_VBZ been_VBN improved_VBN the_DT technology_NN ._.
+If_IN car_NN has_VBZ been_VBN accident_NN there_EX is_VBZ no_DT harm_NN to_TO the_DT human_JJ beings_NNS because_IN all_DT safety_NN has_VBZ been_VBN arranged_VBN in_IN the_DT car_NN ._.
+The_DT old_JJ cars_NNS are_VBP polluting_VBG the_DT climate_NN so_RB much_RB by_IN leaving_VBG smoke_NN ._.
+But_CC the_DT present_JJ cars_NNS are_VBP using_VBG the_DT gas_NN instead_RB of_IN petro_NN or_CC disel_NN ._.
+It_PRP will_MD reduce_VB pollution_NN of_IN climate_NN ._.
+In_IN past_JJ cars_NNS this_DT facility_NN is_VBZ not_RB available_JJ ._.
+Different_JJ cars_NNS have_VBP different_JJ technologies_NNS ._.
+At_IN present_JJ populations_NNS also_RB increased_VBD at_IN same_JJ timeusage_NN of_IN car_NN also_RB incerased_VBD ._.
+Finally_RB i_FW conclude_VBP that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+At_IN persent_NN technology_NN cars_NNS have_VBP good_JJ selling_NN in_IN the_DT maarket_NN ._.

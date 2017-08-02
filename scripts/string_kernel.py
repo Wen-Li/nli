@@ -1,265 +1,198 @@
+#!/usr/bin/env python3
+
+"""
+This script requires Python 3 and the scikit-learn package. See the README file for more details.
+Example invocations:
+    Generate the features from the tokenized essays:
+        $ python n_grams.py [--train ] [--test] [--preprocessor]
+
+    Run with precomputed features:
+        $ python n_grams.py [--train] [--test dev] [--preprocessor] --training_features path/to/train/featurefile --test_features /path/to/test/featurefile
+"""
 import numpy as np
-from sklearn import svm
-from sklearn.datasets import fetch_20newsgroups
-from sklearn.svm import libsvm
-import sys
-from time import time
-from functools import wraps
+import csv
+import os
+from sklearn import metrics
+from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer, TfidfVectorizer
+from sklearn.preprocessing import Normalizer, StandardScaler
+from sklearn.svm import LinearSVC, SVC
+from sklearn.neural_network import MLPClassifier
+import time
+from sklearn.feature_selection import SelectKBest, chi2
+import pickle
+from sklearn.model_selection import cross_val_score, cross_val_predict
+from sklearn.metrics import accuracy_score
 
 
-LIBSVM_IMPL = ['c_svc', 'nu_svc', 'one_class', 'epsilon_svr', 'nu_svr']
+def load_features_and_labels(train_partition, test_partition):
+    train_labels_path = "{script_dir}/../data/labels/{train}/labels.{train}.csv".format(train=train_partition,
+                                                                                        script_dir=SCRIPT_DIR)
+    train_data_path = "{script_dir}/../data/essays/{}/tokenized/".format(train_partition, script_dir=SCRIPT_DIR)
+    test_labels_path = "{script_dir}/../data/labels/{test}/labels.{test}.csv".format(test=test_partition,
+                                                                                     script_dir=SCRIPT_DIR)
+    test_data_path = "{script_dir}/../data/essays/{}/tokenized".format(test_partition, script_dir=SCRIPT_DIR)
+
+    path_and_descriptor_list = [(train_labels_path, "training labels file"),
+                                (train_data_path, "training data directory"),
+                                (test_labels_path, "testing labels file"),
+                                (test_data_path, "testing data directory")]
+    for path_, path_descriptor in path_and_descriptor_list:
+        if not os.path.exists(path_):
+            raise Exception("Could not find {desc}: {pth}".format(desc=path_descriptor, pth=path_))
+
+    # Read labels files. If feature files provided, `training_files` and `test_files` below will be ignored
+    with open(train_labels_path) as train_labels_f, open(test_labels_path) as test_labels_f:
+        essay_path_train = '{script_dir}/../data/essays/{train}/{preproc}'.format(script_dir=SCRIPT_DIR,
+                                                                                  train=train_partition,
+                                                                                  preproc=preprocessor)
+        essay_path_test = '{script_dir}/../data/essays/{test}/{preproc}'.format(script_dir=SCRIPT_DIR,
+                                                                                test=test_partition,
+                                                                                preproc=preprocessor)
+        training_files, training_labels = zip(
+            *[(os.path.join(essay_path_train, row['test_taker_id'] + '.txt'), row['L1'])
+              for row in csv.DictReader(train_labels_f)])
+        test_files, test_labels = zip(*[(os.path.join(essay_path_test, row['test_taker_id'] + '.txt'), row['L1'])
+                                        for row in csv.DictReader(test_labels_f)])
+    print("Found {} text files in {} and {} in {}"
+          .format(len(training_files), train_partition, len(test_files), test_partition))
+    print("Loading training and testing data from {} & {}".format(train_partition, test_partition))
+
+    # encode train and test labels: char to int
+    encoded_training_labels = [CLASS_LABELS.index(label) for label in training_labels]
+    encoded_test_labels = [CLASS_LABELS.index(label) for label in test_labels]
+
+    # save encoded train and test labels
+    # with open('../pickles/encoded_training_labels.pkl', 'wb') as f:
+    #     pickle.dump(encoded_training_labels, f, pickle.HIGHEST_PROTOCOL)
+    # with open('../pickles/encoded_test_labels.pkl', 'wb') as f:
+    #     pickle.dump(encoded_test_labels, f, pickle.HIGHEST_PROTOCOL)
+
+    # combine train and dev files
+    file_list = list(training_files) + list(test_files)
+    vectorizer = TfidfVectorizer(input="filename",
+                                 analyzer=unit,
+                                 ngram_range=unit_range,
+                                 token_pattern=unit_pattern,
+                                 min_df=2)
+    tfidf = vectorizer.fit_transform(file_list)
+    n = len(vectorizer.get_feature_names())
+    print("\n".join(vectorizer.get_feature_names()[int(n/2):int(n/2 + 10)]))
+    training_matrix = tfidf[:len(training_files)]
+    test_matrix = tfidf[len(training_files):]
+
+    return [(training_matrix, encoded_training_labels, training_labels),
+            (test_matrix, encoded_test_labels, test_labels)]
 
 
-def caching():
-    """
-    Cache decorator. Arguments to the cached function must be hashable.
-    """
-    def decorate_func(func):
-        cache = dict()
-        # separating positional and keyword args
-        kwarg_point = object()
+def pretty_print_cm(cm, class_labels):
+    row_format = "{:>5}" * (len(class_labels) + 1)
+    print(row_format.format("", *class_labels))
+    for l1, row in zip(class_labels, cm):
+        print(row_format.format(l1, *row))
 
-        @wraps(func)
-        def cache_value(*args, **kwargs):
-            key = args
-            if kwargs:
-                key += (kwarg_point,) + tuple(sorted(kwargs.items()))
-            if key in cache:
-                result = cache[key]
-            else:
-                result = func(*args, **kwargs)
-                cache[key] = result
-            return result
-
-        def cache_clear():
-            """
-            Clear the cache
-            """
-            cache.clear()
-
-        # Clear the cache
-        cache_value.cache_clear = cache_clear
-        return cache_value
-    return decorate_func
-
-
-class StringKernelSVM(svm.SVC):
-    """
-    Implementation of string kernel from article:
-    H. Lodhi, C. Saunders, J. Shawe-Taylor, N. Cristianini, and C. Watkins.
-    Text classification using string kernels. Journal of Machine Learning Research, 2, 2002 .
-    svm.SVC is a basic class from scikit-learn for SVM classification (in multiclass case, it uses one-vs-one approach)
-    """
-    def __init__(self, subseq_length=3, lambda_decay=0.5):
-        """
-        Constructor
-        :param lambda_decay: lambda parameter for the algorithm
-        :type  lambda_decay: float
-        :param subseq_length: maximal subsequence length
-        :type subseq_length: int
-        """
-        self.lambda_decay = lambda_decay
-        self.subseq_length = subseq_length
-        svm.SVC.__init__(self, kernel='precomputed')
-
-
-    @caching()
-    def _K(self, n, s, t):
-        """
-        K_n(s,t) in the original article; recursive function
-        :param n: length of subsequence
-        :type n: int
-        :param s: document #1
-        :type s: str
-        :param t: document #2
-        :type t: str
-        :return: float value for similarity between s and t
-        """
-        if min(len(s), len(t)) < n:
-            return 0
-        else:
-            part_sum = 0
-            for j in range(1, len(t)):
-                if t[j] == s[-1]:
-                    #not t[:j-1] as in the article but t[:j] because of Python slicing rules!!!
-                    part_sum += self._K1(n - 1, s[:-1], t[:j])
-            result = self._K(n, s[:-1], t) + self.lambda_decay ** 2 * part_sum
-            return result
-
-
-    @caching()
-    def _K1(self, n, s, t):
-        """
-        K'_n(s,t) in the original article; auxiliary intermediate function; recursive function
-        :param n: length of subsequence
-        :type n: int
-        :param s: document #1
-        :type s: str
-        :param t: document #2
-        :type t: str
-        :return: intermediate float value
-        """
-        if n == 0:
-            return 1
-        elif min(len(s), len(t)) < n:
-            return 0
-        else:
-            part_sum = 0
-            for j in range(1, len(t)):
-                if t[j] == s[-1]:
-        #not t[:j-1] as in the article but t[:j] because of Python slicing rules!!!
-                    part_sum += self._K1(n - 1, s[:-1], t[:j]) * (self.lambda_decay ** (len(t) - (j + 1) + 2))
-            result = self.lambda_decay * self._K1(n, s[:-1], t) + part_sum
-            return result
-
-
-    def _gram_matrix_element(self, s, t, sdkvalue1, sdkvalue2):
-        """
-        Helper function
-        :param s: document #1
-        :type s: str
-        :param t: document #2
-        :type t: str
-        :param sdkvalue1: K(s,s) from the article
-        :type sdkvalue1: float
-        :param sdkvalue2: K(t,t) from the article
-        :type sdkvalue2: float
-        :return: value for the (i, j) element from Gram matrix
-        """
-        if s == t:
-            return 1
-        else:
-            try:
-                return self._K(self.subseq_length, s, t) / \
-                       (sdkvalue1 * sdkvalue2) ** 0.5
-            except ZeroDivisionError:
-                print("Maximal subsequence length is less or equal to documents' minimal length."
-                      "You should decrease it")
-                sys.exit(2)
-
-
-    def string_kernel(self, X1, X2):
-        """
-        String Kernel computation
-        :param X1: list of documents (m rows, 1 column); each row is a single document (string)
-        :type X1: list
-        :param X2: list of documents (m rows, 1 column); each row is a single document (string)
-        :type X2: list
-        :return: Gram matrix for the given parameters
-        """
-        len_X1 = len(X1)
-        len_X2 = len(X2)
-        # numpy array of Gram matrix
-        gram_matrix = np.zeros((len_X1, len_X2), dtype=np.float32)
-        sim_docs_kernel_value = {}
-        #when lists of documents are identical
-        if X1 == X2:
-        #store K(s,s) values in dictionary to avoid recalculations
-            for i in range(len_X1):
-                sim_docs_kernel_value[i] = self._K(self.subseq_length, X1[i], X1[i])
-        #calculate Gram matrix
-            for i in range(len_X1):
-                for j in range(i, len_X2):
-                    gram_matrix[i, j] = self._gram_matrix_element(X1[i], X2[j], sim_docs_kernel_value[i],
-                                                                 sim_docs_kernel_value[j])
-        #using symmetry
-                    gram_matrix[j, i] = gram_matrix[i, j]
-        #when lists of documents are not identical but of the same length
-        elif len_X1 == len_X2:
-            sim_docs_kernel_value[1] = {}
-            sim_docs_kernel_value[2] = {}
-        #store K(s,s) values in dictionary to avoid recalculations
-            for i in range(len_X1):
-                sim_docs_kernel_value[1][i] = self._K(self.subseq_length, X1[i], X1[i])
-            for i in range(len_X2):
-                sim_docs_kernel_value[2][i] = self._K(self.subseq_length, X2[i], X2[i])
-        #calculate Gram matrix
-            for i in range(len_X1):
-                for j in range(i, len_X2):
-                    gram_matrix[i, j] = self._gram_matrix_element(X1[i], X2[j], sim_docs_kernel_value[1][i],
-                                                                 sim_docs_kernel_value[2][j])
-        #using symmetry
-                    gram_matrix[j, i] = gram_matrix[i, j]
-        #when lists of documents are neither identical nor of the same length
-        else:
-            sim_docs_kernel_value[1] = {}
-            sim_docs_kernel_value[2] = {}
-            min_dimens = min(len_X1, len_X2)
-        #store K(s,s) values in dictionary to avoid recalculations
-            for i in range(len_X1):
-                sim_docs_kernel_value[1][i] = self._K(self.subseq_length, X1[i], X1[i])
-            for i in range(len_X2):
-                sim_docs_kernel_value[2][i] = self._K(self.subseq_length, X2[i], X2[i])
-        #calculate Gram matrix for square part of rectangle matrix
-            for i in range(min_dimens):
-                for j in range(i, min_dimens):
-                    gram_matrix[i, j] = self._gram_matrix_element(X1[i], X2[j], sim_docs_kernel_value[1][i],
-                                                                 sim_docs_kernel_value[2][j])
-                    #using symmetry
-                    gram_matrix[j, i] = gram_matrix[i, j]
-
-        #if more rows than columns
-            if len_X1 > len_X2:
-                for i in range(min_dimens, len_X1):
-                    for j in range(len_X2):
-                        gram_matrix[i, j] = self._gram_matrix_element(X1[i], X2[j], sim_docs_kernel_value[1][i],
-                                                                     sim_docs_kernel_value[2][j])
-        #if more columns than rows
-            else:
-                for i in range(len_X1):
-                    for j in range(min_dimens, len_X2):
-                        gram_matrix[i, j] = self._gram_matrix_element(X1[i], X2[j], sim_docs_kernel_value[1][i],
-                                                                     sim_docs_kernel_value[2][j])
-        print(sim_docs_kernel_value)
-        return gram_matrix
-
-
-    def fit(self, X, Y):
-        gram_matr = self.string_kernel(X, X)
-        self.__X = X
-        super(svm.SVC, self).fit(gram_matr, Y)
-
-
-    def predict(self, X):
-        svm_type = LIBSVM_IMPL.index(self.impl)
-        if not self.__X:
-            print('You should train the model first!!!')
-            sys.exit(3)
-        else:
-            gram_matr_predict_new = self.string_kernel(X, self.__X)
-            gram_matr_predict_new = np.asarray(gram_matr_predict_new, dtype=np.float64, order='C')
-            return libsvm.predict(
-                gram_matr_predict_new, self.support_, self.support_vectors_, self.n_support_,
-                self.dual_coef_, self._intercept_,
-                self._label, self.probA_, self.probB_,
-                svm_type=svm_type,
-                kernel=self.kernel, C=self.C, nu=self.nu,
-                probability=self.probability, degree=self.degree,
-                shrinking=self.shrinking, tol=self.tol, cache_size=self.cache_size,
-                coef0=self.coef0, gamma=self._gamma, epsilon=self.epsilon)
-
+def sk(X, Y):
+    return(np.dot(X, Y))
 
 if __name__ == '__main__':
-    cur_f = __file__.split('/')[-1]
-    if len(sys.argv) != 3:
-        print(sys.stderr, 'usage: ' + cur_f + ' <maximal subsequence length> <lambda (decay)>')
-        sys.exit(1)
-    else:
-        subseq_length = int(sys.argv[1])
-        lambda_decay = float(sys.argv[2])
-    #The dataset is the 20 newsgroups dataset. It will be automatically downloaded, then cached.
-        t_start = time()
-        news = fetch_20newsgroups(subset='train')
-        X_train = news.data[:10]
-        Y_train = news.target[:10]
-        print('Data fetched in %.3f seconds' % (time() - t_start))
 
-        clf = StringKernelSVM(subseq_length=subseq_length, lambda_decay=lambda_decay)
-        t_start = time()
-        clf.fit(X_train, Y_train)
-        print('Model trained in %.3f seconds' % (time() - t_start))
+    t0 = time.time()
+    SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
+    CLASS_LABELS = ['FRE', 'GER', 'ITA', 'SPA', 'ARA', 'TUR', 'CHI', 'JPN', 'KOR', 'HIN', 'TEL']
 
-        t_start = time()
-        result = clf.predict(news.data[10:14])
-        print('New data predicted in %.3f seconds' % (time() - t_start))
-        print(result)
+    ################## N-GRAM SETTINGS ###############
+    unit = u"char"
+
+    unit_pattern = u"\S+"
+    # unit_pattern = u"_(\S+)"    # only for POS tags
+
+    # preprocessor = "tagged"
+    # preprocessor = "function_words"
+    # preprocessor = "parsed"
+    preprocessor = "tokenized"
+
+    training_partition_name = "train"
+    test_partition_name = "dev"
+
+    # Load the training and test features and labels
+
+    for unit_range in [(3,3)]:
+        for num_features in [10000]:
+            training_and_test_data = load_features_and_labels(training_partition_name, test_partition_name)
+            training_matrix, encoded_training_labels, original_training_labels = training_and_test_data[0]
+            test_matrix, encoded_test_labels, original_test_labels = training_and_test_data[1]
+
+            print("Train and test shape:", training_matrix.shape, test_matrix.shape)
+
+            # feature normalization
+            # transformer = Normalizer()
+            # training_matrix = transformer.fit_transform(training_matrix)
+            # test_matrix = transformer.fit_transform(test_matrix)
+
+            # feature selection
+            if num_features != "all":
+                feature_selection = SelectKBest(chi2, k=num_features)
+                training_matrix = feature_selection.fit_transform(training_matrix, encoded_training_labels)
+                test_matrix = feature_selection.transform(test_matrix)
+
+            print("After feature selection:", training_matrix.shape, test_matrix.shape)
+
+            # Train the model
+            print("Training the classifier...")
+            clf = SVC(kernel=sk, probability=True)
+            # clf = MLPClassifier(hidden_layer_sizes=(100,))
+
+            # 10-fold cv on train and dev
+            # cv_scores = cross_val_score(clf, training_matrix, encoded_training_labels, cv=10)
+            # print("Cross validation (scores on 10-fold, avg, std):")
+            # print(cv_scores, np.mean(cv_scores), np.std(cv_scores))
+            train_probs = cross_val_predict(clf, training_matrix, encoded_training_labels,
+                                            method="predict_proba", cv=10)
+            train_pred = np.argmax(train_probs, axis=1)
+            print("{} {} {} Accuracy on train:".format(unit, unit_range, preprocessor),
+                  metrics.accuracy_score(encoded_training_labels, train_pred))
+
+            # evaluation
+            # if -1 not in encoded_training_labels:
+            #     print("\nConfusion Matrix:\n")
+            #     cm = metrics.confusion_matrix(encoded_training_labels, predicted).tolist()
+            #     pretty_print_cm(cm, CLASS_LABELS)
+            #     print("\nClassification Results:\n")
+            #     print(metrics.classification_report(encoded_training_labels, predicted, target_names=CLASS_LABELS, digits=3))
+            #     print("\nOverall accuracy:", metrics.accuracy_score(encoded_training_labels, predicted))
+            # else:
+            #     print("\nThe test set labels aren't known, cannot print accuracy report.")
+
+            # predict probabilities on test
+            clf.fit(training_matrix, encoded_training_labels)
+            test_probs = clf.predict_proba(test_matrix)
+            if test_partition_name == "dev":
+                test_pred = np.argmax(test_probs, axis=1)
+                print("Accuracy on dev:", metrics.accuracy_score(encoded_test_labels, test_pred))
+
+            # save probabilities
+            with open('../probabilities/{}/sk_{}_{}_{}_{}.pkl'
+                              .format(training_partition_name,
+                                      unit, preprocessor,
+                                      str(unit_range[0]), str(num_features)), 'wb') as f:
+                pickle.dump(train_probs, f, pickle.HIGHEST_PROTOCOL)
+            with open('../probabilities/{}/sk_{}_{}_{}_{}.pkl'
+                              .format(test_partition_name,
+                                      unit, preprocessor,
+                                      str(unit_range[0]), str(num_features)), 'wb') as f:
+                pickle.dump(test_probs, f, pickle.HIGHEST_PROTOCOL)
+
+            #
+            # Display classification results
+            #
+
+            # if -1 not in encoded_test_labels:
+            #     print("\nConfusion Matrix:\n")
+            #     cm = metrics.confusion_matrix(encoded_test_labels, predicted).tolist()
+            #     pretty_print_cm(cm, CLASS_LABELS)
+            #     print("\nClassification Results:\n")
+            #     print(metrics.classification_report(encoded_test_labels, predicted, target_names=CLASS_LABELS, digits=3))
+            #     print("\nOverall accuracy:", metrics.accuracy_score(encoded_test_labels, predicted))
+            # else:
+            #     print("\nThe test set labels aren't known, cannot print accuracy report.")
+
+            print("Executed in %.4s seconds." % (time.time() - t0))

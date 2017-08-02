@@ -1,0 +1,17 @@
+Ideas_NNS consist_VBP of_IN facts_NNS ,_, and_CC the_DT relation_NN between_IN the_DT two_CD concepts_NNS is_VBZ of_IN a_DT complicated_JJ kind_NN ._.
+Indeed_RB ,_, when_WRB we_PRP read_VBD the_DT statement_NN ,_, it_PRP seems_VBZ natural_JJ to_TO argue_VB that_IN understanding_VBG ideas_NNS is_VBZ of_IN a_DT better_JJR use_NN that_IN to_TO merely_RB learn_VB facts_NNS ._.
+The_DT first_JJ is_VBZ considered_VBN as_IN such_JJ a_DT noble_JJ and_CC deep_JJ endeavor_NN whereas_IN the_DT second_JJ is_VBZ depicted_VBN as_IN a_DT narrow_JJ minded_VBN attitude_NN ._.
+Though_IN we_PRP shall_MD not_RB come_VB to_TO conclusion_NN of_IN this_DT kind_NN in_IN such_JJ a_DT precaucious_JJ manner_NN ,_, and_CC we_PRP will_MD strive_VB to_TO analyse_VB the_DT question_NN in_IN a_DT more_RBR thoughtfull_JJ way_NN ._.
+Since_IN we_PRP would_MD all_RB ,_, i_FW presume_FW ,_, agree_VBP that_IN understanding_VBG ideas_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG facts_NNS ,_, we_PRP should_MD then_RB rather_RB that_IN argueing_VBG in_IN this_DT sense_NN ,_, try_VBP to_TO explain_VB why_WRB this_DT answer_NN seems_VBZ so_RB obvious_JJ and_CC natural_JJ ._.
+Why_WRB then_RB ,_, would_MD we_PRP all_DT ,_, certainly_RB ,_, tend_VB to_TO value_VB the_DT firts_NNS idea_NN and_CC not_RB the_DT second_JJ one_CD ._.
+This_DT a_DT priori_FW ,_, that_IN we_PRP all_DT share_VBP derives_VBZ from_IN the_DT fact_NN that_IN we_PRP strongly_RB believe_VBP that_IN the_DT activity_NN of_IN learning_VBG facts_NNS requires_VBZ less_JJR of_IN an_DT effort_NN than_IN the_DT one_CD of_IN understanding_NN ._.
+This_DT belief_NN is_VBZ widely_RB spread_VBN ,_, and_CC it_PRP is_VBZ shared_VBN for_IN many_JJ good_JJ reasons_NNS ._.
+Understanding_VBG undoubtadly_RB requires_VBZ more_JJR time_NN and_CC concentration_NN that_IN the_DT learning_NN of_IN facts_NNS ._.
+Yet_RB ,_, most_RBS professions_NNS ,_, now_RB days_NNS ,_, give_VB more_JJR importance_NN to_TO acts_NNS then_RB they_PRP do_VBP to_TO thoughts_NNS and_CC deepness_NN ._.
+To_TO pass_VB this_DT test_NN ,_, we_PRP are_VBP not_RB asked_VBN to_TO truely_RB understand_VB the_DT questions_NNS that_IN we_PRP are_VBP asked_VBN but_CC simply_RB to_TO answer_VB them_PRP in_IN a_DT superficial_JJ way_NN ._.
+Most_JJS of_IN us_PRP have_VBP little_JJ or_CC no_DT knoledge_NN of_IN biology_NN or_CC of_IN social_JJ science_NN and_CC yet_RB ,_, are_VBP goal_NN is_VBZ to_TO sound_VB like_IN excperts_NNS and_CC to_TO bring_VB exact_JJ answers_NNS ._.
+Again_RB ,_, we_PRP are_VBP not_RB asked_VBN to_TO think_VB neither_CC about_IN the_DT question_NN nor_CC about_IN the_DT reason_NN why_WRB we_PRP are_VBP here_RB to_TO pass_VB the_DT test_NN ,_, wich_NN behavior_NN would_MD result_VB in_IN an_DT immediate_JJ failure_NN ._.
+But_CC is_VBZ society_NN mistaken_JJ when_WRB it_PRP askes_VBZ us_PRP to_TO come_VB to_TO this_DT center_NN and_CC pass_VB the_DT test_NN ?_.
+No_DT ._.
+Because_IN we_PRP should_MD understand_VB the_DT importance_NN of_IN leraning_VBG facts_NNS ._.
+The_DT two_CD concepts_NNS meet_VBP when_WRB the_DT understanding_NN serves_VBZ our_PRP$ goal_NN ._.

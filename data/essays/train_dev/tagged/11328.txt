@@ -1,0 +1,17 @@
+Cars_NNS are_VBP one_CD of_IN major_JJ means_NNS of_IN transportation_NN ._.
+In_IN fact_NN ,_, when_WRB the_DT opportunuties_NNS ,_, such_JJ as_IN comfort_NN and_CC rapid_JJ access_NN to_TO locations_NNS ,_, it_PRP provides_VBZ is_VBZ considered_VBN ,_, it_PRP is_VBZ the_DT inevitable_JJ vehicle_NN of_IN people_NNS ._.
+Although_IN some_DT people_NNS may_MD argue_VB that_IN cars_NNS cause_VBP certain_JJ problems_NNS such_JJ as_IN crowdedness_NN or_CC air_NN pollution_NN ,_, I_PRP do_VBP not_RB foresee_VB any_DT change_NN in_IN the_DT number_NN of_IN cars_NNS in_IN use_NN in_IN the_DT coming_VBG twenty_CD years_NNS ._.
+It_PRP is_VBZ debated_VBN that_IN cities_NNS are_VBP so_RB full_JJ of_IN cars_NNS that_WDT in_IN the_DT near_JJ future_JJ people_NNS can_MD not_RB use_VB cars_NNS due_JJ to_TO the_DT crowd_NN ._.
+Besides_IN ,_, the_DT traffic_NN jam_NN that_WDT cars_NNS create_VBP is_VBZ proposed_VBN a_DT solution_NN by_IN decreasing_VBG the_DT number_NN of_IN cars_NNS ._.
+But_CC one_CD should_MD also_RB take_VB the_DT vital_JJ importance_NN of_IN cars_NNS to_TO human_JJ life_NN into_IN account_NN ._.
+Cars_NNS are_VBP integrated_VBN to_TO the_DT life_NN style_NN of_IN people_NNS ._.
+It_PRP is_VBZ used_VBN ubiqutiously_RB in_IN public_JJ life_NN ._.
+People_NNS go_VBP to_TO work_VB or_CC urgent_JJ patients_NNS are_VBP delivered_VBN to_TO hospital_NN by_IN cars_NNS ._.
+In_IN fact_NN ,_, car_NN is_VBZ a_DT symbol_NN of_IN civilization_NN ._.
+A_DT second_JJ point_NN hat_NN cars_NNS lead_VBP to_TO problem_NN is_VBZ the_DT air_NN pollution_NN ._.
+Exhaust_NN gases_NNS are_VBP thougt_NN to_TO cause_VB air_NN pollution_NN and_CC greenhouse_NN effect_NN is_VBZ triggered_VBN ._.
+It_PRP is_VBZ true_JJ but_CC this_DT does_VBZ not_RB mean_VB that_DT number_NN of_IN cars_NNS in_IN use_NN should_MD decrease_VB ._.
+This_DT problem_NN can_MD be_VB solved_VBN by_IN changing_VBG the_DT energy_NN source_NN cars_NNS utilize_VBP ._.
+For_IN example_NN ,_, solar_JJ energy_NN of_IN hydrogen_NN energy_NN can_MD be_VB considered_VBN as_IN alternatives_NNS ._.
+In_IN conclusion_NN ,_, in_IN my_PRP$ opimion_NN ,_, number_NN of_IN cars_NNS in_IN use_NN is_VBZ not_RB expected_VBN to_TO decrease_VB ._.
+In_IN stead_NN ,_, it_PRP becomes_VBZ more_RBR wide_JJ spread_NN ,_, however_RB the_DT source_NN of_IN energy_NN cars_NNS consume_VBP may_MD change_VB ._.

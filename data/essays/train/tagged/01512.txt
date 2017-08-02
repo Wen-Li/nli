@@ -1,0 +1,5 @@
+in_IN my_PRP$ opinion_NN ._.
+i_FW beleave_FW it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB factslike_JJ speed_NN and_CC smoke_NN ._.
+for_IN example_NN when_WRB we_PRP talk_VBP about_IN speed_NN they_PRP must_MD anderstand_VB why_WRB it_PRP is_VBZ dengures_NNS is_VBZ beteer_JJR than_IN if_IN they_PRP have_VBP axcedant_VBN after_IN that_IN they_PRP learn_VBP ._.
+second_JJ example_NN like_IN smoke_NN hf_NN they_PRP anderstand_VBD why_WRB it_PRP is_VBZ dengeros_NN and_CC they_PRP bleave_VBP it_PRP is_VBZ beteer_JJR than_IN if_IN they_PRP were_VBD sick_JJ or_CC feel_VB bad_JJ ._.
+finally_RB i_FW beleave_FW it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS it_PRP is_VBZ for_IN them_PRP to_TO lern_JJ facts_NNS ._.

@@ -1,0 +1,20 @@
+The_DT issue_NN at_IN hand_NN is_VBZ about_IN the_DT type_NN of_IN studying_VBG ._.
+It_PRP is_VBZ very_RB important_JJ because_IN this_DT choice_NN has_VBZ a_DT lot_NN of_IN consequencies_NNS for_IN the_DT future_NN ._.
+I_PRP think_VBP that_IN it_PRP is_VBZ better_JJR to_TO know_VB many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN only_RB one_CD specific_JJ subject_NN ._.
+Although_IN there_EX are_VBP good_JJ reasons_NNS for_IN both_DT ,_, I_PRP really_RB think_VBP that_IN the_DT reasons_NNS supporting_VBG the_DT statement_NN are_VBP more_RBR than_IN the_DT others_NNS and_CC more_RBR important_JJ ._.
+First_NNP of_IN all_DT ,_, I_PRP think_VBP that_IN the_DT real_JJ life_NN is_VBZ never_RB about_IN only_RB one_CD specific_JJ topic_NN ._.
+I_PRP think_VBP that_IN people_NNS needs_VBZ to_TO know_VB a_DT lot_NN of_IN different_JJ things_NNS in_IN different_JJ subjects_NNS not_RB only_RB in_IN order_NN to_TO be_VB appreciated_VBN from_IN the_DT others_NNS ,_, but_CC ,_, for_IN example_NN ,_, to_TO communicate_VB with_IN other_JJ people_NNS ._.
+Additionally_RB ,_, I_PRP think_VBP that_IN there_EX are_VBP not_RB fixed_VBN boundaries_NNS between_IN the_DT different_JJ subjects_NNS ._.
+Those_DT boundaries_NNS are_VBP made_VBN by_IN the_DT humans_NNS in_IN order_NN to_TO classify_VB and_CC to_TO organize_VB the_DT knowledge_NN ._.
+But_CC ,_, as_IN I_PRP have_VBP seen_VBN in_IN my_PRP$ studies_NNS ,_, all_PDT the_DT ``_`` different_JJ ''_'' subjects_NNS are_VBP in_IN reality_NN connected_VBN ._.
+For_IN example_NN ,_, Artificial_NNP Intelligence_NNP is_VBZ not_RB only_RB about_IN Computer_NN Science_NN ,_, but_CC it_PRP is_VBZ connected_VBN with_IN a_DT lot_NN of_IN other_JJ subjects_NNS ._.
+It_PRP is_VBZ connected_VBN to_TO Biology_NNP (_NNP Biology_NNP Inspired_VBD Algorithms_NNS and_CC Artificial_JJ Vision_NNP )_NN ._.
+to_TO Electronics_NNP (_NN for_IN the_DT robots_NNS )_VBP ,_, to_TO Philosophy_NNP (_CD different_JJ types_NNS of_IN logic_NN and_CC problems_NNS in_IN the_DT different_JJ logics_NNS )_VBP ..._:
+So_RB ,_, it_PRP is_VBZ important_JJ ,_, in_IN order_NN to_TO understand_VB well_RB a_DT subject_NN ,_, to_TO know_VB also_RB other_JJ subjects_NNS ._.
+Another_DT important_JJ consideration_NN is_VBZ about_IN the_DT capability_NN of_IN reasoning_NN ._.
+I_PRP think_VBP that_IN if_IN students_NNS study_VBP different_JJ subjects_NNS ,_, they_PRP are_VBP more_RBR likely_JJ to_TO reason_NN and_CC to_TO connect_VB all_PDT the_DT informations_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN students_NNS study_NN only_RB one_CD subject_NN ,_, they_PRP will_MD not_RB be_VB able_JJ to_TO reasoning_NN ._.
+Their_PRP$ minds_NNS are_VBP closed_VBN only_RB to_TO specific_JJ informations_NNS ._.
+Finally_RB ,_, I_PRP think_VBP that_IN it_PRP is_VBZ more_RBR interesting_JJ for_IN a_DT student_NN to_TO learn_VB something_NN about_IN different_JJ subjects_NNS rather_RB than_IN to_TO learn_VB only_RB about_IN one_CD subject_NN ._.
+I_PRP discussed_VBD this_DT opinion_NN with_IN some_DT friends_NNS and_CC all_DT of_IN them_PRP agreed_VBD with_IN me_PRP ._.
+In_IN conclusion_NN ,_, as_IN my_PRP$ essay_NN explains_VBZ ,_, I_PRP think_VBP that_IN it_PRP is_VBZ better_JJR to_TO know_VB many_JJ different_JJ subjects_NNS (_VBP even_RB not_RB in_IN depth_NN )_NN than_IN specialize_VB in_IN one_CD specific_JJ subject_NN ._.

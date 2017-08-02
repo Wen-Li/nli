@@ -1,0 +1,24 @@
+In_IN television_NN ,_, papers_NNS and_CC magazines_NNS a_DT lot_NN of_IN people_NNS discuss_VBP ,_, how_WRB our_PRP$ streets_NNS will_MD look_VB in_IN twenty_CD years_NNS ._.
+A_DT lot_NN of_IN these_DT discussion_NN focus_NN on_IN the_DT amount_NN of_IN cars_NNS ._.
+Reasons_NNS for_IN this_DT discussion_NN are_VBP the_DT changes_NNS energy_NN supply_NN and_CC the_DT pollution_NN problem_NN ._.
+The_DT main_JJ reason_NN ,_, why_WRB there_EX might_MD be_VB less_RBR cars_NNS ,_, is_VBZ that_IN the_DT petroleum_NN resources_NNS are_VBP decreasing_VBG ._.
+Some_DT experts_NNS say_VBP they_PRP only_RB last_JJ about_IN ten_CD years_NNS ._.
+Another_DT reason_NN might_MD be_VB the_DT increasing_VBG pollution_NN ._.
+Politicans_NNS might_MD introduce_VB stronger_JJR laws_NNS or_CC raise_VB the_DT tax_NN on_IN fuel_NN to_TO reduce_VB the_DT pollution_NN ._.
+This_DT could_MD result_VB in_IN a_DT decreasing_VBG amount_NN of_IN cars_NNS ._.
+A_DT seldom_RB focused_JJ reason_NN migth_NN be_VB :_: Several_JJ people_NNS are_VBP going_VBG to_TO share_VB one_CD car_NN ._.
+This_DT development_NN can_MD already_RB be_VB seen_VBN in_IN Germany_NNP ._.
+In_IN the_DT last_JJ years_NNS the_DT amount_NN of_IN car_NN shareing_NN stations_NNS has_VBZ raised_VBN ._.
+A_DT raisuig_NN usage_NN of_IN public_JJ transportation_NN might_MD also_RB decrease_VB the_DT amount_NN of_IN cars_NNS ._.
+On_IN the_DT other_JJ side_NN ,_, there_EX are_VBP a_DT lot_NN of_IN reasons_NNS why_WRB the_DT amount_NN of_IN cars_NNS will_MD not_RB decrease_VB ._.
+The_DT amount_NN of_IN cars_NNS has_VBZ been_VBN raising_VBG through_IN the_DT last_JJ century_NN and_CC this_DT trend_NN may_MD continue_VB ._.
+There_EX are_VBP also_RB a_DT lot_NN of_IN new_JJ engine_NN techniks_NNS ._.
+These_DT techniks_NNS allow_VBP cars_NNS be_VB driven_VBN with_IN solar_JJ power_NN or_CC hydrogen_NN ._.
+These_DT resources_NNS are_VBP not_RB expected_VBN the_DT be_VB lass_NN availible_JJ ._.
+Even_RB an_DT combination_NN of_IN an_DT fuel_NN engine_NN and_CC these_DT techniks_NNS is_VBZ possible_JJ ._.
+So_IN the_DT amount_NN of_IN cars_NNS will_MD be_VB constant_JJ ,_, because_IN the_DT prices_NNS for_IN these_DT new_JJ technologies_NNS will_MD fall_VB ._.
+I_PRP think_VBP ,_, the_DT amount_NN of_IN cars_NNS will_MD not_RB fall_VB ._.
+There_EX will_MD be_VB differences_NNS in_IN the_DT type_NN of_IN cars_NNS ._.
+I_PRP think_VBP the_DT cars_NNS will_MD need_VB less_JJR energy_NN and_CC produce_VBP less_JJR pollution_NN the_DT current_JJ cars_NNS ._.
+But_CC since_IN the_DT car_NN always_RB has_VBZ been_VBN a_DT status_NN symbol_NN ,_, a_DT lot_NN of_IN people_NNS will_MD want_VB a_DT car_NN ._.
+The_DT public_JJ transportation_NN will_MD not_RB have_VB an_DT big_JJ rule_NN in_IN the_DT future_NN ,_, because_IN most_JJS goverments_NNS do_VBP n't_RB have_VB enough_JJ money_NN to_TO support_VB this_DT ._.

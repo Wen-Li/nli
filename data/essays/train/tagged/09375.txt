@@ -1,0 +1,9 @@
+It_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+My_PRP$ subject_JJ important_JJ is_VBZ the_DT stronomy_NN ._.
+In_IN fact_NN ,_, astronomy_NN is_VBZ very_RB huge_JJ ._.
+there_EX are_VBP a_DT lotof_JJ galaxies_NNS ._.
+In_IN each_DT galaxy_NN there_EX are_VBP several_JJ stars_NNS ._.
+The_DT sun_NN is_VBZ the_DT sular_JJ system_NN ._.
+The_DT sun_NN has_VBZ nine_CD planets_NNS ._.
+The_DT planets_NNS are_VBP pulled_VBN into_IN the_DT sun_NN by_IN power_NN of_IN gravity_NN ._.
+Astronomy_NNP is_VBZ very_RB big_JJ and_CC larg_NN that_IN we_PRP can_MD not_RB recognize_VB to_TO easilly_VB ._.

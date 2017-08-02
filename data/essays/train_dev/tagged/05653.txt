@@ -1,0 +1,17 @@
+In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, many_JJ people_NNS think_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+However_RB ,_, I_PRP believe_VBP that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT individual_NN without_IN tour_NN guide_NN for_IN the_DT following_VBG reasons_NNS ._.
+Most_RBS importantly_RB ,_, traveling_VBG led_VBN by_IN a_DT tour_NN guide_NN is_VBZ boring_VBG because_IN I_PRP can_MD not_RB plan_VB the_DT schedule_NN of_IN travel_NN by_IN myself_PRP ._.
+For_IN example_NN ,_, I_PRP traveled_VBD Europe_NNP in_IN individual_JJ 7_CD years_NNS ago_RB when_WRB I_PRP was_VBD a_DT senior_JJ of_IN Tokyo_NNP university_NN ._.
+I_PRP traveled_VBD with_IN Mr_NNP Tamaki_NNP who_WP was_VBD my_PRP$ friend_NN of_IN the_DT same_JJ tennis_NN club_NN of_IN my_PRP$ university_NN ._.
+We_PRP traveled_VBD around_IN Europe_NNP for_IN 1_CD month_NN to_TO Germany_NNP ,_, Italy_NNP ,_, Switherland_NNP ,_, France_NNP ,_, and_CC United_NNP Kingdom_NNP ._.
+We_PRP had_VBD not_RB made_VBN the_DT schedule_NN fixed_VBN before_IN the_DT departure_NN from_IN Japan_NNP and_CC enjoyed_VBN free_JJ travel_NN without_IN be_VB bound_VBN to_TO schedule_NN ._.
+When_WRB we_PRP went_VBD sightseeing_NN of_IN old_JJ castle_NN in_IN Germany_NNP ,_, we_PRP became_VBD very_RB much_JJ favorite_NN of_IN it_PRP and_CC stay_VB long_JJ time_NN there_RB ._.
+However_RB the_DT Japanese_JJ group_NN led_VBN by_IN a_DT tour_NN guide_NN who_WP we_PRP met_VBD on_IN the_DT castle_NN had_VBD to_TO leave_VB there_RB for_IN short_JJ time_NN because_IN of_IN fixed_VBN scheldule_NN and_CC the_DT look_NN so_RB sorry_JJ ._.
+I_PRP decided_VBD that_IN I_PRP would_MD never_RB travel_VB with_IN tour_NN guide_NN on_IN that_DT time_NN ._.
+Second_RB ,_, I_PRP can_MD not_RB meet_VB the_DT new_JJ people_NNS other_JJ than_IN the_DT group_NN if_IN I_PRP am_VBP traveling_VBG led_VBN by_IN a_DT tour_NN guide_NN ._.
+For_IN example_NN ,_, I_PRP traveled_VBD with_IN Thailand_NNP with_IN my_PRP$ wife_NN this_DT summer_NN without_IN tour_NN guide_NN ._.
+We_PRP met_VBD a_DT couple_NN from_IN Canada_NNP who_WP are_VBP almost_RB same_JJ years_NNS old_JJ as_IN us_PRP at_IN Samui_NNP of_IN Thailand_NNP ._.
+We_PRP got_VBD on_IN the_DT same_JJ boat_NN to_TO Samui_NNP and_CC became_VBD a_DT very_RB good_JJ friend_NN ._.
+We_PRP are_VBP keeping_VBG in_IN tough_JJ with_IN them_PRP after_IN coming_VBG back_RB to_TO Japan_NNP ._.
+If_IN I_PRP went_VBD traveling_VBG in_IN a_DT group_NN with_IN tour_NN guide_NN ,_, I_PRP can_MD only_RB talk_VB with_IN the_DT members_NNS of_IN the_DT group_NN and_CC there_EX are_VBP much_RB less_JJR oppotunity_NN to_TO meet_VB with_IN people_NNS from_IN other_JJ country_NN ._.
+In_IN conclusion_NN ,_, I_PRP prefer_VBP traveling_VBG in_IN individual_NN without_IN tourguide_NN rather_RB than_IN traveling_VBG in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.

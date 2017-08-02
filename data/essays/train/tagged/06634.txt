@@ -1,0 +1,17 @@
+There_EX are_VBP many_JJ cars_NNS used_VBN today_NN ._.
+I_PRP believe_VBP that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN twenty_CD years_NNS ._.
+The_DT first_JJ reason_NN that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN twenty_CD years_NNS is_VBZ that_IN the_DT pollution_NN issue_NN is_VBZ highly_RB concerned_VBN by_IN people_NNS ._.
+Organizations_NNP are_VBP now_RB devote_VBP to_TO raise_VB people_NNS 's_POS caoncern_NN of_IN the_DT pollusion_NN problem_NN ._.
+Particles_NNS produced_VBN by_IN cars_NNS are_VBP one_CD of_IN the_DT main_JJ source_NN of_IN aair_NN pollution_NN ._.
+As_IN the_DT air_NN pollutant_NN will_MD harm_VB human_JJ beings_NNS and_CC people_NNS are_VBP concern_NN their_PRP$ health_NN ,_, they_PRP take_VBP the_DT pollution_NN problem_NN serious_JJ ._.
+In_IN order_NN to_TO tackle_VB the_DT problem_NN ,_, people_NNS will_MD no_RB longer_RB use_VB private_JJ cars_NNS to_TO travel_VB ,_, but_CC use_VBP public_JJ transport_NN instead_RB ._.
+Travel_NN by_IN public_JJ transports_NNS are_VBP more_RBR environmental_JJ friendly_JJ ,_, therefore_RB ,_, fewer_JJR private_JJ cars_NNS will_MD be_VB used_VBN ._.
+As_IN people_NNS become_VBP more_RBR concern_NN about_IN the_DT environment_NN ,_, the_DT number_NN of_IN cars_NNS will_MD decrease_VB in_IN the_DT twenty_CD years_NNS ._.
+Additionally_RB ,_, the_DT technology_NN progess_VBZ very_RB fast_JJ nowadays_RB ._.
+Public_NNP transports_NNS can_MD have_VB high_JJ speeds_NNS and_CC can_MD will_MD not_RB take_VB too_RB much_JJ time_NN for_IN people_NNS to_TO travel_VB from_IN one_CD place_NN to_TO another_DT ._.
+The_DT time_NN needed_VBN to_TO travel_VB by_IN public_JJ transports_NNS will_MD not_RB differs_VBZ to_TO time_NN needed_VBD to_TO travel_VB by_IN private_JJ cars_NNS in_IN twenty_CD years_NNS ._.
+And_CC the_DT transport_NN network_NN will_MD be_VB more_RBR well_RB developed_VBN as_IN time_NN past_NN ._.
+As_IN public_JJ transports_NNS are_VBP speedy_JJ and_CC convenient_JJ ,_, private_JJ cars_NNS will_MD not_RB have_VB many_JJ advantages_NNS ,_, but_CC disadvantages_VBZ as_IN the_DT cost_NN of_IN petrol_NN ,_, reting_VBG car_NN park_NN and_CC repairment_NN are_VBP very_RB high_JJ ._.
+With_IN the_DT disadvantages_NNS of_IN using_VBG a_DT private_JJ car_NN ,_, people_NNS will_MD tend_VB to_TO travel_VB by_IN public_JJ transports_NNS instead_RB of_IN private_JJ cars_NNS ._.
+Thus_RB the_DT number_NN of_IN cars_NNS will_MD decrease_VB dramatically_RB in_IN twnty_NN years_NNS ._.
+In_IN conclusion_NN ,_, people_NNS 's_POS concern_NN of_IN the_DT pollution_NN problem_NN and_CC the_DT convenience_NN of_IN travelling_VBG by_IN public_JJ transports_NNS will_MD decrease_VB number_NN opf_NN cars_NNS in_IN twenty_CD years_NNS ._.

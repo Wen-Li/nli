@@ -1,0 +1,11 @@
+I_PRP disagree_VBP with_IN this_DT opinion_NN that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+I_PRP will_MD raise_VB the_DT reasons_NNS in_IN following_VBG passages_NNS ._.
+First_RB ,_, as_IN one_CD of_IN the_DT japanese_JJ ,_, and_CC one_CD citizen_NN of_IN the_DT developed_JJ country_NN ,_, I_PRP think_VBP there_EX are_VBP possibilities_NNS that_IN the_DT number_NN of_IN the_DT cars_NNS in_IN use_NN will_MD be_VB reduced_VBN ,_, because_IN particulary_NN in_IN City_NNP ,_, the_DT person_NN can_MD transport_VB easily_RB without_IN a_DT car_NN thanks_NNS to_TO the_DT sophistication_NN of_IN the_DT network_NN among_IN train_NN ,_, subway_NN ,_, and_CC bus_NN ._.
+And_CC I_PRP think_VBP in_IN the_DT part_NN of_IN suburban_JJ also_RB develop_VB the_DT similary_JJ methods_NNS to_TO transport_VB like_IN City_NNP ._.
+But_CC what_WP I_PRP want_VBP to_TO say_VB here_RB is_VBZ that_IN the_DT opinion_NN I_PRP mentioned_VBD now_RB is_VBZ too_RB micro_JJ to_TO think_VB globally_RB ._.
+Second_RB ,_, I_PRP think_VBP we_PRP must_MD think_VB more_RBR worldwide_RB ._.
+In_IN the_DT earth_NN ,_, there_EX are_VBP many_JJ countries_NNS want_VBP to_TO be_VB more_RBR developed_VBN ._.
+In_IN these_DT countries_NNS ,_, I_PRP think_VBP that_IN the_DT number_NN of_IN cars_NNS in_IN use_NN is_VBZ increasing_VBG ._.
+The_DT reason_NN why_WRB the_DT developing_VBG country_NN will_MD use_VB more_JJR cars_NNS in_IN future_NN is_VBZ that_IN ,_, to_TO develop_VB the_DT country_NN economic_JJ capacitiy_NN ,_, the_DT needs_NNS of_IN cars_NNS will_MD increase_VB to_TO transporate_VB many_JJ goods_NNS to_TO commerese_NN ._.
+I_PRP think_VBP the_DT transporation_NN abilitiy_NN has_VBZ a_DT significant_JJ meanig_NN to_TO these_DT countries_NNS ._.
+In_IN conclusion_NN ,_, to_TO think_VB world_NN development_NN ,_, I_PRP think_VBP disagree_VBP with_IN the_DT opinion_NN ._.

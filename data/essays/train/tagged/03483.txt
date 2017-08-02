@@ -1,0 +1,15 @@
+There_EX are_VBP many_JJ successful_JJ poeple_NN in_IN various_JJ fields_NNS in_IN this_DT world_NN ._.
+It_PRP can_MD be_VB business_NN ,_, sports_NNS ,_, arts_NNS ,_, or_CC science_NN ._.
+However_RB ,_, there_EX is_VBZ a_DT common_JJ thing_NN that_IN those_DT successful_JJ people_NNS have_VBP :_: successful_JJ pople_NN try_VB new_JJ things_NNS ,_, take_VB risks_NNS ,_, and_CC also_RB respect_VBP the_DT traditions_NNS and_CC the_DT old_JJ ways_NNS that_WDT have_VBP been_VBN known_VBN for_IN a_DT long_JJ time_NN ._.
+For_IN example_NN ,_, a_DT tennis_NN player_NN can_MD not_RB start_VB creating_VBG a_DT new_JJ way_NN of_IN hitting_VBG spine_NN serve_VBP without_IN knowing_VBG how_WRB to_TO hit_VB the_DT ball_NN properly_RB ._.
+The_DT player_NN has_VBZ to_TO go_VB thorough_JJ the_DT tough_JJ steps_NNS of_IN learning_VBG basic_JJ hitting_VBG techniques_NNS before_IN doing_VBG something_NN new_JJ ._.
+Therefore_RB ,_, knowing_VBG and_CC respecting_VBG the_DT traditions_NNS and_CC the_DT old_JJ ways_NNS is_VBZ the_DT fundemental_JJ step_NN for_IN the_DT person_NN to_TO be_VB successful_JJ ._.
+However_RB ,_, just_RB knowing_VBG about_IN the_DT past_NN is_VBZ not_RB good_JJ enough_RB for_IN most_JJS cases_NNS ._.
+Here_RB ,_, I_PRP will_MD use_VB an_DT example_NN of_IN a_DT researcher_NN in_IN biology_NN lab_NN ._.
+Even_RB if_IN the_DT researcher_NN obtained_VBN good_JJ grades_NNS during_IN his/her_NN undergraduate_JJ level_NN and_CC have_VBP great_JJ ability_NN of_IN learning_VBG what_WP other_JJ scientists_NNS have_VBP done_VBN in_IN the_DT past_NN ,_, the_DT researcher_NN is_VBZ not_RB granteed_VBN to_TO be_VB a_DT successful_JJ scientist_NN if_IN she/he_NN lacks_VBZ the_DT ability_NN of_IN creativity_NN ._.
+So_RB ,_, the_DT ability_NN to_TO apply_VB what_WP the_DT person_NN have_VBP learned_VBN about_IN the_DT traditions_NNS and_CC the_DT old_JJ ways_NNS into_IN new_JJ things_NNS is_VBZ the_DT second_JJ important_JJ element_NN to_TO be_VB successful_JJ ._.
+Taking_VBG risk_NN may_MD be_VB the_DT third_JJ element_NN to_TO be_VB successful_JJ ;_: however_RB ,_, it_PRP is_VBZ not_RB the_DT case_NN in_IN some_DT fields_NNS ._.
+For_IN example_NN ,_, a_DT doctor_NN with_IN a_DT great_JJ knowledge_NN and_CC ability_NN to_TO adopt_VB it_PRP can_MD not_RB take_VB risks_NNS to_TO cure_VB his/her_NN patients_NNS if_IN the_DT doctor_NN 's_POS attempting_VBG and_CC taking_VBG risks_NNS result_VBP in_IN a_DT number_NN of_IN patients_NNS '_POS death_NN ._.
+However_RB ,_, it_PRP is_VBZ also_RB true_JJ that_IN surgents_NNS and_CC physicians_NNS often_RB take_VBP risks_NNS in_IN operation_NN room_NN in_IN order_NN to_TO help_VB thier_VB patients_NNS ._.
+Finally_RB ,_, being_VBG successful_JJ is_VBZ not_RB neccessary_JJ important_JJ ,_, and_CC maybe_RB it_PRP is_VBZ not_RB something_NN other_JJ people_NNS judge_NN if_IN the_DT person_NN is_VBZ successful_JJ or_CC not_RB ._.
+As_RB long_RB as_IN the_DT person_NN is_VBZ satisfied_VBN with_IN his/her_JJR life_NN and_CC provides_VBZ a_DT great_JJ influences_NNS for_IN the_DT world_NN ,_, the_DT person_NN can_MD be_VB considered_VBN as_IN ``_`` successful_JJ ''_'' ._.

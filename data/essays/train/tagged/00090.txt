@@ -1,0 +1,23 @@
+In_IN today_NN 's_POS society_NN ,_, which_WDT is_VBZ characterized_VBN by_IN a_DT hectic_JJ way_NN of_IN life_NN ,_, the_DT desire_NN of_IN going_VBG everywhere_RB employing_VBG fewer_JJR and_CC fewer_JJR time_NN has_VBZ dominated_VBN the_DT transportation_NN market_NN ._.
+The_DT result_NN is_VBZ that_IN in_IN recent_JJ years_NNS the_DT number_NN of_IN cars_NNS used_VBN has_VBZ increased_VBN spectacularly_RB ._.
+But_CC ,_, will_MD this_DT trend_NN continue_VB in_IN the_DT following_VBG years_NNS ?_.
+This_DT is_VBZ a_DT very_RB controversial_JJ issue_NN ._.
+On_IN one_CD hand_NN ,_, the_DT enviromental_JJ problems_NNS and_CC future_JJ supply_NN shortage_NN are_VBP pushing_VBG governments_NNS to_TO face_VB the_DT transportation_NN problems_NNS in_IN different_JJ ways_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, there_EX are_VBP a_DT big_JJ and_CC powerful_JJ industry_NN which_WDT will_MD make_VB hard_JJ to_TO abandon_VB the_DT systems_NNS based_VBN on_IN fossil_JJ fuels_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, the_DT current_JJ situation_NN is_VBZ bad_JJ enough_RB to_TO compell_VB society_NN to_TO offer_VB alternative_JJ solutions_NNS to_TO this_DT problem_NN which_WDT will_MD result_VB in_IN the_DT decrease_NN of_IN the_DT number_NN of_IN cars_NNS ._.
+To_TO begin_VB ,_, the_DT amount_NN of_IN fossil_JJ fuels_NNS available_JJ is_VBZ decreasing_VBG very_RB rapidly_RB ._.
+Therefore_RB ,_, some_DT time_NN in_IN the_DT future_NN will_MD be_VB no_DT oil_NN or_CC gas_NN ._.
+This_DT is_VBZ a_DT cogent_JJ argument_NN which_WDT should_MD compell_VB governments_NNS to_TO take_VB some_DT measures_NNS to_TO prevent_VB that_DT situation_NN ._.
+This_DT opens_VBZ up_RP a_DT bunch_NN of_IN alternative_JJ possibilities_NNS to_TO provide_VB another_DT means_NN of_IN transportation_NN different_JJ from_IN cars_NNS ._.
+The_DT first_JJ solutions_NNS should_MD focus_VB in_IN reducing_VBG the_DT use_NN of_IN fossil_JJ fuels_NNS ._.
+This_DT include_VBP enhance_VBP the_DT use_NN of_IN public_JJ transportation_NN ,_, foster_VBP the_DT use_NN of_IN bycicles_NNS in_IN cities_NNS and_CC so_RB on_IN ._.
+Further_JJ solutions_NNS will_MD take_VB into_IN account_NN the_DT substitution_NN of_IN fossil_NN fuel_NN dependent_JJ cars_NNS ._.
+The_DT new_JJ technology_NN develop_VB to_TO overcome_VB this_DT problem_NN will_MD result_VB in_IN new_JJ types_NNS of_IN machines_NNS ,_, which_WDT can_MD be_VB similar_JJ to_TO cars_NNS ,_, but_CC will_MD be_VB no_RB longer_RB the_DT traditional_JJ cars_NNS ._.
+Another_DT crucial_JJ point_NN ,_, is_VBZ the_DT enviromental_JJ issue_NN ._.
+During_IN the_DT last_JJ years_NNS more_RBR and_CC more_RBR people_NNS are_VBP aware_JJ that_IN the_DT use_NN of_IN cars_NNS contribute_VBP highly_RB to_TO the_DT pollution_NN ._.
+In_IN fact_NN ,_, in_IN some_DT big_JJ cities_NNS ,_, such_JJ as_IN Mexico_NNP D.F._NNP and_CC Milan_NNP ,_, strict_JJ measures_NNS had_VBD to_TO be_VB taken_VBN in_IN order_NN to_TO reduce_VB the_DT air_NN pollution_NN ._.
+Such_JJ measures_NNS include_VBP restriction_NN in_IN the_DT acces_NNS to_TO the_DT center_NN ,_, in_IN the_DT days_NNS of_IN the_DT week_NN one_NN can_MD take_VB the_DT car_NN ,_, etc_FW ._.
+In_IN conclussion_NN ,_, all_PDT the_DT possible_JJ solutions_NNS indicates_VBZ that_IN a_DT reduction_NN in_IN the_DT number_NN of_IN cars_NNS circulating_VBG need_NN to_TO take_VB place_NN ._.
+Summing_VBG up_RP ,_, keeping_VBG in_IN mind_NN all_PDT the_DT problems_NNS mentioned_VBN above_IN ,_, it_PRP is_VBZ clear_JJ that_IN the_DT current_JJ trend_NN regarding_VBG the_DT use_NN of_IN car_NN can_MD not_RB be_VB held_VBN ._.
+Enviromental_JJ ,_, social_JJ and_CC technology_NN arguments_NNS indicate_VBP that_IN new_JJ means_NNS of_IN transportation_NN will_MD gradually_RB take_VB the_DT place_NN of_IN today_NN 's_POS cars_NNS ._.
+Therefore_RB ,_, the_DT number_NN of_IN cars_NNS in_IN twenty_CD years_NNS will_MD be_VB definitely_RB less_JJR than_IN the_DT number_NN of_IN cars_NNS used_VBN today_NN ._.

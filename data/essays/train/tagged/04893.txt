@@ -1,0 +1,19 @@
+It_PRP is_VBZ a_DT very_RB important_JJ question_NN ,_, but_CC the_DT answer_NN is_VBZ not_RB very_RB simple_JJ ._.
+The_DT number_NN of_IN cars_NNS in_IN use_NN changes_NNS due_JJ to_TO several_JJ reasons_NNS ._.
+1_CD )_CD
+The_DT Prices_NNS of_IN Oil_NN (_CD Gasoline_NN )_NN in_IN the_DT world_NN ._.
+If_IN the_DT prices_NNS of_IN oil_NN in_IN the_DT world_NN will_MD be_VB higher_JJR ,_, then_RB people_NNS will_MD try_VB to_TO use_VB the_DT public_JJ transportation_NN ,_, because_IN it_PRP will_MD be_VB Cheaper_JJR than_IN using_VBG the_DT cars_NNS ._.
+2_CD )_CD The_DT economic_JJ growth_NN in_IN diffirent_JJ countries_NNS will_MD increase_VB the_DT number_NN of_IN cars_NNS in_IN use_NN ._.
+3_CD )_CD The_DT growth_NN in_IN population_NN ._.
+4_CD )_CD The_DT developed_JJ infrastrcture_NN constructing_VBG for_IN public_JJ transportation_NN such_JJ as_IN :_: Trains_NNS ,_, Subway_NNP trains_NNS ,_, electric_JJ trains_NNS ,_, etc_FW ._. .._SYM
+5_CD )_CD The_DT efforts_NNS to_TO make_VB the_DT enviorment_NN less_RBR polluted_JJ ._.
+The_DT abovementioned_JJ reasons_NNS effects_NNS the_DT number_NN of_IN cars_NNS in_IN use_NN in_IN the_DT future_NN ._.
+While_IN someone_NN may_MD say_VB ,_, that_IN the_DT enviorment_NN issue_NN (_CD pollution_NN )_CD will_MD be_VB a_DT very_RB important_JJ problem_NN in_IN the_DT world_NN ,_, and_CC it_PRP will_MD be_VB solved_VBN by_IN reducing_VBG the_DT use_NN of_IN cars_NNS ,_, the_DT other_JJ will_MD say_VB that_IN this_DT would_MD be_VB right_JJ for_IN the_DT countries_NNS with_IN a_DT strong_JJ economic_JJ basis_NN ,_, but_CC not_RB for_IN the_DT third_JJ world_NN countries_NNS or_CC for_IN the_DT non_JJ developed_JJ countries_NNS ._.
+these_DT countries_NNS may_MD face_VB an_DT economical_JJ growth_NN in_IN the_DT next_JJ twenty_CD years_NNS ,_, and_CC therefore_RB it_PRP 's_VBZ citizens_NNS will_MD use_VB more_JJR cars_NNS ,_, in_IN particular_JJ if_IN there_EX will_MD not_RB be_VB a_DT convenient_JJ public_JJ transportation_NN system_NN for_IN use_NN ._.
+In_IN addition_NN ,_, these_DT countries_NNS may_MD invest_VB there_RB major_JJ efforts_NNS in_IN the_DT future_NN in_IN increasing_VBG the_DT economical_JJ growth_NN ,_, instead_RB of_IN handling_VBG enviormental_JJ issues_NNS ._.
+I_PRP believe_VBP ,_, that_IN the_DT use_NN of_IN cars_NNS in_IN the_DT strong_JJ economy_NN based_VBN countries_NNS will_MD be_VB reduced_VBN in_IN the_DT next_JJ twenty_CD years_NNS ,_, and_CC that_DT is_VBZ because_IN of_IN :_:
+1_LS -_: The_DT develpoed_JJ public_JJ transportation_NN system_NN they_PRP have_VBP ._.
+2_LS -_: High_JJ prices_NNS of_IN the_DT oil_NN in_IN the_DT world_NN ._.
+3_LS -_: Enviormental_JJ issues_NNS ,_, that_WDT will_MD be_VB very_RB important_JJ to_TO be_VB solved_VBN by_IN reducing_VBG the_DT pollution_NN of_IN the_DT enviorment_NN ._.
+4_LS -_: The_DT minor_JJ increase_NN of_IN the_DT population_NN itself_PRP in_IN these_DT countries_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, I_PRP am_VBP not_RB sure_JJ that_IN the_DT use_NN of_IN cars_NNS in_IN the_DT third_JJ world_NN ,_, and_CC develpoed_VBD countries_NNS will_MD be_VB reduced_VBN in_IN the_DT next_JJ twenty_CD years_NNS ,_, but_CC it_PRP may_MD happen_VB afterwards_RB ._.

@@ -1,0 +1,25 @@
+I_PRP disagree_VBP ,_, because_IN population_NN are_VBP increasing_VBG day_NN by_IN day_NN in_IN the_DT world_NN ._.
+It_PRP is_VBZ connected_VBN with_IN cars_NNS also_RB ._.
+Car_NN companys_NNS pruducting_VBG a_DT new_JJ car_NN every_DT year_NN ._.
+When_WRB I_PRP analyse_VBP the_DT traffic_NN every_DT cars_NNS has_VBZ one_CD people_NNS transporting_VBG ._.
+Every_DT family_NN has_VBZ two_CD cars_NNS minimum_NN ._.
+Because_IN cars_NNS price_NN also_RB decreasing_VBG and_CC peoples_NNS earns_VBZ money_NN moch_VB more_JJR before_IN ._.
+Government_NN must_MD solve_VB this_DT problem_NN but_IN nobody_NN dont_NN do_VBP anything_NN ._.
+Government_NNP investigate_VBP to_TO Underground_JJ and_CC bus_NN systems_NNS ._.
+For_IN example_NN Istanbul_NNP is_VBZ a_DT huge_JJ city_NN ._.
+There_EX are_VBP 15_CD million_CD people_NNS live_VBP in_IN istanbul_NN ._.
+Also_RB there_EX are_VBP 5_CD million_CD car_NN in_IN our_PRP$ city_NN ._.
+But_CC Istanbul_NNP has_VBZ not_RB a_DT underground_JJ metro_NN network_NN ._.
+Also_RB bus_NN is_VBZ very_RB old_JJ to_TO transportation_NN ._.
+Also_RB Taxi_NN is_VBZ not_RB chipher_NN ._.
+Because_IN of_IN all_DT of_IN this_DT points_NNS peoples_NNS choose_VBP to_TO buy_VB a_DT car_NN and_CC use_VB it_PRP daily_JJ woks_NNS ._.
+I_PRP think_VBP this_DT is_VBZ a_DT general_JJ problem_NN all_DT of_IN the_DT world_NN ._.
+The_DT another_DT point_NN that_WDT is_VBZ old_JJ cars_NNS in_IN the_DT traffic_NN ._.
+There_EX are_VBP lots_NNS of_IN old_JJ cars_NNS in_IN the_DT traffic_NN that_WDT is_VBZ more_RBR than_IN 20_CD years_NNS old_JJ ._.
+These_DT cars_NNS try_VBP to_TO work_VB successfully_RB and_CC try_VB to_TO transport_VB peoples_NNS ._.
+In_IN this_DT case_NN it_PRP is_VBZ need_NN to_TO establish_VB new_JJ laws_NNS for_IN traffic_NN on_IN the_DT counties_NNS ._.
+For_IN using_VBG a_DT car_NN ,_, It_PRP must_MD be_VB prohibit_VB for_IN more_JJR than_IN 20_CD years_NNS old_JJ cars_NNS I_PRP think_VBP ._.
+Also_RB the_DT scientist_NN reserch_NN that_WDT for_IN trying_VBG to_TO work_VB a_DT car_NN with_IN electricity_NN ennergy_NN or_CC walther_NN ._.
+If_IN it_PRP will_MD be_VB possible_JJ ,_, I_PRP think_VBP car_NN population_NN also_RB grow_VB up_RP ._.
+In_IN the_DT world_NN oil_NN price_NN very_RB high_RB right_RB now_RB ._.
+But_CC electricity_NN or_CC wather_NN is_VBZ so_RB free_JJ /_:

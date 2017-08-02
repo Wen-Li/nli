@@ -1,0 +1,14 @@
+Some_DT ideas_NNS and_CC concepts_NNS there_EX is_VBZ no_DT facts_NNS But_CC lot_NN of_IN ideas_NNS and_CC concepts_NNS proved_VBD as_IN a_DT facts_NNS ._.
+Facts_NNS are_VBP little_RB important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS for_IN that_IN he_PRP just_RB have_VBP an_DT understanding_NN power_NN ._.
+for_IN example_NN ,_, If_IN we_PRP take_VBP a_DT physics_NN class_NN that_IN most_JJS of_IN the_DT physics_NN subject_NN is_VBZ any_DT imaginary_JJ part_NN of_IN the_DT science_NN ._.
+They_PRP first_RB get_VB the_DT idea_NN and_CC after_IN that_IN they_PRP try_VBP to_TO prove_VB that_IN idea_NN into_IN concept_NN after_IN that_DT prove_VBP into_IN fact_NN ._.
+If_IN we_PRP take_VBP newton_NN under_IN the_DT apple_NN tree_NN ._.
+when_WRB he_PRP sat_VBD under_IN the_DT apple_NN tree_NN one_CD apple_NN fall_NN down_IN then_RB he_PRP got_VBD an_DT idea_NN ``_`` why_WRB this_DT apple_NN fallen_VBN down_RP ?_.
+why_WRB it_PRP is_VBZ not_RB gon_VB up_RP ?_. ''_'' with_IN this_DT idea_NN he_PRP found_VBD gravitation_NN ._.
+with_IN this_DT extent_NN there_EX is_VBZ no_DT use_NN of_IN the_DT facts_NNS to_TO under_IN stand_VB the_DT idea_NN or_CC concepts_NNS ._.
+one_CD more_JJR example_NN ,_, If_IN we_PRP take_VBP a_DT maths_NN therams_NNS ,_, students_NNS do_VBP not_RB understand_VB the_DT idea_NN and_CC concept_NN just_RB explains_VBZ that_IN therams_NNS ,_, similarly_RB any_DT problem_NN in_IN the_DT mathamatics_NNS have_VBP some_DT facts_NNS to_TO understand_VB the_DT idea_NN or_CC concept_NN ._.
+If_IN we_PRP take_VBP a_DT formula_NN (_CD a+b_NN )_NN ^_NN 2_CD there_EX is_VBZ some_DT proof_NN is_VBZ there_EX that_WDT is_VBZ the_DT fact_NN ._.
+another_DT example_NN ,_, One_CD lecturer_NN says_VBZ that_IN Mahathma_NNP Gandhi_NNP is_VBZ a_DT freedom_NN fighter_NN there_RB the_DT concept_NN is_VBZ clear_JJ but_CC if_IN the_DT student_NN ask_VB 's_POS the_DT lecturer_NN is_VBZ it_PRP write_VB lecturer_NN ,_, then_RB the_DT he_PRP gives_VBZ some_DT to_TO facts_NNS about_IN he_PRP did_VBD in_IN the_DT freedom_NN fighting_NN ._.
+facts_NNS are_VBP not_RB important_JJ in_IN some_DT places_NNS ._.
+But_CC if_IN we_PRP have_VBP to_TO show_VB that_IN it_PRP is_VBZ true_JJ then_RB it_PRP is_VBZ important_JJ to_TO explain_VB the_DT facts_NNS ._.
+THE-END_NN

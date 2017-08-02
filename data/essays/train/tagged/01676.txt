@@ -1,0 +1,18 @@
+Cars_NNS can_MD be_VB directly_RB linked_VBN to_TO energy_NN and_CC pollution_NN ._.
+Which_WDT means_VBZ that_IN by_IN using_VBG cars_NNS ,_, we_PRP improve_VBP the_DT air_NN pollution_NN ._.
+But_CC it_PRP only_RB concerns_VBZ the_DT actions_NNS of_IN the_DT consumer_NN ,_, as_IN far_RB as_IN the_DT producers_NNS are_VBP concerned_VBN ,_, it_PRP is_VBZ more_RBR obvious_JJ ._.
+This_DT industrial_JJ activity_NN is_VBZ pointed_VBN out_RP by_IN every_DT environmental_JJ association_NN even_RB if_IN huge_JJ firms_NNS such_JJ as_IN General_NNP Motors_NNPS are_VBP concerned_VBN ._.
+This_DT pressure_NN is_VBZ part_NN of_IN the_DT fight_NN for_IN the_DT decrease_NN of_IN the_DT use_NN of_IN cars_NNS and_CC of_IN pollutants_NNS in_IN general_JJ ._.
+Pollution_NNP ,_, its_PRP$ effect_NN on_IN Earth_NNP ,_, people_NNS who_WP fight_VBP against_IN the_DT development_NN of_IN car_NN activity_NN and_CC the_DT new_JJ means_NNS of_IN substition_NN which_WDT are_VBP created_VBN to_TO replace_VB the_DT means_NNS of_IN travelling_VBG are_VBP they_PRP not_RB ways_NNS to_TO make_VB car_NN disappear_VB ._.
+The_DT natural_JJ resources_NNS which_WDT are_VBP used_VBN to_TO make_VB a_DT car_NN drive_NN is_VBZ petrol_NN ._.
+The_DT recent_JJ financial_JJ event_NN underlines_VBZ the_DT fact_NN that_IN this_DT product_NN is_VBZ harder_JJR to_TO get_VB and_CC more_RBR expensive_JJ above_IN all_DT ._.
+It_PRP is_VBZ necessary_JJ to_TO find_VB other_JJ carburants_NNS for_IN example_NN natural_JJ oil_NN ._.
+But_CC it_PRP is_VBZ forbidden_VBN in_IN a_DT lot_NN of_IN industrialised_JJ countries_NNS and_CC the_DT need_NN would_MD very_RB important_JJ ,_, it_PRP is_VBZ not_RB sure_JJ that_IN every_DT car_NN could_MD be_VB provided_VBN with_IN this_DT element_NN ._.
+Instead_RB of_IN finding_VBG other_JJ resources_NNS to_TO supply_VB the_DT car_NN chain_NN ,_, it_PRP may_MD be_VB interesting_JJ to_TO find_VB other_JJ ways_NNS of_IN travelling_VBG ._.
+Moreover_RB these_DT ways_NNS already_RB exist_VBP ._.
+Bus_NN ,_, Subway_NNP ,_, even_RB plane_NN are_VBP means_NNS of_IN travelling_VBG which_WDT can_MD be_VB used_VBN in_IN a_DT lot_NN of_IN areas_NNS ._.
+Some_DT governments_NNS tend_VBP to_TO develop_VB these_DT collective_JJ ways_NNS of_IN transport_NN ._.
+In_IN France_NNP especially_RB in_IN Paris_NNP ,_, for_IN example_NN ,_, they_PRP are_VBP some_DT days_NNS when_WRB people_NNS are_VBP not_RB allowed_VBN to_TO use_VB their_PRP$ cars_NNS in_IN town_NN ._.
+According_VBG to_TO me_PRP this_DT kind_NN of_IN action_NN have_VBP several_JJ impacts_NNS ._.
+It_PRP reduces_VBZ pollution_NN in_IN town_NN ,_, but_CC it_PRP also_RB make_VBP the_DT population_NN aware_JJ that_IN there_EX is_VBZ no_DT need_NN for_IN a_DT car_NN in_IN day_NN to_TO day_NN life_NN ._.
+For_IN all_PDT these_DT reasons_NNS I_PRP think_VBP that_IN cars_NNS will_MD not_RB completely_RB disappear_VB in_IN twenty_CD years_NNS ,_, but_CC there_EX will_MD be_VB different_JJ means_NNS of_IN travelling_VBG and_CC certainly_RB more_RBR ecological_JJ way_NN of_IN using_VBG cars_NNS ._.

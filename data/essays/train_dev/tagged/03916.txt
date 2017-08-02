@@ -1,0 +1,14 @@
+It_PRP is_VBZ true_JJ that_IN learning_VBG many_JJ kinds_NNS of_IN knowledge_NN of_IN academic_JJ subjects_NNS is_VBZ good_JJ ._.
+However_RB ,_, it_PRP is_VBZ also_RB true_JJ that_IN learning_VBG a_DT specific_JJ subject_NN is_VBZ better_JJR to_TO be_VB specialized_VBN ._.
+I_PRP strongly_RB agree_VBP with_IN that_DT teaching_NN specific_JJ subjects_NNS to_TO students_NNS is_VBZ more_RBR efficient_JJ ._.
+There_EX are_VBP several_JJ reasons_NNS ._.
+First_NNP of_IN all_DT ,_, most_JJS students_NNS learn_VBP a_DT lots_NNS of_IN subjects_NNS in_IN the_DT school_NN and_CC have_VBP exams_NNS in_IN each_DT semister_NN ._.
+However_RB ,_, it_PRP is_VBZ not_RB necessary_JJ to_TO become_VB a_DT specialist_NN in_IN one_CD part_NN ._.
+For_IN example_NN ,_, i_FW had_VBD learned_VBN many_JJ subjects_NNS from_IN academic_JJ such_JJ as_IN history_NN ,_, neuclear_NN ,_, and_CC pantam_NN physics_NNS ._.
+But_CC i_FW am_VBP a_DT president_NN of_IN online-game_JJ company_NN now_RB ,_, those_DT things_NNS that_WDT i_FW learned_VBN are_VBP not_RB necessary_JJ directly_RB for_IN me_PRP ._.
+Second_RB ,_, people_NNS can_MD learn_VB from_IN their_PRP$ peer_VB and_CC famliy_VB about_IN something_NN like_IN history_NN ,_, music_NN or_CC art_NN ._.
+Most_JJS sports_NNS man_NN who_WP are_VBP played_VBN in_IN Major_NNP League_NNP Baseball_NNP in_IN the_DT United_NNP and_CC Premier_NNP League_NNP Soccer_NNP in_IN the_DT U.K._NNP in_IN my_PRP$ country_NN have_VBP learned_VBN their_PRP$ specific_JJ area_NN for_IN their_PRP$ life_NN without_IN studying_VBG broad_JJ field_NN ._.
+Sometimes_RB ,_, it_PRP is_VBZ not_RB good_JJ to_TO communicate_VB with_IN others_NNS variously_RB but_CC it_PRP is_VBZ nice_JJ to_TO get_VB a_DT job_NN and_CC to_TO be_VB a_DT prefessional_JJ ._.
+As_IN society_NN is_VBZ getting_VBG more_RBR complex_JJ ,_, the_DT meanig_NN of_IN knowledge_NN is_VBZ more_RBR complecated_VBN ._.
+Therefore_RB ,_, it_PRP was_VBD to_TO know_VB about_IN everythings_NNS ,_, but_CC ,_, now_RB ,_, it_PRP is_VBZ to_TO study_VB a_DT vital_JJ knowledge_NN in_IN specific_JJ area_NN ._.
+Therefore_RB ,_, i_FW agree_VBP with_IN that_DT it_PRP is_VBZ better_JJR to_TO specialize_VB in_IN one_CD specific_JJ subject_NN to_TO get_VB a_DT job_NN and_CC to_TO be_VB an_DT expert_NN in_IN the_DT special_JJ field_NN ._.

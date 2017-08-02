@@ -1,0 +1,15 @@
+It_PRP is_VBZ important_JJ for_IN students_NNS to_TO learn_VB the_DT facts_NNS ._.
+There_EX is_VBZ many_JJ facts_NNS you_PRP have_VBP to_TO learn_VB as_RB is_VBZ ,_, for_IN example_NN the_DT Earth_NNP is_VBZ in_IN a_DT ruon_NN shape_NN ,_, but_CC we_PRP do_VBP n't_RB know_VB why_WRB ._.
+That_DT is_VBZ in_IN particular_JJ sceince_NN like_IN geography_NN it_PRP is_VBZ important_JJ to_TO know_VB the_DT exact_JJ facts_NNS ._.
+But_CC in_IN ather_NN types_NNS of_IN scienses_NNS ,_, it_PRP is_VBZ more_RBR important_JJ to_TO understand_VB the_DT idea_NN ._.
+In_IN medicine_NN it_PRP is_VBZ important_JJ to_TO learn_VB the_DT fact_NN ,_, but_CC it_PRP is_VBZ mor_RB important_JJ to_TO understand_VB the_DT idea_NN ._.
+for_IN example_NN students_NNS learn_VBP a_DT bout_NN the_DT flue_NN and_CC it_PRP is_VBZ very_RB important_JJ for_IN them_PRP how_WRB the_DT flue_NN is_VBZ hapening_VBG ._.
+Understanding_VBG the_DT idea_NN will_MD able_JJ them_PRP to_TO curre_VB the_DT disease_NN ._.
+O_NN ._.
+B_NN doctor_NN has_VBZ to_TO under_IN stand_NN how_WRB the_DT baby_NN is_VBZ coming_VBG down_RB ,_, and_CC he_PRP or_CC she_PRP has_VBZ to_TO understand_VB how_WRB the_DT complication_NN is_VBZ hapening_VBG ,_, to_TO help_VB the_DT baby_NN and_CC the_DT mother_NN to_TO survive_VB ._.
+In_IN medicine_NN it_PRP is_VBZ very_RB important_JJ issue_NN to_TO understand_VB the_DT idea_NN to_TO survive_VB the_DT soles_NNS ._.
+In_IN Chemistry_NNP it_PRP is_VBZ very_RB important_JJ to_TO understand_VB the_DT reaction_NN of_IN tha_NN subjects_NNS ._.
+that_DT is_VBZ wouled_VBN help_NN helpo_NN pharmasist_NN to_TO do_VB good_JJ job_NN ._.
+Understanding_VBG the_DT idea_NN wouled_VBD help_NN to_TO do_VB better_JJR job_NN and_CC better_JJR socaiety_NN ._.
+And_CC strong_JJ nation_NN ._.
+With_IN very_RB

@@ -1,0 +1,23 @@
+I_PRP do_VBP agree_VB with_IN the_DT following_VBG statement_NN :_: It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Here_RB are_VBP my_PRP$ reasons_NNS ._.
+Facts_NNS are_VBP a_DT collection_NN of_IN past_JJ situations_NNS and/or_CC activities_NNS without_IN any_DT dependencies_NNS ._.
+Facts_NNS could_MD also_RB be_VB repeating_VBG events_NNS :_: e.g._FW a_DT collection_NN of_IN dates_NNS Christmas_NNP day_NN ,_, Christmas_NNP Eve_NNP etc_FW ._.
+On_IN the_DT other_JJ hand_NN side_NN are_VBP ideas_NNS ._.
+They_PRP are_VBP time_NN universal_JJ ._.
+Ideas_NNS did_VBD exist_VB in_IN the_DT past_NN ,_, in_IN the_DT present_JJ and_CC also_RB exist_VBP in_IN the_DT future_NN ._.
+Without_IN any_DT idea_NN there_EX would_MD be_VB no_DT progress_NN or_CC development_NN ._.
+Our_PRP$ ancisters_NNS had_VBD the_DT idea_NN that_IN the_DT earth_NN is_VBZ round_NN ._.
+Columbus_NNP did_VBD prove_VB it_PRP and_CC explored_VBD a_DT new_JJ continent_NN ._.
+The_DT horizon_NN of_IN the_DT human_JJ beeings_NNS grow_VBP ,_, some_DT groups_NNS lost_VBD their_PRP$ influence_NN and_CC power_NN ._.
+Concepts_NNS are_VBP a_DT collection_NN of_IN facts_NNS and_CC activities_NNS with_IN a_DT future_JJ orientation_NN ._.
+Concepts_NNS are_VBP can_MD be_VB possible_JJ answers_NNS for_IN complex_JJ situatuations_NNS or_CC can_MD help_VB solving_VBG problems_NNS ._.
+Here_RB an_DT example_NN :_: You_PRP want_VBP to_TO remodel_VB a_DT living_NN room_NN ,_, because_IN the_DT fireplace_NN is_VBZ broken_VBN and_CC needs_VBZ to_TO be_VB repaired_VBN ._.
+A_DT possible_JJ concept_NN could_MD be_VB just_RB do_VBP disable_VB the_DT fireplace_NN and_CC keep_VB the_DT remodelling_NN costs_VBZ low_JJ ._.
+Another_DT concept_NN could_MD be_VB to_TO replace_VB the_DT fireplace_NN and_CC spend_VB more_JJR money_NN ._.
+The_DT students_NNS are_VBP the_DT key_NN to_TO the_DT future_NN ._.
+The_DT need_NN to_TO understand_VB the_DT facts_NNS ,_, the_DT situation_NN the_DT human_JJ race_NN is_VBZ in_IN ,_, no_DT doubt_NN ._.
+But_CC much_RB more_RBR it_PRP 's_VBZ more_RBR important_JJ keeping_VBG ideas_NNS /_: concepts_NNS alive_JJ to_TO go_VB another_DT step_NN ._.
+The_DT human_JJ race_NN is_VBZ challenged_VBN in_IN the_DT future_NN with_IN environmental_JJ changes_NNS and_CC resource_NN issues_NNS ._.
+The_DT climate_NN is_VBZ changing_VBG ,_, oil_NN is_VBZ running_VBG out_RP in_IN the_DT next_JJ 50_CD years_NNS ._.
+Answers_NNS are_VBP needed_VBN to_TO questions_NNS like_IN :_: Alternative_JJ transportation_NN ,_, global_JJ warming_NN ,_, civilization_NN ._.
+The_DT only_JJ key_NN to_TO find_VB the_DT answers_NNS is_VBZ to_TO develop_VB new_JJ alternative_JJ concepts_NNS and_CC creative_JJ ideas_NNS rather_RB learning_VBG the_DT facts_NNS ._.

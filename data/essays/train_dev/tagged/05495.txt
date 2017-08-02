@@ -1,0 +1,17 @@
+Whenever_NNP I_PRP plan_VBP for_IN traveling_VBG ,_, I_PRP consider_VBP whether_IN to_TO travel_VB in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN or_CC to_TO travel_VB individually_RB without_IN a_DT tour_NN guide_NN ._.
+However_RB ,_, even_RB though_IN there_EX are_VBP some_DT people_NNS who_WP prefer_VBP to_TO travel_VB individually_RB ,_, I_PRP like_VBP to_TO journey_NN following_VBG an_DT instructor_NN ._.
+As_IN I_PRP have_VBP experienced_VBN in_IN both_CC ways_NNS ,_, I_PRP believe_VBP there_EX are_VBP more_RBR advantages_NNS to_TO travel_VB in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+First_RB ,_, traveling_VBG with_IN a_DT tour_NN guide_NN makes_VBZ people_NNS be_VB more_RBR comfortable_JJ ._.
+For_IN example_NN ,_, when_WRB I_PRP travel_VBP following_VBG a_DT tour_NN guide_NN ,_, I_PRP feel_VBP comfortable_JJ about_IN not_RB thinking_VBG of_IN the_DT direction_NN of_IN the_DT new_JJ place_NN ._.
+The_DT instructor_NN had_VBD already_RB planned_VBN where_WRB our_PRP$ group_NN was_VBD supposed_VBN to_TO visit_VB ,_, eat_VB ,_, and_CC book_NN the_DT hotel_NN ,_, so_RB there_RB was_VBD nothing_NN I_PRP worried_VBD about_RB ._.
+Second_RB ,_, it_PRP is_VBZ safe_JJ to_TO travel_VB with_IN a_DT tour_NN guide_NN ._.
+Because_IN the_DT tour_NN guide_NN knows_VBZ where_WRB we_PRP go_VBP ,_, there_EX is_VBZ less_JJR chance_NN to_TO be_VB lost_VBN in_IN the_DT foreign_JJ country_NN ._.
+Also_RB it_PRP is_VBZ more_RBR comfortable_JJ to_TO travel_VB with_IN a_DT person_NN who_WP can_MD communicate_VB in_IN the_DT language_NN of_IN the_DT country_NN which_WDT I_PRP do_VBP not_RB know_VB ._.
+Last_JJ ,_, it_PRP is_VBZ easier_JJR to_TO get_VB information_NN of_IN the_DT place_NN where_WRB we_PRP travel_VBP ._.
+Since_IN guiding_VBG is_VBZ his_PRP$ or_CC her_PRP$ work_NN ,_, the_DT instructor_NN knows_VBZ information_NN about_IN where_WRB he_PRP or_CC she_PRP take_VB people_NNS ._.
+Thus_RB ,_, people_NNS who_WP travel_VBP within_IN a_DT tour_NN guide_NN easily_RB get_VB close_RB to_TO the_DT new_JJ information_NN as_IN they_PRP listen_VBP to_TO the_DT instructor_NN ._.
+When_WRB I_PRP visited_VBD europe_NN ,_, I_PRP was_VBD fullfilled_VBN with_IN the_DT questions_NNS of_IN the_DT history_NN of_IN where_WRB I_PRP travel_VBP such_JJ as_IN ``_`` Winter_NNP Castle_NNP ''_'' in_IN Russia_NNP and_CC Alps_NNP mountain_NN in_IN Switzerland_NNP ._.
+Because_IN I_PRP did_VBD not_RB know_VB how_WRB to_TO speak_VB English_NNP at_IN that_DT time_NN ,_, there_EX was_VBD no_DT way_NN to_TO ask_VB to_TO residents_NNS ._.
+However_RB ,_, with_IN the_DT tour_NN guide_NN 's_POS help_NN and_CC information_NN ,_, I_PRP could_MD satisfy_VB with_IN what_WP I_PRP wanted_VBD know_VB easily_RB ._.
+With_IN these_DT reasons_NNS ,_, I_PRP disagree_VBP with_IN the_DT statement_NN ,_, ``_`` The_DT bes_NNS wat_VBD to_TO travel_VB is_VBZ is_VBZ a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._. ''_''
+It_PRP is_VBZ more_RBR comfortable_JJ and_CC safeto_JJ travel_NN where_WRB I_PRP do_VBP not_RB know_VB much_JJ about_IN it_PRP ._.

@@ -1,0 +1,11 @@
+The_DT eggs_NNS and_CC the_DT chickins_NNS ,_, which_WDT one_CD comes_VBZ first_RB ?_.
+This_DT is_VBZ one_CD of_IN the_DT most_RBS frequently_RB asked_VBD question_NN to_TO represent_VB a_DT complex_JJ matters_NNS and_CC hard_JJ to_TO find_VB answer_NN ._.
+Understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ an_DT important_JJ aspects_NNS of_IN in_IN learning_VBG processes_NNS and_CC serve_VB as_IN foundations_NNS for_IN future_JJ learning_NN ._.
+However_RB ,_, I_PRP do_VBP not_RB agree_VB that_IN understang_NN ideas_NNS and_CC concenpts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG facts_NNS for_IN students_NNS ._.
+I_PRP do_VBP not_RB think_VB there_EX is_VBZ a_DT royal_JJ road_NN in_IN learning_VBG process_NN ._.
+The_DT learning_NN processes_VBZ depend_VB on_IN situations_NNS ._.
+Sometiems_NNP ,_, learning_VBG the_DT facts_NNS first_RB gives_VBZ better_JJR chance_NN to_TO have_VB students_NNS understand_VB the_DT ideas_NNS and_CC concepts_NNS ._.
+For_IN example_NN ,_, in_IN a_DT class_NN of_IN lower_JJR grades_NNS elimentry_JJ school_NN ,_, if_IN one_CD explane_NN what_WP is_VBZ the_DT pH-the_NN acidity_NN of_IN solution_NN ,_, of_IN solutions_NNS in_IN terms_NNS of_IN chemistry_NN and_CC how_WRB to_TO calculate_VB the_DT pH_NN values_NNS ,_, kids_NNS could_MD easily_RB lost_VBN from_IN the_DT subject_NN ._.
+In_IN stead_NN ,_, if_IN one_CD tell_VBP a_DT simple_JJ mean_NN of_IN pH_NN of_IN solutions_NNS and_CC begin_VB to_TO expore_VB what_WP are_VBP the_DT pH_NN of_IN common_JJ solutions_NNS from_IN our_PRP$ surroundings_NNS ,_, it_PRP could_MD drow_VB more_RBR attentions_NNS and_CC curiosities_NNS from_IN young_JJ students_NNS ._.
+Then_RB ,_, students_NNS become_VBP more_RBR interested_JJ in_IN pH_NN of_IN solutions_NNS and_CC move_VB onto_IN deeper_JJR to_TO how_WRB to_TO calculate_VB the_DT pH_NN value_NN and_CC chemical_NN concept_NN of_IN acidity_NN and_CC basic_NN of_IN solutions_NNS ._.
+On_IN the_DT other_JJ hands_NNS ,_, certain_JJ cases_NNS ,_, we_PRP need_VBP to_TO have_VB a_DT good_JJ undeerstanding_NN of_IN fundermentals_NNS before_IN we_PRP

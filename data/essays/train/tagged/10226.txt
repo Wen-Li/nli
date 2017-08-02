@@ -1,0 +1,22 @@
+I_PRP dont_VBP agree_VBP with_IN the_DT statement_NN that_IN having_VBG broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS is_VBZ better_JJR than_IN to_TO specialize_VB in_IN any_DT one_CD subject_NN ._.
+I_PRP feel_VBP both_CC approaches_NNS have_VBP their_PRP$ own_JJ pros_NNS and_CC cons_NNS ._.
+Let_VB us_PRP analyze_VB the_DT issue_NN with_IN some_DT specific_JJ examples_NNS ._.
+Students_NNS are_VBP asked_VBN to_TO take_VB up_RP many_JJ diverse_JJ subjects_NNS so_RB as_IN to_TO have_VB a_DT basic_JJ knowledge_NN of_IN all_PDT the_DT disciplines_NNS ._.
+This_DT is_VBZ very_RB important_JJ because_IN no_DT field_NN works_VBZ in_IN isolation_NN ._.
+The_DT subject_NN of_IN geology_NN or_CC art_NN is_VBZ incomplete_JJ without_IN the_DT study_NN of_IN history_NN ._.
+In_IN fact_NN the_DT knowledge_NN of_IN one_CD field_NN is_VBZ often_RB required_VBN to_TO solve_VB problems_NNS in_IN others_NNS ._.
+Now_RB imagine_VB a_DT scenario_NN if_IN the_DT specialists_NNS doesnt_NN have_VBP any_DT knowledge_NN of_IN the_DT other_JJ fields_NNS ._.
+How_WRB is_VBZ a_DT physics_NN specialist_NN going_VBG to_TO solve_VB his_PRP$ complex_NN problem_NN invoving_VBG mathematics_NNS if_IN he_PRP doesnt_VBP have_VB a_DT broad_JJ knowledge_NN maths_NNS as_RB well_RB ._.
+Can_MD he_PRP afford_VB to_TO go_VB to_TO the_DT the_DT mathematician_NN every_DT time_NN he_PRP has_VBZ some_DT doubt_NN with_IN his_PRP$ maths_NNS ?_.
+That_DT is_VBZ not_RB a_DT feasible_JJ option_NN ._.
+He_PRP has_VBZ to_TO develop_VB an_DT understanding_NN of_IN maths_NNS as_IN a_DT discipline_NN so_RB as_IN to_TO arrive_VB at_IN a_DT comprehensive_JJ solution_NN ._.
+We_PRP see_VBP many_JJ masters_NNS students_NNS majoring_VBG in_IN more_JJR than_IN one_CD field_NN ._.
+This_DT is_VBZ because_IN their_PRP$ interdisciplinary_JJ knowledge_NN will_MD give_VB them_PRP a_DT comprehensive_JJ understanding_NN of_IN the_DT problem_NN ._.
+Todays_JJ world_NN is_VBZ increasingly_RB putting_VBG up_RP problems_NNS which_WDT often_RB require_VBP inter-disciplinary_JJ knowledge_NN ._.
+The_DT teams_NNS that_WDT work_VBP in_IN the_DT field_NN of_IN technology_NN have_VBP a_DT diverse_JJ compostion_NN ._.
+They_PRP have_VBP specialists_NNS of_IN technolonogy_NN working_NN in_IN tandem_JJ with_IN people_NNS who_WP have_VBP a_DT broad_JJ knowledge_NN of_IN different_JJ techonologies_NNS ._.
+As_IN a_DT specific_JJ example_NN in_IN software_NN technology_NN ,_, many_JJ applications_NNS now_RB require_VBP user_NN interface_NN in_IN a_DT technology_NN different_JJ from_IN the_DT one_CD used_VBN to_TO do_VB back_RB end_VB transactions_NNS ._.
+To_TO make_VB this_DT work_NN you_PRP need_VBP more_JJR than_IN just_RB two_CD specialists_NNS of_IN the_DT two_CD technologies_NNS involved_VBN ._.
+It_PRP is_VBZ not_RB going_VBG to_TO work_VB if_IN each_DT of_IN them_PRP is_VBZ totally_RB unaware_JJ of_IN the_DT other_JJ technology_NN ._.
+It_PRP will_MD certainly_RB help_VB if_IN they_PRP can_MD get_VB another_DT member_NN who_WP knows_VBZ a_DT little_JJ bit_NN of_IN both_DT ._.
+Thus_RB both_DT approaches_NNS are_VBP required_VBN for_IN a_DT comprehensive_JJ understanding_NN ._.

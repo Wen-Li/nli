@@ -1,0 +1,20 @@
+Facts_NNS can_MD be_VB research_NN by_IN student_NN in_IN order_NN to_TO improve_VB their_PRP$ knoledge_NN about_IN an_DT idea_NN ._.
+There_EX is_VBZ several_JJ ways_NNS to_TO support_VB the_DT statement_NN that_WDT is_VBZ more_RBR important_JJ understan_NN ideas_NNS and_CC concepts_NNS than_IN acquire_VB knoledge_NN of_IN facts_NNS ._.
+Science_NNP requiere_NNP student_NN to_TO think_VB constantly_RB and_CC develope_VB a_DT critic_NN way_NN to_TO think_VB ._.
+For_IN example_NN ,_, for_IN a_DT lawyer_NN it_PRP is_VBZ more_RBR importante_FW to_TO learn_VB how_WRB to_TO think_VB logically_RB than_IN learn_VB a_DT set_NN of_IN laws_NNS in_IN order_NN to_TO be_VB sucesfull_NN in_IN his_PRP$ carrier_NN ._.
+A_DT set_NN of_IN laws_NNS can_MD change_VB withing_VBG one_CD period_NN of_IN Congress_NNP ;_: this_DT will_MD leave_VB the_DT given_VBN lawyer_NN who_WP just_RB learn_VBP a_DT set_NN of_IN laws_NNS obsolet_NN ._.
+He_PRP will_MD need_VB to_TO go_VB to_TO university_NN to_TO learn_VB again_RB the_DT set_NN of_IN laws_NNS to_TO be_VB usefull_NN in_IN his_PRP$ field_NN ._.
+Fortunately_RB ,_, this_DT is_VBZ not_RB the_DT way_NN that_IN lawyer_NN learn_VBP about_IN their_PRP$ carrier_NN ,_, most_JJS of_IN the_DT knoledge_NN adquired_VBD at_IN a_DT law_NN school_NN is_VBZ to_TO think_VB logically_RB ._.
+Even_RB with_IN a_DT cange_NN of_IN legislation_NN a_DT lawyer_NN still_RB been_VBN a_DT lawyer_NN ._.
+However_RB ,_, there_EX is_VBZ allways_IN the_DT requirement_NN to_TO be_VB updated_VBN with_IN tecnology_NN and_CC new_JJ researchs_NNS to_TO be_VB succesffull_JJ in_IN any_DT given_VBN carrier_NN ._.
+For_IN a_DT historian_NN there_EX is_VBZ no_DT discution_NN that_WDT is_VBZ require_VB to_TO learn_VB facts_NNS ._.
+The_DT same_JJ concep_NN does_VBZ not_RB apply_VB for_IN a_DT doctor_NN ._.
+There_EX is_VBZ allways_IN the_DT necesity_NN of_IN improve_VB proceces_NNS to_TO evolve_VB with_IN socity_NN ._.
+This_DT is_VBZ the_DT reason_NN that_IN universities_NNS develop_VBP research_NN departments_NNS ._.
+If_IN socity_NN does_VBZ not_RB make_VB research_NN there_EX will_MD be_VB no_DT progress_NN in_IN many_JJ industries_NNS ._.
+In_IN order_NN to_TO achive_VB progress_NN stdents_NNS make_VBP research_NN to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+If_IN their_PRP$ noledge_NN is_VBZ based_VBN just_RB on_IN facts_NNS they_PRP would_MD be_VB no_DT able_JJ to_TO discover_VB new_JJ theories_NNS ._.
+For_IN example_NN ,_, all_PDT the_DT improvement_NN in_IN telecomunications_NNS ._.
+Thanks_NNS to_TO the_DT understanding_NN of_IN ideas_NNS and_CC concepts_NNS student_NN has_VBZ improve_VB the_DT internet_NN telephony_NN making_VBG ship_NN to_TO call_VB long_JJ distance_NN ._.
+Finally_RB ,_, will_MD be_VB imposible_JJ to_TO socity_NN to_TO progress_VB if_IN we_PRP just_RB waste_VBP time_NN to_TO learning_VBG facts_NNS ._.
+Like_IN in_IN a_DT picture_NN ,_, socity_NN will_MD be_VB static_JJ with_IN no_DT improvement_NN ,_, like_IN the_DT Menonites_NNS that_WDT like_VBP to_TO live_VB in_IN the_DT past_JJ ignoring_VBG the_DT new_JJ opportunities_NNS that_WDT ideas_NNS brings_VBZ ._.

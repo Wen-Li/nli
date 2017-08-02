@@ -1,0 +1,16 @@
+In_IN my_PRP$ opinion_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC consepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+I_PRP have_VBP some_DT reasons_NNS to_TO support_VB my_PRP$ opinion_NN ._.
+First_JJ reason_NN is_VBZ students_NNS can_MD not_RB learn_VB facts_NNS if_IN they_PRP do_VBP n't_RB understand_VB basic_JJ ideas_NNS ._.
+For_IN example_NN ,_, if_IN students_NNS are_VBP studying_VBG about_IN World_NNP War_NNP ,_, they_PRP study_VBP why_WRB the_DT war_NN happened_VBD ,_, how_WRB many_JJ countries_NNS were_VBD in_IN the_DT war_NN ,_, what_WP was_VBD happened_VBN afrer_IN the_DT war_NN and_CC so_RB on_IN ._.
+Then_RB ,_, students_NNS start_VBP learning_VBG the_DT detail_NN facts_NNS such_JJ as_IN how_WRB did_VBD people_NNS live_VB during_IN the_DT war_NN ,_, what_WDT kind_NN of_IN strategies_NNS did_VBD each_DT country_NN have_VBP ._.
+Second_RB ,_, if_IN students_NNS have_VBP understood_VBN ideas_NNS and_CC concepts_NNS ,_, they_PRP can_MD easily_RB guess_VB more_JJR detailed_JJ facts_NNS ._.
+For_IN instance_NN ,_, students_NNS can_MD guess_VB people_NNS were_VBD forced_VBN to_TO join_VB the_DT war_NN if_IN students_NNS have_VBP knowledge_NN what_WP is_VBZ war_NN ._.
+To_TO understand_VB ideas_NNS and_CC concepts_NNS can_MD help_VB students_NNS guess_VB facts_NNS ._.
+Also_RB ,_, it_PRP is_VBZ easy_JJ for_IN students_NNS to_TO aim_VB their_PRP$ goal_NN if_IN they_PRP understand_VBP ideas_NNS and_CC concepts_NNS ._.
+If_IN students_NNS make_VBP some_DT robots_NNS ,_, they_PRP need_VBP to_TO build_VB robots_NNS according_VBG to_TO the_DT manual_NN says_VBZ ,_, how_WRB to_TO build_VB the_DT robots_NNS ._.
+On_IN the_DT process_NN of_IN building_VBG the_DT robots_NNS ,_, students_NNS recognize_VBP some_DT fact_NN that_IN the_DT robots_NNS '_POS parts_NNS are_VBP need_NN to_TO add_VB some_DT oil_NN in_IN order_NN to_TO let_VB robots_NNS move_VB more_RBR smoothly_RB ._.
+Like_IN this_DT example_NN ,_, students_NNS can_MD build_VB robots_NNS because_IN they_PRP read_VBP the_DT instructions_NNS ._.
+If_IN studets_NNS follow_VBP the_DT instructions_NNS ,_, they_PRP will_MD be_VB aware_JJ of_IN more_JJR information_NN such_JJ as_IN adding_VBG some_DT oil_NN ._.
+Of_IN course_NN students_NNS can_MD make_VB robots_NNS without_IN adding_VBG some_DT oil_NN ,_, but_CC their_PRP$ robots_NNS might_MD move_VB slowly_RB or_CC even_RB be_VB unable_JJ to_TO walk_VB ._.
+In_IN conclusion_NN ,_, I_PRP agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS because_IN :_: to_TO learn_VB facts_NNS ,_, students_NNS must_MD understand_VB the_DT ideas_NNS ;_: students_NNS can_MD guess_VB facts_NNS if_IN they_PRP understand_VBP the_DT ideas_NNS ;_: it_PRP is_VBZ easy_JJ for_IN students_NNS to_TO aim_VB the_DT goal_NN if_IN they_PRP know_VBP the_DT ideas_NNS and_CC concepts_NNS ._.
+These_DT three_CD are_VBP the_DT reasons_NNS ._.

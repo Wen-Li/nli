@@ -1,0 +1,23 @@
+Some_DT people_NNS think_VBP that_IN the_DT more_RBR important_JJ thing_NN for_IN students_NNS is_VBZ to_TO understand_VB ideas_NNS and_CC concepts_NNS ;_: other_JJ people_NNS think_VBP that_IN the_DT more_RBR important_JJ thing_NN for_IN them_PRP is_VBZ to_TO learn_VB facts_NNS ._.
+Both_DT ways_NNS are_VBP very_RB important_JJ ,_, but_CC I_PRP prefer_VBP to_TO lean_JJ facts_NNS ._.
+There_EX are_VBP three_CD reasons_NNS ._.
+First_NNP of_IN all_DT ,_, learning_VBG facts_NNS is_VBZ basic_JJ of_IN study_NN ._.
+For_IN examle_NN ,_, when_WRB I_PRP was_VBD high_JJ school_NN student_NN ,_, I_PRP had_VBD a_DT history_NN class_NN ._.
+This_DT class_NN 's_POS purpose_NN is_VBZ learning_VBG historical_JJ facts_NNS ,_, not_RB ideas_NNS and_CC concepts_NNS ._.
+Second_RB ,_, students_NNS can_MD get_VB the_DT specific_JJ while_IN they_PRP are_VBP learning_VBG facts_NNS ._.
+For_IN instance_NN ,_, in_IN math_NN class_NN ,_, students_NNS are_VBP supposed_VBN to_TO learn_VB formulars_NNS ._.
+This_DT is_VBZ the_DT facts_NNS ._.
+Finally_RB ,_, learning_VBG facts_NNS is_VBZ to_TO understand_VB the_DT truth_NN ._.
+In_IN other_JJ words_NNS ,_, facts_NNS never_RB tell_VBP a_DT lie_NN ._.
+However_RB ,_, if_IN students_NNS understand_VBP ideas_NNS and_CC concepts_NNS ,_, it_PRP has_VBZ possibilities_NNS for_IN them_PRP to_TO misunderstand_VB ._.
+For_IN example_NN ,_, everybody_NN has_VBZ own_JJ idea_NN and_CC concept_NN even_RB though_IN they_PRP are_VBP correct_JJ or_CC not_RB ._.
+If_IN these_DT ideas_NNS and_CC concepts_NNS are_VBP correct_JJ ,_, they_PRP make_VBP senses_NNS and_CC have_VBP no_DT ploblems_NNS in_IN their_PRP$ lives_NNS ._.
+However_RB ,_, if_IN they_PRP are_VBP wrong_JJ ,_, they_PRP do_VBP not_RB makes_VBZ senses_NNS and_CC have_VBP a_DT lot_NN of_IN troubles_NNS ._.
+In_IN order_NN to_TO prevent_VB that_IN ,_, student_NN should_MD study_VB facts_NNS ,_, not_RB ideas_NNS and_CC concepts_NNS ._.
+I_PRP do_VBP not_RB mention_VB that_IN it_PRP is_VBZ not_RB important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, I_PRP do_VBP not_RB mention_VB that_IN it_PRP is_VBZ important_JJ for_IN them_PRP to_TO learn_VB facts_NNS only_RB ._.
+As_IN I_PRP stated_VBD ,_, both_DT ways_NNS are_VBP very_RB important_JJ for_IN students_NNS ,_, especially_RB young_JJ students_NNS ._.
+In_IN Japan_NNP ,_, a_DT lot_NN of_IN schools_NNS such_JJ as_IN a_DT elementary_JJ school_NN ,_, a_DT junior_JJ high_JJ school_NN ,_, and_CC a_DT high_JJ school_NN ,_, teach_VB their_PRP$ students_NNS facts_NNS ._.
+However_RB ,_, a_DT lot_NN of_IN universties_NNS teach_VBP thier_JJR students_NNS ideas_NNS and_CC concepts_NNS because_IN they_PRP are_VBP not_RB young_JJ ._.
+In_IN addition_NN ,_, they_PRP have_VBP abilities_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+In_IN conclusion_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO learn_VB facts_NNS because_IN they_PRP need_VBP foundamentals_NNS of_IN study_NN ,_, especially_RB young_JJ students_NNS ._.

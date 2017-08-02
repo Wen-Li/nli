@@ -1,0 +1,9 @@
+I_PRP agree_VBP the_DT question_NN because_IN the_DT student_NN to_TO learn_VB facts_NNS they_PRP understand_VBP ideas_NNS and_CC concepts_NNS ._.
+Idea_NN is_VBZ base_NN to_TO learn_VB the_DT facts_NNS ._.
+For_IN example_NN if_IN i_FW do_VBP n't_RB know_VB the_DT concept_NN i_FW do_VBP n't_RB understand_VB the_DT fact_NN ._.
+Perhaps_RB for_IN a_DT limited_JJ facts_NNS i_FW do_VBP n't_RB know_VB the_DT concept_NN but_CC i_FW know_VBP the_DT facts_NNS but_CC accoting_VBG to_TO me_PRP this_DT fact_NN are_VBP very_RB limited_JJ ._.
+Since_IN we_PRP study_VBP idea_NN and_CC the_DT theory_NN after_IN we_PRP study_VBP the_DT facts_NNS ._.
+Another_DT example_NN is_VBZ the_DT gravity_NN theory_NN :_: newton_NN since_IN study_NN all_DT theory_NN then_RB he_PRP proposed_VBD the_DT experiment_NN and_CC after_IN he_PRP studied_VBD ena_NN known_VBN the_DT result_NN of_IN the_DT him_PRP theory_NN ._.
+There_EX are_VBP o_NN lot_NN of_IN example_NN who_WP they_PRP suppose_VBP my_PRP$ agree_VBP for_IN the_DT question_NN ._.
+The_DT concepts_NNS are_VBP very_RB important_JJ they_PRP are_VBP interesting_JJ for_IN the_DT all_DT facts_NNS ._.
+In_IN conclusion_NN before_IN to_TO study_VB the_DT facts_NNS all_DT persons_NNS undertand_VBD ideas_NNS and_CC concepts_NNS ._.

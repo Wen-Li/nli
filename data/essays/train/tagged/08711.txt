@@ -1,0 +1,17 @@
+I_PRP agree_VBP that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN in_IN twenty_CD years_NNS ._.
+Certainly_RB ,_, there_EX are_VBP many_JJ reasons_NNS to_TO discourage_VB people_NNS from_IN using_VBG and_CC owning_VBG cars_NNS ._.
+The_DT first_JJ reason_NN is_VBZ pollution_NN ._.
+Cars_NNS burn_VBP fossil_JJ fuels_NNS which_WDT give_VBP out_RP lots_NNS of_IN greenhouse_NN gases_NNS and_CC other_JJ pollutants_NNS ._.
+As_IN people_NNS become_VBP more_RBR aware_JJ of_IN the_DT environment_NN ,_, more_JJR and_CC more_JJR people_NNS are_VBP against_IN the_DT idea_NN of_IN using_VBG cars_NNS now_RB and_CC in_IN the_DT future_NN ._.
+The_DT second_JJ reason_NN discouaging_VBG the_DT usage_NN of_IN cars_NNS is_VBZ the_DT depletion_NN of_IN resources_NNS ._.
+The_DT number_NN of_IN years_NNS we_PRP will_MD be_VB running_VBG out_IN of_IN petroleum_NN is_VBZ calculated_VBN and_CC it_PRP is_VBZ shortened_VBN again_RB and_CC again_RB due_JJ to_TO rising_VBG demand_NN ._.
+The_DT price_NN of_IN oil_NN skyrockets_NNS in_IN recent_JJ years_NNS ,_, and_CC so_RB does_VBZ the_DT price_NN of_IN gasoline_NN ._.
+SUVs_NNS are_VBP no_RB longer_RB favoured_VBN by_IN the_DT consumers_NNS and_CC more_JJR and_CC more_JJR people_NNS gave_VBD up_RP driving_VBG their_PRP$ cars_NNS totally_RB or_CC reduce_VB their_PRP$ usage_NN of_IN cars_NNS due_JJ to_TO higher_JJR oil_NN price_NN ._.
+As_IN the_DT number_NN of_IN cars_NNS on_IN road_NN increases_VBZ steadily_RB ,_, road_NN conjestion_NN and_CC parking_NN space_NN have_VBP become_VBN serious_JJ problems_NNS in_IN many_JJ countries_NNS ,_, especially_RB in_IN fast_JJ developing_VBG countries_NNS like_IN China_NNP and_CC India_NNP ._.
+It_PRP is_VBZ quite_RB normal_JJ for_IN a_DT driver_NN in_IN Shanghai_NNP to_TO take_VB two_CD hours_NNS to_TO complete_VB a_DT twenty_CD minutes_NNS drive_NN in_IN conjestion_NN ._.
+Finding_VBG a_DT vacant_JJ parking_NN place_NN can_MD take_VB up_RP to_TO half_PDT an_DT hour_NN in_IN the_DT central_JJ part_NN of_IN Shanghai_NNP ._.
+Unsurprisingly_RB that_IN many_JJ drivers_NNS get_VBP frustrated_JJ and_CC give_VB up_RP private_JJ driving_NN ._.
+However_RB ,_, solutions_NNS to_TO the_DT problems_NNS of_IN the_DT current_JJ cars_NNS have_VBP been_VBN implemented_VBN and_CC some_DT of_IN them_PRP are_VBP working_VBG ._.
+Hybrid_NN cars_NNS invented_VBN by_IN Toyota_NNP are_VBP selling_VBG fast_RB ,_, because_IN the_DT hybrid_NN car_NN saves_VBZ energy_NN and_CC use_VB less_JJR gasoline_NN ._.
+But_CC the_DT problem_NN of_IN depletion_NN of_IN oil_NN is_VBZ not_RB directly_RB addressed_VBN here_RB as_IN the_DT electricity_NN needed_VBN to_TO charge_VB the_DT hybrid_NN cars_NNS is_VBZ generated_VBN mainly_RB using_VBG oil_NN ._.
+Oil_NN price_NN will_MD still_RB increase_VB and_CC discourage_VB people_NNS to_TO drive_VB cars_NNS ._.

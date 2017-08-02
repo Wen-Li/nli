@@ -1,0 +1,3 @@
+which_WDT kind_NN of_IN cars_NNS we_PRP will_MD use_VB ?_.
+todaty_JJ cars_NNS are_VBP considerate_JJ like_IN a_DT status_NN symbol_NN of_IN the_DT last_JJ century_NN ,_, so_IN I_PRP agree_VBP that_IN in_IN twenty_CD years_NNS we_PRP will_MD be_VB full_JJ of_IN car_NN than_IN today_NN ._.
+In_IN my_PRP$ opinion_NN the_DT car_NN will_MD cost_VB less_JJR than_IN today_NN ,_, so_RB every_DT family_NN will_MD have_VB a_DT car_NN each_DT person_NN ._.

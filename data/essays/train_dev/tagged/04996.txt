@@ -1,0 +1,17 @@
+I_PRP agree_VBP with_IN that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+First_RB ,_, travel_NN in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN is_VBZ convenient_JJ ._.
+Second_RB ,_, it_PRP is_VBZ less_RBR expensive_JJ than_IN travel_NN alone_RB ._.
+Last_JJ ,_, it_PRP is_VBZ more_RBR secure_JJ than_IN travel_NN without_IN a_DT tour_NN guide_NN ._.
+First_RB ,_, a_DT tour_NN guide_NN makes_VBZ people_NNS ,_, who_WP do_VBP not_RB have_VB experience_NN or_CC infromation_NN of_IN trip_NN ,_, feel_VBP convineint_NN ._.
+When_WRB most_JJS of_IN people_NNS take_VBP a_DT trip_NN ,_, they_PRP do_VBP not_RB spend_VB time_NN for_IN studying_VBG for_IN the_DT trip_NN ._.
+They_PRP want_VBP to_TO take_VB a_DT rest_NN during_IN the_DT trip_NN ._.
+A_DT tour_NN guide_NN ,_, who_WP professionally_RB knows_VBZ information_NN of_IN counties_NNS and_CC lacotaion_NN make_VBP people_NNS not_RB put_VB pressure_NN on_IN unfamiliar_JJ condition_NN of_IN foreign_JJ countries_NNS ._.
+Second_RB ,_, grouping_VBG people_NNS for_IN trip_NN by_IN a_DT tour_NN guide_NN is_VBZ cheaper_JJR than_IN traveling_VBG alone_RB ._.
+A_DT tour_NN guide_NN offers_VBZ cheap_JJ method_NN of_IN travel_NN to_TO people_NNS ._.
+By_IN grouping_VBG people_NNS ,_, they_PRP can_MD get_VB an_DT opportunities_NNS of_IN discout_NN cost_NN of_IN hotels_NNS ,_, food_NN ,_, and_CC entertainment_NN ._.
+A_DT tour_NN guide_NN already_RB prepares_VBZ the_DT discout_NN information_NN in_IN order_NN to_TO offer_VB cheap_JJ travel_NN and_CC high_JJ quality_NN of_IN it_PRP ._.
+Last_JJ ,_, a_DT tour_NN guide_NN guarantees_VBZ the_DT security_NN for_IN people_NNS ._.
+As_IN a_DT tour_NN guide_NN leads_VBZ people_NNS to_TO secure_VB places_NNS ,_, they_PRP avoid_VBP of_IN unknown_JJ risks_NNS in_IN foreign_JJ countries_NNS ._.
+And_CC individual_NN is_VBZ more_RBR exposured_JJ than_IN a_DT group_NN ._.
+In_IN conclusion_NN ,_, there_EX are_VBP a_DT lot_NN of_IN reasons_NNS that_IN the_DT best_JJS way_NN to_TO travel_VB is_VBZ in_IN a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN ._.
+Convinience_NNP ,_, cheap_JJ cost_NN ,_, and_CC security_NN of_IN travel_NN are_VBP prominently_RB considered_VBN by_IN the_DT majority_NN who_WP want_VBP to_TO take_VB a_DT trip_NN ._.

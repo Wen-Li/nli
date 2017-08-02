@@ -1,0 +1,9 @@
+Althogh_NNP both_CC learing_VBG by_IN experience_NN and_CC studying_VBG pricipals_NNS of_IN the_DT subjects_NNS are_VBP significant_JJ parts_NNS of_IN learn_VBP facts_NNS ,_, I_PRP agree_VBP with_IN that_DT understanding_NN ideas_NNS is_VBZ more_RBR important_JJ for_IN academic_JJ situations_NNS ._.
+Fistly_RB ,_, studying_VBG ideas_NNS and_CC concepts_NNS are_VBP effecticve_NN for_IN learing_NN ,_, beacause_NN it_PRP support_VBP to_TO distinguish_VB the_DT fact_NN ._.
+For_IN examlpe_NN ,_, if_IN I_PRP searched_VBD endangered_VBN alpine_JJ plants_NNS during_IN hiking_VBG a_DT mountain_NN ,_, I_PRP could_MD not_RB find_VB which_WDT is_VBZ the_DT specific_JJ family_NN of_IN the_DT plant_NN ._.
+Moreover_RB ,_, by_IN previous_JJ investigation_NN for_IN the_DT plant_NN is_VBZ anable_JJ to_TO me_PRP where_WRB I_PRP should_MD go_VB ._.
+Therefore_RB ,_, understanding_VBG the_DT concepts_NNS should_MD be_VB centered_VBN ._.
+Secondly_RB ,_, comprefension_NN of_IN idas_NNS and_CC concepts_NNS are_VBP crucial_JJ for_IN develop_VB our_PRP$ knowlege_NN ._.
+For_IN instance_NN ,_, when_WRB I_PRP research_NN endangerd_NN alpine_JJ plants_NNS without_IN seeking_VBG information_NN of_IN the_DT facts_NNS which_WDT already_RB discovered_VBD ,_, I_PRP would_MD waste_VB of_IN my_PRP$ time_NN and_CC fureser_NN reaching_VBG to_TO consider_VB the_DT cause_NN of_IN extinction_NN ._.
+Because_IN the_DT fact_NN is_VBZ so_RB largThus_JJ ,_, understanding_VBG ideas_NNS is_VBZ advantageous_JJ for_IN learning_VBG ,_, since_IN this_DT advanced_JJ study_NN allows_VBZ us_PRP not_RB only_RB recognize_VB the_DT fact_NN but_CC aslo_NN make_VBP progress_NN of_IN learning_VBG facts_NNS ._.
+Consequently_RB ,_, I_PRP definitely_RB think_VBP that_IN if_IN it_PRP were_VBD not_RB understanding_VBG fundermental_NN of_IN each_DT area_NN ,_, the_DT study_NN would_MD be_VB insufficient_JJ ._.

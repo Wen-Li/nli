@@ -1,0 +1,21 @@
+There_EX is_VBZ a_DT controversial_JJ issue_NN about_IN whether_IN students_NNS should_MD have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS or_CC specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+Depending_VBG on_IN their_PRP$ distinct_JJ backgrounds_NNS and_CC experiences_NNS ,_, different_JJ students_NNS hold_VBP different_JJ opinions_NNS ._.
+In_IN my_PRP$ point_NN of_IN view_NN ,_, I_PRP think_VBP a_DT specific_JJ learning_NN is_VBZ better_RB because_IN it_PRP is_VBZ more_RBR dominated_VBN in_IN a_DT person_NN 's_POS career_NN ._.
+The_DT most_RBS impornt_JJ reason_NN of_IN choosing_VBG a_DT specialized_VBN knowledge_NN is_VBZ that_IN nowadays_RB the_DT knowledge_NN in_IN every_DT subject_NN is_VBZ becoming_VBG more_RBR and_CC more_RBR difficult_JJ ._.
+On_IN one_CD side_NN ,_, as_IN the_DT sciense_NN and_CC technology_NN develops_VBZ ,_, the_DT knowledge_NN of_IN one_CD specific_JJ subject_JJ becomes_VBZ more_RBR complicated_JJ ._.
+On_IN the_DT other_JJ side_NN ,_, a_DT person_NN 's_POS energy_NN is_VBZ limits_NNS by_IN the_DT nature_NN ._.
+Thus_RB ,_, if_IN a_DT person_NN insists_VBZ on_IN learn_VBP a_DT broad_JJ range_NN of_IN subjuects_NNS ,_, he_PRP will_MD find_VB that_IN he_PRP is_VBZ left_VBN behind_IN the_DT other_JJ persons_NNS more_RBR and_CC more_RBR ._.
+For_IN example_NN ,_, one_CD of_IN my_PRP$ classmates_NNS ,_, who_WP liked_VBD to_TO learn_VB lots_NNS of_IN different_JJ subjects_NNS ,_, such_JJ as_IN mathematics_NNS ,_, biology_NN and_CC arts_NNS ,_, got_VBD a_DT bad_JJ GPA_NN during_IN his_PRP$ college_NN career_NN ._.
+Therefore_RB ,_, we_PRP should_MD not_RB expect_VB us_PRP to_TO be_VB a_DT perfect_JJ person_NN who_WP knows_VBZ everything_NN ._.
+A_DT good_JJ example_NN ,_, Bill_NNP Gates_NNP ,_, the_DT richest_JJS man_NN in_IN the_DT world_NN ,_, may_MD lose_VB the_DT match_NN to_TO a_DT pupil_NN in_IN playing_VBG ping-pong_NN ._.
+So_RB becoming_VBG a_DT person_NN who_WP is_VBZ expert_NN in_IN one_CD area_NN is_VBZ more_RBR reasonable_JJ ._.
+Another_DT important_JJ reason_NN is_VBZ that_IN the_DT current_JJ society_NN need_VBP more_JJR and_CC more_RBR specific-trained_JJ persons_NNS ,_, such_JJ as_IN IT_PRP enigeers_VBZ ,_, doctors_NNS ,_, professional_JJ player_NN and_CC so_RB on_IN ._.
+Today_NN works_NNS can_MD no_RB more_RBR be_VB classified_VBN to_TO several_JJ types_NNS ,_, they_PRP are_VBP elaborated_VBN to_TO very_RB specific_JJ jobs_NNS ._.
+For_IN example_NN ,_, the_DT computer_NN companies_NNS have_VBP been_VBN divided_VBN to_TO sofeware_JJ companies_NNS such_JJ as_IN Microsoft_NNP ,_, hardware_NN companies_NNS such_JJ as_IN Intel_NNP ._.
+Moreover_RB ,_, new_JJ types_NNS of_IN companies_NNS are_VBP also_RB appearing_VBG ,_, such_JJ as_IN internet_NN companies_NNS ,_, Goole_NNP ._.
+These_DT different_JJ jobs_NNS need_VBP more_JJR and_CC more_RBR knowledge_NN in_IN specified_VBN area_NN and_CC a_DT narrower_JJR knowledge_NN range_NN compared_VBN to_TO the_DT past_NN ._.
+Thus_RB a_DT specific-trained_JJ person_NN is_VBZ obviously_RB more_RBR suitable_JJ than_IN a_DT widely-trained_JJ person_NN ._.
+To_TO be_VB fair_JJ ,_, I_PRP must_MD own_VB up_RP to_TO the_DT importance_NN of_IN the_DT elementary_JJ knowledge_NN in_IN a_DT wide_JJ range_NN ._.
+Everyone_NN should_MD learn_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS in_IN his/her_NN junior_NN and_CC senior_JJ school_NN to_TO detemine_VB what_WP he/she_NN is_VBZ suitable_JJ for_IN ._.
+However_RB ,_, this_DT broading_VBG learning_NN is_VBZ just_RB preparing_VBG for_IN the_DT later_JJ deeper_JJR specialized_JJ learning_NN which_WDT is_VBZ longer_RBR and_CC more_RBR important_JJ in_IN one_CD 's_POS career_NN ._.
+To_TO sum_VB up_RP ,_, due_JJ to_TO the_DT reasons_NNS mentioned_VBN above_IN ,_, we_PRP can_MD safely_RB draw_VB the_DT conclusion_NN that_IN students_NNS should_MD specialize_VB in_IN one_CD specific_JJ subject_NN ._.

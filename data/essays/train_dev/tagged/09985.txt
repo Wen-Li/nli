@@ -1,0 +1,10 @@
+Some_DT people_NNS agree_VBP to_TO the_DT idea_NN that_IN understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN learning_VBG concepts_NNS ._.
+Others_NNS think_VBP learning_VBG facts_NNS should_MD come_VB first_RB ._.
+In_IN terms_NNS of_IN critical_JJ thinking_NN ,_, I_PRP have_VBP to_TO say_VB understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR helpful_JJ and_CC worthy_JJ than_IN learning_VBG facts_NNS ._.
+Based_VBN on_IN the_DT field_NN of_IN study_NN ,_, facts_NNS are_VBP playing_VBG a_DT important_JJ role_NN ._.
+For_IN instance_NN ,_, if_IN you_PRP are_VBP a_DT biology_NN student_NN you_PRP should_MD know_VB all_PDT the_DT terminologies_NNS related_VBN to_TO the_DT human_JJ body_NN in_IN order_NN to_TO explore_VB further_JJ topics_NNS ._.
+In_IN Art_NNP ,_, knowing_VBG the_DT differences_NNS of_IN Realism_NN and_CC Classicism_NN is_VBZ the_DT foundation_NN of_IN your_PRP$ knowledge_NN ._.
+Then_RB ,_, you_PRP can_MD classify_VB genres_NNS and_CC styles_NNS of_IN movies_NNS ._.
+However_RB ,_, students_NNS will_MD not_RB be_VB able_JJ to_TO develop_VB critical_JJ thinking_VBG unless_IN they_PRP understand_VBP ideas_NNS and_CC concepts_NNS if_IN they_PRP know_VBP about_IN only_RB facts_NNS ._.
+For_IN example_NN ,_, with_IN a_DT scientific_JJ fact_NN is_VBZ presented_VBN in_IN class_NN and_CC no_DT discussion_NN or_CC analyzation_NN is_VBZ followed_VBN to_TO help_VB students_NNS understand_VB the_DT concepts_NNS ,_, Once_RB students_NNS understand_VBP the_DT ideas_NNS why_WRB a_DT certain_JJ history_NN event_NN had_VBD happened_VBN in_IN the_DT past_NN ,_, it_PRP would_MD be_VB easy_JJ for_IN them_PRP to_TO understand_VB the_DT consequenses_NNS of_IN that_DT event_NN ._.
+In_IN conclusion_NN ,_, both_CC understanding_VBG ideas_NNS and_CC concepts_NNS ant_IN learning_VBG facts_NNS are_VBP critical_JJ in_IN learning_VBG ._.

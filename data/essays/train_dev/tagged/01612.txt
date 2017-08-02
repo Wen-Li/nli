@@ -1,0 +1,11 @@
+In_IN my_PRP$ poinnion_NN ,_, I_PRP think_VBP it_PRP is_VBZ more_RBR impotant_JJ for_IN student_NN to_TO learn_VB facts_NNS than_IN to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.
+Firstly_RB ,_, We_PRP live_VBP in_IN the_DT real_JJ life_NN ,_, if_IN we_PRP do_VBP things_NNS based_VBN on_IN the_DT ideas_NNS or_CC concepts_NNS we_PRP may_MD lose_VB our_PRP$ minds_NNS ._.
+Because_IN sometimes_RB ,_, things_NNS is_VBZ going_VBG to_TO change_VB at_IN any_DT time_NN ,_, but_CC we_PRP do_VBP not_RB know_VB when_WRB it_PRP change_VB ,_, or_CC how_WRB it_PRP change_VB ._.
+For_IN example_NN ,_, there_EX is_VBZ a_DT ancient_JJ story_NN in_IN China_NNP ,_, says_VBZ that_IN there_EX is_VBZ a_DT master_NN of_IN army_NN who_WP learns_VBZ very_RB well_RB through_IN the_DT book_NN knowledge_NN ,_, he_PRP can_MD even_RB memorize_VB all_PDT the_DT concepts_NNS of_IN the_DT book_NN ._.
+Once_RB ,_, the_DT enrmy_NN attack_NN his_PRP$ area_NN ,_, then_RB he_PRP use_VB the_DT concepts_NNS from_IN the_DT book_NN to_TO fight_VB with_IN the_DT enrmy_NN ,_, finally_RB he_PRP fails_VBZ ._.
+Because_IN the_DT enrmy_JJ use_NN a_DT trick_NN during_IN the_DT battle_NN while_IN the_DT master_NN only_RB knows_VBZ the_DT solution_NN in_IN the_DT book_NN ._.
+this_DT shows_VBZ us_PRP we_PRP should_MD learn_VB facts_NNS instead_RB of_IN only_RB learn_VBP the_DT ideas_NNS and_CC concept_NN ._.
+We_PRP should_MD be_VB more_RBR flexable_JJ to_TO deal_VB the_DT problems_NNS which_WDT appers_VBZ in_IN our_PRP$ real_JJ life_NN ._.
+Secondly_RB ,_, facts_NNS give_VBP you_PRP more_RBR impression_NN ._.
+For_IN instance_NN ,_, once_RB you_PRP write_VB a_DT wrong_JJ solution_NN in_IN the_DT exam_NN ,_, after_IN you_PRP know_VBP it_PRP is_VBZ wrong_JJ ,_, it_PRP you_PRP will_MD have_VB a_DT serve_VB impression_NN ,_, and_CC you_PRP will_MD never_RB do_VB it_PRP again_RB ,_, because_IN you_PRP have_VBP the_DT experience_NN ._.
+Therefore_RB ,_, learn_VBP facts_NNS is_VBZ more_RBR impotant_JJ for_IN students_NNS than_IN only_RB understand_VBP ideas_NNS and_CC concepts_NNS ._.

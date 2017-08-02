@@ -1,0 +1,16 @@
+Since_IN the_DT invention_NN of_IN the_DT automobile_NN ,_, the_DT amount_NN of_IN cars_NNS has_VBZ increased_VBN ._.
+Now_RB we_PRP can_MD hardly_RB find_VB a_DT family_NN wihtout_NN a_DT car_NN and_CC even_RB can_MD see_VB ones_NNS with_IN more_JJR than_IN two_CD cars_NNS ._.
+As_IN the_DT population_NN grows_VBZ ,_, at_IN least_JJS it_PRP is_VBZ not_RB decreasing_VBG ,_, the_DT amount_NN of_IN car_NN will_MD increase_VB too_RB ._.
+So_RB there_EX wo_MD n't_RB be_VB fewer_JJR cars_NNS than_IN today_NN are_VBP ._.
+Car_NN is_VBZ very_RB important_JJ in_IN our_PRP$ life_NN ._.
+It_PRP is_VBZ the_DT most_RBS individual_JJ vehicle_NN that_IN we_PRP can_MD ride_VB ._.
+There_EX are_VBP public_JJ transportations_NNS but_CC we_PRP can_MD only_RB use_VB the_DT limited_JJ usage_NN of_IN vehicle_NN of_IN the_DT public_JJ transportation_NN ._.
+That_DT is_VBZ ,_, whenever_WRB it_PRP caome_NN to_TO an_DT accidental_JJ situaltion_NN public_JJ transportation_NN wo_MD n't_RB be_VB very_RB helpful_JJ to_TO individuals_NNS because_IN individual_NN can_MD not_RB use_VB them_PRP for_IN their_PRP$ own_JJ purpose_NN ._.
+So_IN the_DT car_NN is_VBZ necessary_JJ in_IN our_PRP$ lives_NNS ._.
+However_RB there_EX are_VBP a_DT lot_NN of_IN problems_NNS caused_VBN by_IN a_DT huge_JJ amount_NN of_IN the_DT cars_NNS ._.
+Two_CD Major_JJ problems_NNS of_IN them_PRP are_VBP air_NN pollution_NN and_CC limited_JJ fuel_NN ._.
+Fuel_NN used_VBN in_IN cars_NNS are_VBP basically_RB refined_VBN petroleum_NN ._.
+So_RB when_WRB it_PRP burns_VBZ in_IN the_DT engine_NN ti_NN emit_VBP CO2_NN and_CC make_VB NO_NN and_CC NO2_NN which_WDT are_VBP the_DT main_JJ pollutant_NN of_IN air_NN pollution_NN ._.
+Also_RB petroleum_NN is_VBZ limited_JJ resource_NN that_WDT would_MD gone_VBN in_IN next_JJ few_JJ decades_NNS ._.
+Car_NN has_VBZ its_PRP$ importance_NN in_IN our_PRP$ lives_NNS so_IN it_PRP wo_MD n't_RB decrease_VB in_IN amount_NN but_CC instead_RB there_EX wiil_NN be_VB new_JJ forms_NNS of_IN car_NN ._.
+For_IN example_NN ,_, a_DT Hybrid_NN car_NN use_NN hydrogen_NN which_WDT burns_NNS and_CC emit_VB water_NN and_CC an_DT Electric_NNP car_NN which_WDT use_VBP battery_NN and_CC motor_NN to_TO run_VB will_MD replace_VB the_DT current_JJ form_NN of_IN cars_NNS gradually_RB ._.

@@ -1,0 +1,15 @@
+There_EX is_VBZ proverb_NN ;_: Knowledge_NN is_VBZ power_NN ._.
+It_PRP means_VBZ more_JJR knowledge_NN brings_VBZ more_JJR power_NN ._.
+I_PRP strongly_RB agree_VBP with_IN that_DT having_VBG broaden_VB knowledge_NN of_IN many_JJ academic_JJ subjects_NNS is_VBZ better_RBR ._.
+There_EX are_VBP some_DT reasons_NNS why_WRB having_VBG broaden_VB knowledge_NN of_IN academic_JJ subjects_NNS are_VBP better_RB because_IN of_IN application_NN at_IN other_JJ fields_NNS and_CC various_JJ experience_NN ._.
+First_NNP of_IN all_DT ,_, by_IN having_VBG different_JJ kinds_NNS of_IN academic_JJ subjects_NNS ,_, we_PRP can_MD apply_VB other_JJ different_JJ fields_NNS ._.
+For_IN example_NN ,_, if_IN construction_NN company_NN has_VBZ plan_NN to_TO build_VB new_JJ modern_JJ style_NN building_NN in_IN city_NN ._.
+In_IN this_DT case_NN ,_, first_JJ thing_NN we_PRP can_MD think_VB about_RB is_VBZ company_NN must_MD need_VB an_DT architecturer_NN ,_, who_WP builds_VBZ building_NN ._.
+If_IN architecture_NN has_VBZ broaden_VB knowledge_NN of_IN other_JJ academic_JJ subjects_NNS ,_, then_RB it_PRP would_MD be_VB better_RBR for_IN making_VBG building_NN ._.
+He_PRP can_MD use_VB various_JJ subjects_NNS such_JJ as_IN art_NN ,_, math_NN and_CC geology_NN in_IN order_NN to_TO build_VB a_DT building_NN ._.
+In_IN addition_NN ,_, modern_JJ society_NN needs_VBZ people_NNS who_WP are_VBP able_JJ to_TO do_VB multitaking_JJ job_NN ._.
+Moreover_RB ,_, having_VBG various_JJ academic_JJ subjects_NNS can_MD make_VB people_NNS have_VBP various_JJ experience_NN ._.
+For_IN instance_NN ,_, I_PRP am_VBP majoring_VBG business_NN at_IN school_NN ._.
+I_PRP takes_VBZ not_RB only_RB economy_NN ,_, which_WDT is_VBZ my_PRP$ major_JJ subject_NN ,_, but_CC also_RB English_NNP ,_, computer_NN class_NN ,_, pyscology_NN ,_, and_CC socialogy_NN ._.
+In_IN the_DT future_NN ,_, I_PRP want_VBP to_TO be_VB a_DT successful_JJ businessman_NN ,_, and_CC succeful_JJ businessman_NN needs_VBZ various_JJ fields_NNS knowledge_NN and_CC experience_NN ._.
+A_DT busineesman_NN needs_VBZ interpersonal_JJ skill_NN ,_, resposibility_NN ,_, of_IN course_NN economic_JJ knowledge_NN ,_, and_CC language_NN ._.

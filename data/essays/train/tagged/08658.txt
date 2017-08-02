@@ -1,0 +1,25 @@
+Today_NN ,_, scientific_JJ technology_NN is_VBZ developing_VBG continuously_RB ._.
+The_DT field_NN of_IN scince_NN is_VBZ helping_VBG our_PRP$ lives_NNS a_DT lot_NN in_IN many_JJ ways_NNS ._.
+One_CD example_NN is_VBZ transportaion_NN ._.
+People_NNS should_MD spend_VB a_DT lot_NN more_JJR time_NN to_TO move_VB from_IN one_CD place_NN to_TO another_DT place_NN when_WRB they_PRP did_VBD n't_RB have_VB transportation_NN but_CC it_PRP became_VBD possible_JJ as_IN they_PRP have_VBP many_JJ different_JJ ways_NNS of_IN transportation_NN ._.
+For_IN example_NN ,_, subway_NN ,_, trains_NNS ,_, airplane_NN ,_, bike_NN ,_, cars_NNS and_CC so_RB on_IN ._.
+They_PRP brought_VBD us_PRP a_DT lot_NN of_IN advantages_NNS ._.
+However_RB ,_, the_DT transportations_NNS have_VBP also_RB disadvantages_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP toay_NN because_IN cars_NNS cause_VBP pollution_NN and_CC are_VBP dangerous_JJ ._.
+First_RB ,_, cars_NNS bring_VBP pollution_NN to_TO us_PRP as_IN producing_VBG a_DT lot_NN of_IN exhaust_NN gas_NN ._.
+To_TO move_VB cars_NNS ,_, we_PRP have_VBP to_TO use_VB gasoline_NN gas_NN or_CC LPG_NN gas_NN now_RB ._.
+However_RB ,_, those_DT gases_NNS are_VBP extremly_RB harmful_JJ to_TO our_PRP$ societies_NNS ._.
+They_PRP affect_VBP us_PRP to_TO end_VB up_RP the_DT various_JJ disease_NN and_CC increasing_VBG of_IN carbon_NN dioxide_NN in_IN the_DT air_NN ._.
+As_IN we_PRP breath_NN ,_, we_PRP are_VBP taking_VBG dirty_JJ particles_NNS from_IN the_DT air_NN ._.
+Also_RB ,_, increasing_VBG carbon_NN dioxide_NN is_VBZ serious_JJ problem_NN now_RB in_IN the_DT world_NN ._.
+It_PRP could_MD lead_VB to_TO bigger_JJR problem_NN such_JJ as_IN global_JJ warming_NN which_WDT also_RB cause_VBP many_JJ different_JJ events_NNS including_VBG melting_NN ice_NN mountains_NNS so_IN that_IN the_DT level_NN of_IN the_DT ocean_NN is_VBZ getting_VBG higer_JJR ._.
+Using_VBG more_JJR cars_NNS mean_VBP that_IN we_PRP are_VBP going_VBG to_TO bring_VB more_JJR environmental_JJ problems_NNS to_TO the_DT world_NN ._.
+Second_RB ,_, cars_NNS are_VBP dangerous_JJ as_IN I_PRP said_VBD before_RB ._.
+There_EX are_VBP so_RB many_JJ accidents_NNS occuring_VBG everyday_JJ by_IN cars_NNS ._.
+We_PRP can_MD reduce_VB those_DT accidents_NNS by_IN practicing_VBG not_RB to_TO use_VB cars_NNS ._.
+Instead_RB of_IN using_VBG cars_NNS ,_, we_PRP could_MD use_VB other_JJ transportation_NN which_WDT cause_VBP less_JJR accidents_NNS ._.
+Also_RB ,_, the_DT issue_NN of_IN traffic_NN jam_NN affected_VBN by_IN car_NN accidents_NNS in_IN the_DT middle_NN of_IN the_DT highway_NN could_MD be_VB the_DT problem_NN ._.
+As_IN they_PRP solve_VBP the_DT problem_NN of_IN accident_NN ,_, more_JJR people_NNS could_MD have_VB damage_NN from_IN it_PRP ._.
+Cars_NNS could_MD bring_VB us_PRP dangerous_JJ accidents_NNS including_VBG death_NN ._.
+In_IN conclusion_NN ,_, development_NN of_IN scientific_JJ technology_NN would_MD help_VB to_TO create_VB better_JJR transportation_NN than_IN cars_NNS so_RB that_IN people_NNS could_MD use_VB it_PRP without_IN causing_VBG pollution_NN and_CC accidents_NNS ._.
+Therefore_RB ,_, in_IN twenty_CD years_NNS there_RB wilil_VBP be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.

@@ -1,0 +1,15 @@
+In_IN general_JJ ,_, I_PRP agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ to_TO learn_VB facts_NNS ._.
+However_RB ,_, I_PRP am_VBP not_RB convinced_VBN that_IN it_PRP is_VBZ not_RB neccessary_JJ to_TO learn_VB facts_NNS also_RB ._.
+On_IN one_CD hand_NN ,_, it_PRP is_VBZ very_RB important_JJ for_IN students_NNS to_TO understand_VB the_DT basic_JJ idea_NN of_IN different_JJ phenomenon_NN ._.
+With_IN this_DT it_PRP will_MD be_VB much_RB easier_JJR to_TO learn_VB new_JJ things_NNS and_CC solve_VB problems_NNS much_RB more_RBR effective_JJ ._.
+The_DT needed_VBN facts_NNS one_CD can_MD review_VB later_RB in_IN a_DT lot_NN of_IN books_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, for_IN solving_VBG a_DT problem_NN one_CD will_MD need_VB always_RB a_DT lot_NN of_IN facts_NNS and_CC while_IN working_VBG in_IN a_DT company_NN ,_, one_CD will_MD be_VB always_RB under_IN time_NN pressure_NN ._.
+Therefore_RB an_DT employee_NN with_IN a_DT lack_NN of_IN already_RB known_VBN solutions_NNS ,_, will_MD need_VB much_RB more_JJR time_NN for_IN solving_VBG a_DT given_VBN problem_NN ,_, while_IN spending_VBG time_NN in_IN reading_VBG books_NNS ._.
+Moreover_RB it_PRP is_VBZ possible_JJ that_IN he_PRP will_MD find_VB an_DT already_RB known_VBN answer_NN for_IN the_DT task_NN ._.
+For_IN example_NN ,_, when_WRB one_CD have_VBP to_TO invent_VB something_NN new_JJ ,_, the_DT first_JJ point_NN is_VBZ always_RB a_DT patent_NN research_NN ._.
+Mostly_RB one_CD will_MD find_VB a_DT already_RB known_VBN proper_JJ solution_NN ._.
+As_IN a_DT scientific_JJ assistent_NN at_IN the_DT faculty_NN of_IN mechanical_JJ engineering_NN I_PRP met_VBD many_JJ times_NNS problems_NNS while_IN researching_VBG on_IN a_DT specific_JJ topic_NN ._.
+My_PRP$ experiences_NNS are_VBP ,_, that_IN in_IN 98_CD percent_NN I_PRP can_MD solve_VB these_DT problems_NNS only_RB with_IN the_DT actual_JJ state_NN of_IN the_DT art_NN and_CC only_RB in_IN 2_CD percent_NN I_PRP need_VBP to_TO invent_VB something_NN new_JJ ._.
+Moreover_RB I_PRP wrote_VBD a_DT lot_NN of_IN exams_NNS in_IN which_WDT I_PRP had_VBD known_VBN all_DT basics_NNS ,_, but_CC ,_, I_PRP was_VBD not_RB able_JJ to_TO calculate_VB a_DT giving_VBG machine_NN ,_, as_IN I_PRP had_VBD not_RB known_VBN specific_JJ facts_NNS ._.
+According_VBG to_TO this_DT ,_, I_PRP am_VBP advising_VBG the_DT students_NNS in_IN my_PRP$ classes_NNS of_IN thermodynamic_JJ to_TO have_VB an_DT careful_JJ look_NN to_TO the_DT different_JJ processes_NNS given_VBN as_IN an_DT example_NN in_IN the_DT book_NN ._.
+When_WRB they_PRP will_MD write_VB the_DT examen_NN at_IN the_DT end_NN of_IN the_DT semesters_NNS ,_, it_PRP is_VBZ possible_JJ that_IN one_CD of_IN this_DT processes_NNS have_VBP to_TO been_VBN calculated_VBN ._.

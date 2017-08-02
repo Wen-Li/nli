@@ -4,12 +4,12 @@ import argparse
 import csv
 import os
 from sklearn import metrics
-from sklearn.preprocessing import Normalizer, StandardScaler
 from sklearn.svm import LinearSVC
-from time import time
 import numpy as np
 import pickle
 from gensim.models import KeyedVectors
+from sklearn.model_selection import cross_val_predict
+
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 CLASS_LABELS = ['FRE', 'GER', 'ITA', 'SPA', 'ARA', 'TUR', 'CHI', 'JPN', 'KOR', 'HIN', 'TEL']
 
@@ -64,9 +64,9 @@ def load_features_and_labels(train_partition, test_partition,
     training_matrix = getAvgFeatureVecs(training_files)
     test_matrix = getAvgFeatureVecs(test_files)
 
-    with open('../pickles/word2vec_42B_train.pkl', 'wb') as f:
+    with open('../pickles/word2vec_42B_{}.pkl'.format(training_partition_name), 'wb') as f:
         pickle.dump(training_matrix, f, pickle.HIGHEST_PROTOCOL)
-    with open('../pickles/word2vec_42B_dev.pkl', 'wb') as f:
+    with open('../pickles/word2vec_42B_{}.pkl'.format(test_partition_name), 'wb') as f:
         pickle.dump(test_matrix, f, pickle.HIGHEST_PROTOCOL)
 
     return [(training_matrix, encoded_training_labels, training_labels),
@@ -124,45 +124,9 @@ def pretty_print_cm(cm, class_labels):
         print(row_format.format(l1, *row))
 
 if __name__ == '__main__':
-    p = argparse.ArgumentParser()
 
-    p.add_argument('--train',
-                   help='Name of training partition. "train" by default. This should be the name of a directory '
-                        'in "../data/essays/" as well as "../data/features/"',
-                   default='train')
-
-    p.add_argument('--test',
-                   help='Name of the testing partition. "dev" by default. This should be the name of a directory '
-                        'in "../data/essays/" as well as "../data/features/"',
-                   default='dev')
-
-    p.add_argument('--preprocessor',
-                   help='Name of directory with processed essay files. "tokenized" by default.',
-                   default='tokenized')
-
-    p.add_argument('--training_features',
-                   help='Path to file containing precomputed training features. None by default. '
-                        'Should be located in ../data/features/<train_partition_name>/')
-
-    p.add_argument('--test_features',
-                   help='Path to file containing precomputed test features. None by default.'
-                        'Should be located in ../data/features/<test_partition_name>/')
-
-    p.add_argument('--feature_outfile_name',
-                   help='Custom name, if desired, for output feature files to be written to '
-                        '../data/features/essays/<train_partition_name>/ and '
-                        '../data.features/essays/<test_partition_name>. '
-                        'If none provided, feature files will be named using the date and time.'
-                        'If precomputed feature files are provided, this argument will be ignored.')
-
-    p.add_argument('--predictions_outfile_name',
-                   help='Custom name, if desired, for predictions file to be written to ../predictions/essays/.'
-                        'If none provided, predictions file will be names using the date and time.')
-
-    args = p.parse_args()
-
-    training_partition_name = "train"
-    test_partition_name = "dev"
+    training_partition_name = "train_dev"
+    test_partition_name = "test"
     preprocessor = "tokenized"
     feature_file_train = None
     feature_file_test = None
@@ -180,6 +144,12 @@ if __name__ == '__main__':
     training_matrix, encoded_training_labels, original_training_labels = training_and_test_data[0]
     test_matrix, encoded_test_labels, original_test_labels = training_and_test_data[1]
 
+    # training_matrix = np.array(pickle.load(open('../pickles/word2vec_42B_train.pkl', 'rb')))
+    # test_matrix = np.array(pickle.load(open('../pickles/word2vec_42B_dev.pkl', 'rb')))
+    #
+    # encoded_training_labels = pickle.load(open("../pickles/encoded_training_labels.pkl", "rb"))
+    # encoded_test_labels = pickle.load(open("../pickles/encoded_test_labels.pkl", "rb"))
+
     print("Train shape:", training_matrix.shape)
     print("Test shape:", test_matrix.shape)
 
@@ -187,46 +157,26 @@ if __name__ == '__main__':
     print("Training the classifier...")
     clf = LinearSVC(C=1)
 
+    train_probs = cross_val_predict(clf, training_matrix, encoded_training_labels,
+                                    method="_predict_proba_lr", cv=10)
+    train_pred = np.argmax(train_probs, axis=1)
+    print("Word2vec accuracy on train:",
+          metrics.accuracy_score(encoded_training_labels, train_pred))
+
+    # predict probabilities on test
     clf.fit(training_matrix, encoded_training_labels)
+    test_probs = clf._predict_proba_lr(test_matrix)
+    if test_partition_name == "dev":
+        test_pred = np.argmax(test_probs, axis=1)
+        print("Accuracy on dev:", metrics.accuracy_score(encoded_test_labels, test_pred))
 
-    # predicted_probs = clf._predict_proba_lr(test_matrix)
-    predicted = clf.predict(test_matrix)
+    # save probabilities
+    with open('../probabilities/{}/wordvec_{}.pkl'
+                      .format(training_partition_name,
+                              str(num_features)), 'wb') as f:
+        pickle.dump(train_probs, f, pickle.HIGHEST_PROTOCOL)
+    with open('../probabilities/{}/wordvec_{}.pkl'
+                      .format(test_partition_name,
+                              str(num_features)), 'wb') as f:
+        pickle.dump(test_probs, f, pickle.HIGHEST_PROTOCOL)
 
-    #
-    # Write Predictions File
-    #
-
-    # labels_file_path = ('{script_dir}/../data/labels/{test}/labels.{test}.csv'
-    #                     .format(script_dir=SCRIPT_DIR, test=test_partition_name))
-    #
-    # predictions_file_name = (strftime("predictions-%Y-%m-%d-%H.%M.%S.csv")
-    #                          if predictions_outfile_name is None
-    #                          else predictions_outfile_name)
-    #
-    # outfile = '{script_dir}/../predictions/essays/{pred_file}'.format(script_dir=SCRIPT_DIR, pred_file=predictions_file_name)
-    # with open(outfile, 'w+', newline='', encoding='utf8') as output_file:
-    #     file_writer = csv.writer(output_file)
-    #     with open(labels_file_path, encoding='utf-8') as labels_file:
-    #         label_rows = [row for row in csv.reader(labels_file)]
-    #         label_rows[0].append('prediction')
-    #         for i, row in enumerate(label_rows[1:]):
-    #             encoded_prediction = int(predicted[i])
-    #             prediction = CLASS_LABELS[encoded_prediction]
-    #             row.append(prediction)
-    #     file_writer.writerows(label_rows)
-    #
-    # print("Predictions written to", outfile.replace(SCRIPT_DIR, '')[1:], "(%d lines)" % len(predicted))
-
-    #
-    # Display classification results
-    #
-
-    if -1 not in encoded_test_labels:
-        print("\nConfusion Matrix:\n")
-        cm = metrics.confusion_matrix(encoded_test_labels, predicted).tolist()
-        pretty_print_cm(cm, CLASS_LABELS)
-        print("\nClassification Results:\n")
-        print(metrics.classification_report(encoded_test_labels, predicted, target_names=CLASS_LABELS, digits=3))
-        print("\nOverall accuracy:", metrics.accuracy_score(encoded_test_labels, predicted))
-    else:
-        print("\nThe test set labels aren't known, cannot print accuracy report.")

@@ -1,0 +1,21 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_IN ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN learn_VB facts_NNS ''_'' ._.
+It_PRP is_VBZ mainly_RB because_RB by_IN understanding_VBG the_DT main_JJ idea_NN and_CC the_DT concept_NN we_PRP can_MD try_VB answer_VB a_DT few_JJ questions_NNS rather_RB than_IN keep_VB learning_VBG the_DT facts_NNS ._.
+Like_IN for_IN example_NN in_IN Mathematics_NNP there_EX are_VBP several_JJ problems_NNS that_IN we_PRP go_VBP through_IN and_CC there_EX might_MD be_VB many_JJ other_JJ ways_NNS in_IN order_NN to_TO solve_VB these_DT problems_NNS ._.
+It_PRP all_DT depends_VBZ on_IN the_DT person_NN who_WP is_VBZ solving_VBG the_DT problem_NN ._.
+Every_DT person_NN might_MD have_VB a_DT different_JJ idea_NN for_IN solving_VBG the_DT same_JJ problem_NN ._.
+For_IN example_NN in_IN a_DT class_NN of_IN 30_CD students_NNS if_IN a_DT question_NN is_VBZ given_VBN and_CC the_DT students_NNS are_VBP asked_VBN to_TO solve_VB that_IN question_NN then_RB all_PDT the_DT students_NNS might_MD be_VB able_JJ to_TO solve_VB the_DT question_NN and_CC also_RB get_VB the_DT answer_NN but_CC the_DT method_NN in_IN which_WDT they_PRP solve_VBP is_VBZ different_JJ ._.
+If_IN we_PRP just_RB understand_VB how_WRB to_TO solve_VB the_DT problem_NN thats_VBZ more_JJR than_IN enough_RB we_PRP need_VBP not_RB learn_VB the_DT different_JJ ways_NNS in_IN which_WDT we_PRP can_MD solve_VB the_DT problems_NNS ._.
+Just_RB understanding_VBG the_DT problem_NN is_VBZ enough_RB ._.
+Even_RB in_IN the_DT exams_NNS if_IN we_PRP have_VBP just_RB started_VBN a_DT topic_NN and_CC cant_NN remember_VBP even_RB a_DT single_JJ thing_NN that_IN we_PRP have_VBP learned_VBN then_RB just_RB understand_VB what_WP that_WDT topic_NN is_VBZ mainly_RB about_RB and_CC write_VB what_WP you_PRP have_VBP understood_VBN about_IN the_DT topic_NN ._.
+Another_DT example_NN can_MD be_VB in_IN seminars_NNS ._.
+We_PRP can_MD not_RB everything_NN and_CC anything_NN that_IN the_DT speaker_NN says_VBZ on_IN the_DT stage_NN but_CC just_RB understand_VB the_DT main_JJ idea_NN and_CC concepts_NNS that_WDT are_VBP being_VBG covered_VBN in_IN the_DT seminar_NN ._.
+In_IN this_DT way_NN it_PRP will_MD be_VB easy_JJ for_IN us_PRP to_TO understand_VB the_DT seminar_NN topic_NN in_IN a_DT better_JJR way_NN and_CC if_IN have_VBP any_DT doubts_NNS also_RB they_PRP can_MD be_VB clarified_VBN ._.
+If_IN the_DT main_JJ idea_NN of_IN the_DT problem_NN is_VBZ understood_VBN then_RB everything_NN else_RB is_VBZ easy_JJ to_TO handle_VB ._.
+So_IN it_PRP is_VBZ definitely_RB better_JJR for_IN us_PRP to_TO just_RB understand_VB the_DT ideas_NNS and_CC concepts_NNS instead_RB of_IN learning_VBG the_DT facts_NNS ._.
+Sometimes_RB it_PRP might_MD be_VB too_RB late_JJ for_IN us_PRP to_TO learn_VB facts_NNS about_IN something_NN rather_RB to_TO understand_VB the_DT main_JJ ideas_NNS and_CC concepts_NNS about_IN the_DT same_JJ thing_NN ._.
+Like_IN in_IN the_DT example_NN of_IN exams_NNS we_PRP can_MD not_RB learn_VB everything_NN and_CC remember_VB everything_NN while_IN we_PRP are_VBP writing_VBG the_DT exam_NN ._.
+Instead_RB it_PRP is_VBZ better_RBR that_IN we_PRP understand_VBP the_DT main_JJ idea_NN and_CC concept_NN of_IN the_DT topic_NN ._.
+In_IN this_DT way_NN we_PRP can_MD remember_VB the_DT topic_NN for_IN a_DT longer_JJR time_NN and_CC can_MD also_RB recollect_VB points_NNS about_IN that_DT particular_JJ topic_NN where_WRB ever_RB it_PRP is_VBZ needed_VBN for_IN us_PRP to_TO and_CC also_RB give_VB our_PRP$ opinions_NNS about_IN the_DT topic_NN ._.
+So_RB in_IN my_PRP$ opinion_NN ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS rather_RB than_IN learn_VB facts_NNS ''_'' ._.
+So_IN it_PRP is_VBZ better_RBR for_IN a_DT student_NN to_TO understand_VB the_DT main_JJ idea_NN of_IN the_DT problem_NN and_CC work_NN towards_IN that_DT problem_NN rather_RB than_IN sit_VB and_CC learn_VB about_IN the_DT problem_NN ._.
+Who_WP knows_VBZ it_PRP might_MD be_VB too_RB late_JJ to_TO solve_VB that_IN particular_JJ problem_NN ._.

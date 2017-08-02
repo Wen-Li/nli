@@ -1,0 +1,17 @@
+Advertisements_NNS ,_, which_WDT are_VBP important_JJ in_IN selling_VBG products_NNS ,_, make_VBP products_NNS seem_VB better_JJR than_IN they_PRP are_VBP in_IN order_NN to_TO make_VB it_PRP more_RBR appealing_JJ to_TO consumers_NNS ._.
+Advertisers_NNS use_VBP many_JJ tricks_NNS and_CC even_RB false_JJ information_NN to_TO make_VB the_DT products_NNS seem_VBP better_RB ._.
+Advertisements_NNS use_VBP aspects_NNS that_WDT appeal_VBP to_TO people_NNS 's_POS senses_NNS ,_, such_JJ as_IN the_DT way_NN the_DT product_NN looks_VBZ ,_, smells_VBZ ,_, or_CC feels_VBZ ._.
+Most_JJS advertisements_NNS use_VBP vivid_JJ imagery_NN to_TO attract_VB attention_NN ._.
+Advertisers_NNS enhance_VBP the_DT appearance_NN of_IN the_DT product_NN by_IN different_JJ effects_NNS such_JJ as_IN lighting_NN or_CC coloring_NN ._.
+Commericials_NNS for_IN food_NN products_NNS sometimes_RB do_VBP not_RB use_VB the_DT real_JJ product_NN ,_, but_CC a_DT imitation_NN that_WDT is_VBZ made_VBN unrealisitically_RB ._.
+For_IN instance_NN ,_, when_WRB advertising_VBG a_DT hamburger_NN ,_, advertisers_NNS might_MD use_VB a_DT bigger_JJR or_CC a_DT more_RBR fresh_JJ looking_VBG imitation_NN of_IN the_DT hamburger_NN ._.
+When_WRB a_DT person_NN actually_RB goes_VBZ to_TO buy_VB the_DT product_NN ,_, they_PRP will_MD notice_VB a_DT significant_JJ difference_NN in_IN the_DT real_JJ product_NN in_IN comparison_NN to_TO the_DT product_NN shown_VBN in_IN the_DT commericial_JJ ._.
+Also_RB ,_, many_JJ advertisements_NNS use_VBP claims_NNS that_WDT are_VBP usually_RB false_JJ ._.
+The_DT advertisement_NN might_MD imply_VB that_IN the_DT product_NN makes_VBZ a_DT person_NN looks_VBZ more_RBR beautiful_JJ or_CC has_VBZ the_DT power_NN to_TO make_VB someone_NN smarter_RBR ._.
+A_DT commercial_JJ for_IN perfume_NN might_MD imply_VB that_IN the_DT person_NN using_VBG the_DT product_NN gains_VBZ more_JJR attention_NN from_IN people_NNS ._.
+However_RB ,_, these_DT claims_NNS are_VBP highly_RB exaggerated_JJ to_TO make_VB the_DT product_NN popular_JJ among_IN customers_NNS ._.
+Advertisers_NNS use_VBP people_NNS 's_POS weakness_NN to_TO appeal_VB to_TO them_PRP ._.
+For_IN example_NN ,_, an_DT advertisement_NN commericializing_VBG a_DT product_NN that_WDT can_MD lead_VB to_TO weight_NN loss_NN might_MD show_VB someone_NN who_WP is_VBZ obese_JJ so_IN that_IN the_DT consumer_NN can_MD relate_VB to_TO the_DT advertisement_NN and_CC be_VB convinced_VBN into_IN buying_VBG the_DT product_NN ._.
+It_PRP is_VBZ important_JJ for_IN the_DT consumer_NN to_TO question_VB the_DT product_NN objectively_RB ._.
+In_IN conclusion_NN ,_, by_IN different_JJ effects_NNS and_CC methods_NNS ,_, advertisements_NNS enhance_VBP the_DT quality_NN of_IN the_DT product_NN ,_, making_VBG it_PRP seem_VB better_JJR than_IN it_PRP actually_RB is_VBZ ._.
+This_DT is_VBZ to_TO strengthen_VB the_DT purpose_NN of_IN the_DT advertisements_NNS ,_, which_WDT is_VBZ to_TO sell_VB the_DT product_NN to_TO many_JJ people_NNS ._.

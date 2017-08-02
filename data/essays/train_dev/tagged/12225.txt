@@ -1,0 +1,7 @@
+the_DT starting_VBG statement_NN tells_VBZ about_IN the_DT possibility_NN that_IN in_IN the_DT future_NN could_MD be_VB less_RBR cars_NNS then_RB today_NN ._.
+this_DT point_NN is_VBZ very_RB difficult_JJ to_TO explain_VB because_IN i_FW think_VBP that_IN everything_NN depends_VBZ to_TO the_DT technology_NN developement_NN of_IN today_NN ._.
+since_IN ten_CD years_NNS ago_IN a_DT lot_NN of_IN university_NN departments_NNS have_VBP tried_VBN to_TO create_VB a_DT new_JJ type_NN of_IN car_NN that_WDT uses_VBZ a_DT different_JJ king_NN of_IN oil_NN ._.
+the_DT reason_NN is_VBZ that_IN in_IN this_DT moment_NN the_DT amount_NN of_IN oil_NN is_VBZ critical_JJ and_CC there_EX is_VBZ the_DT possibility_NN that_IN on_IN the_DT next_JJ years_NNS it_PRP will_MD be_VB impossible_JJ to_TO supply_VB the_DT oil_NN quantity_NN that_WDT customers_NNS will_MD need_VB ._.
+but_CC until_IN now_RB it_PRP is_VBZ not_RB appeared_VBN a_DT different_JJ kind_NN of_IN car_NN that_WDT uses_VBZ alternative_JJ fuel_NN ._.
+only_RB a_DT strange_JJ electric_JJ car_NN that_WDT uses_VBZ electric_JJ batteries_NNS to_TO start_VB motor_NN ._.
+For_IN this_DT reason_NN ,_, i_FW think_VBP that_IN if_IN the_DT companies_NNS which_WDT product_NN car_NN or_CC the_DT university_NN departments_NNS of_IN technology_NN resource_NN do_VBP n't_RB look_VB for_IN other_JJ solutions_NNS ,_, it_PRP will_MD be_VB possible_JJ that_IN in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS than_IN today_NN ._.

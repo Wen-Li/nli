@@ -1,0 +1,15 @@
+This_DT is_VBZ a_DT very_RB interesting_JJ question_NN because_IN it_PRP represents_VBZ the_DT current_JJ challenge_NN in_IN french_JJ education_NN ._.
+Indeed_RB ,_, the_DT task_NN of_IN education_NN is_VBZ to_TO teach_VB students_NNS a_DT lot_NN of_IN theories_NNS ,_, ideas_NNS and_CC concepts_NNS ._.
+That_DT 's_VBZ also_RB why_WRB we_PRP learn_VBP philosophie_NN in_IN school_NN ,_, to_TO learn_VB to_TO doubt_VB ,_, to_TO think_VB and_CC analize_VB ._.
+the_DT follow_VBP quotation_NN of_IN Montaigne_NN shows_VBZ the_DT real_JJ question_NN :_: ``_`` It_PRP is_VBZ better_JJR to_TO have_VB a_DT well_RB established_VBN brain_NN that_IN a_DT full_JJ brain_NN ._. ''_''
+But_CC both_DT ca_MD n't_RB work_VB separately_RB :_: we_PRP need_VBP comon_JJ knowledge_NN to_TO learn_VB how_WRB to_TO take_VB a_DT decision_NN and_CC how_WRB to_TO behave_VB in_IN society_NN ._.
+History_NN shows_VBZ us_PRP the_DT way_NN to_TO behave_VB with_IN other_JJ countries_NNS ,_, mathematic_JJ shows_NNS us_PRP how_WRB to_TO deal_VB with_IN other_JJ countries_NNS ,_, geography_NN teaches_VBZ us_PRP how_WRB to_TO reach_VB other_JJ countries_NNS and_CC languages_NNS allow_VBP us_PRP to_TO speak_VB in_IN other_JJ countries_NNS ._.
+The_DT comon_JJ knowledge_NN represents_VBZ all_DT ideas_NNS ,_, concepts_NNS and_CC theories_NNS we_PRP need_VBP to_TO make_VB the_DT right_JJ decision_NN and_CC understand_VB our_PRP$ environement_NN ._.
+Despite_IN all_DT of_IN this_DT ,_, one_CD day_NN ,_, students_NNS have_VBP to_TO use_VB their_PRP$ knowledge_NN in_IN a_DT practical_JJ field_NN to_TO experience_VB the_DT profit_NN of_IN it_PRP ._.
+The_DT increasing_VBG rate_NN of_IN internship_NN demonstrates_VBZ this_DT need_NN of_IN `_`` facts_NNS '_POS ._.
+Education_NN requires_VBZ always_RB more_RBR from_IN students_NNS without_IN teaching_VBG them_PRP the_DT real_JJ work_NN they_PRP are_VBP attending_VBG for_IN ._.
+That_DT 's_VBZ why_WRB ,_, there_EX are_VBP more_RBR and_CC more_RBR private_JJ schools_NNS that_WDT offer_VBP a_DT practical_JJ schooling_NN with_IN a_DT long_JJ period_NN of_IN internship_NN ._.
+University_NNP realized_VBD this_DT problem_NN few_JJ years_NNS ago_RB and_CC tried_VBD to_TO adapt_VB themself_RB to_TO the_DT reality_NN of_IN the_DT market_NN ._.
+To_TO conclude_VB ,_, I_PRP would_MD say_VB that_IN this_DT is_VBZ a_DT central_JJ question_NN in_IN education_NN field_NN ._.
+In_IN my_PRP$ point_NN of_IN view_NN both_CC are_VBP as_RB important_JJ ._.
+The_DT question_NN is_VBZ no_RB longer_JJR to_TO know_VB if_IN we_PRP should_MD teach_VB ideas_NNS and_CC concepts_NNS but_CC more_JJR to_TO know_VB where_WRB is_VBZ the_DT border_NN between_IN ideas_NNS ,_, concepts_NNS and_CC practical_JJ facts_NNS ?_.

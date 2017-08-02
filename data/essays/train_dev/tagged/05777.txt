@@ -1,0 +1,7 @@
+I_PRP disagree_VBP with_IN this_DT statement_NN ._.
+I_PRP think_VBP that_IN car_NN is_VBZ very_RB important_JJ for_IN our_PRP$ life_NN ._.
+Some_DT people_NNS who_WP live_VBP in_IN convenient_JJ city_NN do_VBP n't_RB care_VB to_TO nothing_NN car_NN but_CC local_JJ people_NNS do_VBP n't_RB think_VB so_RB ._.
+For_IN example_NN ,_, ``_`` Shopping_NNP ''_'' ._.
+Recently_RB ,_, many_JJ shopping_NN moals_NNS and_CC big_JJ supermarket_NN are_VBP located_JJ in_IN the_DT place_NN where_WRB is_VBZ far_RB from_IN city_NN or_CC inconvenient_JJ place_NN ._.
+If_IN those_DT people_NNS do_VBP n't_RB have_VB a_DT car_NN ,_, they_PRP can_MD not_RB go_VB shopping_VBG anywhere_RB ._.
+And_CC local_JJ place_NN dose_NN n't_RB have_VB many_JJ trains_NNS ._.

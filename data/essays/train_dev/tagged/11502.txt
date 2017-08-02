@@ -1,0 +1,12 @@
+I_PRP disagree_VBP with_IN the_DT following_VBG statement_NN ._.
+I_PRP think_VBP that_IN there_EX will_MD be_VB more_RBR cars_NNS then_RB it_PRP uses_VBZ to_TO be_VB in_IN twenty_CD years_NNS for_IN the_DT following_VBG reasons_NNS ._.
+First_RB ,_, I_PRP believe_VBP that_IN developing_VBG countries_NNS and_CC cities_NNS will_MD get_VB an_DT increasing_VBG of_IN their_PRP$ cars_NNS in_IN a_DT few_JJ year_NN ._.
+For_IN instance_NN ,_, prospection_NN of_IN Mexico_NNP or_CC Sao_NNP Paolo_NNP demonstrates_VBZ that_IN the_DT traffic_NN will_MD get_VB bigger_JJR and_CC intense_JJ in_IN a_DT few_JJ year_NN ._.
+More_JJR people_NNS are_VBP goin_NN In_IN my_PRP$ opinion_NN ,_, cars_NNS tend_VBP to_TO be_VB a_DT symbol_NN and_CC will_MD still_RB be_VB a_DT symbol_NN of_IN wealthy_JJ and_CC success_NN people_NNS ._.
+Second_RB ,_, even_RB if_IN oil_NN prices_NNS are_VBP getting_VBG up_RB and_CC oil_NN reserves_NNS are_VBP diminishing_VBG ,_, people_NNS will_MD never_RB stop_VB using_VBG their_PRP$ cars_NNS ._.
+For_IN examples_NNS ,_, in_IN the_DT United-States_JJ people_NNS can_MD not_RB live_VB without_IN cars_NNS because_IN public_JJ transports_NNS have_VBP not_RB been_VBN developed_VBN adquately_RB by_IN the_DT government_NN ._.
+It_PRP is_VBZ necessary_JJ for_IN a_DT middle_JJ class_NN familly_RB to_TO possess_VB one_CD or_CC two_CD cars_NNS and_CC they_PRP used_VBD it_PRP on_IN a_DT daily_JJ base_NN ._.
+Third_NNP ,_, even_RB if_IN oil_NN reserves_NNS are_VBP being_VBG reduced_VBN ,_, scientists_NNS try_VBP already_RB to_TO find_VB some_DT alternativ_NN to_TO petrole_NN ._.
+In_IN fact_NN bio-carburant_NN will_MD be_VB prehaps_NNS the_DT new_JJ carburant_NN for_IN our_PRP$ cars_NNS ._.
+Now_RB ,_, new_JJ kinds_NNS of_IN carburants_NNS that_WDT are_VBP made_VBN of_IN bee_NN or_CC others_NNS cropswill_NN interest_NN car_NN concessioners_NNS ._.
+Finally_RB ,_, I_PRP think_VBP that_IN if_IN we_PRP do_VBP not_RB find_VB any_DT alternative_JJ to_TO move_VB from_IN one_CD city_NN to_TO another_DT ,_, cars_NNS will_MD still_RB be_VB used_VBN a_DT lot_NN even_RB in_IN twenty_CD years_NNS ._.

@@ -1,0 +1,6 @@
+I_PRP disagree_VBP ._.
+But_CC both_DT of_IN them_PRP need_VBP ._.
+Because_IN to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS is_VBZ basic_JJ ,_, and_CC to_TO specialize_VB in_IN one_CD specific_JJ subject_NN is_VBZ is_VBZ personality_NN knowlege_NN ._.
+These_DT are_VBP different_JJ ._.
+So_RB if_IN you_PRP want_VBP to_TO become_VB a_DT person_NN ,_, you_PRP should_MD grow_VB to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+It_PRP means_VBZ you_PRP have_VBP a_DT special_JJ life_NN ._.

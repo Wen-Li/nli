@@ -1,0 +1,18 @@
+Some_DT people_NNS may_MD think_VB that_IN people_NNS should_MD specialize_VB in_IN one_CD specific_JJ subject_NN because_IN they_PRP can_MD write_VB a_DT good_JJ thesis_NN ._.
+However_RB ,_, I_PRP agree_VBP with_IN the_DT statement_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN for_IN the_DT following_VBG reasons_NNS ._.
+First_NNP of_IN all_DT ,_, having_VBG broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS is_VBZ useful_JJ for_IN working_VBG ._.
+For_IN example_NN ,_, in_IN 2000_CD ,_, when_WRB I_PRP was_VBD a_DT forth_RB year_NN student_NN in_IN University_NNP of_IN Tokyo_NNP ,_, my_PRP$ major_JJ was_VBD civil_JJ engineering_NN ._.
+Of_IN course_NN ,_, I_PRP took_VBD the_DT subjects_NNS about_IN the_DT civil_JJ engineering_NN ,_, but_CC I_PRP also_RB tool_NN the_DT subjects_NNS such_JJ as_IN economics_NNS and_CC politics_NNS ._.
+Now_RB ,_, I_PRP work_VBP at_IN Japan_NNP Central_NNP railway_NN company_NN as_IN a_DT engineer_NN and_CC my_PRP$ project_NN is_VBZ to_TO plan_VB to_TO build_VB the_DT station_NN building_NN ._.
+I_PRP need_VBP to_TO discuss_VB with_IN many_JJ co-workers_NNS ._.
+I_PRP can_MD solve_VB the_DT problems_NNS about_IN this_DT project_NN effectively_RB because_IN I_PRP learn_VBP about_IN wide_JJ knowledge_NN about_IN many_JJ subjects_NNS ._.
+As_IN a_DT result_NN ,_, this_DT project_NN goes_VBZ on_IN very_RB well_RB ._.
+This_DT experience_NN shows_VBZ that_IN having_VBG wide_JJ knowledge_NN of_IN a_DT lot_NN of_IN academic_JJ subjects_NNS is_VBZ very_RB useful_JJ for_IN working_VBG ._.
+In_IN addition_NN ,_, people_NNS can_MD communicate_VB well_RB by_IN having_VBG wide_JJ knowledge_NN about_IN many_JJ academic_JJ subjects_NNS ._.
+For_IN instance_NN ,_, I_PRP join_VBP on_IN the_DT swimming_NN club_NN now_RB ._.
+This_DT team_NN is_VBZ consist_VBP of_IN a_DT lot_NN of_IN members_NNS such_JJ as_IN professors_NNS in_IN Keio_NNP University_NNP ,_, workers_NNS at_IN banks_NNS and_CC engineers_NNS at_IN heavy_JJ industrial_JJ companies_NNS ._.
+In_IN this_DT club_NN ,_, we_PRP often_RB go_VBP to_TO the_DT bar_NN after_IN the_DT practice_NN of_IN the_DT swimming_NN and_CC exchange_NN some_DT information_NN ._.
+I_PRP can_MD communicate_VB effectively_RB with_IN every_DT members_NNS because_IN I_PRP have_VBP wide_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS and_CC I_PRP can_MD ask_VB some_DT questions_NNS to_TO them_PRP ._.
+As_IN a_DT result_NN ,_, I_PRP can_MD make_VB many_JJ friends_NNS ._.
+As_IN the_DT above_JJ example_NN demonstrates_VBZ ,_, people_NNS can_MD communicate_VB well_RB by_IN having_VBG wide_JJ knowledge_NN about_IN a_DT lot_NN of_IN academic_JJ subjects_NNS ._.
+In_IN conclusion_NN ,_, I_PRP strongly_RB believe_VBP that_IN it_PRP is_VBZ better_JJR to_TO have_VB wide_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.

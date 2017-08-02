@@ -1,0 +1,2 @@
+i_LS agree_VBP ,_, the_DT reasons_NNS are_VBP :_:
+1_LS -_: if_IN a_DT person_NN do_VBP what_WP he_PRP already_RB knows_VBZ he_PRP would_MD be_VB a_DT successful_JJ person_NN

@@ -1,0 +1,13 @@
+agree_discourse_Yes
+agree_nsubj_I
+agree_xcomp_try
+try_mark_to
+try_advmod_anew
+try_dobj_things
+agree_cc_but
+agree_conj_take
+take_dobj_rick
+rick_det_the
+take_nmod_attionation
+attionation_case_on
+attionation_nmod:poss_my

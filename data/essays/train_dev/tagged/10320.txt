@@ -1,0 +1,24 @@
+It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Concepts_NNS are_VBP the_DT most_JJS confidence_NN state_NN in_IN the_DT accuracy_NN of_IN many_JJ facts_NNS ._.
+Ideas_NNS and_CC concepts_NNS can_MD give_VB more_JJR informations_NNS effectively_RB and_CC ideas_NNS and_CC concepts_NNS can_MD imply_VB more_RBR successfully_RB in_IN anytime_RB ._.
+Firstly_RB ,_, concepts_NNS are_VBP the_DT most_JJS confidence_NN state_NN in_IN the_DT accuracy_NN of_IN many_JJ facts_NNS ._.
+Facts_NNS may_MD remain_VB for_IN short_JJ amount_NN of_IN time_NN ._.
+In_IN other_JJ words_NNS ,_, facts_NNS are_VBP not_RB very_RB accurate_JJ ._.
+However_RB ,_, concept_NN is_VBZ made_VBN from_IN many_JJ facts_NNS ._.
+People_NNS gather_VBP many_JJ facts_NNS from_IN books_NNS or_CC experiments_NNS and_CC they_PRP analyze_VBP datas_NNS ._.
+Therefore_RB ,_, it_PRP is_VBZ more_RBR accurate_JJ and_CC can_MD be_VB used_VBN for_IN long_JJ time_NN ._.
+Secondly_RB ,_, ideas_NNS and_CC concepts_NNS can_MD give_VB more_JJR informations_NNS effectively_RB ._.
+For_IN example_NN ,_, a_DT teacher_NN gives_VBZ many_JJ facts_NNS to_TO the_DT students_NNS ._.
+Students_NNS will_MD not_RB understand_VB the_DT facts_NNS ._.
+Although_IN teacher_NN explains_VBZ the_DT fact_NN ,_, students_NNS may_MD have_VB difficulties_NNS to_TO understand_VB them_PRP ._.
+Facts_NNS can_MD be_VB ambiguous_JJ to_TO students_NNS and_CC students_NNS will_MD start_VB to_TO memorize_VB the_DT facts_NNS without_IN understanding_VBG them_PRP ._.
+Therefore_RB ,_, students_NNS will_MD forget_VB the_DT facts_NNS more_RBR easily_RB ._.
+Thirdly_RB ,_, ideas_NNS and_CC concepts_NNS can_MD imply_VB more_RBR successfully_RB in_IN anytime_RB ._.
+A_DT student_NN ca_MD n't_RB imply_VB the_DT facts_NNS successfully_RB in_IN the_DT real_JJ society_NN ._.
+For_IN example_NN ,_, a_DT doctor_NN knows_VBZ a_DT high_JJ fever_NN can_MD kill_VB a_DT person_NN ._.
+However_RB ,_, he_PRP does_VBZ not_RB know_VB why_WRB high_JJ fever_NN causes_VBZ death_NN ._.
+Then_RB ,_, he_PRP ca_MD n't_RB find_VB the_DT solution_NN of_IN the_DT problem_NN ._.
+When_WRB a_DT doctor_NN knows_VBZ the_DT concept_NN of_IN the_DT problem_NN ,_, he_PRP will_MD have_VB idea_NN what_WP it_PRP causes_VBZ the_DT death_NN ._.
+To_TO conclude_VB ,_, understanding_VBG ideas_NNS and_CC concepts_NNS is_VBZ more_RBR important_JJ than_IN it_PRP is_VBZ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Ideas_NNS and_CC concepts_NNS comprise_VBP many_JJ facts_NNS ._.
+Ideas_NNS and_CC concepts_NNS can_MD imply_VB more_RBR successfully_RB in_IN anytime_RB ._.

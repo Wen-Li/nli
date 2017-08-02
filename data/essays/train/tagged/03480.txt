@@ -1,0 +1,19 @@
+Some_DT people_NNS say_VBP that_IN the_DT number_NN of_IN automobiles_NNS will_MD decrease_VB in_IN a_DT couple_NN of_IN decades_NNS ._.
+However_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN for_IN the_DT following_VBG reasons_NNS ._.
+Fisrt_NNP of_IN all_DT ,_, cars_NNS are_VBP most_RBS useful_JJ tool_NN for_IN people_NNS to_TO move_VB ._.
+For_IN example_NN ,_, in_IN 2001_CD ,_, when_WRB I_PRP was_VBD sophomore_NN in_IN university_NN ,_, I_PRP lived_VBD in_IN Tokyo_NNP and_CC I_PRP had_VBD a_DT travel_NN to_TO Hokkaido_NNP ,_, the_DT most_RBS northen_JJ island_NN in_IN Japan_NNP ._.
+I_PRP wanted_VBD to_TO visit_VB many_JJ place_NN with_IN beautiful_JJ forest_NN and_CC precious_JJ plants_NNS ,_, because_IN my_PRP$ major_JJ was_VBD biology_NN and_CC I_PRP was_VBD very_RB interested_JJ in_IN the_DT diversity_NN of_IN plants_NNS in_IN Hokkado_NNP ,_, most_JJS cold_JJ realm_NN in_IN our_PRP$ countory_NN ._.
+A_DT problem_NN was_VBD that_IN there_EX were_VBD no_DT means_NNS to_TO reach_VB the_DT forest_NN because_IN few_JJ people_NNS wanted_VBD to_TO visit_VB there_RB ._.
+Then_RB I_PRP determined_VBD to_TO use_VB a_DT car_NN and_CC I_PRP enjoyed_VBD my_PRP$ trip_NN with_IN various_JJ types_NNS of_IN plants_NNS ._.
+If_IN I_PRP could_MD not_RB use_VB cars_NNS ,_, I_PRP would_MD not_RB have_VB visited_VBN the_DT exciting_JJ forest_NN ._.
+As_IN this_DT example_NN shows_VBZ ,_, cars_NNS satisfy_VBP our_PRP$ individual_JJ requirment_NN ,_, suggesting_VBG use_NN of_IN cars_NNS will_MD be_VB inevitable_JJ in_IN near_JJ future_NN ._.
+Second_RB ,_, there_EX are_VBP possiblity_NN that_WDT scientists_NNS create_VBP new_JJ types_NNS of_IN cars_NNS moving_VBG without_IN petroleum_NN ._.
+One_CD of_IN major_JJ problems_NNS about_IN cars_NNS is_VBZ that_IN they_PRP use_VBP petroleum_NN ._.
+Using_VBG petroleum_NN causes_VBZ natural_JJ environment_NN to_TO be_VB polluted_JJ ._.
+Also_RB ,_, shortage_NN of_IN petroleum_NN in_IN the_DT earth_NN is_VBZ annoying_JJ problem_NN ._.
+To_TO address_VB these_DT issue_NN ,_, for_IN example_NN ,_, scientist_NN now_RB develop_VBP cars_NNS whose_WP$ fuel_NN is_VBZ ethanol_NN ,_, a_DT kind_NN of_IN alcohol_NN ._.
+We_PRP can_MD easily_RB create_VB ethanol_NN from_IN crop_NN ,_, especially_RB cone_NN because_IN of_IN a_DT large_JJ amount_NN of_IN cone_NN 's_POS supply_NN ._.
+Scientists_NNS are_VBP also_RB developing_VBG cars_NNS moving_VBG with_IN electricity_NN from_IN solar_JJ energy_NN ._.
+This_DT is_VBZ completely_RB clean_JJ and_CC not_RB harmful_JJ ._.
+Although_IN there_EX is_VBZ many_JJ problems_NNS to_TO realize_VB these_DT next_JJ generations_NNS of_IN cars_NNS ,_, many_JJ countries_NNS promote_VBP these_DT study_NN and_CC the_DT application_NN will_MD be_VB realized_VBN soon_RB ._.
+Therefore_RB ,_, I_PRP disagree_VBP with_IN the_DT statement_NN that_IN the_DT number_NN of_IN automobiles_NNS will_MD decrease_VB within_IN next_JJ two_CD decades_NNS ._.

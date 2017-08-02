@@ -1,0 +1,14 @@
+Some_DT people_NNS agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS ,_, while_IN others_NNS agree_VBP that_IN it_PRP is_VBZ more_RBR important_JJ for_IN them_PRP to_TO learn_VB facts_NNS ._.
+Although_IN both_DT views_NNS are_VBP valid_JJ to_TO a_DT certain_JJ extent_NN ,_, I_PRP personally_RB prefer_VBP the_DT former_JJ view_NN for_IN the_DT following_VBG reasons_NNS ._.
+First_NNP and_CC foremost_JJ ,_, a_DT student_NN can_MD expand_VB their_PRP$ knowledge_NN by_IN understanding_VBG ideas_NNS and_CC concepts_NNS ._.
+For_IN example_NN ,_, when_WRB you_PRP are_VBP solving_VBG a_DT math_NN problem_NN ,_, you_PRP have_VBP to_TO first_RB understand_VB ideas_NNS and_CC concepts_NNS of_IN the_DT situation_NN to_TO apply_VB the_DT right_JJ formula_NN for_IN the_DT question_NN ._.
+Memorizing_VBG the_DT formula_NN does_VBZ not_RB get_VB you_PRP to_TO solve_VB the_DT problem_NN ._.
+You_PRP first_RB have_VBP to_TO understand_VB what_WP question_NN is_VBZ asking_VBG for_IN ,_, and_CC find_VB the_DT right_JJ formula_NN to_TO apply_VB for_IN ._.
+By_IN solving_VBG a_DT problem_NN ,_, you_PRP can_MD expand_VB your_PRP$ knowledge_NN of_IN math_NN ._.
+Second_RB ,_, understanding_VBG ideas_NNS and_CC concepts_NNS can_MD allow_VB students_NNS to_TO have_VB right_JJ veiws_NNS ._.
+For_IN example_NN ,_, the_DT Holocaust_NNP is_VBZ one_CD of_IN the_DT events_NNS that_WDT should_MD never_RB be_VB repeated_VBN ._.
+By_IN understanding_VBG what_WP Nazism_NNP is_VBZ and_CC understanding_VBG the_DT concepts_NNS of_IN discrimination_NN ,_, students_NNS can_MD have_VB the_DT right_JJ views_NNS of_IN the_DT event_NN ,_, and_CC the_DT same_JJ thing_NN as_IN the_DT Holocaust_NNP can_MD be_VB prevented_VBN by_IN them_PRP ._.
+Fianlly_NNP ,_, simply_RB learning_VBG facts_NNS does_VBZ not_RB get_VB students_NNS understanding_VBG skills_NNS ._.
+Of_IN course_NN ,_, it_PRP is_VBZ important_JJ to_TO learn_VB facts_NNS ,_, because_IN some_DT understandings_NNS are_VBP based_VBN on_IN the_DT facts_NNS ._.
+However_RB ,_, learning_VBG facts_NNS does_VBZ not_RB get_VB students_NNS understanding_VBG of_IN the_DT ideas_NNS or_CC knowing_VBG the_DT fundamental_JJ concepts_NNS ._.
+In_IN conclusion_NN ,_, I_PRP think_VBP it_PRP is_VBZ much_RB more_RBR important_JJ for_IN students_NNS to_TO understand_VB the_DT ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB facts_NNS ._.

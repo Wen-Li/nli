@@ -1,0 +1,12 @@
+studying_dep_Yes
+Yes_dep_because
+studying_nsubj_they
+studying_aux_are
+studying_advmod_besy
+studying_cc_and
+studying_conj_think
+think_nsubj_they
+think_nmod_holidayes
+holidayes_case_of
+holidayes_cc_and
+holidayes_conj_games

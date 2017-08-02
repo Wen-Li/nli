@@ -1,0 +1,15 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN there_EX are_VBP fewer_JJR cars_NNS in_IN use_NN in_IN twenty_CD years_NNS than_IN there_EX are_VBP today_NN ._.
+The_DT main_JJ reason_NN is_VBZ that_IN most_JJS purposes_NNS people_NNS drive_VBP cars_NNS are_VBP not_RB be_VB replaced_VBN ._.
+Generally_RB ,_, people_NNS use_VBP cars_NNS because_IN of_IN their_PRP$ convinence_NN ,_, comfort_NN ,_, and_CC privacy_NN ._.
+The_DT public_JJ transportation_NN system_NN such_JJ as_IN trains_NNS and_CC subways_NNS do_VBP provide_VB convinent_JJ function_NN to_TO people_NNS ._.
+It_PRP prevents_VBZ people_NNS from_IN parking_NN in_IN the_DT city_NN center_NN ,_, feeling_VBG tired_VBN after_IN long_JJ drive_NN ._.
+However_RB ,_, driving_VBG cars_NNS provide_VBP people_NNS a_DT private_JJ and_CC comfort_NN room_NN during_IN the_DT period_NN to_TO arrive_VB the_DT place_NN they_PRP want_VBP to_TO be_VB ._.
+For_IN many_JJ people_NNS ,_, that_DT is_VBZ the_DT significant_JJ element_NN in_IN their_PRP$ life_NN and_CC the_DT public_JJ transportation_NN system_NN does_VBZ not_RB to_TO seem_VB to_TO get_VB the_DT criteria_NNS ._.
+Besides_IN ,_, driving_VBG cars_NNS make_VBP people_NNS go_VB anywhere_RB they_PRP would_MD like_VB to_TO ,_, highland_NN ,_, moutain_NN ,_, and_CC the_DT ocean_NN ._.
+People_NNS can_MD have_VB their_PRP$ own_JJ holiday_NN plan_NN ,_, without_IN the_DT restriction_NN of_IN the_DT train_NN station_NN position_NN and_CC worrying_VBG about_IN the_DT transfer_NN from_IN station_NN to_TO the_DT places_NNS they_PRP would_MD like_VB to_TO go_VB ._.
+Even_RB in_IN the_DT developed_JJ countries_NNS ,_, the_DT governments_NNS are_VBP not_RB able_JJ to_TO budget_NN so_RB much_JJ money_NN to_TO locate_VB public_JJ transportation_NN to_TO every_DT places_NNS people_NNS would_MD be_VB ._.
+Compared_VBN to_TO that_DT ,_, people_NNS can_MD go_VB shopping_NN in_IN many_JJ different_JJ locations_NNS at_IN the_DT same_JJ time_NN ,_, also_RB can_MD go_VB to_TO the_DT library_NN just_RB after_IN the_DT class_NN without_IN thinking_VBG about_IN the_DT bus_NN schedule_NN ._.
+And_CC in_IN the_DT end_NN ,_, cars_NNS will_MD bring_VB more_JJR funcions_NNS in_IN the_DT future_NN ._.
+People_NNS emphysize_VBP the_DT lisiure_NN time_NN more_RBR and_CC more_RBR ._.
+Through_IN the_DT research_NN of_IN the_DT car_NN firms_NNS ,_, The_DT cars_NNS will_MD not_RB only_RB the_DT traffic_NN instrument_NN ,_, they_PRP will_MD provide_VB more_JJR functions_NNS ._.
+For_IN example_NN ,_, people_NNS can_MD cook_VB

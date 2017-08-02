@@ -1,0 +1,16 @@
+In_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+Transport_NN politics_NNS of_IN the_DT world_NN are_VBP survival_NN ._.
+We_PRP give_VBP more_RBR importance_NN to_TO trains_NNS metros_NNS and_CC other_JJ big_JJ transporters_NNS ._.
+We_PRP also_RB follow_VBP rules_NNS to_TO reducing_VBG emission_NN gas_NN ._.
+So_IN we_PRP aim_VBP to_TO decrease_VB the_DT quantity_NN of_IN cars_NNS ._.
+If_IN governments_NNS supply_VB more_JJR finance_NN and_CC services_NNS to_TO transportation_NN problem_NN then_RB they_PRP can_MD solve_VB this_DT problem_NN with_IN mass-transportation_NN ._.
+They_PRP can_MD build_VB more_JJR ways_NNS to_TO trains_NNS and_CC metros_NNS for_IN example_NN from_IN street_NN to_TO street_NN ._.
+Transportation_NNP will_MD be_VB more_RBR speedy_JJ and_CC cheapier_NN so_IN people_NNS will_MD select_VB to_TO travel_VB with_IN mass-transportation_JJ instead_RB of_IN cars_NNS ._.
+On_IN the_DT other_JJ way_NN car_NN industry_NN is_VBZ improving_VBG day_NN by_IN day_NN ._.
+They_PRP supply_VBP various_JJ technology_NN selections_NNS and_CC prices_NNS ._.
+In_IN that_DT important_JJ point_NN ,_, governments_NNS have_VBP the_DT big_JJ responsibility_NN of_IN this_DT subject_NN ._.
+Governments_NNS should_MD balance_VB car_NN industry_NN and_CC mass-transportation_NN industry_NN ._.
+By_IN this_DT way_NN big_JJ volume_NN of_IN society_NN can_MD select_VB speedy_JJ and_CC cheaper_JJR solution_NN ,_, mass-transportation_NN ._.
+The_DT rich_JJ and_CC little_JJ volume_NN of_IN society_NN can_MD select_VB private_JJ and_CC expensive_JJ solution_NN ,_, ._.
+This_DT implementation_NN also_RB support_VBP reducing_VBG emission_NN gas_NN ._.
+By_IN the_DT way_NN if_IN this_DT politics_NNS can_MD be_VB followed_VBN by_IN governments_NNS ,_, in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.

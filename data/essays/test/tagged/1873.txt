@@ -1,0 +1,18 @@
+Confusius_NNP ,_, the_DT greatest_JJS and_CC most_RBS influenctial_JJ philoshpher_NN and_CC educator_NN of_IN ancient_JJ China_NNP ,_, communted_VBD ,_, ``_`` Study_NNP the_DT facts_NNS if_IN you_PRP would_MD know_VB the_DT world_NN better_RBR ._. ''_''
+This_DT saying_VBG shows_VBZ the_DT importance_NN of_IN learning_VBG facts_NNS ._.
+These_DT days_NNS some_DT people_NNS claim_VBP Ideas_NNS and_CC concepts_NNS are_VBP most_RBS essential_JJ and_CC important_JJ during_IN students_NNS '_POS studing_VBG period_NN ._.
+While_IN the_DT others_NNS states_NNS students_NNS should_MD study_VB form_NN real_JJ facts_NNS ._.
+As_IN far_RB as_IN I_PRP am_VBP know_VB ,_, I_PRP agree_VBP with_IN the_DT second_JJ group_NN ._.
+To_TO begin_VB with_IN ,_, The_DT facts_NNS tell_VBP us_PRP knowlege_VB more_RBR vividly_RB than_IN concepts_NNS ._.
+For_IN example_NN ,_, when_WRB I_PRP studied_VBD pharmaceutics_NNS ,_, there_EX were_VBD some_DT difficulty_NN to_TO undersand_VB some_DT concepts_NNS such_JJ as_IN nanopaticle_NN ,_, microsphere_NN ,_, and_CC liposome_NN ._.
+I_PRP could_MD not_RB tell_VB the_DT differences_NNS between_IN the_DT terms_NNS as_IN I_PRP have_VBP know_VB the_DT definitions_NNS of_IN the_DT them_PRP ._.
+By_IN After_IN I_PRP finished_VBD my_PRP$ pharmaceutical_JJ lab_NN study_NN ,_, I_PRP saw_VBD clearly_RB the_DT different_JJ particles_NNS under_IN the_DT telescope_NN ._.
+The_DT nanopaticle_NN is_VBZ much_RB more_RBR smaller_JJR and_CC ligher_NN than_IN the_DT other_JJ two_CD fomulaions_NNS and_CC the_DT loposome_NN is_VBZ coverd_VBN with_IN a_DT yellow_JJ coat_NN ._.
+It_PRP will_MD never_RB happen_VB that_IN I_PRP forget_VBP the_DT differnt_JJ scope_NN of_IN the_DT terms_NNS ._.
+Furthermore_RB ,_, studying_VBG facts_NNS will_MD help_VB us_PRP know_VB the_DT future_JJ well_NN ._.
+As_IN the_DT old_JJ saying_VBG goes_VBZ ``_`` Past_JJ facts_NNS help_VBP you_PRP divine_VB the_DT future_NN ._. ''_''
+Finally_RB ,_, It_PRP can_MD make_VB you_PRP know_VB another_DT person_NN well_RB though_IN knowing_VBG the_DT facts_NNS ._.
+Last_JJ week_NN ,_, Tom_NNP Wang_NNP ,_, one_CD of_IN my_PRP$ classmates_NNS asked_VBD for_IN me_PRP to_TO lend_VB him_PRP 50_CD dollars_NNS ._.
+What_WP I_PRP know_VBP is_VBZ he_PRP never_RB pay_VBP back_RP the_DT money_NN ,_, so_IN I_PRP did_VBD n't_RB give_VB him_PRP the_DT money_NN ,_, at_IN the_DT same_JJ time_NN ,_, Xiao_NNP Li_NNP ,_, a_DT friend_NN of_IN my_PRP$ lend_VBP Tom_NNP the_DT money_NN ._.
+Concetuanly_NNP ,_, Tom_NNP do_VBP not_RB pay_VB the_DT money_NN back_RB to_TO Xiao_NNP li_NNP ._.
+All_DT in_IN all_DT ,_, learning_VBG facts_NNS can_MD help_VB us_PRP to_TO know_VB ideas_NNS and_CC conceps_NNS well_RB ,_, to_TO divine_VB the_DT future_NN and_CC to_TO realize_VB the_DT character_NN of_IN a_DT per_FW

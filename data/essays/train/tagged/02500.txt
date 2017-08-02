@@ -1,0 +1,17 @@
+I_PRP am_VBP in_IN favour_NN of_IN the_DT argument_NN that_WDT over_IN the_DT next_JJ twenty_CD years_NNS the_DT amount_NN of_IN cars_NNS in_IN use_NN will_MD be_VB decreasing_VBG ._.
+Even_RB though_IN large_JJ parts_NNS of_IN the_DT world_NN 's_POS population_NN will_MD increase_VB their_PRP$ mobility_NN through_IN economic_JJ growth_NN ,_, the_DT negative_JJ impact_NN of_IN cars_NNS will_MD outweigh_VB this_DT natural_JJ growth_NN potential_NN ._.
+For_IN example_NN if_IN China_NNP 's_POS and_CC India_NNP 's_POS economic_JJ growth_NN allows_VBZ people_NNS to_TO buy_VB more_JJR cars_NNS ,_, governments_NNS in_IN both_DT countries_NNS will_MD need_VB to_TO react_VB quickly_RB to_TO avoid_VB the_DT adverse_JJ effects_NNS of_IN increased_VBN individual_JJ mobility_NN ._.
+Firstly_RB ,_, ecologically_RB it_PRP will_MD not_RB be_VB possible_JJ to_TO continue_VB using_VBG as_IN many_JJ cars_NNS as_IN today_NN in_IN the_DT future_NN ._.
+Our_PRP$ environment_NN is_VBZ already_RB suffering_VBG strongly_RB from_IN pollution_NN caused_VBN by_IN cars_NNS ._.
+For_IN example_NN breathing_NN and_CC skin_NN problems_NNS occur_VBP more_RBR often_RB on_IN people_NNS living_VBG in_IN city_NN centre_NN locations_NNS than_IN on_IN the_DT country_NN side_NN ._.
+Furthermore_RB our_PRP$ cultural_JJ heritage_NN is_VBZ endangered_VBN by_IN car_NN pollution_NN as_IN exhaust_NN is_VBZ attacking_VBG architectural_JJ works_NNS ._.
+Secondly_RB ,_, economically_RB it_PRP is_VBZ not_RB intelligent_JJ to_TO count_VB on_IN individualised_JJ transport_NN means_NNS ._.
+Increasing_VBG congestion_NN leads_VBZ to_TO large_JJ losses_NNS for_IN an_DT economy_NN ._.
+A_DT lot_NN of_IN people_NNS stuck_VBD in_IN their_PRP$ car_NN are_VBP not_RB working_VBG and_CC loose_JJ time_NN to_TO contribute_VB to_TO growth_NN of_IN GDP_NNP ._.
+First_JJ steps_NNS to_TO integrate_VB the_DT cost_NN of_IN this_DT time_NN loss_NN have_VBP been_VBN taken_VBN in_IN London_NNP and_CC Singapure_NNP by_IN introducing_VBG a_DT congestion_NN charge_NN in_IN city_NN centres_NNS ._.
+Therefore_RB ,_, in_IN future_NN it_PRP will_MD be_VB more_RBR expensive_JJ to_TO use_VB cars_NNS than_IN to_TO use_VB public_JJ transport_NN ._.
+Thirdly_RB ,_, most_JJS cars_NNS require_VBP petrol_NN or_CC oil_NN for_IN their_PRP$ engine_NN ._.
+Considering_VBG that_IN the_DT exploitable_JJ world_NN oil_NN reserves_NNS are_VBP not_RB increasing_VBG anymore_RB ,_, oil_NN will_MD become_VB more_RBR and_CC more_RBR expensive_JJ ,_, making_VBG car_NN driving_VBG a_DT luxury_NN ._.
+Furthermore_RB as_IN large_JJ amounts_NNS of_IN oil_NN reserves_NNS are_VBP located_JJ in_IN the_DT Middle_NNP East_NNP or_CC in_IN politically_RB unstable_JJ countries_NNS such_JJ as_IN Venezuela_NNP it_PRP is_VBZ becoming_VBG increasingly_RB dangerous_JJ for_IN societies_NNS to_TO rely_VB on_IN oil_NN as_IN the_DT engine_NN of_IN their_PRP$ transport_NN means_VBZ ._.
+This_DT is_VBZ possibly_RB the_DT strongest_JJS argument_NN to_TO move_VB to_TO other_JJ tranport_NN means_VBZ than_IN cars_NNS as_IN we_PRP know_VBP them_PRP ._.
+In_IN conclusion_NN ,_, the_DT trends_NNS laid_VBN out_RP above_RB are_VBP providing_VBG enough_JJ information_NN to_TO suggest_VB that_IN there_EX will_MD be_VB less_RBR cars_NNS in_IN use_NN twenty_CD years_NNS from_IN now_RB ._.

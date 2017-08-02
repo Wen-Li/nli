@@ -1,0 +1,20 @@
+These_DT day_NN ,_, companies_NNS made_VBD many_JJ new_JJ items_NNS which_WDT is_VBZ only_RB for_IN women_NNS ._.
+There_EX are_VBP many_JJ iems_NNS such_JJ as_IN desks_NNS ,_, chairs_NNS are_VBP made_VBN simply_RB for_IN women_NNS ._.
+In_IN addition_NN ,_, in_IN Korea_NNP ,_, there_EX are_VBP going_VBG to_TO have_VB cars_NNS which_WDT are_VBP only_RB for_IN woman_NN to_TO use_VB it_PRP ._.
+However_RB ,_, many_JJ people_NNS are_VBP curious_JJ about_IN that_DT if_IN those_DT cars_NNS are_VBP going_VBG to_TO sell_VB a_DT lot_NN ._.
+In_IN my_PRP$ opinion_NN ,_, in_IN twenty_CD years_NNS there_RB will_MD be_VB fewer_JJR cars_NNS in_IN use_NN than_IN there_EX are_VBP today_NN ._.
+First_NNP of_IN all_DT ,_, now_RB ,_, people_NNS are_VBP much_JJ concern_NN about_IN the_DT enviornment_NN ._.
+As_IN you_PRP see_VBP ,_, there_EX are_VBP many_JJ cars_NNS are_VBP bring_VB about_IN the_DT air_NN pollution_NN problems_NNS ._.
+People_NNS are_VBP hard_JJ to_TO breath_NN and_CC even_RB some_DT people_NNS are_VBP getting_VBG illness_NN because_IN of_IN the_DT air_NN pollution_NN ._.
+In_IN addition_NN ,_, there_EX are_VBP not_RB much_JJ oil_NN left_VBD in_IN the_DT earth_NN and_CC price_NN of_IN the_DT oil_NN is_VBZ much_RB higher_JJR than_IN before_RB ._.
+Thus_RB people_NNS are_VBP hard_JJ to_TO afford_VB it_PRP because_IN of_IN the_DT high_JJ cost_NN ._.
+Now_RB ,_, people_NNS are_VBP think_VB about_IN their_PRP$ lack_NN of_IN recource_NN and_CC try_VB to_TO conserve_VB it_PRP ._.
+Second_RB ,_, as_IN the_DT population_NN grows_VBZ ,_, people_NNS need_VBP more_JJR area_NN to_TO live_VB in_IN ._.
+If_IN there_EX are_VBP many_JJ cars_NNS ,_, people_NNS have_VBP to_TO live_VB in_IN much_JJ shorter_JJR space_NN ._.
+This_DT is_VBZ because_RB ,_, we_PRP need_VBP parking_NN areas_NNS and_CC roads_NNS for_IN those_DT many_JJ cars_NNS ._.
+Moreover_RB ,_, people_NNS want_VBP the_DT parks_NNS ,_, art_NN gallery_NN near_IN by_IN their_PRP$ living_NN ._.
+Parents_NNS want_VBP to_TO have_VB a_DT space_NN more_RBR for_IN kids_NNS ._.
+As_IN you_PRP see_VBP ,_, in_IN the_DT cities_NNS ,_, there_EX are_VBP not_RB much_JJ places_NNS for_IN the_DT kids_NNS because_IN of_IN the_DT parking_NN lots_NNS and_CC roads_NNS ._.
+Thus_RB ,_, people_NNS are_VBP more_RBR willing_JJ to_TO build_VB facilities_NNS such_JJ as_IN libraries_NNS ,_, parks_NNS rather_RB than_IN building_VBG the_DT roads_NNS for_IN cars_NNS ._.
+In_IN conclusion_NN ,_, I_PRP think_VBP there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN because_IN of_IN that_DT people_NNS are_VBP now_RB concerning_VBG about_IN air_NN polution_NN problems_NNS ,_, and_CC as_IN population_NN grows_VBZ ,_, people_NNS are_VBP think_VB about_IN the_DT space_NN they_PRP live_VBP in_IN ._.
+They_PRP want_VBP to_TO have_VB the_DT place_NN which_WDT is_VBZ more_RBR beneficial_JJ to_TO their_PRP$ childern_NN ._.

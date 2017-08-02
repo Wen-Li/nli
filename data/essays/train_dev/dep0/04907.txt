@@ -1,0 +1,12 @@
+make_nsubj_advertisement
+advertisement_det_The
+advertisement_amod_most
+make_aux_is
+make_dobj_products
+products_det_a
+better_det_A
+better_advmod_much
+better_nmod_them
+them_case_than
+actualy_nsubj_They
+actualy_cop_are

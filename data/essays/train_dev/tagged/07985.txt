@@ -1,0 +1,16 @@
+Many_JJ studies_NNS have_VBP shown_VBN that_IN using_VBG of_IN cars_NNS have_VBP a_DT strong_JJ impact_NN on_IN environment_NN pollution_NN ._.
+However_RB ,_, it_PRP can_MD be_VB understood_VBN in_IN our_PRP$ everyday_JJ life_NN that_IN the_DT number_NN of_IN cars_NNS is_VBZ rising_VBG ._.
+For_IN example_NN ,_, some_DT years_NNS ago_IN it_PRP took_VBD fifteen_CD minutes_NNS to_TO reach_VB my_PRP$ office_NN while_IN now_RB it_PRP takes_VBZ at_IN least_JJS half_PDT an_DT hour_NN ._.
+Even_RB when_WRB we_PRP listen_VBP politicians_NNS speaking_VBG about_IN how_WRB to_TO work_VB the_DT problem_NN of_IN cars_NNS pollution_NN out_RP ,_, noboby_JJ seems_VBZ to_TO take_VB into_IN consideration_NN the_DT possibility_NN to_TO reduce_VB the_DT number_NN of_IN cars_NNS ._.
+They_PRP rather_RB seems_VBZ to_TO put_VB much_JJ weight_NN on_IN alternative_JJ solutions_NNS ,_, such_JJ as_IN finding_VBG a_DT new_JJ kind_NN of_IN essence_NN or_CC pushing_VBG people_NNS to_TO use_VB electric_JJ cars_NNS ._.
+Personally_RB ,_, I_PRP do_VBP not_RB believe_VB that_IN this_DT situation_NN will_MD change_VB in_IN the_DT future_NN ._.
+First_NNP of_IN all_DT ,_, using_VBG a_DT car_NN is_VBZ easier_JJR and_CC more_RBR comfortable_JJ that_IN use_VBP public_JJ transports_NNS ._.
+People_NNS do_VBP not_RB have_VB to_TO deal_VB with_IN timetables_NNS or_CC bus_NN stops_NNS ._.
+They_PRP can_MD decide_VB on_IN their_PRP$ own_JJ when_WRB and_CC where_WRB to_TO leave_VB ._.
+Secondly_RB ,_, cities_NNS are_VBP becoming_VBG bigger_JJR and_CC bigger_JJR ._.
+So_RB ,_, even_RB if_IN two_CD persons_NNS have_VBP to_TO go_VB to_TO the_DT same_JJ city_NN they_PRP need_VBP to_TO have_VB two_CD cars_NNS ._.
+As_IN a_DT matter_NN of_IN fact_NN ,_, in_IN Milan_NNP ,_, for_IN example_NN ,_, it_PRP takes_VBZ at_IN least_JJS one_CD hour_NN to_TO go_VB from_IN one_CD part_NN of_IN the_DT city_NN to_TO another_DT ._.
+Finally_RB ,_, people_NNS need_VBP to_TO move_VB to_TO more_JJR distant_JJ places_NNS for_IN working_VBG ,_, studing_VBG or_CC meeting_VBG their_PRP$ friends_NNS ._.
+It_PRP is_VBZ less_RBR stresfull_JJ to_TO use_VB a_DT car_NN than_IN take_VB a_DT train_NN ,_, then_RB a_DT bus_NN and_CC a_DT taxi_NN ._.
+In_IN conclusion_NN ,_, I_PRP do_VBP not_RB believe_VB that_IN the_DT number_NN of_IN cars_NNS will_MD decrease_VB in_IN the_DT future_NN ._.
+The_DT only_JJ way_NN to_TO achieve_VB that_DT would_MD be_VB would_MD be_VB to_TO forbid_VB the_DT using_VBG of_IN cars_NNS ._.

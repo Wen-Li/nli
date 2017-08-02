@@ -1,0 +1,15 @@
+I_PRP disagree_VBP with_IN the_DT sentence_NN ,_, because_IN the_DT economy_NN of_IN more_JJR countries_NNS dipends_NNS on_IN cars_NNS ._.
+There_EX are_VBP ,_, infact_VBP ,_, more_RBR companies_NNS that_WDT sold_VBD cars_NNS in_IN the_DT world_NN ,_, and_CC tecnology_NN ,_, often_RB ,_, is_VBZ trained_VBN by_IN the_DT cars_NNS '_POS economy_NN ._.
+Than_IN there_EX are_VBP the_DT oil_NN companies_NNS that_WDT want_VBP always_RB sold_VBN their_PRP$ black_JJ gold_NN ._.
+The_DT industries_NNS of_IN cars_NNS give_VBP many_JJ jobs_NNS to_TO person_NN and_CC for_IN a_DT state_NN this_DT is_VBZ a_DT good_JJ reason_NN to_TO help_VB that_DT ._.
+For_IN example_NN ,_, in_IN Italy_NNP ,_, there_EX is_VBZ a_DT company_NN who_WP name_VBP is_VBZ FIAT_NNP ._.
+Often_RB the_DT italian_JJ state_NN give_VBP help_NN to_TO theme_NN to_TO have_VB a_DT job_NN for_IN many_JJ people_NNS and_CC to_TO govern_VB with_IN serenity_NN ._.
+The_DT tecnology_NN in_IN a_DT lot_NN of_IN cases_NNS is_VBZ trained_VBN but_CC the_DT industries_NNS of_IN cars_NNS that_WDT ask_VBP to_TO scientist_NN many_JJ things_NNS that_WDT are_VBP used_VBN to_TO be_VB more_RBR beautiful_JJ and_CC comfortable_JJ cars_NNS ._.
+The_DT lights_NNS and_CC the_DT interiors_NNS became_VBD necessary_JJ to_TO have_VB a_DT nice_JJ car_NN ._.
+Conseguece_NN of_IN this_DT is_VBZ that_IN many_JJ other_JJ companies_NNS found_VBD their_PRP$ job_NN on_IN the_DT car_NN 's_POS industries_NNS ._.
+It_PRP 's_VBZ very_RB complicate_VB to_TO transform_VB in_IN only_RB twenty_CD years_NNS all_PDT the_DT trainers_NNS in_IN the_DT world_NN ._.
+Than_IN for_IN the_DT tecnology_NN that_IN we_PRP have_VBP today_NN ,_, cars_NNS are_VBP the_DT better_JJR machine_NN to_TO move_VB that_IN we_PRP can_MD have_VB and_CC the_DT most_RBS economic_JJ ._.
+In_IN twenty_CD years_NNS is_VBZ impossible_JJ to_TO discover_VB and_CC research_VB a_DT new_JJ type_NN of_IN machine_NN ._.
+Infact_NNP to_TO design_VB a_DT new_JJ machine_NN the_DT industries_NNS have_VBP to_TO study_VB more_JJR than_IN ten_CD years_NNS ._.
+Than_IN starts_VBZ the_DT testing_NN on_IN the_DT machine_NN ._.
+it_PRP 's_VBZ necessary_JJ a_DT lot_NN of_IN time_NN to_TO build_VB a_DT new_JJ kind_NN of_IN car_NN ,_, but_CC in_IN also_RB necessary_JJ to_TO study_VB very_RB quickly_RB fot_VB the_DT pollution_NN that_WDT cause_VBP many_JJ ills_NNS ._.

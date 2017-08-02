@@ -1,0 +1,9 @@
+In_IN my_PRP$ opinion_NN I_PRP agree_VBP the_DT statement_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+There_EX are_VBP some_DT reasons_NNS to_TO below_IN ._.
+The_DT most_RBS impotant_JJ reason_NN is_VBZ people_NNS go_VB to_TO the_DT university_NN is_VBZ for_IN to_TO absorb_VB and_CC expand_VB knowledge_NN ._.
+the_DT more_JJR knowledge_NN one_CD possess_VBP the_DT more_JJR opptunity_NN will_MD have_VB ._.
+For_IN instance_NN ,_, the_DT gradu_NN students_NNS from_IN the_DT intergrate_JJ university_NN will_MD have_VB more_RBR opptunity_NN to_TO get_VB the_DT job_NN because_IN the_DT intergrate_JJ university_NN provide_VBP many_JJ academic_JJ subjects_NNS ._.
+So_IN the_DT student_NN have_VBP more_JJR knowldge_NN and_CC skills_NNS than_IN the_DT student_NN who_WP just_RB have_VBP specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+Another_DT reason_NN is_VBZ with_IN the_DT pluramiu_NN society_NN requirement_NN everone_NN need_VBP to_TO have_VB a_DT broad_JJ knowledge_NN ._.
+Someone_NN who_WP in_IN the_DT company_NN can_MD have_VB the_DT high_JJ star_NN payment_NN if_IN they_PRP
+Finally_RB ,_, if_IN someone_NN have_VBP no_DT a_DT broad_JJ knowlegde_NN ,_, just_RB specialize_VB

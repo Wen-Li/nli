@@ -1,0 +1,19 @@
+``_`` Jack_NNP of_IN all_DT trades_NNS ,_, master_NN of_IN none_NN ''_''
+This_DT is_VBZ a_DT saying_VBG a_DT lot_NN of_IN us_PRP grew_VBD up_RP listening_VBG to_TO ._.
+The_DT question_NN is_VBZ whether_IN you_PRP want_VBP to_TO be_VB a_DT Jack_NNP of_IN all_DT trades_NNS or_CC the_DT ``_`` King_NNP ''_'' of_IN one_CD ._.
+Personally_RB ,_, I_PRP believe_VBP ,_, that_IN it_PRP is_VBZ better_JJR to_TO specialize_VB in_IN one_CD specific_JJ subject_JJ rather_RB than_IN to_TO have_VB broad_JJ ,_, abstract_JJ knowledge_NN about_IN many_JJ ._.
+When_WRB you_PRP specialize_VBP in_IN one_CD subject_NN ,_, you_PRP gain_VB a_DT lot_NN of_IN knowledge_NN and_CC authority_NN on_IN that_DT subject_NN ._.
+This_DT can_MD lead_VB to_TO a_DT lot_NN of_IN advantages_NNS ._.
+Firstly_RB ,_, mastery_NN in_IN one_CD subject_NN can_MD help_VB you_PRP with_IN your_PRP$ career_NN ._.
+If_IN you_PRP have_VBP complete_JJ command_NN over_IN your_PRP$ subject_NN ,_, you_PRP can_MD effectively_RB utilize_VB it_PRP to_TO further_VB your_PRP$ career_NN goals_NNS ._.
+For_IN example_NN ,_, in_IN a_DT competitive_JJ industry_NN like_IN the_DT Information_NNP Technology_NNP industry_NN ,_, if_IN you_PRP have_VBP a_DT good_JJ grip_NN on_IN your_PRP$ domain_NN ,_, it_PRP will_MD benefit_VB you_PRP much_RB more_RBR than_IN having_VBG incomplete_JJ knowledge_NN about_IN a_DT lot_NN of_IN other_JJ domains_NNS ._.
+If_IN you_PRP are_VBP knowledgable_JJ about_IN a_DT subject_NN ,_, not_RB only_RB can_MD you_PRP do_VB your_PRP$ own_JJ work_NN better_RB ,_, but_CC you_PRP can_MD also_RB help_VB your_PRP$ colleagues_NNS or_CC peers_NNS with_IN problems_NNS they_PRP may_MD be_VB facing_VBG ._.
+Specialization_NN in_IN a_DT subject_JJ makes_NNS you_PRP an_DT authority_NN on_IN it_PRP ._.
+This_DT can_MD lead_VB to_TO other_JJ people_NNS looking_VBG at_IN you_PRP for_IN direction_NN or_CC help_NN if_IN they_PRP are_VBP stuck_VBN ._.
+So_RB not_RB only_RB do_VBP you_PRP become_VB more_RBR popular_JJ ,_, you_PRP also_RB gain_VB a_DT lot_NN of_IN respect_NN by_IN helping_VBG others_NNS out_RB ._.
+Lastly_RB ,_, i_FW would_MD say_VB that_IN if_IN everyone_NN just_RB wanted_VBD to_TO have_VB broad_JJ knowledge_NN on_IN a_DT variety_NN of_IN different_JJ subjects_NNS ,_, then_RB no_DT scientific_JJ or_CC other_JJ development_NN would_MD ever_RB have_VB been_VBN possible_JJ ._.
+Take_VB Leonardo_NNP Da_NN Vinci_NNP for_IN example_NN ._.
+Had_VBD he_PRP not_RB developed_VBD his_PRP$ skill_NN in_IN painting_NN to_TO such_PDT a_DT high_JJ degree_NN ,_, we_PRP would_MD not_RB today_NN have_VBP been_VBN able_JJ to_TO exclaim_VB at_IN the_DT beauty_NN of_IN the_DT Mona_NNP Lisa_NNP ._.
+Or_CC Wolfgang_NNP Amadeus_NNP Mozart_NNP ,_, who_WP with_IN his_PRP$ skill_NN in_IN music_NN ,_, gave_VBD us_PRP so_RB many_JJ beautiful_JJ compositions_NNS ._.
+Or_CC Albest_NNP Einstein_NNP ,_, whose_WP$ immense_JJ study_NN of_IN scientific_JJ phenomena_NNS lead_VBP to_TO so_RB many_JJ inventions_NNS ._.
+In_IN conclusion_NN ,_, I_PRP firmly_RB believe_VBP that_IN it_PRP is_VBZ much_RB better_JJR to_TO specialize_VB in_IN a_DT subject_JJ you_PRP feel_VBP passionately_RB about_RB than_IN to_TO have_VB a_DT lot_NN of_IN unimportant_JJ data_NNS on_IN subjects_NNS you_PRP might_MD be_VB just_RB mildly_RB interested_JJ in_IN ._.

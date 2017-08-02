@@ -1,0 +1,9 @@
+I_PRP agree_VBP with_IN this_DT statement_NN ._.
+I_PRP have_VBP 3point_VBN about_IN that_DT reason_NN ._.
+first_RB ,_, a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN travel_NN can_MD go_VB famous_JJ spot_NN in_IN visited_VBN country_NN ._.
+second_RB ,_, as_IN travel_NN can_MD feel_VB happy_JJ together_RB with_IN tlaveling_NN frends_NNS ._.
+therd_NN ,_, as_IN travel_NN can_MD travel_VB in_IN low_JJ cost_NN ._.
+If_IN it_PRP travel_VB in_IN a_DT person_NN ,_, it_PRP is_VBZ high_JJ risk_NN ._.
+becouse_NN support_NN is_VBZ nothing_NN ._.
+also_RB native_JJ luangege_NN must_MD get_VB ._.
+I_PRP

@@ -1,0 +1,18 @@
+Nowsday_NNP ,_, some_DT may_MD hold_VB opinion_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN amny_JJ academic_JJ subjects_NNS then_RB to_TO specialize_VB o_NN =_JJ in_IN one_CD specific_JJ subject_NN ._.
+however_RB ,_, others_NNS may_MD hold_VB negative_JJ opinion_NN about_IN it_PRP ._.
+As_IN far_RB as_IN I_PRP am_VBP concerned_JJ ,_, I_PRP do_VBP not_RB agree_VB that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+First_NNP of_IN all_DT ,_, people_NNS will_MD not_RB study_VB very_RB well_RB if_IN they_PRP learn_VBP many_JJ academic_JJ subjects_NNS ._.
+Because_IN they_PRP need_VBP to_TO spare_VB their_PRP$ time_NN on_IN so_RB many_JJ subjects_NNS ._.
+We_PRP all_DT know_VBP that_IN the_DT more_RBR you_PRP spend_VBP on_IN doing_VBG one_CD thing_NN is_VBZ better_JJR than_IN the_DT less_JJR you_PRP spend_VBP on_IN doing_VBG one_CD thing_NN ._.
+The_DT result_NN for_IN you_PRP spend_VBP one_CD hour_NN on_IN study_NN is_VBZ different_JJ from_IN the_DT result_NN for_IN you_PRP spend_VBP eight_CD hours_NNS on_IN study_NN ._.
+If_IN you_PRP spend_VBP more_JJR time_NN on_IN one_CD subject_NN ,_, you_PRP wil_VBP know_VB more_JJR about_IN it_PRP ._.
+But_CC if_IN you_PRP spend_VBP time_NN on_IN so_RB many_JJ subjects_NNS ,_, you_PRP can_MD not_RB deeply_RB learn_VB about_IN them_PRP ._.
+Secondly_RB ,_, if_IN you_PRP have_VBP one_CD special_JJ skill_NN ,_, it_PRP is_VBZ easier_JJR for_IN you_PRP to_TO find_VB future_JJ job_NN ._.
+Because_IN you_PRP have_VBP specialize_VB knowledge_NN in_IN one_CD specific_JJ subject_NN ._.
+Many_JJ companies_NNS need_VBP people_NNS who_WP have_VBP special_JJ skill_NN ._.
+For_IN instance_NN ,_, in_IN Canada_NNP ,_, it_PRP is_VBZ lack_NN of_IN people_NNS who_WP know_VBP how_WRB to_TO build_VB cable_NN ._.
+If_IN a_DT person_NN has_VBZ that_DT skill_NN ,_, he_PRP ccan_VBD easily_RB find_VB a_DT job_NN and_CC get_VB higher_JJR pay_NN ._.
+However_RB ,_, people_NNS who_WP haver_VBP broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS can_MD easily_RB find_VB jobs_NNS ,_, such_JJ as_IN in_IN the_DT foreign_JJ companies_NNS ,_, they_PRP require_VBP people_NNS to_TO speak_VB 2_CD or_CC 3_CD languages_NNS ._.
+Tthey_NN may_MD can_MD speak_VB 2_CD or_CC 3_CD languages_NNS ,_, but_CC they_PRP may_MD not_RB know_VB how_WRB to_TO write_VB them_PRP ._.
+It_PRP is_VBZ better_JJR to_TO have_VB specialize_VB in_IN one_CD specific_JJ subject_NN than_IN broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS ._.
+People_NNS can_MD learn_VB very_RB well_RB in_IN one_CD subject_NN rather_RB than_IN in_IN many_JJ subjects_NNS ._.

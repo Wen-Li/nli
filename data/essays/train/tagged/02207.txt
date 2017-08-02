@@ -1,0 +1,22 @@
+In_IN Japan_NNP ,_, where_WRB I_PRP live_VBP ,_, some_DT people_NNS agree_VBP with_IN the_DT opinion_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+But_CC I_PRP disagree_VBP with_IN that_DT opinion_NN because_IN of_IN the_DT following_VBG reasons_NNS ;_: it_PRP is_VBZ not_RB enough_JJ time_NN to_TO learn_VB many_JJ academic_JJ subjects_NNS indeed_RB ;_: people_NNS can_MD not_RB understand_VB many_JJ academic_JJ subjects_NNS simultaneously_RB ;_: people_NNS can_MD live_VB by_IN using_VBG only_RB one_CD specifc_NN subject_NN ._.
+It_PRP might_MD be_VB true_JJ that_IN it_PRP is_VBZ better_JJR to_TO have_VB borad_NN knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subject_NN ._.
+However_RB ,_, those_DT who_WP say_VBP that_IN we_PRP should_MD follow_VB that_DT opinion_NN fail_VBP to_TO address_VB several_JJ important_JJ issues_NNS ._.
+First_RB ,_, we_PRP do_VBP not_RB have_VB adequate_JJ time_NN to_TO learn_VB many_JJ academic_JJ subjects_NNS in_IN school_NN ._.
+For_IN example_NN ,_, my_PRP$ brother_NN ,_, Takahumi_NNP was_VBD very_RB interested_JJ ethics_NNS in_IN his_PRP$ high_JJ school_NN days_NNS because_IN he_PRP thought_VBD that_IN ethics_NNS was_VBD one_CD of_IN the_DT most_RBS important_JJ subjects_NNS that_IN people_NNS should_MD learn_VB ._.
+But_CC as_IN he_PRP had_VBD to_TO learn_VB about_IN twelve_CD subjects_NNS simlutaneously_RB ,_, ethics_NNS was_VBD held_VBN once_RB in_IN a_DT week_NN ._.
+Under_IN this_DT situation_NN ,_, he_PRP graduated_VBD from_IN his_PRP$ high_JJ school_NN without_IN understanding_VBG ethics_NNS fully_RB ._.
+I_PRP believe_VBP that_IN high_JJ school_NN should_MD give_VB students_NNS many_JJ times_NNS a_DT week_NN to_TO the_DT specific_JJ subject_NN which_WDT students_NNS want_VBP to_TO learn_VB ._.
+Furthermore_RB ,_, people_NNS can_MD not_RB understand_VB many_JJ academic_JJ subjects_NNS simlutaneously_RB ._.
+For_IN example_NN ,_, my_PRP$ sister_NN ,_, Takako_NNP liked_VBD to_TO learn_VB world_NN history_NN in_IN her_PRP$ junior_NN high_JJ school_NN days_NNS ._.
+But_CC after_IN entering_VBG a_DT high_JJ school_NN ,_, she_PRP said_VBD to_TO me_PRP that_IN she_PRP was_VBD bad_JJ at_IN world_NN history_NN ._.
+I_PRP asked_VBD her_PRP a_DT reason_NN why_WRB ._.
+She_PRP told_VBD me_PRP that_IN she_PRP have_VBP to_TO learn_VB many_JJ subjects_NNS in_IN her_PRP$ high_JJ school_NN and_CC do_VBP many_JJ homeworks_NNS of_IN them_PRP simultaneously_RB and_CC she_PRP do_VBP not_RB have_VB enough_JJ time_NN to_TO read_VB text_NN book_NN of_IN world_NN history_NN during_IN her_PRP$ freetime_NN in_IN advance_NN ._.
+Finally_RB and_CC most_RBS importantly_RB ,_, however_RB ,_, people_NNS can_MD live_VB by_IN using_VBG only_RB one_CD subject_NN ._.
+For_IN example_NN ,_, I_PRP entered_VBD Tokyo_NNP univeisity_NN which_WDT is_VBZ the_DT most_RBS difficult_JJ university_NN in_IN Japan_NNP in_IN 1992_CD by_IN taking_VBG examinations_NNS about_IN six_CD subjects_NNS ,_, that_DT is_VBZ ,_, math_NN ,_, English_NNP ,_, Japanese_NNP language_NN ,_, Japanese_JJ history_NN ,_, world_NN history_NN ,_, physics_NN ,_, science_NN ._.
+Then_RB ,_, I_PRP learned_VBD many_JJ subjects_NNS in_IN my_PRP$ university_NN ._.
+But_CC after_IN graduating_VBG my_PRP$ university_NN ,_, I_PRP 've_VBP not_RB used_VBN the_DT knowledge_NN of_IN most_JJS subjects_NNS which_WDT I_PRP learned_VBD in_IN my_PRP$ school_NN days_NNS ._.
+As_IN I_PRP am_VBP working_VBG at_IN the_DT Investment_NNP division_NN in_IN a_DT financial_JJ institution_NN ,_, it_PRP is_VBZ adequate_JJ for_IN me_PRP to_TO work_VB there_RB by_IN knowing_VBG the_DT specific_JJ knowledge_NN about_IN math_NN ._.
+I_PRP feel_VBP strongly_RB that_IN I_PRP should_MD learn_VB much_RB more_RBR specific_JJ knowledge_NN about_IN math_NN ._.
+So_RB ,_, people_NNS should_MD consentrate_VB not_RB many_JJ subjects_NNS but_CC one_CD specific_JJ subject_NN ._.
+Therefore_RB ,_, on_IN the_DT basis_NN of_IN the_DT facts_NNS discussed_VBN above_IN ,_, I_PRP find_VBP that_IN we_PRP should_MD agree_VB with_IN the_DT opinion_NN that_IN it_PRP is_VBZ better_JJR to_TO have_VB broad_JJ knowledge_NN of_IN many_JJ academic_JJ subjects_NNS than_IN to_TO specialize_VB in_IN one_CD specific_JJ subjects_NNS ._.

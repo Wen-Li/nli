@@ -1,0 +1,10 @@
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN students_NNS to_TO understand_VB facts_NNS rather_RB than_IN ideas_NNS and_CC concepts_NNS tThere_NN are_VBP two_CD reasons_NNS for_IN this_DT statements_NNS :_: time_NN and_CC knowridge_NN ._.
+The_DT first_JJ reason_NN why_WRB it_PRP is_VBZ more_RBR important_JJ to_TO students_NNS to_TO learn_VB facts_NNS lather_NN than_IN ideas_NNS and_CC concepts_NNS is_VBZ that_IN they_PRP can_MD learn_VB wide_JJ variety_NN of_IN knowridge_NN ._.
+This_DT way_NN students_NNS get_VBP more_JJR knowridge_NN ._.
+The_DT second_JJ reason_NN why_WRB it_PRP is_VBZ more_RBR veneficial_JJ to_TO students_NNS to_TO learn_VB facts_NNS lather_NN than_IN ideas_NNS and_CC statement_NN is_VBZ time_NN ._.
+Students_NNS can_MD use_VB the_DT time_NN more_RBR usefull_JJ ._.
+If_IN student_NN understand_VBP ideas_NNS and_CC concept_NN for_IN each_DT facts_NNS ,_, they_PRP have_VBP to_TO spend_VB so_RB much_JJ time_NN and_CC energy_NN ._.
+For_IN instance_NN ,_, when_WRB I_PRP was_VBD elementary_JJ school_NN ,_, I_PRP learned_VBD mathmatics_NNS formura_NN without_IN concept_NN ._.
+In_IN order_NN to_TO remember_VB all_PDT the_DT formuras_NNS ,_, the_DT teacher_NN gave_VBD us_PRP a_DT song_NN for_IN the_DT formura_NN ._.
+Thus_RB ,_, we_PRP can_MD easily_RB remember_VB this_DT formura_NN without_IN spent_VBN exstra_NN enersy_NN and_CC time._NN ,_, and_CC it_PRP is_VBZ still_RB usefull_JJ to_TO me_PRP ._.
+I_PRP disagree_VBP with_IN the_DT statement_NN that_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS than_IN facts_NNS ,_, because_IN students_NNS to_TO can_MD use_VB time_NN usefull_NN and_CC get_VB more_JJR knowridge_NN ._.

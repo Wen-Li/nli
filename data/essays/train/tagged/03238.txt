@@ -1,0 +1,21 @@
+WORLD_NN OF_IN ADVERTISMENT_NNP
+In_IN the_DT competitive_JJ environment_NN of_IN business_NN every_DT company_NN tries_VBZ to_TO prove_VB that_IN it_PRP is_VBZ better_JJR than_IN another_DT ._.
+One_CD way_NN to_TO give_VB such_PDT an_DT impression_NN is_VBZ ``_`` advertisement_NN ''_'' ._.
+One_CD aspect_NN of_IN this_DT advertising_NN issue_NN is_VBZ the_DT conservation_NN of_IN honesty_NN ._.
+Do_VB the_DT companies_NNS prefer_VBP their_PRP$ product_NN to_TO be_VB presented_VBN in_IN a_DT way_NN better_JJR than_IN they_PRP really_RB are_VBP ?_.
+Unfortunately_RB ,_, yes_UH they_PRP do_VBP ._.
+This_DT concept_NN will_MD be_VB analysed_VBN based_VBN on_IN the_DT following_VBG arguments_NNS :_: true_JJ aim_NN of_IN giving_VBG advertisements_NNS ,_, when_WRB to_TO give_VB advertisements_NNS ,_, comparison_NN of_IN the_DT product_NN we_PRP see_VBP and_CC we_PRP buy_VBP ._.
+To_TO begin_VB with_IN ,_, it_PRP should_MD be_VB clear_JJ that_IN ,_, companies_NNS '_POS intention_NN in_IN giving_VBG advertisements_NNS is_VBZ to_TO make_VB their_PRP$ products_NNS sold_VBN ._.
+That_DT is_VBZ why_WRB they_PRP give_VBP money_NN to_TO advertisement_NN makers_NNS ,_, hoping_VBG that_IN after_IN this_DT campaign_NN there_EX will_MD be_VB a_DT dramatic_JJ increase_NN in_IN the_DT profit_NN of_IN the_DT company_NN ._.
+Moreover_RB ,_, some_DT companies_NNS prefer_VBP to_TO give_VB advertisements_NNS before_IN a_DT new_JJ product_NN is_VBZ out_RP for_IN sale_NN ._.
+Due_JJ to_TO the_DT fact_NN that_IN no_DT one_NN has_VBZ ever_RB seen_VBN it_PRP ,_, they_PRP can_MD manuplate_VB the_DT appearance_NN of_IN the_DT product_NN such_JJ that_IN it_PRP will_MD look_VB perfectly_RB and_CC be_VB more_RBR prone_JJ to_TO be_VB bought_VBN ._.
+Secondly_RB ,_, a_DT company_NN might_MD plan_VB giving_VBG advertisements_NNS on_IN products_NNS which_WDT have_VBP a_DT lower_JJR selling_NN rate_NN recently_RB ._.
+For_IN instance_NN ,_, if_IN a_DT shampoo_NN is_VBZ not_RB selling_VBG enough_RB ,_, the_DT company_NN agrees_VBZ with_IN a_DT very_RB well_RB known_VBN artist_NN or_CC popstar_NN for_IN showing_VBG up_RP in_IN an_DT ad_NN and_CC saying_VBG ``_`` I_PRP am_VBP also_RB using_VBG this_DT shampoo_NN ,_, if_IN you_PRP want_VBP to_TO have_VB as_IN beautiful_JJ hair_NN as_IN mine_NN you_PRP should_MD also_RB use_VB this_DT ._. ''_''
+Actually_RB ,_, most_JJS people_NNS are_VBP aware_JJ that_IN she_PRP is_VBZ not_RB using_VBG that_IN shampoo_NN ._.
+Nevertheless_RB ,_, they_PRP have_VBP a_DT tendency_NN and_CC temptation_NN to_TO buy_VB it_PRP ._.
+Thirdly_RB ,_, apart_RB from_IN the_DT fake_JJ suggestions_NNS and_CC manuplations_NNS done_VBN on_IN the_DT picture_NN with_IN the_DT computer_NN ,_, what_WP is_VBZ shown_VBN in_IN the_DT advertisements_NNS is_VBZ the_DT first_JJ appearance_NN of_IN the_DT product_NN ,_, not_RB what_WP we_PRP buy_VBP from_IN the_DT market_NN ._.
+There_EX are_VBP several_JJ steps_NNS during_IN transportation_NN and_CC storage_NN where_WRB the_DT product_NN might_MD be_VB ruined_VBN ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN they_PRP show_VBP us_PRP the_DT picture_NN of_IN the_DT product_NN prr_NN to_TO being_VBG sold_VBN in_IN the_DT market_NN ,_, most_JJS probably_RB people_NNS will_MD not_RB buy_VB it_PRP ._.
+As_IN a_DT conclusion_NN ,_, being_VBG trustwothy_NN in_IN giving_VBG advertisements_NNS is_VBZ not_RB a_DT required_VBN behaviour_NN in_IN the_DT area_NN of_IN business_NN ._.
+People_NNS show_VBP their_PRP$ products_NNS in_IN such_JJ a_DT way_NN that_IN they_PRP look_VBP better_JJR than_IN they_PRP really_RB are_VBP due_JJ to_TO aforementioned_JJ reasons_NNS such_JJ as_IN :_: why_WRB actually_RB they_PRP are_VBP giving_VBG advertisements_NNS ,_, at_IN certain_JJ time_NN points_NNS advertisements_NNS are_VBP necessary_JJ and_CC the_DT product_NN we_PRP buy_VBP is_VBZ apparently_RB distinct_JJ from_IN the_DT one_CD we_PRP see_VBP ._.
+Eventually_RB ,_, these_DT ideas_NNS support_VBP the_DT hypothesis_NN that_IN advetisements_NNS make_VBP these_DT products_NNS seem_VBP better_JJR than_IN they_PRP really_RB are_VBP ._.

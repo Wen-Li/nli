@@ -1,0 +1,17 @@
+I_PRP agree_VBP with_IN the_DT statement_NN that_WDT successful_JJ people_NNS try_VBP new_JJ things_NNS instead_RB of_IN doing_VBG what_WP they_PRP already_RB know_VB how_WRB to_TO do_VB well_RB ._.
+In_IN today_NN 's_POS changing_VBG and_CC competitive_JJ world_NN ,_, people_NNS who_WP are_VBP not_RB willing_JJ to_TO try_VB new_JJ innovative_JJ things_NNS will_MD get_VB left_VBN behind_RP ._.
+I_PRP cite_VBP the_DT example_NN of_IN Microsoft_NNP Corporation_NNP as_IN a_DT company_NN that_WDT has_VBZ thrived_VBN because_IN they_PRP were_VBD willing_JJ to_TO take_VB risks_NNS ._.
+They_PRP took_VBD a_DT contract_NN to_TO develop_VB an_DT operating_NN system_NN for_IN IBM_NNP even_RB when_WRB they_PRP had_VBD no_DT product_NN in_IN hand_NN ._.
+After_IN signing_VBG the_DT contract_NN ,_, they_PRP found_VBD the_DT appropriate_JJ piece_NN of_IN software_NN called_VBN DOS_NNP ,_, and_CC developed_VBD it_PRP sufficiently_RB to_TO meet_VB all_PDT the_DT contract_NN requrements_NNS of_IN IBM_NNP ._.
+If_IN they_PRP had_VBD not_RB taken_VBN that_DT risk_NN ,_, who_WP knows_VBZ where_WRB that_DT company_NN would_MD have_VB been_VBN today_NN ._.
+They_PRP contrinued_VBD to_TO take_VB enormous_JJ monetary_JJ and_CC other_JJ risks_NNS to_TO develop_VB all_DT their_PRP$ subsequent_JJ products_NNS ,_, especially_RB MS_NN Word_NN ,_, even_RB when_WRB other_JJ word_NN processing_NN products_NNS like_IN Word_NNP Perfect_NNP were_VBD more_RBR popular_JJ at_IN the_DT time_NN ._.
+By_IN showing_VBG a_DT desire_NN to_TO change_VB and_CC try_VB new_JJ methods_NNS ,_, Microsoft_NNP has_VBZ reached_VBN the_DT pinnacle_NN of_IN its_PRP$ glory_NN in_IN the_DT PC_NN business_NN ._.
+My_PRP$ personal_JJ experience_NN in_IN the_DT field_NN of_IN engineering_NN has_VBZ led_VBN me_PRP to_TO similar_JJ conclusions_NNS ._.
+Our_PRP$ company_NN stayed_VBD around_RP 60_CD employees_NNS and_CC grew_VBD at_IN a_DT 2-3_CD %_NN growth_NN rate_NN for_IN the_DT 1st_JJ 35_CD years_NNS of_IN existence_NN ._.
+However_RB ,_, the_DT advent_NN of_IN another_DT CEO_NNP changed_VBD the_DT fortunes_NNS of_IN the_DT company_NN ._.
+After_IN about_RB 10_CD years_NNS since_IN he_PRP took_VBD over_RP ,_, we_PRP now_RB have_VBP about_IN 400_CD employees_NNS and_CC have_VBP more_JJR than_IN quadrupled_VBD our_PRP$ revenue_NN ._.
+This_DT happened_VBD because_IN the_DT new_JJ CEO_NNP expanded_VBD the_DT business_NN into_IN other_JJ areas_NNS deemed_VBD risky_JJ like_IN telecommunication_NN ,_, water_NN resources_NNS and_CC control_NN solutions_NNS ._.
+He_PRP even_RB opened_VBD a_DT ``_`` build_VB ''_'' component_NN to_TO the_DT original_JJ ``_`` design_NN ''_'' organization_NN ,_, which_WDT was_VBD very_RB risky_JJ because_IN of_IN many_JJ unknowns_NNS ._.
+The_DT ``_`` build_VB ''_'' component_NN of_IN the_DT company_NN proved_VBD to_TO be_VB the_DT biggest_JJS revenue_NN grosser_NN at_IN the_DT company_NN ._.
+Hence_RB ,_, because_IN of_IN the_DT two_CD examples_NNS provided_VBN above_RB ,_, I_PRP am_VBP convinced_VBN that_IN most_JJS successful_JJ people_NNS try_VBP new_JJ things_NNS instead_RB of_IN just_RB doing_VBG things_NNS they_PRP already_RB know_VBP ._.
+They_PRP may_MD not_RB always_RB succeed_VB ,_, but_CC as_IN the_DT saying_VBG goes_VBZ ,_, bigger_JJR the_DT risk_NN ,_, bigger_JJR the_DT benefit_NN ._.

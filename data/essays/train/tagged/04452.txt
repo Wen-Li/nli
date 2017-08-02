@@ -1,0 +1,17 @@
+Facts_NNS are_VBP the_DT core_NN of_IN life_NN ._.
+With_IN out_IN facts_NNS you_PRP can_MD not_RB draw_VB conclusions_NNS ,_, build_VB a_DT hypothesis_NN ,_, or_CC even_RB dream_NN of_IN a_DT different_JJ course_NN ._.
+You_PRP can_MD say_VB that_IN a_DT fact_NN is_VBZ the_DT basis_NN where_WRB ideas_NNS and_CC concepts_NNS emerge_VBP ._.
+Lets_VBZ take_VB organic_JJ chemistry_NN for_IN example_NN ._.
+A_DT mighty_JJ complex_NN subject_NN that_IN many_JJ students_NNS ,_, the_DT ones_NNS who_WP are_VBP dreaming_VBG of_IN medical_JJ school_NN ,_, pharmacy_NN school_NN and_CC the_DT like_JJ stand_NN hand_NN tied_VBN to_TO understand_VB what_WP is_VBZ a_DT really_RB easy_JJ subejct_NN in_IN its_PRP$ core_NN ._.
+Only_RB if_IN you_PRP know_VBP the_DT facts_NNS ._.
+To_TO undrestand_VB what_WP that_DT means_VBZ you_PRP have_VBP to_TO know_VB few_JJ basic_JJ facts_NNS about_IN the_DT carbon_NN ,_, the_DT hydrogen_NN ,_, the_DT nitrogen_NN ,_, and_CC the_DT oxygen_NN atoms_NNS ._.
+For_IN example_NN the_DT number_NN of_IN bonds_NNS each_DT must_MD posses_VB in_IN order_NN to_TO be_VB stable_JJ ._.
+Carbon_NNP needs_VBZ four_CD bonds_NNS ,_, hydrogen_NN needs_VBZ one_CD ,_, nitrogen_NN three_CD ,_, and_CC oxygen_NN two_CD ._.
+Another_DT fact_NN is_VBZ that_IN each_DT atom_NN will_MD always_RB search_VB for_IN its_PRP$ stable_JJ state_NN ,_, and_CC chemists_NNS call_VBP that_IN ,_, the_DT less_JJR energy_NN state_NN ._.
+Knowing_VBG what_WP we_PRP know_VBP about_IN bonds_NNS and_CC atoms_NNS we_PRP can_MD explain_VB organic_JJ chemistry_NN in_IN a_DT new_JJ light_NN ._.
+Its_PRP$ the_DT strive_VBP for_IN the_DT atoms_NNS that_WDT make_VBP the_DT molecules_NNS we_PRP have_VBP arround_VBN us_PRP in_IN the_DT air_NN ,_, the_DT ground_NN the_DT sea_NN and_CC so_RB forth_RB to_TO stay_VB stable_JJ with_IN the_DT least_JJS energy_NN possible_JJ ._.
+And_CC from_IN that_DT we_PRP can_MD introduce_VB the_DT idea_NN of_IN atomic_JJ orbitals_NNS and_CC the_DT concepts_NNS that_WDT has_VBZ been_VBN used_VBN by_IN scientist_NN to_TO show_VB how_WRB these_DT orbitals_NNS strive_VBP to_TO make_VB the_DT atom_NN stable_JJ and_CC functional_JJ ,_, in_IN other_JJ words_NNS survive_VBP ._.
+And_CC using_VBG the_DT concepts_NNS of_IN atomic_JJ orbital_NN we_PRP can_MD draw_VB an_DT extended_JJ concept_NN for_IN the_DT molecular_JJ orbitalsfrom_NN the_DT concept_NN of_IN the_DT molecular_JJ orbitals_NNS we_PRP can_MD take_VB it_PRP further_RBR to_TO understand_VB the_DT way_NN the_DT molecules_NNS react_VBP with_IN each_DT other_JJ to_TO form_VB new_JJ molecules_NNS and_CC so_RB forth_RB ._.
+From_IN the_DT facts_NNS you_PRP can_MD project_VB hypotheses_NNS and_CC ideas_NNS that_WDT can_MD be_VB proven_VBN right_JJ or_CC wrong_JJ as_IN time_NN goes_VBZ on_IN ._.
+But_CC there_EX is_VBZ one_CD thing_NN that_IN you_PRP can_MD not_RB change_VB and_CC thats_VBZ the_DT fact_NN ._.
+The_DT water_NN color_NN will_MD stay_VB colorless_JJ ,_, the_DT fish_NN will_MD still_RB swim_VB in_IN the_DT sea_NN not_RB the_DT land_NN ,_, and_CC the_DT carbon_NN atom_NN will_MD have_VB four_CD bonds_NNS till_IN the_DT end_NN of_IN times_NNS ,_, and_CC that_DT is_VBZ a_DT fact_NN ._.

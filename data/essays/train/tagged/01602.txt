@@ -1,0 +1,10 @@
+Arrangment_NNP for_IN trip_NN
+There_EX is_VBZ many_JJ ways_NNS to_TO travel_VB ,_, but_CC when_WRB you_PRP want_VBP to_TO make_VB a_DT good_JJ trip_NN you_PRP have_VBP to_TO get_VB a_DT group_NN led_VBN by_IN a_DT tour_NN guide_NN for_IN many_JJ reasons_NNS that_WDT are_VBP time_NN arrangment_NN ,_, gain_VB new_JJ friends_NNS ,_, it_PRP will_MD cost_VB the_DT person_NN lower_JJR than_IN the_DT normal_JJ ._.
+In_IN each_DT trip_NN the_DT time_NN is_VBZ going_VBG to_TO be_VB an_DT important_JJ factor_NN ._.
+How_WRB you_PRP are_VBP going_VBG to_TO manage_VB you_PRP time_NN with_IN out_IN the_DT leader_NN who_WP has_VBZ enough_RB expeirnce_NN on_IN that_DT area_NN that_IN you_PRP area_NN going_VBG to_TO visit_VB ._.
+For_IN example_NN ,_, I_PRP remaamber_VBP one_CD time_NN I_PRP went_VBD to_TO egypt_VB with_IN out_IN a_DT tour_NN guide_NN and_CC I_PRP spent_VBD too_RB match_VB time_NN to_TO see_VB the_DT important_JJ location_NN ._.
+When_WRB you_PRP get_VBP a_DT group_NN and_CC a_DT tour_NN guide_NN you_PRP will_MD have_VB a_DT good_JJ time_NN for_IN many_JJ resones_NNS first_RB you_PRP are_VBP going_VBG to_TO share_VB your_PRP$ information_NN and_CC recive_VB an_DT other_JJ informaiton_NN from_IN the_DT others_NNS ._.
+For_IN example_NN ,_, I_PRP went_VBD to_TO United_NNP stats_NNS with_IN a_DT group_NN of_IN people_NNS and_CC our_PRP$ tour_NN guid_NN ._.
+He_PRP give_VBP as_IN a_DT schadual_NN for_IN first_JJ week_NN and_CC he_PRP made_VBD for_IN us_PRP a_DT disscastion_NN time_NN to_TO gain_VB information_NN ._.
+I_PRP made_VBD a_DT conpartion_NN between_IN the_DT first_JJ trip_NN and_CC the_DT second_JJ trip_NN adn_NN I_PRP face_VBP that_IN the_DT first_JJ trip_NN cost_NN me_PRP more_JJR than_IN the_DT second_JJ ._.
+Finally_RB ,_, I_PRP feel_VBP that_IN a_DT t_NN

@@ -1,0 +1,16 @@
+The_DT statement_NN advocates_VBZ that_IN having_VBG broad_JJ knowledge_NN of_IN many_JJ acadmic_JJ subjects_NNS is_VBZ better_JJR than_IN having_VBG specilization_NN on_IN one_CD ._.
+However_RB ,_, in_IN my_PRP$ opininon_NN ,_, the_DT question_NN can_MD not_RB have_VB a_DT binary_JJ answer_NN ._.
+There_EX could_MD be_VB situation_NN when_WRB a_DT broad_JJ knowledge_NN of_IN all_DT concerned_JJ subjects_NNS is_VBZ really_RB needed_VBN ._.
+On_IN the_DT other_JJ hand_NN ,_, in_IN some_DT cases_NNS specilization_NN os_VBZ more_RBR important_JJ ._.
+In_IN some_DT case_NN ,_, one_NN might_MD just_RB need_VB particular_JJ skillset_NN and_CC other_JJ skills_NNS might_MD not_RB be_VB of_IN much_JJ use_NN ._.
+For_IN example_NN ,_, an_DT MBA_NNP student_NN who_WP is_VBZ aming_VBG to_TO become_VB an_DT investment_NN banker_NN need_MD not_RB be_VB strong_JJ in_IN all_PDT the_DT management_NN subjects_NNS ,_, but_CC he/she_NN really_RB need_VBP to_TO be_VB specialized_VBN in_IN fiannce_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, sometimes_RB job_NN requires_VBZ a_DT good_JJ overall_JJ understanding_NN of_IN all_DT related_JJ topics_NNS ._.
+continuing_VBG on_IN the_DT last_JJ example_NN ,_, if_IN the_DT same_JJ MBA_NNP student_NN want_VBP to_TO be_VB a_DT genral_JJ manager_NN in_IN a_DT firm_NN ,_, he/she_NN should_MD have_VB a_DT broad_JJ knowledge_NN of_IN all_PDT the_DT management_NN practices_NNS and_CC subjects_NNS ._.
+In_IN this_DT case_NN ,_, specilization_NN can_MD not_RB be_VB of_IN much_JJ use_NN ._.
+There_EX could_MD be_VB cases_NNS when_WRB secilization_NN is_VBZ needed_VBN `_`` on_IN demand_NN '_'' ._.
+Once_RB one_PRP might_MD be_VB working_VBG in_IN some_DT area_NN ,_, and_CC sfter_VB some_DT time_NN he/she_NN might_MD need_VB other_JJ skills_NNS ._.
+In_IN such_JJ case_NN one_CD need_NN to_TO have_VB good_JJ knowledge_NN of_IN all_DT related_JJ subjects_NNS ._.
+With_IN a_DT solid_JJ foundation_NN like_IN this_DT ,_, one_PRP can_MD gain_VB specilized_JJ skills_NNS easily_RB if_IN needed_VBN and_CC this_DT wopuld_NN not_RB require_VB seperate_JJ acadmic_JJ specilization_NN ._.
+For_IN example_NN ,_,
+So_RB ,_, in_IN my_PRP$ opinion_NN ,_, while_IN one_CD must_MD have_VB some_DT knowledge_NN of_IN all_PDT the_DT concerned_JJ area_NN he/she_NN is_VBZ supposed_VBN to_TO work_VB on_IN ,_, whether_IN specilization_NN is_VBZ required_VBN depends_VBZ on_IN specific_JJ case_NN ._.
+Sometimes_RB ,_, its_PRP$ better_JJR to_TO be_VB master_NN of_IN one_CD ,_, while_IN sometimes_RB being_VBG jack_NN of_IN all_DT trades_NNS might_MD be_VB more_RBR useful_JJ ._.

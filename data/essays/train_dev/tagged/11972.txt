@@ -1,0 +1,9 @@
+Some_DT people_NNS think_VBP it_PRP is_VBZ for_IN them_PRP to_TO learn_VB fact_NN ,_, but_CC others_NNS think_VBP it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB idears_NNS and_CC concepts_NNS personally_RB ,_, I_PRP agree_VBP this_DT is_VBZ very_RB important_JJ to_TO studants_NNS ._.
+Among_IN them_PRP many_JJ reason_NN ,_, the_DT most_RBS important_JJ is_VBZ that_IN students_NNS develop_VBP their_PRP$ technology_NN and_CC ideas_NNS ._.
+It_PRP is_VBZ better_RBR that_IN the_DT students_NNS have_VBP more_RBR deep_JJ thinking_NN and_CC responsibility_NN ._.
+Forexample_NNP ,_, My_PRP$ cousin_NN is_VBZ 12years_CD old_JJ ._.
+Although_IN he_PRP has_VBZ many_JJ books_NNS ,_, he_PRP do_VBP n't_RB understand_VB many_JJ part_NN exately_RB math_NN ._.
+So_IN his_PRP$ mother_NN bought_VBD one_CD book_NN about_IN understand_VB idears_NNS and_CC concepts_NNS ._.
+he_PRP enjoy_VBP the_DT book_NN and_CC always_RB try_VBP to_TO understand_VB anything_NN ._.
+Right_RB now_RB he_PRP like_IN math_NN ._.
+To_TO conclusion_NN ,_, it_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO understand_VB ideas_NNS and_CC concepts_NNS ._.

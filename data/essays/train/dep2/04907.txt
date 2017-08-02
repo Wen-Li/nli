@@ -1,0 +1,12 @@
+VB_nsubj_NN
+NN_det_DT
+NN_amod_JJS
+VB_aux_VBZ
+VB_dobj_NNS
+NNS_det_DT
+JJR_det_DT
+JJR_advmod_RB
+JJR_nmod_PRP
+PRP_case_IN
+JJ_nsubj_PRP
+JJ_cop_VBP

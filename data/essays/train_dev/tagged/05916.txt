@@ -1,0 +1,11 @@
+I_PRP agree_VBP with_IN the_DT statement_NN ._.
+I_PRP am_VBP now_RB 18_CD years_NNS old_JJ ._.
+The_DT ward_NN of_IN young_JJ people_NNS in_IN the_DT statement_NN probablly_RB meams_VBZ those_DT who_WP are_VBP the_DT age_NN of_IN 16_CD to_TO 20_CD like_IN me_PRP ._.
+At_IN least_JJS for_IN 1_CD year_NN ,_, I_PRP have_VBP not_RB done_VBN any_DT activity_NN to_TO help_VB my_PRP$ local_JJ community_NN ._.
+As_IN for_IN my_PRP$ friends_NNS ,_, the_DT situation_NN is_VBZ similar_JJ to_TO mone_NN ._.
+There_EX is_VBZ one_CD big_JJ reason_NN why_WRB we_PRP do_VBP not_RB give_VB enough_JJ time_NN to_TO helping_VBG our_PRP$ communities_NNS ._.
+It_PRP is_VBZ entrance_NN examinations_NNS for_IN collage_NN ._.
+In_IN Japan_NNP ,_, there_EX is_VBZ a_DT hard_JJ competition_NN to_TO entre_VB collage_NN or_CC university_NN ._.
+Therefore_RB ,_, students_NNS of_IN those_DT ages_NNS have_VBP to_TO study_VB ._.
+There_EX is_VBZ not_RB enough_JJ time_NN to_TO spend_VB helping_VBG their_PRP$ communities_NNS ._.
+This_DT condition_NN is_VBZ not_RB good_JJ but_CC we_PRP ca_MD

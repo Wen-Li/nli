@@ -1,0 +1,13 @@
+enjoy_nsubj_people
+people_compound_Young
+enjoy_dobj_life
+enjoy_advmod_more
+more_advcl_do
+do_mark_than
+do_nsubj_people
+people_amod_older
+do_advcl_building
+building_mark_because
+building_nsubj_they
+building_dobj_life
+life_det_the

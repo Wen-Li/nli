@@ -1,0 +1,9 @@
+I_PRP partly_RB agree_VBP with_IN the_DT statement_NN that_IN ``_`` It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO under_IN stand_NN ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB facts_NNS ._. ''_''
+Because_IN students_NNS offen_VBP read_VBN textbooks_NNS of_IN certain_JJ school_NN or_CC collage_NN and_CC in_IN those_DT books_NNS we_PRP only_RB read_VBD the_DT lessons_NNS and_CC come_VB to_TO an_DT idea_NN and_CC learn_VB what_WP the_DT concept_NN is_VBZ ,_, rather_RB than_IN knowing_VBG the_DT facts_NNS ._.
+and_CC coming_VBG to_TO a_DT chemical_NN lab_NN in_IN our_PRP$ collages_NNS we_PRP require_VBP facts_NNS rather_RB than_IN ideas_NNS ._.
+For_IN example_NN go_VB for_IN a_DT lesson_NN in_IN an_DT english_JJ text_NN there_EX we_PRP find_VBP n_NN number_NN of_IN stories_NNS and_CC by_IN reading_VBG those_DT we_PRP come_VBP to_TO idea_NN of_IN what_WP happened_VBD in_IN the_DT story_NN ratheer_NN than_IN knowing_VBG the_DT facts_NNS ._.
+And_CC coming_VBG to_TO the_DT lab_NN we_PRP know_VBP about_IN the_DT fact_NN that_IN which_WDT reaction_NN will_MD come_VB by_IN combining_VBG two_CD acids_NNS or_CC bases_NNS ._.
+Here_RB we_PRP requirefact_VBD rather_RB than_IN idea_NN ._.
+So_RB understanding_VBG ideas_NNS ,_, concept_NN and_CC facts_NNS are_VBP helpfull_JJ to_TO the_DT students_NNS according_VBG to_TO the_DT subjects_NNS they_PRP are_VBP reading_VBG ._.
+so_RB at_IN perticular_JJ time_NN ideas_NNS and_CC concepts_NNS play_VBP a_DT major_JJ role_NN where_WRB as_IN facts_NNS on_IN the_DT other_JJ time_NN ._.
+So_RB ,_, By_IN these_DT resons_NNS and_CC examples_NNS i_FW partly_RB agree_VBP with_IN the_DT statment_NN that_WDT It_PRP is_VBZ more_RBR important_JJ for_IN students_NNS to_TO under_IN stand_NN ideas_NNS and_CC concepts_NNS than_IN to_TO learn_VB facts_NNS ._.

@@ -1,0 +1,18 @@
+I_PRP do_VBP not_RB agree_VB with_IN the_DT statement_NN ,_, that_IN there_EX will_MD be_VB fewer_JJR cars_NNS in_IN use_NN then_RB they_PRP are_VBP today_NN in_IN twenty_CD years_NNS ._.
+The_DT problem_NN with_IN cars_NNS is_VBZ ,_, that_IN they_PRP need_VBP oil_NN ._.
+Nowadays_RB oil_NN is_VBZ very_RB expensive_JJ ._.
+We_PRP also_RB have_VBP to_TO change_VB something_NN ._.
+New_NNP technologies_NNS are_VBP necessairy_NN ._.
+A_DT new_JJ generation_NN of_IN car_NN technologie_NN is_VBZ a_DT good_JJ start_NN ._.
+It_PRP is_VBZ called_VBN hybrid_NN ._.
+This_DT cars_NNS have_VBP two_CD motors_NNS ._.
+One_CD is_VBZ the_DT traditional_JJ otto-motor_NN ,_, the_DT other_JJ one_CD is_VBZ an_DT elctric_JJ one_CD ._.
+This_DT kind_NN of_IN cars_NNS are_VBP very_RB economic_JJ ._.
+They_PRP run_VBP with_IN oil_NN when_WRB they_PRP are_VBP in_IN a_DT normal_JJ mode_NN ._.
+In_IN this_DT mode_NN they_PRP load_VBP up_RP the_DT batteries_NNS for_IN the_DT electric_JJ mode_NN ._.
+After_IN a_DT short_JJ ride_NN ,_, especially_RB fast_JJ rides_NNS (_RB they_PRP produce_VBP more_JJR energy_NN )_NN ,_, you_PRP can_MD use_VB the_DT elctric_JJ motor_NN ._.
+We_PRP have_VBP to_TO support_VB the_DT technical_JJ research_NN to_TO improve_VB inventions_NNS like_IN this_DT ._.
+In_IN the_DT future_NN it_PRP will_MD be_VB more_RBR important_JJ to_TO give_VB money_NN for_IN research_NN ._.
+Another_DT point_NN that_WDT underlines_VBZ the_DT theorie_NN ,_, that_IN there_EX are_VBP countries_NNS in_IN the_DT world_NN ,_, that_WDT now_RB begin_VBP to_TO have_VB cars_NNS ._.
+In_IN China_NNP for_IN example_NN it_PRP was_VBD not_RB common_JJ to_TO have_VB a_DT car_NN ._.
+But_CC this_DT countrie_NN is_VBZ so_RB increasing_VBG ,_, that_IN in_IN future_NN they_PRP will_MD have_VB millions_NNS o_NN
