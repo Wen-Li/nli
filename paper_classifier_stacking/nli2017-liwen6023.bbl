@@ -1,0 +1,159 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bird(2006)}]{nltk}
+Steven Bird. 2006.
+\newblock Nltk: the natural language toolkit.
+\newblock In {\em Proceedings of the COLING/ACL on Interactive presentation
+  sessions\/}. Association for Computational Linguistics, pages 69--72.
+
+\bibitem[{Bykh and Meurers(2014)}]{bykh:2014}
+Serhiy Bykh and Detmar Meurers. 2014.
+\newblock {Exploring Syntactic Features for Native Language Identification: A
+  Variationist Perspective on Feature Encoding and Ensemble Optimization}.
+\newblock In {\em Proceedings of COLING 2014, the 25th International Conference
+  on Computational Linguistics: Technical Papers\/}. Dublin, Ireland, pages
+  1962--1973.
+
+\bibitem[{Ionescu et~al.(2014)Ionescu, Popescu, and Cahill}]{ionescu:2014}
+Radu~Tudor Ionescu, Marius Popescu, and Aoife Cahill. 2014.
+\newblock {Can characters reveal your native language? A language-independent
+  approach to native language identification}.
+\newblock In {\em {Proceedings of the 2014 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}\/}. Association for Computational
+  Linguistics.
+
+\bibitem[{Jarvis et~al.(2013)Jarvis, Bestgen, and
+  Pepper}]{jarvis-bestgen-pepper:2013:BEA8}
+Scott Jarvis, Yves Bestgen, and Steve Pepper. 2013.
+\newblock {Maximizing Classification Accuracy in Native Language
+  Identification}.
+\newblock In {\em Proceedings of the Eighth Workshop on Innovative Use of NLP
+  for Building Educational Applications\/}. Association for Computational
+  Linguistics, Atlanta, Georgia, pages 111--118.
+
+\bibitem[{Klein and Manning(2003)}]{parsing}
+Dan Klein and Christopher~D Manning. 2003.
+\newblock Accurate unlexicalized parsing.
+\newblock In {\em Proceedings of the 41st Annual Meeting on Association for
+  Computational Linguistics-Volume 1\/}. Association for Computational
+  Linguistics, pages 423--430.
+
+\bibitem[{Liu et~al.(2014)Liu, Guo, Dakota, Rajagopalan, Li, K\"ubler, and
+  Yu}]{liu2014}
+Can Liu, Chun Guo, Daniel Dakota, Sridhar Rajagopalan, Wen Li, Sandra K\"ubler,
+  and Ning Yu. 2014.
+\newblock {``My curiosity was satisfied, but not in a good way'': Predicting
+  user ratings for online recipes.}
+\newblock In {\em Proceedings of the Second Workshop on Natural Language
+  Processing for Social Media (SocialNLP)\/}. Dublin, Ireland, pages 12--21.
+
+\bibitem[{Liu et~al.(2016)Liu, Li, Demarest, Chen, Couture, Dakota, Haduong,
+  Kaufman, Lamont, Pancholi, Steimel, and K\"ubler}]{liu2016}
+Can Liu, Wen Li, Bradford Demarest, Yue Chen, Sara Couture, Daniel Dakota,
+  Nikita Haduong, Noah Kaufman, Andrew Lamont, Manan Pancholi, Kenneth Steimel,
+  and Sandra K\"ubler. 2016.
+\newblock {IUCL at SemEval-2016 Task 6: An Ensemble Model for Stance Detection
+  in Twitter}.
+\newblock In {\em Proceedings of SemEval-2016\/}. San Diego, California, pages
+  394--400.
+
+\bibitem[{Malmasi(2016)}]{malmasi2016}
+Shervin Malmasi. 2016.
+\newblock {\em {Native Language Identification: Explorations and
+  Applications}\/}.
+\newblock Ph.D. thesis.
+\newblock
+  \href{http://hdl.handle.net/1959.14/1110919}{http://hdl.handle.net/1959.14/1110919}.
+
+\bibitem[{Malmasi and Dras(2014)}]{malmasi2014}
+Shervin Malmasi and Mark Dras. 2014.
+\newblock {Language Transfer Hypotheses with Linear SVM Weights}.
+\newblock In {\em 2014 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)\/}. Doha, Qatar, pages 1385--1390.
+
+\bibitem[{Malmasi and Dras(2015)}]{multilingual-nli}
+Shervin Malmasi and Mark Dras. 2015.
+\newblock {Multilingual Native Language Identification}.
+\newblock In {\em Natural Language Engineering\/}.
+
+\bibitem[{Malmasi and Dras(2017)}]{malmasi:2017:nlisg}
+Shervin Malmasi and Mark Dras. 2017.
+\newblock {Native Language Identification using Stacked Generalization}.
+\newblock {\em arXiv preprint arXiv:1703.06541\/} .
+
+\bibitem[{Malmasi et~al.(2017)Malmasi, Evanini, Cahill, Tetreault, Pugh,
+  Hamill, Napolitano, and Qian}]{nli2017}
+Shervin Malmasi, Keelan Evanini, Aoife Cahill, Joel Tetreault, Robert Pugh,
+  Christopher Hamill, Diane Napolitano, and Yao Qian. 2017.
+\newblock {A Report on the 2017 Native Language Identification Shared Task}.
+\newblock In {\em Proceedings of the 12th Workshop on Building Educational
+  Applications Using NLP\/}. Association for Computational Linguistics,
+  Copenhagen, Denmark.
+
+\bibitem[{Malmasi et~al.(2016)Malmasi, Zampieri, Ljube\v{s}i\'{c}, Nakov, Ali,
+  and Tiedemann}]{vardial2016}
+Shervin Malmasi, Marcos Zampieri, Nikola Ljube\v{s}i\'{c}, Preslav Nakov, Ahmed
+  Ali, and J\"{o}rg Tiedemann. 2016.
+\newblock {Discriminating between Similar Languages and Arabic Dialect
+  Identification: A Report on the Third DSL Shared Task}.
+\newblock In {\em Proceedings of the VarDial Workshop\/}. Osaka, Japan.
+
+\bibitem[{Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel,
+  Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay}]{sklearn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay. 2011.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research\/} 12:2825--2830.
+
+\bibitem[{Pennington et~al.(2014)Pennington, Socher, and Manning}]{glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D Manning. 2014.
+\newblock Glove: Global vectors for word representation.
+\newblock In {\em EMNLP\/}. volume~14, pages 1532--1543.
+
+\bibitem[{{\v R}eh{\r u}{\v r}ek and Sojka(2010)}]{gensim}
+Radim {\v R}eh{\r u}{\v r}ek and Petr Sojka. 2010.
+\newblock {Software Framework for Topic Modelling with Large Corpora}.
+\newblock In {\em {Proceedings of the LREC 2010 Workshop on New Challenges for
+  NLP Frameworks}\/}. ELRA, Valletta, Malta, pages 45--50.
+\newblock \url{http://is.muni.cz/publication/884893/en}.
+
+\bibitem[{Schuller et~al.(2016)Schuller, Steidl, Batliner, Hirschberg, Burgoon,
+  Baird, Elkins, Zhang, Coutinho, and Evanini}]{compare2016}
+Björn Schuller, Stefan Steidl, Anton Batliner, Julia Hirschberg, Judee~K.
+  Burgoon, Alice Baird, Aaron Elkins, Yue Zhang, Eduardo Coutinho, and Keelan
+  Evanini. 2016.
+\newblock \href{https://doi.org/10.21437/Interspeech.2016-129}{{The INTERSPEECH
+  2016 Computational Paralinguistics Challenge: Deception, Sincerity \& Native
+  Language}}.
+\newblock In {\em Interspeech 2016\/}. pages 2001--2005.
+\newblock
+  \href{https://doi.org/10.21437/Interspeech.2016-129}{https://doi.org/10.21437/Interspeech.2016-129}.
+
+\bibitem[{Tetreault et~al.(2013)Tetreault, Blanchard, and Cahill}]{nli2013}
+Joel Tetreault, Daniel Blanchard, and Aoife Cahill. 2013.
+\newblock {A Report on the First Native Language Identification Shared Task}.
+\newblock In {\em Proceedings of the Eighth Workshop on Building Educational
+  Applications Using NLP\/}. Association for Computational Linguistics,
+  Atlanta, GA, USA.
+
+\bibitem[{Toutanova et~al.(2003)Toutanova, Klein, Manning, and
+  Singer}]{tagging}
+Kristina Toutanova, Dan Klein, Christopher~D Manning, and Yoram Singer. 2003.
+\newblock Feature-rich part-of-speech tagging with a cyclic dependency network.
+\newblock In {\em Proceedings of the 2003 Conference of the North American
+  Chapter of the Association for Computational Linguistics on Human Language
+  Technology-Volume 1\/}. Association for Computational Linguistics, pages
+  173--180.
+
+\bibitem[{Zampieri et~al.(2017)Zampieri, Malmasi, Ljube\v{s}i\'{c}, Nakov, Ali,
+  Tiedemann, Scherrer, and Aepli}]{vardial2017}
+Marcos Zampieri, Shervin Malmasi, Nikola Ljube\v{s}i\'{c}, Preslav Nakov, Ahmed
+  Ali, J\"{o}rg Tiedemann, Yves Scherrer, and No\"{e}mi Aepli. 2017.
+\newblock {Findings of the VarDial Evaluation Campaign 2017}.
+\newblock In {\em Proceedings of the Fourth Workshop on NLP for Similar
+  Languages, Varieties and Dialects (VarDial)\/}. Valencia, Spain, pages 1--15.
+
+\end{thebibliography}

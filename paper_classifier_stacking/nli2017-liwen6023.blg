@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: nli2017-liwen6023.aux
+The style file: emnlp_natbib.bst
+Database file #1: nli2017.bib
+Warning--missing school in malmasi2016
+You've used 20 entries,
+            2936 wiz_defined-function locations,
+            706 strings with 9635 characters,
+and the built_in function-call counts, 16880 in all, are:
+= -- 1281
+> -- 949
+< -- 21
++ -- 311
+- -- 291
+* -- 1195
+:= -- 2411
+add.period$ -- 99
+call.type$ -- 20
+change.case$ -- 231
+chr.to.int$ -- 20
+cite$ -- 21
+duplicate$ -- 1323
+empty$ -- 1251
+format.name$ -- 359
+if$ -- 3522
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 267
+newline$ -- 107
+num.names$ -- 80
+pop$ -- 609
+preamble$ -- 1
+purify$ -- 177
+quote$ -- 0
+skip$ -- 468
+stack$ -- 0
+substring$ -- 632
+swap$ -- 664
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 180
+warning$ -- 1
+while$ -- 98
+width$ -- 0
+write$ -- 277
+(There was 1 warning)
